@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 777,
+  "ms": 498,
   "error": ""
  },
  {
@@ -14,7 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 951,
+  "ms": 624,
   "error": ""
  },
  {
@@ -23,52 +23,16 @@
   "ok": true,
   "items": 40,
   "kept": 9,
-  "ms": 312,
+  "ms": 377,
   "error": ""
  },
  {
   "id": "mit",
   "name": "意大利交通部 罢工日历",
   "ok": true,
-  "items": 29,
+  "items": 26,
   "kept": 11,
-  "ms": 1185,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1394,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 36,
-  "kept": 5,
-  "ms": 222,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 59,
-  "kept": 2,
-  "ms": 1452,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 25,
-  "kept": 2,
-  "ms": 1455,
+  "ms": 924,
   "error": ""
  },
  {
@@ -77,7 +41,25 @@
   "ok": true,
   "items": 30,
   "kept": 0,
-  "ms": 1463,
+  "ms": 935,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 59,
+  "kept": 2,
+  "ms": 945,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 25,
+  "kept": 2,
+  "ms": 947,
   "error": ""
  },
  {
@@ -86,7 +68,25 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 140,
+  "ms": 58,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 42,
+  "kept": 4,
+  "ms": 147,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 1182,
   "error": ""
  },
  {
@@ -95,7 +95,7 @@
   "ok": true,
   "items": 100,
   "kept": 6,
-  "ms": 1632,
+  "ms": 1352,
   "error": ""
  },
  {
@@ -103,17 +103,17 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 3,
-  "ms": 262,
+  "kept": 4,
+  "ms": 298,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "franceinfo",
+  "name": "franceinfo",
   "ok": true,
-  "items": 43,
-  "kept": 3,
-  "ms": 692,
+  "items": 36,
+  "kept": 5,
+  "ms": 492,
   "error": ""
  },
  {
@@ -122,16 +122,7 @@
   "ok": true,
   "items": 100,
   "kept": 10,
-  "ms": 1331,
-  "error": ""
- },
- {
-  "id": "cgt",
-  "name": "CGT 全国工会",
-  "ok": true,
-  "items": 10,
-  "kept": 2,
-  "ms": 1746,
+  "ms": 801,
   "error": ""
  },
  {
@@ -140,16 +131,25 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 3407,
+  "ms": 539,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 145,
-  "kept": 18,
-  "ms": 3567,
+  "items": 142,
+  "kept": 17,
+  "ms": 605,
+  "error": ""
+ },
+ {
+  "id": "cgt",
+  "name": "CGT 全国工会",
+  "ok": true,
+  "items": 10,
+  "kept": 2,
+  "ms": 1109,
   "error": ""
  }
 ]
