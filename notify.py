@@ -44,8 +44,20 @@ def telegram(token: str, chat_id: str, text: str) -> bool:
 
 def serverchan(key: str, title: str, body: str) -> bool:
     payload = urllib.parse.urlencode({"title": title, "desp": body}).encode()
-    return _post(f"https://sctapi.ftqq.com/{key}.send", payload,
-                 {"Content-Type": "application/x-www-form-urlencoded"})
+    req = urllib.request.Request(
+        f"https://sctapi.ftqq.com/{key}.send", data=payload,
+        headers={"User-Agent": UA,
+                 "Content-Type": "application/x-www-form-urlencoded"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.loads(r.read().decode("utf-8", "replace") or "{}")
+            if data.get("code") != 0:
+                print(f"[notify] serverchan 返回错误: {data}")
+                return False
+            return True
+    except Exception as exc:  # noqa: BLE001
+        print(f"[notify] serverchan 失败: {type(exc).__name__}: {exc}")
+        return False
 
 
 def webhook(url: str, title: str, body: str) -> bool:
