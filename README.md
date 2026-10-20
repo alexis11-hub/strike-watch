@@ -5,6 +5,21 @@
 - 本地：蒙彼利埃、米兰、佛罗伦萨、里米尼、圣马力诺
 - 全国：法国全国、意大利全国
 
+## 手机上用（不依赖电脑）
+
+| 用途 | 地址 |
+| --- | --- |
+| 手机看板（随时打开，自动更新） | <https://alexis11-hub.github.io/strike-watch/> |
+| 手机推送（订阅一次，之后自动收） | <https://ntfy.sh/lge-strike-7f2a9c41d5> |
+| 运行记录（每 15 分钟一次） | <https://github.com/alexis11-hub/strike-watch/actions> |
+
+推送怎么开：手机浏览器打开上面那个 ntfy 链接 → 点 **Subscribe** → 允许通知；
+或装 ntfy App（iOS / Android）→ 添加主题 `lge-strike-7f2a9c41d5`。
+
+- 抓取跑在 GitHub 的服务器上，电脑关机也照常工作
+- 只有「7 天内开始的官方交通罢工」或「6 小时内的高危事件」才推送，不会刷屏
+- 中国大陆网络可能打不开 ntfy.sh；要微信推送就填仓库 Secret `SERVERCHAN_KEY`（<https://sct.ftqq.com> 扫码拿 SendKey）
+
 ## 怎么用
 
 双击 **`run.bat`**。
