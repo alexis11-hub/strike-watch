@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:26",
+ "updated": "2026-10-20T20:04",
  "events": [
   {
    "id": "bcc3de0163a1e15b",
@@ -22,7 +22,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "f49d1ea9a2f4a65f",
@@ -45,7 +45,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "638b3e194cc92b78",
@@ -68,7 +68,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "7fd6a0f609521d06",
@@ -91,7 +91,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "2fee0f283cc594db",
@@ -114,7 +114,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -137,7 +137,97 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "b6209704ae5507f4",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "REPLAY Violences du 17 octobre : premier couvre-feu en Occitanie, la mesure prolongée à Paris, Nice et Lyon… les dernières infos",
+   "summary": "Après les violences extrêmes qui ont frappé le pays en marge des manifestations du 17 octobre, de premiers couvre-feux ont été décrétés dans certaines villes lundi soir. Ce mardi 20 octobre, le gouvernement poursuit...",
+   "link": "https://www.midilibre.fr/2026/10/20/direct-violences-du-17-octobre-de-nouveaux-couvre-feux-seront-decides-ce-soir-annonce-sebastien-lecornu-13611220.php",
+   "published": "2026-10-20T21:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "fd985372e7b6b62b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences du 17 octobre : boutefeu ou bouc émissaire, La France insoumise reste au cœur des polémiques",
+   "summary": "Le mouvement de Jean-Luc Mélenchon a été accusé de favoriser les débordements et les violences. Un débat relancé depuis les manifestations de samedi, et par la publication, ce mardi 20 octobre, d’une enquête de...",
+   "link": "https://www.midilibre.fr/2026/10/20/violences-du-17-octobre-boutefeu-ou-bouc-emissaire-la-france-insoumise-reste-au-coeur-des-polemiques-13611951.php",
+   "published": "2026-10-20T21:35",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "9eb5bb290f4b3d7a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Da Ghali a Fedez, i rapper si schierano sugli scontri in piazza",
+   "summary": "Marracash: \"Mai inneggiato alla violenza. Avere i soldi non mi impedisce di lottare\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/marracash-e-le-proteste-con-le-buone-non-cambi-le-cose-e-solo-linizio_4f65e268-393f-48f7-b0f0-40a1218491d5.html",
+   "published": "2026-10-20T21:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "33b6cfd5ced1c4d2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"On a besoin de sang après les exactions\" : au tribunal de Paris, des comparutions immédiates sous tension et des avocats en colère après les violences du 17 o…",
+   "summary": "Depuis lundi, les audiences se succèdent après les centaines de gardes à vue du week-end. Plusieurs prévenus ont été condamnés à des peines de prison ferme ou placés en détention provisoire, tandis que des irrégularités de procédure ont conduit à l'abandon de certains dossiers.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-besoin-de-sang-apres-les-exactions-au-tribunal-de-paris-des-comparutions-immediates-sous-tension-et-des-avocats-en-colere-apres-les-violences-du-17-octobre_8246059.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-20T21:11",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "4ceb60bac5d348f1",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontri al corteo a Bologna, convalidati gli arresti dei quattro minori",
+   "summary": "Per tre disposta permanenza in casa, prescrizioni per 17enne in comunità",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/scontri-al-corteo-a-bologna-convalidati-gli-arresti-dei-quattro-minori_23e5c230-41cf-4595-b901-3092c3d67ac9.html",
+   "published": "2026-10-20T20:36",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "afc02d4dbb9b95c7",
@@ -151,24 +241,6 @@
    "summary": "Après les violences extrêmes qui ont frappé le pays en marge des manifestations du 17 octobre, de premiers couvre-feux ont été décrétés dans certaines villes lundi soir. Ce mardi 20 octobre, le gouvernement poursuit...",
    "link": "https://www.midilibre.fr/2026/10/20/direct-violences-du-17-octobre-de-nouveaux-couvre-feux-seront-decides-ce-soir-annonce-sebastien-lecornu-13611220.php",
    "published": "2026-10-20T18:16",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
-  },
-  {
-   "id": "5bcf25310b78ac87",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Dispositif policier \"massif\", interdiction de manifestations : le gouvernement prépare la mobilisation du 24 octobre",
-   "summary": "Sébastien Lecornu a promis un dispositif policier \"massif\" pour la prochaine journée de mobilisation, ce mardi. Le gouvernement est sous le feu des critiques après les violences et pillages du week-end dernier.",
-   "link": "https://www.ici.fr/infos/politique/dispositif-policier-massif-interdiction-de-manifestations-le-gouvernement-prepare-la-mobilisation-du-24-octobre-8163998?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-20T17:50",
    "dates": "",
    "national": false,
    "soon": false,
@@ -191,6 +263,24 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "5bcf25310b78ac87",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Dispositif policier \"massif\", interdiction de manifestations : le gouvernement prépare la mobilisation du 24 octobre",
+   "summary": "Sébastien Lecornu a promis un dispositif policier \"massif\" pour la prochaine journée de mobilisation, ce mardi. Le gouvernement est sous le feu des critiques après les violences et pillages du week-end dernier.",
+   "link": "https://www.ici.fr/infos/politique/dispositif-policier-massif-interdiction-de-manifestations-le-gouvernement-prepare-la-mobilisation-du-24-octobre-8163998?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-20T17:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-20T16:26",
    "last_seen": "2026-10-20T16:26"
   },
   {
@@ -209,7 +299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "51c2cfcf04e31fc5",
@@ -227,7 +317,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "d72e67b589dc6899",
@@ -245,7 +335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "28f2805d13243382",
@@ -301,7 +391,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "10408f6438597ab3",
@@ -337,7 +427,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "3bcb0aa9dc14382c",
@@ -445,7 +535,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "128d1ff9fb1f43ba",
@@ -499,7 +589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "ff1dded4a7df4310",
@@ -535,7 +625,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "3362e27328085e86",
@@ -589,7 +679,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "4c980b76a5dade2b",
@@ -607,7 +697,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "0b6f1aa33a83e212",
@@ -661,7 +751,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "9416da913122ef06",
@@ -679,7 +769,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "347b339822522b9b",
@@ -697,7 +787,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "636655518eea86aa",
@@ -715,7 +805,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "127e8465d493bfe5",
@@ -788,7 +878,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "059da7d203259a89",
@@ -807,7 +897,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -826,7 +916,133 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "208a52ff23ad172e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 17 octobre : des CRS ont-ils été utilisés pour protéger les boutiques de chocolats des frères de Brigitte Macron ?",
+   "summary": "Selon les informations du Canard Enchaîné, des forces de l’ordre ont été \"spécialement dépêchées\" pour protéger des boutiques des frères à Brigitte Macron au Touquet et à Amiens. Explications.",
+   "link": "https://www.midilibre.fr/2026/10/20/mobilisation-du-17-octobre-des-crs-ont-ils-ete-utilises-pour-proteger-les-boutiques-de-chocolats-des-freres-de-brigitte-macron-13612225.php",
+   "published": "2026-10-20T21:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "4704b928ea23de5b",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Devastazioni, stupri e cortei fantasma, fake e falsi allarmi",
+   "summary": "Dal Veneto a Ravenna la psicosi sulle chat. A Cremona città blindata, ma il corteo non c'è",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/devastazioni-stupri-e-cortei-fantasma-fake-e-falsi-allarmi_8681580e-40c2-4f4b-991f-f1452d7b18ca.html",
+   "published": "2026-10-20T21:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "3de6fbe3e62bf9e8",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Governo promette un miliardo ai camionisti, ma i blocchi continuano",
+   "summary": "Salvini: \"Subito 480 milioni\" Sicilia revoca fermo. Non recedono Campania, Puglia, Calabria",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
+   "published": "2026-10-20T20:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-20T20:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "0364f8fc2efc2307",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"La montée du 17 octobre montre l'ampleur de la colère et donc partout où les conditions seront réunies, la CGT en sera\"",
+   "summary": "Résumé de la vidéo [01:10] Le projet de budget de l'État est « catastrophique » pour les services publics, les universités, et les plus précaires \"Nous serons au rendez-vous mardi 13 octobre pour protéger la mobilisation des lycéen·nes\" [02:24] La mobilisation de la jeunesse et Parcoursup : Analyse…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-montee-du-17-octobre-montre-lampleur-de-la-colere-et-donc-partout-ou-les-conditions-seront",
+   "published": "2026-10-20T20:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "c7f569e140bf71af",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sébastien Lecornu promet un dispositif de sécurité \"massif\" pour la nouvelle journée de mobilisation prévue samedi 24 octobre",
+   "summary": "\"La doctrine sera revue en termes de moyens, en volume bien sûr, en termes de forces engagées et en termes de réactivité, de mobilité\", a déclaré le Premier ministre mardi, lors des questions au gouvernement.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-premier-ministre-promet-un-dispositif-de-securite-massif-pour-la-nouvelle-journee-de-mobilisation-prevue-samedi_8246071.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-20T19:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "3a7fc7b1cea4445d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; Sébastien Lecornu recevra les syndicats mercredi et les partis politiques jeudi",
+   "summary": "A Paris, Lyon, Bordeaux et Nice, des couvre-feux ont été annoncés dans certains quartiers. Le premier secrétaire du Parti socialiste, Olivier Faure, participera jeudi après-midi à la réunion organisée à Matignon par le premier ministre.",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-sebastien-lecornu-recevra-les-syndicats-mercredi-et-les-partis-politiques-jeudi_6795855_3224.html",
+   "published": "2026-10-20T19:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "5fd82e9b52f4cb00",
@@ -844,7 +1060,43 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "0f9a29b9b2e77429",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Blocchi e proteste, anche la pasta inizia a scarseggiare. Produttori in attesa che arrivi la semola da Puglia e Sicilia: “Il governo trovi ora una soluzione”",
+   "summary": "Il pastificio La Molisana di Campobasso ha ridotto drasticamente l’attività, Cosimo Rummo , amministratore dell’omonimo pastificio di Benevento aveva parlato già una settimana fa di “conseguenze non più sostenibili” e oggi lo stabilimento è fermo. Anche Garofalo ha fermato la produzione sabato, 18…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/20/blocco-autotrasportatori-pastifici-fermi-semola-notizie/8544488/",
+   "published": "2026-10-20T18:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "a7e6c85f9015aa3a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Colère des lycéens : à Nancy, même durant les vacances, des étudiants mobilisés \"pour que le mouvement ne s'éteigne pas\"",
+   "summary": "Huit campus - tous au sein du Grand Nancy - ont été bloqués par des étudiants durant la journée du mardi 20 octobre au sein de l'Université de Lorraine. L'objectif, c'est d'exprimer sa solidarité avec les lycéens, même si beaucoup s'interrogent sur l'avenir du mouvement.",
+   "link": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/colere-des-lyceens-a-nancy-meme-durant-les-conges-des-etudiants-mobilises-pour-que-le-mouvement-ne-s-eteigne-pas-6303650?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-20T18:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "81606f7256e903a2",
@@ -865,6 +1117,42 @@
    "last_seen": "2026-10-20T16:26"
   },
   {
+   "id": "e164c65fe1847a20",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Matera, la protesta degli studenti da anni senza una sede per il loro liceo: in corteo fino alla Provincia",
+   "summary": "“Diritto a restare, diritto a studiare”. Dietro questo slogan, in queste ore, centinaia di studenti dei licei classico e artistico “Emanuele Duni” di Matera sono scesi in piazza per manifestare in maniera pacifica i disagi che vivono da anni nella loro scuola. Una storia come tante altre in Italia…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/20/liceo-duni-matera-studenti-protesta-notizie/8544806/",
+   "published": "2026-10-20T17:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "8335228935cc670c",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Avellino, assenza ingiustificata e sanzioni per gli studenti che hanno scioperato. Dopo le polemiche il preside fa marcia indietro",
+   "summary": "Gli studenti vanno in piazza a scioperare, il preside minaccia sanzioni disciplinari e chiede ai genitori di venire di persona a dichiarare che l’assenza era “ingiustificata”. Poi, dopo le polemiche, è costretto al passo indietro. Il caso è scoppiato nei giorni scorsi nel Polo liceale di Ariano Irp…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/20/sciopero-studenti-avellino-sanzioni-notizie/8544013/",
+   "published": "2026-10-20T17:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
    "id": "7c6415b67b669ed5",
    "zone": "montpellier",
    "affects": [],
@@ -880,7 +1168,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "23c82fd0170a5793",
@@ -898,43 +1186,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-20T16:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
-  },
-  {
-   "id": "0364f8fc2efc2307",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"La montée du 17 octobre montre l'ampleur de la colère et donc partout où les conditions seront réunies, la CGT en sera\"",
-   "summary": "Résumé de la vidéo [01:10] Le projet de budget de l'État est « catastrophique » pour les services publics, les universités, et les plus précaires \"Nous serons au rendez-vous mardi 13 octobre pour protéger la mobilisation des lycéen·nes\" [02:24] La mobilisation de la jeunesse et Parcoursup : Analyse…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-montee-du-17-octobre-montre-lampleur-de-la-colere-et-donc-partout-ou-les-conditions-seront",
-   "published": "2026-10-20T16:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "edf544a67da04363",
@@ -955,24 +1207,6 @@
    "last_seen": "2026-10-20T16:26"
   },
   {
-   "id": "023791a41796c4f0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Laurent Nuñez demande aux préfets d'interdire les manifestations prévues samedi \"lorsque le dialogue avec les organisateurs n'aura pas permis de créer les cond…",
-   "summary": "Le ministre de l'Intérieur invoque \"le contexte national\" et appelle les préfets à \"tenir compte des circonstances locales\"",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-demande-aux-prefets-d-interdire-les-manifestations-prevues-samedi-lorsque-le-dialogue-avec-les-organisateurs-n-aura-pas-permis-de-creer-les-conditions-de-securite-necessaires_8245669.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-20T15:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
-  },
-  {
    "id": "39cb53d35bce5f49",
    "zone": "it_national",
    "affects": [],
@@ -983,6 +1217,24 @@
    "title": "Blocco dei tir, in Campania è corsa alle scorte nei supermercati",
    "summary": "Frigoriferi spenti, mancano i rifornimenti del fresco. Disagi ai distributori di carburante",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/blocco-dei-tir-in-campania-e-corsa-alle-scorte-nei-supermercati_ca82247b-aa03-4eb6-8af7-0684f3a7ae4b.html",
+   "published": "2026-10-20T15:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T16:26",
+   "last_seen": "2026-10-20T20:04"
+  },
+  {
+   "id": "023791a41796c4f0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Laurent Nuñez demande aux préfets d'interdire les manifestations prévues samedi \"lorsque le dialogue avec les organisateurs n'aura pas permis de créer les cond…",
+   "summary": "Le ministre de l'Intérieur invoque \"le contexte national\" et appelle les préfets à \"tenir compte des circonstances locales\"",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-demande-aux-prefets-d-interdire-les-manifestations-prevues-samedi-lorsque-le-dialogue-avec-les-organisateurs-n-aura-pas-permis-de-creer-les-conditions-de-securite-necessaires_8245669.html#xtor=RSS-3-[lestitres]",
    "published": "2026-10-20T15:40",
    "dates": "",
    "national": true,
@@ -1024,7 +1276,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "2534764e03c6f073",
@@ -1042,7 +1294,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "cc2ab8f29751ef44",
@@ -1114,7 +1366,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "90b90e8390a7428d",
@@ -1132,7 +1384,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "04ea53b8fb6a1c5f",
@@ -1150,7 +1402,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "bcfd6773c6d5a150",
@@ -1168,7 +1420,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "220724ce48252bbe",
@@ -1186,7 +1438,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "f1ca4613dd871b73",
@@ -1204,7 +1456,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "73b661e21bb39757",
@@ -1258,7 +1510,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "5c03f207697354b4",
@@ -1276,7 +1528,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "e43a53e0242a21e4",
@@ -1312,7 +1564,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "eb9637a11d997dc1",
@@ -1330,7 +1582,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "c337f301fa147dc2",
@@ -1348,7 +1600,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "0e3be7d7181ea434",
@@ -1456,7 +1708,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "c6d27b64491304a2",
@@ -1474,7 +1726,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "60f2bf8bc000ae49",
@@ -1492,7 +1744,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "815bdf2bb0a97d1f",
@@ -1510,7 +1762,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "c174b5c571b2a508",
@@ -1528,7 +1780,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "b711b31c57b88d8f",
@@ -1546,7 +1798,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "56909a81f6848ee3",
@@ -1564,7 +1816,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "e08dde2ccb38e332",
@@ -1582,7 +1834,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "f872b35953552162",
@@ -1600,7 +1852,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "a90ac13dcdf40878",
@@ -1618,7 +1870,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "4b5be07ffc1cda4c",
@@ -1762,7 +2014,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "5800afb5f2eec042",
@@ -1816,7 +2068,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-20T20:04"
   }
  ]
 }
