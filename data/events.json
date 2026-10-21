@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:32",
+ "updated": "2026-10-21T06:34",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -22,7 +22,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T01:32",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "bcc3de0163a1e15b",
@@ -45,7 +45,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "f49d1ea9a2f4a65f",
@@ -68,7 +68,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "638b3e194cc92b78",
@@ -91,7 +91,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "7fd6a0f609521d06",
@@ -114,7 +114,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "2fee0f283cc594db",
@@ -137,7 +137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -160,7 +160,169 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "ab0772b269422925",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "L'état d'urgence peut-il vraiment permettre d'endiguer les violences urbaines, après la mobilisation du 17 octobre ?",
+   "summary": "Créé en 1955 et activé neuf fois, ce régime exceptionnel permet d'étendre le pouvoir des autorités administratives. Plusieurs personnalités politiques ont réclamé sa mise en place après les violences commises ce week-end.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-etat-d-urgence-peut-il-vraiment-permettre-d-endiguer-les-violences-urbaines-apres-la-mobilisation-du-17-octobre_8243821.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-21T06:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "8bfa75a1e09c7b89",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations du 17 octobre : entre LFI et le gouvernement, un face-à-face de plus en plus virulent qui resserre les rangs à gauche",
+   "summary": "L’exécutif, comme les partis du bloc central, de droite et d’extrême droite, accusent les « insoumis » d’attiser les violences. Le président du Sénat, Gérard Larcher (Les Républicains), a estimé mardi que la question de l’interdiction de La France insoumise « peut être posée ».",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html",
+   "published": "2026-10-21T05:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "bef2918839351b4a",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Alta tensione nelle scuole. La protesta corre in chat. E ’spuntano’ le divise",
+   "summary": "di Luca Ravaglia L’allarme è stato immediato, perché mentre a livello nazionale dilaga la rabbia distruttiva di chi per far sentire la sua voce sceglie di mettere a ferro e fuoco strade e negozi, il raid degli studenti dell’istituto professionale Comandini che lunedì mattina avevano rubato fumogeni…",
+   "link": "https://www.ilrestodelcarlino.it/cesena/cronaca/alta-tensione-nelle-scuole-la-b5fd7447",
+   "published": "2026-10-21T05:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "488e4df67bc80254",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Occupazioni effetto domino. Blitz nella notte al liceo artistico. Aule devastate, lezioni sospese",
+   "summary": "La porta che non può non aprirsi per la prima campanella, una cinquantina di ragazzi con il volto coperto che si riversano nell’edificio e che stroncano sul nascere ogni possibilità di trattativa. È scattata così l’ occupazione della sede di piazza Frescobaldi dell’Iis Machiavelli. È l’immagine for…",
+   "link": "https://www.lanazione.it/firenze/cronaca/occupazioni-effetto-domino-blitz-nella-e5ec141d",
+   "published": "2026-10-21T05:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "97fa983d26d5e3e1",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "L’export flette, pesa il crollo negli Stati Uniti e in Cina",
+   "summary": "Lo scenario globale legato agli eventi internazionali è ancora caratterizzato da forti elementi di instabilità, ma il settore calzaturiero italiano continua a dimostrare una buona presenza e un buon presidio dei mercati internazionali. A livello nazionale, il primo semestre si chiude con un fattura…",
+   "link": "https://www.ilrestodelcarlino.it/speciali/eventi-e-fiere/lexport-flette-pesa-il-crollo-1b90b11a",
+   "published": "2026-10-21T05:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "b11c06c3dd1b94b6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"Timori per le aziende e i loro lavoratori\"",
+   "summary": "Sale la preoccupazione tra le imprese del centro storico per le possibili manifestazioni. A dirlo è la Confcommercio fiorentina , che sta raccogliendo i timori delle griffe di via Tornabuoni e via Strozzi, ma anche degli altri esercizi commerciali del centro città, in vista di eventuali manifestazi…",
+   "link": "https://www.lanazione.it/firenze/cronaca/timori-per-le-aziende-e-2572e74a",
+   "published": "2026-10-21T05:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "713bb86624d6871a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Protesta giovani: è allerta. L’annuncio corre sui social: \"Sabato tutti in piazza\"",
+   "summary": "di Pietro Mecarozzi La rivolta dei giovani corre veloce sui social. E il gruppo Movimento 17 ottobre, comparso recentemente sulle principali piattaforme, ha pubblicato il suo manifesto, intestandosi un ruolo nelle proteste che hanno visto migliaia di giovani in piazza proprio lo scorso 17 ottobre e…",
+   "link": "https://www.lanazione.it/firenze/cronaca/protesta-giovani-e-allerta-lannuncio-5134ad9f",
+   "published": "2026-10-21T04:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "d2520d6604b8e59e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Adesca una minore sui social . Finisce in carcere un ventenne che la ricattava con finte foto hard",
+   "summary": "E’ finito in manette, arrestato dai poliziotti in piazza sotto gli occhi dei passanti, poi dritto nel carcere di “San Giorgio“ con le pesanti accuse di adescamento di minorenni e tentata violenza , ma rischia anche quella di tentata estorsione sessuale e altro ancora. Le indagini non sono infatti a…",
+   "link": "https://www.lanazione.it/lucca/cronaca/adesca-una-minore-sui-social-7aba1746",
+   "published": "2026-10-21T04:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "37e3d1511dc4bf44",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Rivolta al mercato San Decenzio: \"Ignorati: ci faremo sentire\". Nuova protesta il 27 ottobre",
+   "summary": "La protesta è dilagata: ieri, con cartelli e magafono in mano, insieme agli ambulanti del mercato di San Decenzio si sono trovati ristoratori, artigiani, operatori culturali e commercianti con i locali sparsi ovunque in città, dal centro storico a Baia Flaminia passando per Pantano. Tutti gli opera…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/rivolta-al-mercato-san-decenzio-54af5ed7",
+   "published": "2026-10-21T04:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "973233fe549cf390",
@@ -214,7 +376,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "b6209704ae5507f4",
@@ -232,7 +394,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "fd985372e7b6b62b",
@@ -250,7 +412,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "9eb5bb290f4b3d7a",
@@ -268,7 +430,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "4ceb60bac5d348f1",
@@ -286,7 +448,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "afc02d4dbb9b95c7",
@@ -394,7 +556,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "28f2805d13243382",
@@ -648,7 +810,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "ff1dded4a7df4310",
@@ -684,7 +846,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "3362e27328085e86",
@@ -738,7 +900,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "4c980b76a5dade2b",
@@ -756,7 +918,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "0b6f1aa33a83e212",
@@ -810,7 +972,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "9416da913122ef06",
@@ -828,7 +990,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "347b339822522b9b",
@@ -937,7 +1099,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "059da7d203259a89",
@@ -956,7 +1118,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -975,7 +1137,43 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "fc916954e5469310",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 17 octobre : la coordination des gilets jaunes annonce avoir déposé une déclaration pour manifester à Paris samedi",
+   "summary": "Le Premier ministre doit évoquer avec les organisations syndicales la sécurisation des cortèges et les réponses à apporter aux lycéens, mercredi.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-21T08:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "b47ac9df5b015a8a",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un étudiant, favorable au déblocage de l’Université Paul-Valéry, pris dans la tourmente après avoir rendu son opinion publique sous une forme contestée",
+   "summary": "À l’université Paul-Valéry de Montpellier, le syndicat Scum a publié ce lundi 19 octobre le courriel d’un étudiant opposé au blocus de l’établissement. L’initiative du jeune étudiant l’a plongé au coeur de la polémique.",
+   "link": "https://www.midilibre.fr/2026/10/21/un-etudiant-favorable-au-deblocage-de-luniversite-paul-valery-pris-dans-la-tourmente-apres-avoir-rendu-son-opinion-publique-sous-une-forme-contestee-13611757.php",
+   "published": "2026-10-21T07:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -988,12 +1186,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-21T01:32",
+   "published": "2026-10-21T06:34",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "0364f8fc2efc2307",
@@ -1006,12 +1204,192 @@
    "title": "\"La montée du 17 octobre montre l'ampleur de la colère et donc partout où les conditions seront réunies, la CGT en sera\"",
    "summary": "Résumé de la vidéo [01:10] Le projet de budget de l'État est « catastrophique » pour les services publics, les universités, et les plus précaires \"Nous serons au rendez-vous mardi 13 octobre pour protéger la mobilisation des lycéen·nes\" [02:24] La mobilisation de la jeunesse et Parcoursup : Analyse…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-montee-du-17-octobre-montre-lampleur-de-la-colere-et-donc-partout-ou-les-conditions-seront",
-   "published": "2026-10-21T01:32",
+   "published": "2026-10-21T06:34",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "269f8a13c950ed5d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Carcere Arezzo: sopralluogo del Garante regionale con gli assessori Boni e Nardini, «Subito lo sblocco dei lavori. Inaccettabile un’area incompiuta mentre le c…",
+   "summary": "Arezzo, 21 ottobre 2026 – Si è tenuta martedì 20 ottobre, la visita istituzionale presso la Casa Circondariale di Arezzo, guidata dal Garante regionale dei diritti dei detenuti della Toscana, Giuseppe Fanfani , insieme al Garante comunale Sandra Rogialli e agli assessori regionali Filippo Boni e Al…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/carcere-arezzo-sopralluogo-del-garante-regionale-con-gli-assessori-boni-e-nardini-subito-lo-sblocco-dei-lavori-inaccettabile-unarea-incompiuta-mentre-le-carceri-scoppiano-lj9g8gxt",
+   "published": "2026-10-21T06:25",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "2f04771a092b2f8b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le dispositif de maintien de l'ordre déployé le 17 octobre était-il moins important que lors des dernières grandes manifestations ?",
+   "summary": "Près de 60 000 membres des forces de l'ordre ont été mobilisés samedi en France. C'est 20 000 de moins que lors du mouvement \"Bloquons tout\" de septembre 2025. Mais six fois plus que lors de la première manifestation contre la réforme des retraites de 2023.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-dispositif-de-maintien-de-l-ordre-deploye-le-17-octobre-etait-il-moins-important-que-lors-des-dernieres-grandes-manifestations_8243998.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-21T06:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "37f92affd9fe3625",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sos alloggi, Unibo incontra gli studenti",
+   "summary": "Emergenza abitativa, carovita e diritto allo studio. Per questi motivi Cambiare Rotta, collettivo universitario, da giorni ha piantato le tende in Rettorato per protestare contro \"la situazione gravissima\" che studenti e studentesse devono affrontare, \"con più di quattromila studenti in tutta la re…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/sos-alloggi-unibo-incontra-gli-44edf832",
+   "published": "2026-10-21T05:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "73d791b2a98478f0",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La sindaca di Scandicci: \"Apriamo un dialogo. Vi invito in Comune\"",
+   "summary": "Dopo l’ occupazione , ecco la prima risposta concreta alle richieste dei ragazzi della Sassetti-Peruzzi . Ed è un confronto con le istituzioni. La sindaca di Scandicci, Claudia Sereni , ha fatto visita ieri pomeriggio agli studenti dell’istituto di via Antonio Ciseri, per ascoltare le ragioni della…",
+   "link": "https://www.lanazione.it/firenze/cronaca/la-sindaca-di-scandicci-apriamo-9916d6bc",
+   "published": "2026-10-21T05:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "37b4ab9af160e28d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Studenti incappucciati. Machiavelli in ’ostaggio’. E la preside denuncia",
+   "summary": "Il portone di legno scuro del liceo Machiavelli , nel cuore dell’Oltrarno, è serrato. Sono le otto di un martedì mattina di ottobre. Dietro quella porta ci sono gli studenti, hanno deciso di fermarsi. La protesta , a effetto domino, si è propagata ad altre dieci scuole superiori fiorentine. Tutte i…",
+   "link": "https://www.lanazione.it/firenze/cronaca/studenti-incappucciati-machiavelli-in-ostaggio-81b38f68",
+   "published": "2026-10-21T05:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "69f2dedc61038d12",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il negoziatore e gli operai: \"Trattativa lenta e difficile, così sono scesi dalla gru\"",
+   "summary": "\"È fondamentale mantenere sempre un contatto e questo, nella fase iniziale, rappresenta l’aspetto più difficile. È come avere tante chiavi e capire qual è la più giusta da utilizzare\". Il 47enne S. L. è il negoziatore della Polizia di Stato che lunedì ha guidato la lunga trattativa con i tre operai…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/il-negoziatore-e-gli-operai-d44f0181",
+   "published": "2026-10-21T05:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "d0f5e697ee30853d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Trapani chiede carburanti a prezzo calmierato",
+   "summary": "\"La mobilitazione promossa da Anpas e dalle realtà della Pubblica Assistenza della zona pisana per denunciare l’impatto insostenibile dei costi dell’energia e dei carburanti trova il nostro pieno supporto istituzionale\", afferma il consigliere regionale del Partito Democratico Matteo Trapani. \"Come…",
+   "link": "https://www.lanazione.it/pisa/cronaca/trapani-chiede-carburanti-a-prezzo-ef177d7e",
+   "published": "2026-10-21T04:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "0079f49025df07a9",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Industriali, nulla cambia: \"Pazienza fino a Natale\"",
+   "summary": "A dieci giorni dalla protesta degli studenti dell’Iti di Ascoli , la convivenza tra lezioni e lavori di adeguamento sismico continua a essere complicata. La mobilitazione dello scorso 10 ottobre, accompagnata da cartelli e richieste di maggiore sicurezza , aveva riportato al centro dell’attenzione…",
+   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/industriali-nulla-cambia-pazienza-fino-90386b54",
+   "published": "2026-10-21T04:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "8fa633f377a7f650",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sogliano e Comuni montani, fino a 15mila euro per chi crea lavoro",
+   "summary": "Fino a 15mila euro di contributo per ogni nuova assunzione. Il Comune di Sogliano esprime soddisfazione per il nuovo bando della Regione Emilia-Romagna dedicato al sostegno delle assunzioni nei territori montani e nelle aree interne. La misura mette a disposizione complessivamente 2 milioni di euro…",
+   "link": "https://www.ilrestodelcarlino.it/cesena/cronaca/sogliano-e-comuni-montani-fino-1b44d98f",
+   "published": "2026-10-21T04:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "6d70e276f8399297",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La difesa non violenta: \"Soldi per il riarmo ma non per la sanità\"",
+   "summary": "\"Apriamo le porte ai migranti . Chiudiamo le porte alle armi!\". È questo il messaggio che lunedì ha riempito piazza Mentana, in occasione del duecentesimo presidio ‘ Difesa civile non armata e nonviolenta, obiezione alla guerra, economia di Pace !’ organizzato dalla Rete spezzina Pace e Disarmo , c…",
+   "link": "https://www.lanazione.it/la-spezia/cronaca/la-difesa-non-violenta-soldi-89bbfe3c",
+   "published": "2026-10-21T04:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "a1fa02f4a36cd75a",
@@ -1119,7 +1497,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "428db1b65d08901a",
@@ -1130,14 +1508,14 @@
    "kind": "protest",
    "severity": "medium",
    "title": "VIDÉO - Pesticides : une manifestation devant le Parlement européen de Strasbourg contre l'Omnibus X, \"c'est scandaleux\"",
-   "summary": "Une soixantaine de victimes de pesticides, de militants et élus se sont mobilisés ce mardi devant le Parlement européen contre \"les pesticides à vie\". L'Omnibus X prévoit de faciliter la mise sur le marché des phytosanitaires.",
+   "summary": "Une soixantaine de victimes, de militants et d'élus se sont mobilisés ce mardi 20 octobre devant le Parlement européen à Strasbourg contre \"les pesticides à vie\". L'Omnibus X prévoit de faciliter la mise sur le marché des phytosanitaires.",
    "link": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/video-pesticides-une-manifestation-devant-le-parlement-europeen-de-strasbourg-contre-l-omnibus-x-c-est-scandaleux-3418906?at_medium=lien_RSS&at_locale=56",
    "published": "2026-10-20T21:18",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T23:10",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "4704b928ea23de5b",
@@ -1155,7 +1533,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "3de6fbe3e62bf9e8",
@@ -1173,7 +1551,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "18a252ed08c0440c",
@@ -1191,7 +1569,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T23:10",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "c7f569e140bf71af",
@@ -1209,7 +1587,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "3a7fc7b1cea4445d",
@@ -1248,24 +1626,6 @@
    "last_seen": "2026-10-21T01:32"
   },
   {
-   "id": "a7e6c85f9015aa3a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Colère des lycéens : à Nancy, même durant les vacances, des étudiants mobilisés \"pour que le mouvement ne s'éteigne pas\"",
-   "summary": "Huit campus - tous au sein du Grand Nancy - ont été bloqués par des étudiants durant la journée du mardi 20 octobre au sein de l'Université de Lorraine. L'objectif, c'est d'exprimer sa solidarité avec les lycéens, même si beaucoup s'interrogent sur l'avenir du mouvement.",
-   "link": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/colere-des-lyceens-a-nancy-meme-durant-les-conges-des-etudiants-mobilises-pour-que-le-mouvement-ne-s-eteigne-pas-6303650?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-20T18:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
-  },
-  {
    "id": "0f9a29b9b2e77429",
    "zone": "it_national",
    "affects": [],
@@ -1276,6 +1636,24 @@
    "title": "Blocchi e proteste, anche la pasta inizia a scarseggiare. Produttori in attesa che arrivi la semola da Puglia e Sicilia: “Il governo trovi ora una soluzione”",
    "summary": "Il pastificio La Molisana di Campobasso ha ridotto drasticamente l’attività, Cosimo Rummo , amministratore dell’omonimo pastificio di Benevento aveva parlato già una settimana fa di “conseguenze non più sostenibili” e oggi lo stabilimento è fermo. Anche Garofalo ha fermato la produzione sabato, 18…",
    "link": "https://www.ilfattoquotidiano.it/2026/10/20/blocco-autotrasportatori-pastifici-fermi-semola-notizie/8544488/",
+   "published": "2026-10-20T18:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T20:04",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
+   "id": "a7e6c85f9015aa3a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Colère des lycéens : à Nancy, même durant les vacances, des étudiants mobilisés \"pour que le mouvement ne s'éteigne pas\"",
+   "summary": "Huit campus - tous au sein du Grand Nancy - ont été bloqués par des étudiants durant la journée du mardi 20 octobre au sein de l'Université de Lorraine. L'objectif, c'est d'exprimer sa solidarité avec les lycéens, même si beaucoup s'interrogent sur l'avenir du mouvement.",
+   "link": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/colere-des-lyceens-a-nancy-meme-durant-les-conges-des-etudiants-mobilises-pour-que-le-mouvement-ne-s-eteigne-pas-6303650?at_medium=lien_RSS&at_locale=56",
    "published": "2026-10-20T18:06",
    "dates": "",
    "national": true,
@@ -1302,6 +1680,24 @@
    "last_seen": "2026-10-20T16:26"
   },
   {
+   "id": "ba8d0940a7a67c9f",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Protesta dei tir, Salvini annuncia “un miliardo” ma i nuovi fondi si fermano a 160 milioni (da trovare). E i rimborsi in arrivo erano bloccati da 7 mesi",
+   "summary": "“Abbiamo sbloccato un miliardo di euro”. Parola del viceministro ai Trasporti Edoardo Rixi che, dopo l’incontro in Prefettura a Milano con le associazioni di rappresentanza degli autotrasportatori in protesta, ha annunciato “da domani” il rimborso degli extracosti dovuti al caro gasolio. Dal canto…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/20/protesta-autotrasportatori-salvini-miliardo-fondi-notizie/8544583/",
+   "published": "2026-10-20T17:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T06:34"
+  },
+  {
    "id": "e164c65fe1847a20",
    "zone": "it_national",
    "affects": [],
@@ -1317,7 +1713,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "8335228935cc670c",
@@ -1353,7 +1749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "23c82fd0170a5793",
@@ -1371,7 +1767,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "edf544a67da04363",
@@ -1407,7 +1803,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "023791a41796c4f0",
@@ -1461,7 +1857,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "2534764e03c6f073",
@@ -1479,7 +1875,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "cc2ab8f29751ef44",
@@ -1569,7 +1965,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "04ea53b8fb6a1c5f",
@@ -1605,7 +2001,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "220724ce48252bbe",
@@ -1623,7 +2019,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "f1ca4613dd871b73",
@@ -1695,7 +2091,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "5c03f207697354b4",
@@ -1713,7 +2109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "e43a53e0242a21e4",
@@ -1749,7 +2145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "eb9637a11d997dc1",
@@ -1893,7 +2289,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "c6d27b64491304a2",
@@ -1911,7 +2307,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "60f2bf8bc000ae49",
@@ -1929,7 +2325,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "815bdf2bb0a97d1f",
@@ -1947,7 +2343,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "c174b5c571b2a508",
@@ -1965,7 +2361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "b711b31c57b88d8f",
@@ -1983,7 +2379,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "56909a81f6848ee3",
@@ -2001,7 +2397,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "e08dde2ccb38e332",
@@ -2019,7 +2415,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "f872b35953552162",
@@ -2037,7 +2433,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   },
   {
    "id": "a90ac13dcdf40878",
@@ -2253,7 +2649,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T01:32"
+   "last_seen": "2026-10-21T06:34"
   }
  ]
 }
