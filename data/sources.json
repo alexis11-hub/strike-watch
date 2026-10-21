@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 641,
+  "ms": 578,
   "error": ""
  },
  {
@@ -14,7 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 748,
+  "ms": 598,
   "error": ""
  },
  {
@@ -22,26 +22,35 @@
   "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
   "items": 100,
-  "kept": 3,
-  "ms": 891,
+  "kept": 4,
+  "ms": 670,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "mit",
+  "name": "意大利交通部 罢工日历",
   "ok": true,
-  "items": 100,
+  "items": 28,
   "kept": 13,
-  "ms": 997,
+  "ms": 804,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 36,
+  "kept": 0,
+  "ms": 806,
   "error": ""
  },
  {
   "id": "ansa_lom",
   "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 61,
-  "kept": 1,
-  "ms": 1132,
+  "items": 68,
+  "kept": 2,
+  "ms": 824,
   "error": ""
  },
  {
@@ -50,25 +59,16 @@
   "ok": true,
   "items": 25,
   "kept": 1,
-  "ms": 1136,
+  "ms": 825,
   "error": ""
  },
  {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
+  "id": "ici_nat",
+  "name": "ICI 全国",
   "ok": true,
-  "items": 31,
-  "kept": 0,
-  "ms": 1144,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 7,
-  "ms": 508,
+  "items": 42,
+  "kept": 1,
+  "ms": 54,
   "error": ""
  },
  {
@@ -76,26 +76,26 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 1,
-  "ms": 151,
+  "kept": 2,
+  "ms": 135,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
   "ok": true,
-  "items": 44,
-  "kept": 3,
-  "ms": 217,
+  "items": 40,
+  "kept": 6,
+  "ms": 442,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 33,
-  "kept": 4,
-  "ms": 430,
+  "items": 32,
+  "kept": 6,
+  "ms": 352,
   "error": ""
  },
  {
@@ -104,34 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 4,
-  "ms": 288,
-  "error": ""
- },
- {
-  "id": "mit",
-  "name": "意大利交通部 罢工日历",
-  "ok": true,
-  "items": 27,
-  "kept": 14,
-  "ms": 1631,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 11,
-  "ms": 961,
-  "error": ""
- },
- {
-  "id": "cgt",
-  "name": "CGT 全国工会",
-  "ok": true,
-  "items": 10,
-  "kept": 2,
-  "ms": 1033,
+  "ms": 275,
   "error": ""
  },
  {
@@ -140,16 +113,43 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 848,
+  "ms": 523,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 12,
+  "ms": 1384,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 157,
-  "kept": 18,
-  "ms": 1025,
+  "items": 160,
+  "kept": 14,
+  "ms": 567,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 8,
+  "ms": 908,
+  "error": ""
+ },
+ {
+  "id": "cgt",
+  "name": "CGT 全国工会",
+  "ok": true,
+  "items": 10,
+  "kept": 2,
+  "ms": 1230,
   "error": ""
  }
 ]
