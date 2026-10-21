@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 524,
+  "ms": 631,
   "error": ""
  },
  {
@@ -14,25 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 607,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 71,
-  "kept": 2,
-  "ms": 774,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 30,
-  "kept": 1,
-  "ms": 777,
+  "ms": 737,
   "error": ""
  },
  {
@@ -41,34 +23,25 @@
   "ok": true,
   "items": 30,
   "kept": 0,
-  "ms": 781,
+  "ms": 989,
   "error": ""
  },
  {
-  "id": "mit",
-  "name": "意大利交通部 罢工日历",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 28,
-  "kept": 13,
-  "ms": 842,
+  "items": 72,
+  "kept": 2,
+  "ms": 1003,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 43,
+  "items": 30,
   "kept": 1,
-  "ms": 42,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 171,
+  "ms": 1005,
   "error": ""
  },
  {
@@ -77,52 +50,16 @@
   "ok": true,
   "items": 40,
   "kept": 6,
-  "ms": 516,
+  "ms": 404,
   "error": ""
  },
  {
-  "id": "franceinfo",
-  "name": "franceinfo",
+  "id": "lemonde",
+  "name": "Le Monde",
   "ok": true,
-  "items": 32,
-  "kept": 6,
-  "ms": 470,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 0,
-  "ms": 398,
-  "error": ""
- },
- {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
-  "ok": true,
-  "items": 25,
-  "kept": 5,
-  "ms": 301,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 7,
-  "ms": 771,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 159,
-  "kept": 15,
-  "ms": 452,
+  "items": 16,
+  "kept": 1,
+  "ms": 202,
   "error": ""
  },
  {
@@ -131,7 +68,16 @@
   "ok": true,
   "items": 100,
   "kept": 12,
-  "ms": 1499,
+  "ms": 1248,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 42,
+  "kept": 1,
+  "ms": 215,
   "error": ""
  },
  {
@@ -140,7 +86,61 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 1981,
+  "ms": 1610,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 35,
+  "kept": 4,
+  "ms": 608,
+  "error": ""
+ },
+ {
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
+  "ok": true,
+  "items": 25,
+  "kept": 5,
+  "ms": 404,
+  "error": ""
+ },
+ {
+  "id": "mit",
+  "name": "意大利交通部 罢工日历",
+  "ok": true,
+  "items": 27,
+  "kept": 13,
+  "ms": 1762,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 7,
+  "ms": 1035,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 643,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 160,
+  "kept": 16,
+  "ms": 718,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1228,
+  "ms": 1400,
   "error": ""
  }
 ]
