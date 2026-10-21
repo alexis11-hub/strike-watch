@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 744,
+  "ms": 641,
   "error": ""
  },
  {
@@ -14,43 +14,16 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 980,
+  "ms": 748,
   "error": ""
  },
  {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
-  "items": 40,
-  "kept": 6,
-  "ms": 352,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 26,
-  "kept": 2,
-  "ms": 1280,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 30,
-  "kept": 0,
-  "ms": 1310,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 58,
-  "kept": 2,
-  "ms": 1318,
+  "items": 100,
+  "kept": 3,
+  "ms": 891,
   "error": ""
  },
  {
@@ -58,8 +31,44 @@
   "name": "La Nazione · 佛罗伦萨",
   "ok": true,
   "items": 100,
-  "kept": 9,
-  "ms": 1352,
+  "kept": 13,
+  "ms": 997,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 61,
+  "kept": 1,
+  "ms": 1132,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 25,
+  "kept": 1,
+  "ms": 1136,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 31,
+  "kept": 0,
+  "ms": 1144,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 7,
+  "ms": 508,
   "error": ""
  },
  {
@@ -68,43 +77,25 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 87,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 7,
-  "ms": 1503,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 32,
-  "kept": 5,
-  "ms": 247,
+  "ms": 151,
   "error": ""
  },
  {
   "id": "ici_nat",
   "name": "ICI 全国",
   "ok": true,
-  "items": 43,
-  "kept": 1,
-  "ms": 222,
+  "items": 44,
+  "kept": 3,
+  "ms": 217,
   "error": ""
  },
  {
-  "id": "mit",
-  "name": "意大利交通部 罢工日历",
+  "id": "franceinfo",
+  "name": "franceinfo",
   "ok": true,
-  "items": 26,
-  "kept": 13,
-  "ms": 1562,
+  "items": 33,
+  "kept": 4,
+  "ms": 430,
   "error": ""
  },
  {
@@ -113,7 +104,16 @@
   "ok": true,
   "items": 25,
   "kept": 4,
-  "ms": 262,
+  "ms": 288,
+  "error": ""
+ },
+ {
+  "id": "mit",
+  "name": "意大利交通部 罢工日历",
+  "ok": true,
+  "items": 27,
+  "kept": 14,
+  "ms": 1631,
   "error": ""
  },
  {
@@ -122,25 +122,7 @@
   "ok": true,
   "items": 100,
   "kept": 11,
-  "ms": 1157,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 0,
-  "ms": 793,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 144,
-  "kept": 17,
-  "ms": 930,
+  "ms": 961,
   "error": ""
  },
  {
@@ -149,7 +131,25 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1463,
+  "ms": 1033,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 1,
+  "ms": 848,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 157,
+  "kept": 18,
+  "ms": 1025,
   "error": ""
  }
 ]

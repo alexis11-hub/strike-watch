@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:34",
+ "updated": "2026-10-21T12:24",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -22,7 +22,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T01:32",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "bcc3de0163a1e15b",
@@ -45,7 +45,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "f49d1ea9a2f4a65f",
@@ -68,7 +68,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "638b3e194cc92b78",
@@ -91,7 +91,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "7fd6a0f609521d06",
@@ -114,7 +114,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "2fee0f283cc594db",
@@ -137,7 +137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -160,7 +160,153 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "9c5286820f84182a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "high",
+   "title": "EN DIRECT, manifestations du 17 octobre : la CGT appelle à la grève générale à partir du 5 novembre ; Gérald Darmanin fait état de 2 500 gardes à vues et de 17…",
+   "summary": "Du Qatar, où il achève une tournée de trois jours dans le Golfe, Emmanuel Macron a, lui, jugé les commentaires étrangers « inacceptables » et « stupides » et dénoncé les « dirigeants qui font campagne sur le dos » de la France.",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-la-cgt-appelle-a-la-greve-generale-a-partir-du-5-novembre-gerald-darmanin-fait-etat-de-2-500-gardes-a-vues-et-de-174-incarcerations_6795855_3224.html",
+   "published": "2026-10-21T13:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "7278e4398c86d273",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences du 17 octobre : des compagnies de CRS laissées au repos, les nouvelles révélations sur les consignes du ministère de l’Intérieur",
+   "summary": "Après les émeutes du samedi 17 octobre en marge de la mobilisation contre la vie chère, 14 compagnies de CRS sur 56 sont restées au repos selon Le Canard Enchaîné. Alors qu’Emmanuel Macron admet des défaillances, la...",
+   "link": "https://www.midilibre.fr/2026/10/21/violences-du-17-octobre-des-compagnies-de-crs-laissees-au-repos-les-nouvelles-revelations-sur-les-consignes-du-ministere-de-linterieur-13613169.php",
+   "published": "2026-10-21T12:33",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "79c446bd72949627",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Firenze, tentato assalto all’Itis Da Vinci: trenta ragazzi scavalcano il cancello, fumogeni e petardi: \"Scene mai viste”",
+   "summary": "Firenze, 21 ottobre 2026 – Un tentato assalto, respinto grazie alla prontezza della preside, dei collaboratori e di alcuni professori. E, soprattutto, grazie all’immediato arrivo di una volante. Decisamente preoccupante quanto successo stamani mattina all’Itis Da Vinci. Prima, petardi esplosi nel c…",
+   "link": "https://www.lanazione.it/firenze/cronaca/assalto-tentato-da-vinci-k77fx3dp",
+   "published": "2026-10-21T11:35",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "3875742f24d044e2",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "“Fedez è come il barone che pretende di spiegare ai poveri come fare la rivoluzione. Diffidiamo. In piazza ci sono centinaia di persone motivate, attenti a rep…",
+   "summary": "Prima Marracash , poi tanti suoi colleghi, da Kid Yugi a Ghali . Sugli scontri di Milano, dal mondo del rap è arrivata una posizione quasi unanime. “Cosa porta dei minorenni a mettersi il cappuccio e andare a rischiare di essere presi a manganellate o arrestati in centro? Pur nella follia del gesto…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/21/fedez-come-il-barone-che-pretende-di-spiegare-ai-poveri-come-fare-la-rivoluzione-diffidiamo-in-piazza-ci-sono-centinaia-di-persone-motivate-attenti-a-reprimerle-o-a-ignorarle-parla-frankie-hi-nrg/8545387/",
+   "published": "2026-10-21T10:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "7b3b5454435dd09d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Dispositif policier \"massif\", interdiction de manifestations : le gouvernement prépare la mobilisation du 24 octobre",
+   "summary": "Sébastien Lecornu a promis un dispositif policier \"massif\" pour la prochaine journée de mobilisation, ce mardi. Le gouvernement est sous le feu des critiques après les violences et pillages du week-end dernier.",
+   "link": "https://www.ici.fr/infos/politique/dispositif-policier-massif-interdiction-de-manifestations-le-gouvernement-prepare-la-mobilisation-du-24-octobre-8163998?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-21T10:33",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T16:26",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "14895ebf1aa4623e",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestazione a Firenze il 24 ottobre, si temono scontri come a Torino e a Milano: “Città pacifica, non tollereremo violenza”",
+   "summary": "Firenze, 21 ottobre 2026 – L’appuntamento è segnato in rosso sul calendario : la data è quella di sabato 24 ottobre, quando a Firenze potrebbe andare in scena la grande manifestazione “contro il governo dei padroni” indetta dal sedicente movimento ‘17 ottobre’, lo stesso che sarebbe alla base degli…",
+   "link": "https://www.lanazione.it/firenze/cronaca/manifestazione-firenze-24-ottobre-b4ebenky",
+   "published": "2026-10-21T10:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "e3e7fd02912cd35b",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Ragazzini in piazza: non è vandalismo, è il cerchio che si chiude",
+   "summary": "di Daniela Contigiani Le guerre, la crisi energetica, i miliardari che si spartiscono enormi profitti,la povertà crescente, il cambiamento climatico e l’incertezza del futuro. Le piazze d’Europa si stanno surriscaldando diventando teatro di crescenti scontri sociali. La paura figlia dell’incertezza…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/21/minorenni-guerriglia-urbana-disuguaglianze-notizie/8545376/",
+   "published": "2026-10-21T10:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "5cbda90c45a22447",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Riforma della disabilità, ad Arezzo il percorso formativo per i Comuni della provincia",
+   "summary": "Arezzo, 21 ottobre 2026 – Il ciclo di incontri promosso da Anci Toscana e Regione Toscana per accompagnare i Comuni toscani nell’attuazione della nuova riforma della disabilità arriva ad Arezzo. L’appuntamento si terrà giovedì 22 ottobre dalle 9:30 alle 16:30 a palazzo di Fraternita, Sala CaMu, in…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/riforma-della-disabilita-ad-arezzo-il-percorso-formativo-per-i-comuni-della-provincia-buxfin2e",
+   "published": "2026-10-21T08:28",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "ab0772b269422925",
@@ -178,7 +324,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "8bfa75a1e09c7b89",
@@ -214,25 +360,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
-  },
-  {
-   "id": "488e4df67bc80254",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Occupazioni effetto domino. Blitz nella notte al liceo artistico. Aule devastate, lezioni sospese",
-   "summary": "La porta che non può non aprirsi per la prima campanella, una cinquantina di ragazzi con il volto coperto che si riversano nell’edificio e che stroncano sul nascere ogni possibilità di trattativa. È scattata così l’ occupazione della sede di piazza Frescobaldi dell’Iis Machiavelli. È l’immagine for…",
-   "link": "https://www.lanazione.it/firenze/cronaca/occupazioni-effetto-domino-blitz-nella-e5ec141d",
-   "published": "2026-10-21T05:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "97fa983d26d5e3e1",
@@ -250,7 +378,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "488e4df67bc80254",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Occupazioni effetto domino. Blitz nella notte al liceo artistico. Aule devastate, lezioni sospese",
+   "summary": "La porta che non può non aprirsi per la prima campanella, una cinquantina di ragazzi con il volto coperto che si riversano nell’edificio e che stroncano sul nascere ogni possibilità di trattativa. È scattata così l’ occupazione della sede di piazza Frescobaldi dell’Iis Machiavelli. È l’immagine for…",
+   "link": "https://www.lanazione.it/firenze/cronaca/occupazioni-effetto-domino-blitz-nella-e5ec141d",
+   "published": "2026-10-21T05:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T06:34",
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "b11c06c3dd1b94b6",
@@ -268,7 +414,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "713bb86624d6871a",
@@ -286,7 +432,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "d2520d6604b8e59e",
@@ -412,7 +558,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "9eb5bb290f4b3d7a",
@@ -430,7 +576,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "4ceb60bac5d348f1",
@@ -448,7 +594,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "afc02d4dbb9b95c7",
@@ -467,24 +613,6 @@
    "soon": false,
    "first_seen": "2026-10-20T16:26",
    "last_seen": "2026-10-20T16:26"
-  },
-  {
-   "id": "7b3b5454435dd09d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Dispositif policier \"massif\", interdiction de manifestations : le gouvernement prépare la mobilisation du 24 octobre",
-   "summary": "Sébastien Lecornu a promis un dispositif policier \"massif\" pour la prochaine journée de mobilisation, ce mardi. Le gouvernement est sous le feu des critiques après les violences et pillages du week-end dernier.",
-   "link": "https://www.ici.fr/infos/politique/dispositif-policier-massif-interdiction-de-manifestations-le-gouvernement-prepare-la-mobilisation-du-24-octobre-8163998?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-20T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T01:32"
   },
   {
    "id": "5bcf25310b78ac87",
@@ -556,7 +684,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "28f2805d13243382",
@@ -810,7 +938,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "ff1dded4a7df4310",
@@ -846,7 +974,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "3362e27328085e86",
@@ -900,7 +1028,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "4c980b76a5dade2b",
@@ -972,7 +1100,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "9416da913122ef06",
@@ -990,7 +1118,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "347b339822522b9b",
@@ -1099,7 +1227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "059da7d203259a89",
@@ -1118,7 +1246,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -1137,7 +1265,297 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "43d3a9a6aba574c7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 17 octobre : les syndicats, unanimement déçus après la réunion à Matignon avec le gouvernement, appellent à une \"grande mobilisation\" le 5 nove…",
+   "summary": "La secrétaire générale de la CFDT, Marylise Léon, a jugé, mercredi, \"le gouvernement pas vraiment dans le tempo\".",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-21T14:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "e694d4c4adb1f7ad",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "À 80 ans, Jeanine allait finir à la rue avec Titi son perroquet : des habitants se mobilisent et empêchent l’expulsion de la retraitée",
+   "summary": "Menacée d’expulsion de son chalet près d’Ajaccio, Jeanine Nuovoli, 80 ans, a pu rester chez elle grâce à la mobilisation d’une quinzaine de citoyens, mardi 20 octobre 2026. Mais ce répit pourrait être de courte durée,...",
+   "link": "https://www.midilibre.fr/2026/10/21/a-80-ans-jeanine-allait-finir-a-la-rue-avec-titi-son-perroquet-des-habitants-se-mobilisent-et-empechent-lexpulsion-de-la-retraitee-13613290.php",
+   "published": "2026-10-21T14:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "a240fc415c06a52e",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tajani, blocchi dei tir sbagliati, non si danneggino produttori e consumatori",
+   "summary": "'Lancio appello al dialogo, governo aperto a nuovi incontri'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-blocchi-dei-tir-sbagliati-non-si-danneggino-produttori-e-consumatori_9a8b51b7-d272-40d5-ad1f-4204f159b95f.html",
+   "published": "2026-10-21T13:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "96a835471ec37ab3",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Rixi: 'Fondi all'autotrasporto già da oggi, si smobilitino i blocchi'. Gli industriali di Campania e Puglia: 'Imprese al collasso'",
+   "summary": "Gli aeroporti di Crotone e Reggio Calabria senza carburante, code e chiusure su autostrade A1 e A30",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/rixi-fondi-allautotrasporto-gia-da-oggi-si-smobilitino-i-blocchi.-gli-industriali-di-campania_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
+   "published": "2026-10-21T13:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "72b9d76785de566d",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation sociale : la CGT appelle à la grève à partir du 5 novembre",
+   "summary": "La secrétaire générale de la CGT Sophie Binet a estimé mercredi, à l'issue d'une réunion à Matignon, que le Premier ministre n'avait annoncé \"aucune mesure\" pour répondre aux revendications des travailleurs et lycéens et elle a appelé à un \"nouveau cap\" dans la mobilisation.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-sociale-la-cgt-appelle-a-la-greve-a-partir-du-5-novembre-8412444?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-21T13:43",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "9d2c251151d49df4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation sociale : la CGT appelle à la grève à partir du 5 novembre",
+   "summary": "La secrétaire générale de la CGT Sophie Binet a estimé mercredi, à l'issue d'une réunion à Matignon, que le Premier ministre n'avait annoncé \"aucune mesure\" pour répondre aux revendications des travailleurs et lycéens et elle a appelé à un \"nouveau cap\" dans la mobilisation.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-sociale-la-cgt-appelle-a-la-greve-a-partir-du-5-novembre-8412444?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-21T13:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-21T12:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "0364f8fc2efc2307",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"La montée du 17 octobre montre l'ampleur de la colère et donc partout où les conditions seront réunies, la CGT en sera\"",
+   "summary": "Résumé de la vidéo [01:10] Le projet de budget de l'État est « catastrophique » pour les services publics, les universités, et les plus précaires \"Nous serons au rendez-vous mardi 13 octobre pour protéger la mobilisation des lycéen·nes\" [02:24] La mobilisation de la jeunesse et Parcoursup : Analyse…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-montee-du-17-octobre-montre-lampleur-de-la-colere-et-donc-partout-ou-les-conditions-seront",
+   "published": "2026-10-21T12:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "86c78bc120b3dd0c",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestazione a Firenze, commercianti in allerta dopo i saccheggi di Milano: \"Pronti a chiuderci dentro\"",
+   "summary": "Firenze, 21 ottobre 2026 – C’è chi chiuderà le porte di legno per proteggere il negozio e chi sta pensando di rafforzare la presenza del personale nel pomeriggio. Chi valuta addetti alla sicurezza e chi, davanti alle immagini delle vetrine distrutte a Milano, si domanda come difendere la propria at…",
+   "link": "https://www.lanazione.it/firenze/manifestazione-a-firenze-commercianti-in-allerta-dopo-i-saccheggi-di-milano-pronti-a-chiuderci-dentro-615702a4",
+   "published": "2026-10-21T11:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "20dc1d27868ab4d4",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“Se devono protestare vadano davanti ai palazzi del potere. Sicurezza? Qui lunedì non c’era nessuno”: i negozianti della zona del Duomo tra quotidianità e paura",
+   "summary": "C’è silenzio in via Torino . Le persone passeggiano, entrano ed escono dai negozi, chiacchierano nella famosa via di Milano che da piazza Duomo porta verso la zona di Porta Ticinese e delle Colonne di San Lorenzo: c’è quel brusio di sottofondo di una mattina qualunque che stride se confrontato con…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/21/scontri-milano-via-torino-negozianti-notizie/8544471/",
+   "published": "2026-10-21T11:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "34b5e9d1838f67ef",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero degli autotrasportatori, in Campania lunghe code di tir fermi ai lati della strada",
+   "summary": "In Campania il blocco degli autotrasportatori prosegue a oltranza. Si registrano code e rallentamenti sui principali snodi stradali regionali verso la rete autostradale A1 Milano-Napoli e A30 Caserta-Salerno. Sulle carreggiate si procede lentamente tra i tir fermi su entrambi i lati. In fila a moto…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/21/sciopero-autotrasportatori-campania-code-tir-video/8545464/",
+   "published": "2026-10-21T11:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "cefa21a3e406af48",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le match de Ligue 1 entre Toulouse et Troyes décalé de samedi à dimanche en prévisions des manifestations",
+   "summary": "La rencontre Toulouse-Troyes est la deuxième à être reportée à la demande d'une préfecture, après celle entre Montpellier et le Red Star (Ligue 2), elle repoussée à lundi.",
+   "link": "https://www.franceinfo.fr/sports/foot/ligue-1/le-match-de-ligue-1-entre-toulouse-et-troyes-decale-de-samedi-a-dimanche-en-previsions-des-manifestations_8247040.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-21T11:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "724ad21b67c90a84",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : \"On sera très mobiles et très offensifs\" prévient le n°1 de la police dans l'Hérault",
+   "summary": "Les autorités ont dressé le bilan de la manifestation du 17 octobre à Montpellier et se sont projetées sur la prochaine. Elle sera \"probablement\" interdite prévient la préfète de l'Hérault. Quant au n°1 de a police dans le département, il déplore 35 blessés chez les forces de l'ordre. Interview.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/on-sera-tres-mobiles-et-tres-offensifs-previent-le-n01-de-la-police-dans-l-herault-avant-la-prochaine-manifestation-4201676?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-21T10:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "edf544a67da04363",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : à quoi s'attendre dans les jours et les semaines à venir ?",
+   "summary": "Après plusieurs semaines de blocage de lycées et la journée nationale de mobilisation du samedi 17 octobre contre la \"vie chère\", la colère des manifestants ne retombe pas et de nouvelles manifestations sont attendues dans les prochains jours. Voici à quoi s'attendre.",
+   "link": "https://www.ici.fr/infos/economie-social/mobilisation-sociale-a-quoi-s-attendre-dans-les-jours-et-les-semaines-a-venir-7583042?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-21T09:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T16:26",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "69211b48f05b7dcd",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Scuole in agitazione, le occupazioni aumentano. Alcuni istituti in autogestione. Si aggiunge il Sassetti-Peruzzi",
+   "summary": "Firenze, 21 ottobre 2026 – Non si ferma l’ondata di occupazioni negli istituti superiori di Firenze. Dalle prime ore di stamani la protesta ha travolto anche la sede di Novoli del Sassetti-Peruzzi , in via San Donato, dopo che ieri la mobilitazione era scattata nella succursale di Scandicci . Gli s…",
+   "link": "https://www.lanazione.it/firenze/cronaca/scuole-in-agitazione-le-occupazioni-aumentano-tanti-gli-istituti-in-autogestione-si-aggiunge-il-sassetti-peruzzi-tiaaei61",
+   "published": "2026-10-21T08:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
+   "id": "f8a287df432c7930",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Matteo Innocenti a Palomar per la Giornata del Contemporaneo: un viaggio nelle filosofie dell’arte di oggi",
+   "summary": "Arezzo, 21 ottobre 2026 – L’arte contemporanea, le sue provocazioni, i suoi linguaggi e le domande che pone al nostro tempo saranno al centro del prossimo appuntamento delle Piazze del sapere la rassegna culturale promossa dal Comune di San Giovanni Valdarno in collaborazione con il Centro per il l…",
+   "link": "https://www.lanazione.it/arezzo/cosa-fare/matteo-innocenti-a-palomar-per-la-giornata-del-contemporaneo-un-viaggio-nelle-filosofie-dellarte-di-oggi-eg8a2k5d",
+   "published": "2026-10-21T08:43",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "fc916954e5469310",
@@ -1158,6 +1576,24 @@
    "last_seen": "2026-10-21T06:34"
   },
   {
+   "id": "0dee9c5d3ef208e4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“(S)Oggettivamente”: ultimi giorni per visitare la Biennale di Scultura a Civitella",
+   "summary": "Arezzo, 21 ottobre 2026 – Ultimi giorni per visitare la Mostra Biennale di Scultura “(S)Oggettivamente”. L’esposizione, inaugurata il 26 settembre, in piazza Don Alcide Lazzeri, a Civitella, giunta alla XXIV edizione e dedicata a Franco Balò, sarà visitabile fino al 25 ottobre. La mostra, a cura di…",
+   "link": "https://www.lanazione.it/arezzo/cosa-fare/soggettivamente-ultimi-giorni-per-visitare-la-biennale-di-scultura-a-civitella-w201uing",
+   "published": "2026-10-21T08:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
+  },
+  {
    "id": "b47ac9df5b015a8a",
    "zone": "montpellier",
    "affects": [],
@@ -1176,40 +1612,22 @@
    "last_seen": "2026-10-21T06:34"
   },
   {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
+   "id": "f868ad0d8051b455",
+   "zone": "firenze",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-21T06:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
-  },
-  {
-   "id": "0364f8fc2efc2307",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
    "kind": "protest",
    "severity": "medium",
-   "title": "\"La montée du 17 octobre montre l'ampleur de la colère et donc partout où les conditions seront réunies, la CGT en sera\"",
-   "summary": "Résumé de la vidéo [01:10] Le projet de budget de l'État est « catastrophique » pour les services publics, les universités, et les plus précaires \"Nous serons au rendez-vous mardi 13 octobre pour protéger la mobilisation des lycéen·nes\" [02:24] La mobilisation de la jeunesse et Parcoursup : Analyse…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-montee-du-17-octobre-montre-lampleur-de-la-colere-et-donc-partout-ou-les-conditions-seront",
-   "published": "2026-10-21T06:34",
+   "title": "Carcere, sopralluogo del Garante regionale con gli assessori Boni e Nardini, «Subito lo sblocco dei lavori. Inaccettabile un’area incompiuta mentre le carceri…",
+   "summary": "Arezzo, 21 ottobre 2026 – Si è tenuta martedì 20 ottobre, la visita istituzionale presso la Casa Circondariale di Arezzo, guidata dal Garante regionale dei diritti dei detenuti della Toscana, Giuseppe Fanfani , insieme al Garante comunale Sandra Rogialli e agli assessori regionali Filippo Boni e Al…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/carcere-arezzo-sopralluogo-del-garante-regionale-con-gli-assessori-boni-e-nardini-subito-lo-sblocco-dei-lavori-inaccettabile-unarea-incompiuta-mentre-le-carceri-scoppiano-lj9g8gxt",
+   "published": "2026-10-21T06:25",
    "dates": "",
-   "national": true,
+   "national": false,
    "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "first_seen": "2026-10-21T12:24",
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "269f8a13c950ed5d",
@@ -1263,7 +1681,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "73d791b2a98478f0",
@@ -1281,7 +1699,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "37b4ab9af160e28d",
@@ -1299,7 +1717,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "69f2dedc61038d12",
@@ -1497,7 +1915,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "428db1b65d08901a",
@@ -1533,7 +1951,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "3de6fbe3e62bf9e8",
@@ -1551,7 +1969,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "18a252ed08c0440c",
@@ -1587,7 +2005,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "3a7fc7b1cea4445d",
@@ -1749,7 +2167,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "23c82fd0170a5793",
@@ -1767,25 +2185,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T06:34"
-  },
-  {
-   "id": "edf544a67da04363",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation sociale : à quoi s'attendre dans les jours et les semaines à venir ?",
-   "summary": "Après plusieurs semaines de blocage de lycées et la journée nationale de mobilisation du samedi 17 octobre contre la \"vie chère\", la colère des manifestants ne retombe pas et de nouvelles manifestations sont attendues dans les prochains jours. Voici à quoi s'attendre.",
-   "link": "https://www.ici.fr/infos/economie-social/mobilisation-sociale-a-quoi-s-attendre-dans-les-jours-et-les-semaines-a-venir-7583042?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-20T15:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T16:26"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "39cb53d35bce5f49",
@@ -1803,7 +2203,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "023791a41796c4f0",
@@ -1857,7 +2257,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "2534764e03c6f073",
@@ -1875,7 +2275,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "cc2ab8f29751ef44",
@@ -1965,7 +2365,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "04ea53b8fb6a1c5f",
@@ -2001,7 +2401,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "220724ce48252bbe",
@@ -2019,7 +2419,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "f1ca4613dd871b73",
@@ -2091,7 +2491,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "5c03f207697354b4",
@@ -2109,7 +2509,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "e43a53e0242a21e4",
@@ -2145,7 +2545,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "eb9637a11d997dc1",
@@ -2289,7 +2689,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "c6d27b64491304a2",
@@ -2307,7 +2707,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "60f2bf8bc000ae49",
@@ -2325,7 +2725,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "815bdf2bb0a97d1f",
@@ -2343,7 +2743,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "c174b5c571b2a508",
@@ -2379,7 +2779,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "56909a81f6848ee3",
@@ -2397,7 +2797,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "e08dde2ccb38e332",
@@ -2415,7 +2815,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "f872b35953552162",
@@ -2433,7 +2833,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   },
   {
    "id": "a90ac13dcdf40878",
@@ -2649,7 +3049,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-21T06:34"
+   "last_seen": "2026-10-21T12:24"
   }
  ]
 }
