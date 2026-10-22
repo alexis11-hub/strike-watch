@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:27",
+ "updated": "2026-10-22T18:06",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -22,7 +22,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T01:32",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "bcc3de0163a1e15b",
@@ -45,7 +45,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "1b85bf9280198f19",
@@ -68,7 +68,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "f49d1ea9a2f4a65f",
@@ -91,7 +91,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "638b3e194cc92b78",
@@ -114,7 +114,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "7fd6a0f609521d06",
@@ -137,7 +137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "2fee0f283cc594db",
@@ -183,7 +183,97 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "da6656e430cb8848",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifesti Blocco studentesco cancella volto segretaria Pd Trieste con una X",
+   "summary": "Iniziativa intimidatoria. Conti, gesto violenza di marchio neofascista",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/manifesti-blocco-studentesco-cancella-volto-segretaria-pd-trieste-con-una-x_311c5c89-3361-4c6f-8dd0-579202f58ca4.html",
+   "published": "2026-10-22T19:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "1b0782ba1c643f1f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences du 17 octobre : menaces de mort, critiques… la sortie polémique d’un conseiller municipal de Rodez après l’incendie de la mairie de Limoges",
+   "summary": "Au lendemain de la mobilisation du 17 octobre 2026, un élu d’opposition à la mairie de Rodez a réagi à l’incendie de l’hôtel de ville de Limoges. Une prise de position qui fait réagir dans la ville aveyronnaise.",
+   "link": "https://www.midilibre.fr/2026/10/22/violences-du-17-octobre-menaces-de-mort-critiques-la-sortie-polemique-dun-conseiller-municipal-de-rodez-apres-lincendie-de-la-mairie-de-limoges-13615645.php",
+   "published": "2026-10-22T19:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "a651eddc7e488a5a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations interdites ou autorisées, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 24 octobre ?",
+   "summary": "Une semaine après les scènes de violence et de chaos en marge de la mobilisation contre la vie chère, un \"acte II\" est prévu ce samedi, avec des manifestations partout en France, qui inquiètent les commerçants et les forces de l'ordre. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-du-24-octobre-manifestants-dispositif-de-securite-commercants-a-quoi-s-attendre-ce-samedi-8441930?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T18:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "high",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Par leur entrée progressive dans la lutte, elles et ils l'expriment de plus en plus fortement. Avec des manifestations massives, la journée du 17 octobre a marqué une nouvelle étape dans cette montée de…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-22T18:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "c7d8054b7f1c088f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "La famille du manifestant mort aux abords du cortège du 17 octobre à Paris envisage de porter plainte",
+   "summary": "Une enquête en recherche des causes de la mort a été ouverte par le parquet de Paris. La plainte pour \"violences volontaires ayant entraîné la mort sans intention de la donner\" ne sera déposée qu'en cas d'un résultat d'autopsie allant dans ce sens.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-famille-du-manifestant-mort-aux-abords-du-cortege-du-17-octobre-a-paris-envisage-de-porter-plainte_8249116.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T17:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "577d8f4ec0322660",
@@ -204,22 +294,58 @@
    "last_seen": "2026-10-22T13:27"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
+   "id": "7bfc6d91ffacdcd3",
+   "zone": "milano",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
    "severity": "high",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Par leur entrée progressive dans la lutte, elles et ils l'expriment de plus en plus fortement. Avec des manifestations massives, la journée du 17 octobre a marqué une nouvelle étape dans cette montée de…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-22T13:27",
+   "title": "Eros Ramazzotti: “Sto con Marracash perché sta con gli studenti che sono scesi in piazza per far sentire la propria voce e perché il dissenso è un diritto e va…",
+   "summary": "Nel fine settimana del 17 e 18 ottobre Milano è stata attraversata da una nuova ondata di tensioni . Domenica pomeriggio decine di ragazzi, per lo più a volto coperto, hanno sfondato vetrine in via Torino e fatto irruzione in un supermercato, il giorno dopo le proteste degenerate in scontri con la…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/eros-ramazzotti-sto-con-marracash-perche-sta-con-gli-studenti-che-sono-scesi-in-piazza-per-far-sentire-la-propria-voce-e-perche-il-dissenso-e-un-diritto-e-va-difeso/8546784/",
+   "published": "2026-10-22T14:48",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "54f5e8bdb8761d9e",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "24 ottobre e ‘Gen Z protesta’, più controlli e negozi aperti: sì al presidio di Forza Nuova. Il sindaco di Forlì: “No alle psicosi”",
+   "summary": "Forlì, 22 ottobre 2026 – La Prefettura di Forlì-Cesena ha riunito le forze dell’ordine e il Comune di Forlì per decidere le misure di sicurezza dedicate alla giornata di sabato 24 ottobre , quando era stata convocata la prima delle manifestazioni intitolate ‘la Gen Z protesta’ , in realtà non autor…",
+   "link": "https://www.ilrestodelcarlino.it/forli/cronaca/24-ottobre-gen-z-protesta-controlli-presidio-forza-nuova-e25l37h1",
+   "published": "2026-10-22T14:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "f8266f9db98b056e",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "D’Orsi: “Putin dietro le proteste di Milano? Ci hanno imbottito i crani con la storia dei russi cattivi ma ora il giochino si sta rompendo”",
+   "summary": "“ Contemporaneamente ci imbottiscono i crani ma quegli stessi crani poi provano a spaccarli col manganello ”. Lo storico Angelo d’Orsi prende in prestito Antonio Gramsci per descrivere il rapporto tra propaganda e repressione, mentre in Italia si discute delle proteste giovanili contro il carovita…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/dorsi-milano-putin-crosetto-molinari-gramsci-russia-ucraina-guerra/8546669/",
+   "published": "2026-10-22T14:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "1b1de181dfb0a57a",
@@ -255,7 +381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "ec0e91677fd16bca",
@@ -273,7 +399,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "25f634aa7f047e4c",
@@ -327,7 +453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "cbf105596568bfec",
@@ -345,7 +471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "08fed8094a1818bb",
@@ -356,14 +482,14 @@
    "kind": "protest",
    "severity": "high",
    "title": "Violences du 17 octobre : un homme jugé à Montpellier témoigne",
-   "summary": "Cinq hommes étaient convoqués devant le tribunal de Montpellier ce mercredi 21 octobre pour des violences en marge de la manifestation du 17 octobre. Parmi eux, Julien, un barman de 27 ans poursuivi pour des violences sur un CRS. Il témoigne au micro d'ICI Hérault.",
+   "summary": "Cinq hommes étaient convoqués devant le tribunal de Montpellier ce mercredi 21 octobre pour des violences en marge de la manifestation du 17 octobre. Parmi eux, Julien, un barman de 27 ans poursuivi pour des violences sur un CRS a été relaxé. Il témoigne au micro d'ICI Hérault.",
    "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/violences-du-17-octobre-un-homme-juge-a-montpellier-temoigne-6015087?at_medium=lien_RSS&at_locale=28",
    "published": "2026-10-22T07:32",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "074351c2b74fbf34",
@@ -489,7 +615,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "fa9e32ac592529d8",
@@ -507,7 +633,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "9e1e0f483b547552",
@@ -633,7 +759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "243c43f2cafeeafc",
@@ -723,7 +849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "79c446bd72949627",
@@ -1121,7 +1247,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "afc02d4dbb9b95c7",
@@ -1754,7 +1880,26 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "6983cad8e2de07af",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "mit",
+   "source": "MIT 罢工日历",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "🚆 铁路罢工 · Veneto / Verona",
+   "summary": "MANUTENZIONE ED INGEGNERIA SOC. RFI DOIT VERONA UNITA' TERRITORIALE SUD · 8 ORE: DALLE 9.01 ALLE 17,00 · OSR ORSA FERROVIE",
+   "link": "https://scioperi.mit.gov.it/mit2/public/scioperi",
+   "published": "2026-11-09T00:00",
+   "start": "2026-11-09T00:00",
+   "dates": "11/09",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "059da7d203259a89",
@@ -1773,7 +1918,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -1792,7 +1937,331 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "758ef9e158ff450c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La Fête de la soupe à Florac présente-t-elle un risque de trouble à l’ordre public ?",
+   "summary": "À Florac (Lozère), la colère monte après l’interdiction préfectorale de la journée phare de la Fête de la soupe, prévue ce samedi 24 octobre, invoquant des risques de troubles à l’ordre public. Organisateurs et...",
+   "link": "https://www.midilibre.fr/2026/10/22/la-fete-de-la-soupe-a-florac-presente-t-elle-un-risque-de-trouble-a-lordre-public-13615331.php",
+   "published": "2026-10-22T19:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "86fe3625ad48410c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT Mobilisation du 24 octobre : pas de tram, couvre-feu pour les mineurs… la préfecture de l’Hérault déroule ses mesures avant le grand jour",
+   "summary": "À deux jours d’une nouvelle mobilisation, Emmanuel Macron et Sébastien Lecornu multiplient les réunions ce jeudi 22 octobre, entre conseil de sécurité à l’Élysée et rencontre avec les partis politiques à Matignon,...",
+   "link": "https://www.midilibre.fr/2026/10/22/en-direct-mobilisation-du-24-octobre-reunions-de-crise-a-lelysee-et-a-matignon-suivez-la-situation-a-deux-jours-des-manifestations-13614824.php",
+   "published": "2026-10-22T19:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "fa6de637e3419646",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Per i Tir 105 milioni, 70 per agricoltura e pesca. Continuano i blocchi, fermi anche i pescherecci",
+   "summary": "Rixi: 'Da marzo ad agosto abbiamo messo 480 milioni'. Denunce e scorte ai camion, sospesi gli stop in Calabria e in Sicilia. Mercati vuoti e imprese pronte a fermarsi, chiuso uno snodo autostradale",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti-105-milioni-per-i-tir-e-70-per_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
+   "published": "2026-10-22T19:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "ef96f5a0b2dc6cd2",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Allarme infiltrazioni nei blocchi tir, si muovono i pm",
+   "summary": "'Evidenze' sulla presenza di appartenenti a sodalizi criminali. La commissione Antimafia al lavoro",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/allarme-infiltrazioni-nei-blocchi-tir-si-muovono-i-pm_0a6e521f-e09c-4ad8-bad1-be58fb738cfa.html",
+   "published": "2026-10-22T19:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "b80b1232a840fc89",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 24 octobre en Occitanie : \"j’ai eu du lanceur de balles de défense en vente libre\"… La crainte pousse certains commerçants à s’armer",
+   "summary": "Selon un sondage Elabe pour BFMTV daté du mercredi 21 octobre, six Français sur dix estiment devoir assurer eux-mêmes leur sécurité. Dans le même temps, malgré les annonces de renforcement des forces de l’ordre,...",
+   "link": "https://www.midilibre.fr/2026/10/22/manifestation-du-24-octobre-en-occitanie-jai-eu-du-lanceur-de-balles-de-defense-en-vente-libre-la-crainte-pousse-certains-commercants-a-sarmer-13615642.php",
+   "published": "2026-10-22T19:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "8a1ba3ddd0a506e2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : le maire de Paris évoque un \"cadre de travail plus satisfaisant entre les villes et l'Etat\" après une rencontre à Matignon",
+   "summary": "\"La sortie de cette crise passe d'abord par une réponse politique\", a insisté Emmanuel Grégoire, jeudi.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-les-partis-politiques-recus-a-matignon-dans-la-journee-le-renseignement-convoque-a-l-elysee-pour-un-conseil-de-securite_8248414.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T19:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "813a01b8bd7d7ebe",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il sort complètement de son rôle constitutionnel\" : Emmanuel Macron peut-il décider d'interdire les manifestations qui ne sont pas organisées par des syndicat…",
+   "summary": "A l'issue d'une réunion avec les services de renseignement jeudi matin, le président de la République a déclaré que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochains jours. Une déclaration qui fait bondir les juristes interrogés par franceinfo.",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-sort-completement-de-son-role-constitutionnel-emmanuel-macron-peut-il-decider-d-interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats_8249113.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T19:11",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "bebd92c8a36a8086",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : couvre-feu, tramway, manifestations… la préfète de l’Hérault annonce des mesures chocs avant l’Acte II de samedi",
+   "summary": "La préfète de l’Hérault a présenté un dispositif de sécurité renforcé en cas de mobilisation ce samedi 24 octobre à Montpellier.",
+   "link": "https://www.midilibre.fr/2026/10/22/mineurs-tramway-manifestation-decouvrez-les-mesures-chocs-de-la-prefete-de-lherault-en-vue-de-lacte-ii-de-la-gen-z-et-des-gilets-jaunes-ce-samedi-24-13615647.php",
+   "published": "2026-10-22T18:49",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "bd907651bc4c083f",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "ansa_er",
+   "source": "ANSA 艾米利亚-罗马涅",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "È partito il corteo studentesco verso sede della Regione Emilia Romagna",
+   "summary": "Cambiare Rotta protesta contro il costo degli affitti a Bologna",
+   "link": "https://www.ansa.it/emiliaromagna/notizie/2026/10/22/e-partito-il-corteo-studentesco-verso-sede-della-regione-emilia-romagna_d0479be9-1bc3-439c-8a32-3687b6a940d1.html",
+   "published": "2026-10-22T18:24",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "67763791239ca495",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
+   "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la Répblique et du secteur des Halles. »",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
+   "published": "2026-10-22T18:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "9ccc90b62349a93f",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Saluti romani al corteo per Ramelli, condanne definitive per 13 militanti",
+   "summary": "La Cassazione rigetta ricorsi. Quattro mesi di pena",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/saluti-romani-al-corteo-per-ramelli-condanne-definitive-per-13-militanti_29139267-3d1f-469b-bd1f-e6be7bf18aef.html",
+   "published": "2026-10-22T18:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "1cec8cc8ee5b2710",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : la préfecture de l'Hérault interdit la manifestation et instaure un couvre-feu",
+   "summary": "La préfète de l'Hérault annonce ce jeudi interdire la manifestation déclarée à Montpellier pour ce samedi 24 octobre. Chantal Mauchet prend également d'autres mesures pour renforcer le dispositif de sécurité, avec notamment l'instauration d'un couvre-feu pour les mineurs à Montpellier et Béziers.",
+   "link": "https://www.ici.fr/occitanie/herault-34/mobilisation-du-24-octobre-la-prefecture-de-l-herault-interdit-la-manifestation-et-instaure-un-couvre-feu-9867945?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-22T18:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-22T18:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "ec02a005255ebf59",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Riesplode la protesta dei lavoratori Eurallumina, in 4 a 60 metri d'altezza",
+   "summary": "'Basta rinvii, ognuno si assuma le proprie responsabilità'. Domani vertice al Mimit",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/vertenza-eurallumina-quattro-operai-asserragliati-a-60-metri-daltezza_a7ed2915-4285-4713-8c3d-8f07e1be40f8.html",
+   "published": "2026-10-22T17:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "096122fab1d32ffd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations en France : Art Basel Paris écourtée de deux jours, déjà l'heure du bilan",
+   "summary": "Les organisateurs indiquent vouloir \"protéger les visiteurs, exposants, partenaires et personnels ainsi que les œuvres\".",
+   "link": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/manifestations-a-paris-la-foire-d-art-contemporain-art-basel-paris-ecourtee-de-deux-jours_8249266.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T17:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "9adb0569f3b97310",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Occupazioni, oltre 100 docenti si schierano a fianco degli studenti: “La scuola sta cambiando in peggio, dobbiamo lottare”",
+   "summary": "Firenze, 22 ottobre 2026 – “Come lavoratrici e lavoratori delle scuole occupate fiorentine ci riconosciamo nelle ragioni che hanno spinto le studentesse e gli studenti alla mobilitazione ”. Inizia così un documento firmato da oltre 100 docenti provenienti da diverse scuole fiorentine, come il Liceo…",
+   "link": "https://www.lanazione.it/firenze/cronaca/scuole-occupate-docenti-si-schierano-a-fianco-dei-ragazzi-cgil-cqsk4pky",
+   "published": "2026-10-22T17:09",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "0d7d46c87e362fb9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Orléans : ce que l'on sait des mobilisations prévues contre le congrès du Rassemblement national",
+   "summary": "Le Rassemblement national organise, ces 24 et 25 octobre, son congrès national à Orléans. Des événements antifascistes sont aussi organisés par de nombreuses associations, collectifs, syndicats et partis politiques pour signifier leur opposition au parti d'extrême droite.",
+   "link": "https://www.ici.fr/centre-val-de-loire/loiret-45/orleans/congres-du-rassemblement-national-mobilisations-antifascistes-et-manifestation-interdite-a-orleans-ce-week-end-3896817?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T16:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "292303495db4bb87",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "'Torino contro il riarmo', sabato cortei di antagonisti e studenti",
+   "summary": "La mobilitazione al momento non ha un percorso",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/torino-contro-il-riarmo-sabato-cortei-di-antagonisti-e-studenti_7f76524e-9dab-4468-9b48-843a0906212b.html",
+   "published": "2026-10-22T16:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "979f9780b27e5332",
@@ -1849,6 +2318,60 @@
    "last_seen": "2026-10-22T13:27"
   },
   {
+   "id": "403bd245d165c0de",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Per Nordio “è molto probabile che la mafia sfrutti le proteste dei camionisti”. Il Pd: “Se conosce elementi concreti vada nelle sedi competenti”",
+   "summary": "“Riguardo alle infiltrazioni mafiose nelle proteste dei camionisti, direi che vi è una forte probabilità che ci sia una strumentalizzazione e una infiltrazione “. A parlare è il ministro della Giustizia, Carlo Nordio , ospite a Start su Sky TG24 . “Un illustre procuratore della Repubblica – prosegu…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/proteste-camionisti-infiltrazioni-mafiose-nordio-notizie/8546739/",
+   "published": "2026-10-22T14:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "e2ebf029dac70e96",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La grande preoccupazione di Salvini: “Legame comunisti-islamisti”. Ma non ci sono evidenze in Italia: “Quello che accade in Francia può accadere anche qui”",
+   "summary": "“La mia grande preoccupazione non sono gli hacker russi , ma il legame tra comunisti e islamisti”. Il vicepremier Matteo Salvini e la Lega hanno “le idee chiare”. Il timore riguarda “il legame tra estremismo islamico e estremismo di sinistra che in Francia si sta vedendo all’opera”. Ma quando gli s…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/salvini-legame-comunisti-islamisti-italia-notizie/8546640/",
+   "published": "2026-10-22T14:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
+   "id": "92517b2a19b29ea5",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Proteste di camionisti e agricoltori, il cdm stanzia sostegni per il caro gasolio. 105 milioni per l’autotrasporto, 60 per l’agricoltura e 10 per la pesca",
+   "summary": "Sessanta milioni di euro per gli agricoltori , 10 milioni per la pesca e 105,2 milioni di nuove risorse per l ’autotrasporto. Il Consiglio dei ministri ha approvato l’annunciato decreto legge con misure di sostegno per i comparti in protesta a causa del caro gasolio determinato dalla guerra in Iran…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/caro-gasolio-decreto-governo-autotrasporto-notizie/8546627/",
+   "published": "2026-10-22T14:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
    "id": "c157ceacf3191034",
    "zone": "fr_national",
    "affects": [],
@@ -1867,22 +2390,22 @@
    "last_seen": "2026-10-22T13:27"
   },
   {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
+   "id": "f822b7ab164fdc37",
+   "zone": "rimini",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
    "kind": "strike",
    "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-22T13:27",
+   "title": "Lo sciopero dei pescatori: “Uscire in mare oggi diventa un debito”. Da Cesenatico a Goro e Comacchio reti ferme",
+   "summary": "Bologna, 22 ottobre 2026 – Uscire per mare oggi diventa un debito\". I pescatori dell'Emilia-Romagna aderiscono alle proteste nazionali con scioperi iniziati questa mattina in diverse località marittime da Cesenatico (Forlì-Cesena) a Goro e Comacchio (Ferrara). “Il caro gasolio sta mettendo in ginoc…",
+   "link": "https://www.ilrestodelcarlino.it/emilia-romagna/economia/sciopero-pescatori-caro-gasolio-cesenatico-goro-comacchio-p4s6t6sl",
+   "published": "2026-10-22T13:45",
    "dates": "",
-   "national": true,
+   "national": false,
    "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "084a3dcee54d49c1",
@@ -1900,7 +2423,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "68a46052a8991481",
@@ -1954,7 +2477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "f677995c34d48ff5",
@@ -1972,7 +2495,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "4a67f5fc6fa36cd5",
@@ -1990,7 +2513,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "1fcb0004ddb1c5d7",
@@ -2044,7 +2567,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "563d835d25c805f7",
@@ -2080,7 +2603,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "b76bc895de249b55",
@@ -2134,7 +2657,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "d3b81b0f694bcf89",
@@ -2152,7 +2675,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "eb0d50ac0676b1c5",
@@ -2188,7 +2711,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "36218969e2a8d62d",
@@ -2242,7 +2765,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "0364f8fc2efc2307",
@@ -2278,7 +2801,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -2314,7 +2837,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "2845dacf6efaf342",
@@ -2333,6 +2856,24 @@
    "soon": false,
    "first_seen": "2026-10-22T07:57",
    "last_seen": "2026-10-22T07:57"
+  },
+  {
+   "id": "b0d3f00b0e427d32",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Caso Ingrid Casali, la Camera Penale: \"La pronuncia conferma le preoccupazioni\" sui rimedi straordinari",
+   "summary": "",
+   "link": "https://www.sanmarinortv.sm/news/comunicati-c9/caso-ingrid-casali-la-camera-penale-la-pronuncia-conferma-le-preoccupazioni-sui-rimedi-straordinari-a297635",
+   "published": "2026-10-22T06:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "d449ca0ee0fe1b5d",
@@ -2368,7 +2909,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "0d0e8ffb3287fa03",
@@ -2641,6 +3182,24 @@
    "last_seen": "2026-10-22T07:57"
   },
   {
+   "id": "f4de526106a6d10b",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Serie D: il Tropical Coriano recrimina, la Solbiatese vince 2-1",
+   "summary": "I romagnoli protestano per alcuni episodi in area, ma tornano a casa senza punti. Decidono Monteiro Barbosa e Scapinello, nel finale accorcia Pasolini.",
+   "link": "https://www.sanmarinortv.sm/sport/calcio-c14/serie-d-il-tropical-coriano-recrimina-la-solbiatese-vince-2-1-a297619",
+   "published": "2026-10-22T03:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T18:06"
+  },
+  {
    "id": "4efe48115cb09ef1",
    "zone": "it_national",
    "affects": [],
@@ -2710,7 +3269,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "445c473bcc96fd30",
@@ -2818,7 +3377,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "caedc067982b36dd",
@@ -2998,7 +3557,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "a240fc415c06a52e",
@@ -3180,7 +3739,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "fca23955eda8859c",
@@ -3648,7 +4207,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "3de6fbe3e62bf9e8",
@@ -3666,7 +4225,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "18a252ed08c0440c",
@@ -3900,7 +4459,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "023791a41796c4f0",
@@ -4116,7 +4675,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "f1ca4613dd871b73",
@@ -4206,7 +4765,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T13:27"
+   "last_seen": "2026-10-22T18:06"
   },
   {
    "id": "e43a53e0242a21e4",
