@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 639,
+  "ms": 780,
   "error": ""
  },
  {
@@ -14,52 +14,25 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 771,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 6,
-  "ms": 238,
-  "error": ""
- },
- {
-  "id": "mit",
-  "name": "意大利交通部 罢工日历",
-  "ok": true,
-  "items": 27,
-  "kept": 14,
-  "ms": 944,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 10,
-  "ms": 1104,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 30,
-  "kept": 1,
-  "ms": 1146,
+  "ms": 950,
   "error": ""
  },
  {
   "id": "ansa_er",
   "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 29,
+  "items": 28,
   "kept": 0,
-  "ms": 1147,
+  "ms": 985,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 27,
+  "kept": 0,
+  "ms": 1000,
   "error": ""
  },
  {
@@ -68,16 +41,7 @@
   "ok": true,
   "items": 68,
   "kept": 2,
-  "ms": 1158,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 9,
-  "ms": 1252,
+  "ms": 1002,
   "error": ""
  },
  {
@@ -85,8 +49,35 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 0,
-  "ms": 154,
+  "kept": 3,
+  "ms": 146,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 4,
+  "ms": 1326,
+  "error": ""
+ },
+ {
+  "id": "mit",
+  "name": "意大利交通部 罢工日历",
+  "ok": true,
+  "items": 27,
+  "kept": 14,
+  "ms": 1354,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 44,
+  "kept": 3,
+  "ms": 206,
   "error": ""
  },
  {
@@ -95,7 +86,25 @@
   "ok": true,
   "items": 31,
   "kept": 6,
-  "ms": 700,
+  "ms": 361,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 9,
+  "ms": 1457,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 6,
+  "ms": 844,
   "error": ""
  },
  {
@@ -104,16 +113,7 @@
   "ok": true,
   "items": 25,
   "kept": 1,
-  "ms": 404,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 43,
-  "kept": 1,
-  "ms": 527,
+  "ms": 414,
   "error": ""
  },
  {
@@ -121,8 +121,17 @@
   "name": "ANSA 头条",
   "ok": true,
   "items": 10,
-  "kept": 0,
-  "ms": 614,
+  "kept": 1,
+  "ms": 475,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 174,
+  "kept": 21,
+  "ms": 775,
   "error": ""
  },
  {
@@ -130,8 +139,8 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 5,
-  "ms": 1049,
+  "kept": 6,
+  "ms": 1216,
   "error": ""
  },
  {
@@ -140,16 +149,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1013,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 167,
-  "kept": 20,
-  "ms": 760,
+  "ms": 1867,
   "error": ""
  }
 ]
