@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:06",
+ "updated": "2026-10-22T21:32",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -22,7 +22,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T01:32",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "bcc3de0163a1e15b",
@@ -45,7 +45,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "1b85bf9280198f19",
@@ -68,7 +68,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "f49d1ea9a2f4a65f",
@@ -91,7 +91,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "638b3e194cc92b78",
@@ -114,7 +114,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "7fd6a0f609521d06",
@@ -137,7 +137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "2fee0f283cc594db",
@@ -183,7 +183,79 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "high",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Par leur entrée progressive dans la lutte, elles et ils l'expriment de plus en plus fortement. Avec des manifestations massives, la journée du 17 octobre a marqué une nouvelle étape dans cette montée de…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-22T21:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "fbbdf7b484e783f3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"On n'est pas écoutés, et en plus on est maltraités\" : dans un rassemblement à Paris, des étudiants remontés contre les interdictions de manifester",
+   "summary": "Une manifestation du collectif Interfac IDF, d'abord interdite par la préfecture, a finalement pu se tenir jeudi après une décision de justice. Sur place, les jeunes participants déplorent les violences et pillages du 17 octobre, mais s'inquiètent du durcissement sécuritaire qui a suivi.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reportage-on-n-est-pas-ecoutes-et-en-plus-on-est-maltraites-a-paris-les-etudiants-remontes-par-les-interdictions-de-manifester-et-la-reponse-securitaire-apres-les-violences-du-17-octobre_8249320.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T21:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "f99dec1e92aa63f1",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations interdites ou autorisées, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 24 octobre ?",
+   "summary": "Une semaine après les scènes de violence et de chaos en marge de la mobilisation contre la vie chère, un \"acte II\" est prévu ce samedi, avec des manifestations partout en France, qui inquiètent les commerçants et les forces de l'ordre. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-du-24-octobre-manifestants-dispositif-de-securite-commercants-a-quoi-s-attendre-ce-samedi-8441930?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-22T21:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "a651eddc7e488a5a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations interdites ou autorisées, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 24 octobre ?",
+   "summary": "Une semaine après les scènes de violence et de chaos en marge de la mobilisation contre la vie chère, un \"acte II\" est prévu ce samedi, avec des manifestations partout en France, qui inquiètent les commerçants et les forces de l'ordre. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-du-24-octobre-manifestants-dispositif-de-securite-commercants-a-quoi-s-attendre-ce-samedi-8441930?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T21:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T18:06",
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "da6656e430cb8848",
@@ -201,7 +273,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "1b0782ba1c643f1f",
@@ -219,43 +291,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
-   "id": "a651eddc7e488a5a",
-   "zone": "fr_national",
+   "id": "afe33e3f848d9ae6",
+   "zone": "milano",
    "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
    "kind": "protest",
    "severity": "high",
-   "title": "Manifestations interdites ou autorisées, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 24 octobre ?",
-   "summary": "Une semaine après les scènes de violence et de chaos en marge de la mobilisation contre la vie chère, un \"acte II\" est prévu ce samedi, avec des manifestations partout en France, qui inquiètent les commerçants et les forces de l'ordre. Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/mobilisation-du-24-octobre-manifestants-dispositif-de-securite-commercants-a-quoi-s-attendre-ce-samedi-8441930?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-22T18:07",
+   "title": "A Ferrara nasce il “Nucleo anti maranza”: la proposta del sindaco leghista per rispondere ai disordini delle proteste",
+   "summary": "Il sindaco leghista di Ferrara , Alan Fabbri , questa volta non si è limitato al solito messaggio di condanna sui disordini che hanno colpito Milano e Bologna durante le manifestazioni, ma è andato oltre. A Ferrara nasce “il Nam, il Nucleo Anti Maranza , una task force voluta dal Comune della città…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/nucleo-anti-maranza-ferrara-task-force-notizie/8546936/",
+   "published": "2026-10-22T18:20",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "high",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Par leur entrée progressive dans la lutte, elles et ils l'expriment de plus en plus fortement. Avec des manifestations massives, la journée du 17 octobre a marqué une nouvelle étape dans cette montée de…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-22T18:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "c7d8054b7f1c088f",
@@ -273,7 +327,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "577d8f4ec0322660",
@@ -327,7 +381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "f8266f9db98b056e",
@@ -381,7 +435,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "ec0e91677fd16bca",
@@ -399,7 +453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "25f634aa7f047e4c",
@@ -453,7 +507,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "cbf105596568bfec",
@@ -471,7 +525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "08fed8094a1818bb",
@@ -489,7 +543,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "074351c2b74fbf34",
@@ -615,7 +669,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "fa9e32ac592529d8",
@@ -633,7 +687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "9e1e0f483b547552",
@@ -759,7 +813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "243c43f2cafeeafc",
@@ -1247,7 +1301,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "afc02d4dbb9b95c7",
@@ -1880,7 +1934,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "6983cad8e2de07af",
@@ -1899,7 +1953,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "059da7d203259a89",
@@ -1918,7 +1972,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -1937,7 +1991,205 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "af1bebdc2034027a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Blocchi dei tir: il governo corre ai ripari, 175 milioni contro il caro carburante",
+   "summary": "Meloni ai camionisti: \"Non tolleriamo intimidazioni\". Slitta la tassa sui minipacchi",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti-105-milioni-per-i-tir-e-70-per_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
+   "published": "2026-10-22T23:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "f91c48b4ec7eefc2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : itinéraire obligatoire, couvre-feu pour les mineurs… La préfète du Gard dévoile ses mesures avant l’Acte II de samedi",
+   "summary": "La préfète du Gard détaillera ce vendredi les mesures esquissées ce jeudi soir sur ses réseaux sociaux.",
+   "link": "https://www.midilibre.fr/2026/10/22/mobilisation-du-24-octobre-itineraire-obligatoire-couvre-feu-pour-les-mineurs-la-prefete-du-gard-devoile-ses-mesures-avant-lacte-ii-de-samedi-13615861.php",
+   "published": "2026-10-22T22:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "687e8a66ce9f12d7",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
+   "summary": "'Diffusi e resistenti blocchi prolungano criticità'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_e4b778ed-6e52-4fe4-803f-9327d22b604c.html",
+   "published": "2026-10-22T22:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "3915f402a3e50ca4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : à Paris, les forces de l'ordre évacuent à nouveau l'université Sorbonne Nouvelle",
+   "summary": "\"Le recours à la force publique n'est jamais une décision anodine\", a estimé l'établissement, jeudi, dans un communiqué.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-les-partis-politiques-recus-a-matignon-dans-la-journee-le-renseignement-convoque-a-l-elysee-pour-un-conseil-de-securite_8248414.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T22:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "477bff99873a6102",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un recours déposé devant le Conseil d'Etat après les déclarations d'Emmanuel Macron sur l'interdiction de certaines manifestations",
+   "summary": "L'association de défense des libertés constitutionnelles et le Syndicat de la magistrature qui déposent ce recours reprochent au président de la République ses propos, jeudi, demandant que seules les manifestations organisées par des syndicats soient autorisées dans les prochains jours.",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/info-franceinfo-un-recours-depose-devant-le-conseil-d-etat-apres-les-declarations-d-emmanuel-macron-sur-l-interdiction-de-certaines-manifestations_8249314.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T22:16",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "66dc0260a84f9817",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "REPLAY Mobilisation du 24 octobre : représentants de partis déçus, mesures chocs annoncées par les préfets pour samedi... Ce qu'il faut retenir ce jeudi",
+   "summary": "À deux jours d’une nouvelle mobilisation, Emmanuel Macron et Sébastien Lecornu multiplient les réunions ce jeudi 22 octobre, entre conseil de sécurité à l’Élysée et rencontre avec les partis politiques à Matignon,...",
+   "link": "https://www.midilibre.fr/2026/10/22/en-direct-mobilisation-du-24-octobre-reunions-de-crise-a-lelysee-et-a-matignon-suivez-la-situation-a-deux-jours-des-manifestations-13614824.php",
+   "published": "2026-10-22T21:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-22T21:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "b987d7466ca9e195",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre à Paris : plusieurs musées parisiens dont le Louvre et Orsay seront fermés",
+   "summary": "En raison de la nouvelle journée de mobilisation prévue ce samedi 24 octobre, plusieurs musées parisiens, dont le Louvre et Orsay, seront fermés ce jour-là, a annoncé jeudi le ministère de la Culture.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-24-octobre-a-paris-plusieurs-musees-parisiens-dont-le-louvre-et-orsay-seront-fermes-9509982?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T21:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "084a3dcee54d49c1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : les manifestations des syndicats seront les seules autorisées, annonce Emmanuel Macron",
+   "summary": "Deux jours avant de nouvelles manifestations prévues partout en France ce samedi 24 octobre, Emmanuel Macron a annoncé, après une réunion avec les services de renseignement et les ministres ce jeudi matin, que seules les manifestations organisées à la demande des syndicats seront autorisées samedi.",
+   "link": "https://www.ici.fr/infos/economie-social/mobilisation-du-24-octobre-les-manifestations-des-syndicats-seront-les-seules-autorisees-annonce-emmanuel-macron-1471834?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T21:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "e76c69a01b7aaf92",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Travaglio: “Putin dietro le proteste di piazza? Le classi dirigenti europee sono detestate. Per loro è più facile dare colpa piuttosto che chiedersi perché ci…",
+   "summary": "“Possibile mai che qualunque elezione che non vada come vogliono le cancellerie europee sia stata truccata da Putin? Possibile mai che qualsiasi manifestazione di protesta, anche di un bambino di 11 anni incappucciato , sia stata ordita da Putin ? Io credo che lo facciamo molto più grosso di quello…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/travaglio-putin-proteste-classi-dirigenti-notizie/8547052/",
+   "published": "2026-10-22T20:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "9fd3e4ceac729c5c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : autoriser uniquement les manifestations des syndicats est \"parfaitement illégal\", affirme la LDH qui envisage des recours",
+   "summary": "La Ligue des Droits de l'Homme dénonce les interdictions de plusieurs manifestations samedi et appelle à une \"proportion\" entre la liberté de manifester qui est \"constitutionnelle\" et \"le respect de l'ordre public\".",
+   "link": "https://www.franceinfo.fr/economie/greve/mobilisation-du-24-octobre-autoriser-uniquement-les-manifestations-des-syndicats-est-parfaitement-illegal-affirme-la-ldh-qui-envisage-des-recours_8249527.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-22T20:16",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "758ef9e158ff450c",
@@ -1955,7 +2207,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "86fe3625ad48410c",
@@ -2009,7 +2261,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "b80b1232a840fc89",
@@ -2027,7 +2279,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "8a1ba3ddd0a506e2",
@@ -2063,7 +2315,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "6f2b1259315eabcb",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gratteri: “Infiltrazioni camorra della protesta dei Tir? Se Nordio ha notizie le denunci alla polizia giudiziaria oltre che ai giornali”",
+   "summary": "“Evidentemente ha notizie di prima mano, conviene che ne parli con il suo omologo il ministro degli Interni e che avverta la polizia giudiziaria per fare le indagini”. Nicola Gratteri così sulle affermazioni del ministro della Giustizia Carlo Nordio che ha ipotizzato infiltrazioni criminali all’int…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/22/protesta-tir-gratteri-nordio-camorra-notizie/8547011/",
+   "published": "2026-10-22T18:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "bebd92c8a36a8086",
@@ -2081,7 +2351,43 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "69dbdb7bcc30d471",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Bouches-du-Rhône : manifestations \"déclarées ou non déclarées\" interdites, transports coupés, couvre-feu élargi",
+   "summary": "Le préfet des Bouches-du-Rhône, Jacques Witkowski, annonce de nouvelles mesures pour prévenir les troubles à l’ordre public, après les événements survenus le 17 octobre à Marseille. Manifestations, couvre-feux, transports : le détail de ses mesures.",
+   "link": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/bouches-du-rhone-manifestations-declarees-ou-non-declarees-interdites-transports-coupes-parmi-les-mesures-du-prefet-4011550?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-22T18:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
+  },
+  {
+   "id": "65ca91fe409d3e6a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tramvia a Campo di Marte, più di 3.000 firme in tre giorni contro l'abbattimento degli alberi",
+   "summary": "Firenze, 22 ottobre 2026 - Due file, una lungo viale Fanti e l’altra che gira l’angolo in via Carnesecchi. E persone disposte ad aspettare anche mezz’ora pur di firmare. Continua nel Quartiere 2 la mobilitazione contro il taglio degli alberi previsto per la nuova linea 3.2.2 della tramvia Libertà-R…",
+   "link": "https://www.lanazione.it/firenze/cosa-fare/tramvia-a-campo-di-marte-piu-di-3000-firme-in-tre-giorni-contro-labbattimento-degli-alberi-375e380c",
+   "published": "2026-10-22T18:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-22T21:32",
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "bd907651bc4c083f",
@@ -2099,7 +2405,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "67763791239ca495",
@@ -2110,14 +2416,14 @@
    "kind": "protest",
    "severity": "medium",
    "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
-   "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la Répblique et du secteur des Halles. »",
+   "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
    "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
    "published": "2026-10-22T18:15",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "9ccc90b62349a93f",
@@ -2135,7 +2441,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "1cec8cc8ee5b2710",
@@ -2153,25 +2459,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-22T18:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "ec02a005255ebf59",
@@ -2189,7 +2477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "096122fab1d32ffd",
@@ -2207,7 +2495,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "9adb0569f3b97310",
@@ -2225,7 +2513,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "0d7d46c87e362fb9",
@@ -2261,7 +2549,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "979f9780b27e5332",
@@ -2405,25 +2693,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
-  },
-  {
-   "id": "084a3dcee54d49c1",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : les manifestations des syndicats seront les seules autorisées, annonce Emmanuel Macron",
-   "summary": "Deux jours avant de nouvelles manifestations prévues partout en France ce samedi 24 octobre, Emmanuel Macron a annoncé, après une réunion avec les services de renseignement et les ministres ce jeudi matin, que seules les manifestations organisées à la demande des syndicats seront autorisées samedi.",
-   "link": "https://www.ici.fr/infos/economie-social/mobilisation-du-24-octobre-les-manifestations-des-syndicats-seront-les-seules-autorisees-annonce-emmanuel-macron-1471834?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-22T13:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "68a46052a8991481",
@@ -2477,7 +2747,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "f677995c34d48ff5",
@@ -2495,7 +2765,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "4a67f5fc6fa36cd5",
@@ -2513,7 +2783,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "1fcb0004ddb1c5d7",
@@ -2567,7 +2837,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "563d835d25c805f7",
@@ -2603,7 +2873,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "b76bc895de249b55",
@@ -2657,7 +2927,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "d3b81b0f694bcf89",
@@ -2675,7 +2945,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "eb0d50ac0676b1c5",
@@ -2711,7 +2981,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "36218969e2a8d62d",
@@ -2765,7 +3035,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "0364f8fc2efc2307",
@@ -2801,7 +3071,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -2837,7 +3107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "2845dacf6efaf342",
@@ -2873,7 +3143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "d449ca0ee0fe1b5d",
@@ -3197,7 +3467,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "4efe48115cb09ef1",
@@ -3269,7 +3539,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "445c473bcc96fd30",
@@ -3377,7 +3647,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "caedc067982b36dd",
@@ -3557,7 +3827,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "a240fc415c06a52e",
@@ -3739,7 +4009,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "fca23955eda8859c",
@@ -4207,7 +4477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "3de6fbe3e62bf9e8",
@@ -4225,7 +4495,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "18a252ed08c0440c",
@@ -4459,7 +4729,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "023791a41796c4f0",
@@ -4675,7 +4945,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "f1ca4613dd871b73",
@@ -4765,7 +5035,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-22T18:06"
+   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "e43a53e0242a21e4",
