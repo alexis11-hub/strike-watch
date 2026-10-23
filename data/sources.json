@@ -4,8 +4,8 @@
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
-  "kept": 1,
-  "ms": 498,
+  "kept": 0,
+  "ms": 634,
   "error": ""
  },
  {
@@ -14,7 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 651,
+  "ms": 754,
   "error": ""
  },
  {
@@ -22,44 +22,35 @@
   "name": "ICI / France Bleu 埃罗省",
   "ok": true,
   "items": 40,
-  "kept": 5,
-  "ms": 209,
-  "error": ""
- },
- {
-  "id": "mit",
-  "name": "意大利交通部 罢工日历",
-  "ok": true,
-  "items": 28,
-  "kept": 17,
-  "ms": 796,
+  "kept": 6,
+  "ms": 351,
   "error": ""
  },
  {
   "id": "ansa_tos",
   "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 26,
+  "items": 24,
   "kept": 0,
-  "ms": 878,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 63,
-  "kept": 2,
-  "ms": 886,
+  "ms": 1008,
   "error": ""
  },
  {
   "id": "ansa_er",
   "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 27,
+  "items": 30,
   "kept": 1,
-  "ms": 887,
+  "ms": 1022,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 64,
+  "kept": 2,
+  "ms": 1030,
   "error": ""
  },
  {
@@ -67,17 +58,8 @@
   "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
   "items": 100,
-  "kept": 7,
-  "ms": 1051,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 8,
-  "ms": 1116,
+  "kept": 6,
+  "ms": 1117,
   "error": ""
  },
  {
@@ -86,16 +68,16 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 247,
+  "ms": 151,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
   "ok": true,
-  "items": 42,
+  "items": 100,
   "kept": 6,
-  "ms": 246,
+  "ms": 1237,
   "error": ""
  },
  {
@@ -103,35 +85,17 @@
   "name": "franceinfo",
   "ok": true,
   "items": 31,
-  "kept": 8,
-  "ms": 546,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
   "kept": 3,
-  "ms": 535,
+  "ms": 497,
   "error": ""
  },
  {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
+  "id": "ici_nat",
+  "name": "ICI 全国",
   "ok": true,
-  "items": 25,
-  "kept": 3,
-  "ms": 328,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 176,
-  "kept": 23,
-  "ms": 456,
+  "items": 43,
+  "kept": 6,
+  "ms": 503,
   "error": ""
  },
  {
@@ -139,8 +103,35 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 14,
-  "ms": 893,
+  "kept": 15,
+  "ms": 852,
+  "error": ""
+ },
+ {
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
+  "ok": true,
+  "items": 25,
+  "kept": 1,
+  "ms": 417,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 668,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 182,
+  "kept": 22,
+  "ms": 751,
   "error": ""
  },
  {
@@ -149,7 +140,16 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1344,
+  "ms": 1347,
   "error": ""
+ },
+ {
+  "id": "mit",
+  "name": "意大利交通部 罢工日历",
+  "ok": false,
+  "items": 0,
+  "kept": 0,
+  "ms": 85199,
+  "error": "URLError: <urlopen error timed out>"
  }
 ]
