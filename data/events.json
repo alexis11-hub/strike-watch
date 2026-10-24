@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:02",
+ "updated": "2026-10-24T04:32",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -186,6 +186,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "6e9cc17f253a8edb",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "EN DIRECT, manifestations du 24 octobre : des centaines de défilés attendus dans plusieurs villes de France, dans un contexte de très forte tension",
+   "summary": "Soixante-dix mille policiers et gendarmes seront déployés, samedi, à l’occasion d’une nouvelle journée de mobilisation sociale où les autorités craignent des débordements et des scènes de pillage. Le week-end dernier, 550 000 personnes avaient défilé dans le pays, selon le gouvernement.",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-des-centaines-de-defiles-attendus-dans-plusieurs-villes-de-france-dans-un-contexte-de-tres-forte-tension_6799445_3224.html",
+   "published": "2026-10-24T05:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "acdcae9fe7e31178",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 24 octobre : comment des militants d'ultradroite s'organisent en ligne pour \"faire face\" aux casseurs",
+   "summary": "Sur TikTok, Discord ou Telegram, des militants identitaires se coordonnent à l'approche des manifestations de ce samedi. Certains affirment vouloir protéger les commerçants mais d'autres évoquent ouvertement la possibilité d'affrontements et le port d'armes.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-24-octobre-comment-des-militants-d-ultradroite-s-organisent-en-ligne-pour-faire-face-aux-casseurs-6992664?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-24T05:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
    "id": "19412918e9f9c3dd",
    "zone": "it_national",
    "affects": [],
@@ -201,7 +237,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T00:01",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "8bf7d41ac9dd0c94",
@@ -219,7 +255,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T00:01",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "c4d3256f991df513",
@@ -237,7 +273,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "72072fa2445c1925",
@@ -255,7 +291,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "921dcaae65f78378",
@@ -273,7 +309,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "45312c0bf36ab29a",
@@ -309,7 +345,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "0d730a6236108e40",
@@ -455,7 +491,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "3add1f3efe00200d",
@@ -473,7 +509,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T04:43",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "00f77628367bb1a8",
@@ -637,7 +673,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1b0782ba1c643f1f",
@@ -655,7 +691,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "afe33e3f848d9ae6",
@@ -907,7 +943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "074351c2b74fbf34",
@@ -1033,7 +1069,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "fa9e32ac592529d8",
@@ -2358,6 +2394,294 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-24T04:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-24T04:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "925435ecb77c23b1",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Wine bar, si chiude la stagione estiva",
+   "summary": "Chiuderà i battenti per la stagione invernale il 31 ottobre il chiosco Wine bar , che per l’ottavo anno consecutivo aveva aperto i battenti in piazza Tre Martiri nel centro storico di Longiano, gestito da Andrea Miano e Barbara Raschi. \"La chiusura – dicono – abbiamo deciso di farla alla fine di ot…",
+   "link": "https://www.ilrestodelcarlino.it/cesena/cronaca/wine-bar-si-chiude-la-4973893d",
+   "published": "2026-10-24T04:24",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "8c3417aa266f5eaf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "L’istituto Varchi scopre lo sciopero: \"Non siamo studenti di serie B\"",
+   "summary": "\"Non siamo studenti di serie B\" e accanto un appello a chi dirige la scuola \"Preside ci siamo anche noi\". Recitano così i due striscioni appesi alla facciata dell’Istituto professionale dell’Iis Varchi in via Marconi dai ragazzi che ieri mattina hanno manifestato per chiedere risposte certe sul lor…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/listituto-varchi-scopre-lo-sciopero-e69ea97e",
+   "published": "2026-10-24T04:23",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "886effa77ba6caf0",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Festa d’autunno e Ambra a teatro. Centro e parcheggi a dura prova",
+   "summary": "Centro storico di Osimo animato, questo fine settimana, dalla Festa d’Autunno e dall’avvio della stagione teatrale con il doppio spettacolo di Ambra Angiolini a teatro. La Festa, con il tradizionale Castagna day, porta oggi un concerto in piazza e domani il mercatino artigianale. \"Considerando anch…",
+   "link": "https://www.ilrestodelcarlino.it/ancona/cronaca/festa-dautunno-e-ambra-a-3a5a4800",
+   "published": "2026-10-24T04:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "9730dd38f74472a9",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un giardino per don Brunetti. Consegnate le firme in Comune",
+   "summary": "Sono state consegnate ieri al sindaco Matteo Biffoni le 2301 firme con la richiesta formale di intitolare il giardino pubblico di Maliseti alla memoria di don Santino Brunetti . I promotori dell’iniziativa, Giovanni Mosca, presidente del Circolo ARCI Quinto Martini, e don Marco Locati, parroco di M…",
+   "link": "https://www.lanazione.it/prato/cronaca/un-giardino-per-don-brunetti-384c2528",
+   "published": "2026-10-24T04:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "891e71a63f25b12f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Senza medico da 4 anni. La ribellione di Sambuca",
+   "summary": "Millecinquecento: che si potesse arrivare sin qui, a questa ennesima cifra tonda, non era probabilmente immaginabile. La prova provata che talvolta la realtà superi la fantasia ce l’hanno in diversi a Sambuca Pistoiese dove cosa significhi quel numero ormai è un dato certo: millecinquecento giorni…",
+   "link": "https://www.lanazione.it/pistoia/cronaca/senza-medico-da-4-anni-08d716a4",
+   "published": "2026-10-24T04:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "ca69acc8d43debc4",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Studenti in presidio in piazza Matteotti per una scuola migliore",
+   "summary": "Studentesse e studenti in piazza questa mattina, 24 ottobre, per chiedere scuole più sicure, trasporti migliori e un diritto allo studio accessibile a tutti . Il presidio, organizzato dalla Rete degli studenti medi di San Benedetto del Tronto, è in programma dalle 8 in piazza Matteotti. La protesta…",
+   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/studenti-in-presidio-in-piazza-a8856b30",
+   "published": "2026-10-24T04:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "71f2ce51005c9b38",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "‘Caro Tari’ nel mirino: \"Nei borghi montani servizi inadeguati\"",
+   "summary": "“ Tari alle stelle, cassonetti in magazzino“ è la sintesi della protesta del circolo della Montagna di Rifondazione comunista che riaccende i riflettori sui disservizi legati alla raccolta dei rifiuti . \"Nelle frazioni montane – sottolinea – i cittadini continuano a fare i conti con cassonetti vecc…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/caro-tari-nel-mirino-nei-47467abf",
+   "published": "2026-10-24T04:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "f467d40c9ac54207",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Le humanities tornano al centro\". Festival a quota 4.500 presenze",
+   "summary": "\"Le humanities stanno tornando centrali nella comprensione e nel governo del presente e nella programmazione del futuro\". Il rettore John McCourt, ideatore del Macerata Humanities Festival , legge così il bilancio della quarta edizione della manifestazione promossa dall’università di Macerata, che…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/le-humanities-tornano-al-centro-08ce0154",
+   "published": "2026-10-24T04:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "e876a3ea3ae07345",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Quanta preoccupazione\". Bonfanti e la trattativa con gli operai sulla gru",
+   "summary": "PESCAGLIA \"L’esperienza è stata dura, complicata, estremamente impegnativa e piena di incognite, almeno quanto inattesa e spiazzante. Al contempo, però, ha aperto uno squarcio su problematiche umane e sociali che non sempre ci troviamo a valutare con la dovuta attenzione, anche se, naturalmente, il…",
+   "link": "https://www.lanazione.it/lucca/cronaca/quanta-preoccupazione-bonfanti-e-la-cd77a28e",
+   "published": "2026-10-24T03:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "e2d76672ade7e005",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Carburanti calmierati e aiuti per la pesca\"",
+   "summary": "Credito d’imposta, prezzi dei carburanti calmierati e aiuti tempestivi per la pesca: sono le richieste di Alleanza Verdi e Sinistra e Partito Socialista Italiano di San Benedetto, che esprimono solidarietà alla marineria ferma per la protesta nazionale contro il caro gasolio. Ieri, intanto, i marit…",
+   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/carburanti-calmierati-e-aiuti-per-fa4d7318",
+   "published": "2026-10-24T03:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "fbc2d9eb7ce2386a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Ora valorizziamo il progetto di Gori\"",
+   "summary": "CORFINO In risposta all’intervento degli ex consiglieri comunali Alberto Comparini, Elio Gaspari e Maria Teresa Nelli, contrari allo spostamento del monumento ai caduti a Corfino, il sindaco di Villa Collemandina Francesco Pioli (foto) afferma che negli incontri tenuti con i cittadini non sono emer…",
+   "link": "https://www.lanazione.it/lucca/cronaca/ora-valorizziamo-il-progetto-di-9274eac0",
+   "published": "2026-10-24T03:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "f4c893d98855eba4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il capitano in visita: \"Un presidio\"",
+   "summary": "Nei giorni scorsi il trentunenne capitano Luca Canale , arrivato a comandare la Compagnia dei Carabinieri di Montecatini dopo avere diretto quella di Santa Margherita Ligure, con una esperienza di Comandante di Plotone alla Scuola Marescialli, ha visitato la sede dell’Associazione Nazionale Carabin…",
+   "link": "https://www.lanazione.it/montecatini/cronaca/il-capitano-in-visita-un-3dd41976",
+   "published": "2026-10-24T03:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "1c8e5bd8d8f92b0b",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Vandali scatenati nei quartieri. L’assessore Crisci: \"Tanti danni\"",
+   "summary": "Vandalismi non solo a Milano. Sebbene gli episodi non avessero niente a che vedere con le proteste che in questi giorni stanno mettendo a ferro e fuoco l’Italia, anche Monsummano ha pagato il suo tributo di atti contro i beni pubblici. Solo lo scorso fine settimana infatti ci sono stati tre episodi…",
+   "link": "https://www.lanazione.it/montecatini/cronaca/vandali-scatenati-nei-quartieri-lassessore-a06f3e10",
+   "published": "2026-10-24T03:48",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
+   "id": "5c3b6443f3dc2b40",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Giù le mani dalla mimosa\". Protesta spontanea per salvare la pianta",
+   "summary": "Giù le mani dall’antica e maestosa mimosa che si trova nel parcheggio ex Marco sport di via Cavour. Ieri mattina alcuni operai erano nel piazzale per iniziare a tagliare la mimosa, quando attirati dai rumori alcuni cittadini le cui finestre affacciano nel parcheggio hanno chiamato la polizia munici…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/giu-le-mani-dalla-mimosa-538abed5",
+   "published": "2026-10-24T03:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T04:30",
+   "last_seen": "2026-10-24T04:30"
+  },
+  {
    "id": "70b4fabd2edb41ec",
    "zone": "fr_national",
    "affects": [],
@@ -2373,43 +2697,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T00:01",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-24T00:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-24T00:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "58e4d7d48ef5c09d",
@@ -2445,7 +2733,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "602dbcf7931a96a7",
@@ -2463,7 +2751,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "ab8b0caf9f411307",
@@ -2481,7 +2769,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1be76a2b1fbbb1be",
@@ -2499,7 +2787,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "6573aaffbbda3560",
@@ -2517,7 +2805,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T00:01",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "95923c265f489635",
@@ -2535,7 +2823,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "87a11a57da28395c",
@@ -2553,7 +2841,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "20c92b319823590f",
@@ -2589,7 +2877,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "9c500aa45b1ee8a2",
@@ -2625,7 +2913,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1977c6fd7fd2265b",
@@ -2661,7 +2949,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1fdab3bebdef8678",
@@ -2679,7 +2967,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "65b6a5165227a5d5",
@@ -2715,7 +3003,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "f1ea7604b8d942b1",
@@ -2733,7 +3021,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "6c8e31ddf050fb1b",
@@ -2769,7 +3057,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "b6d018666c01b497",
@@ -2787,7 +3075,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "9bb23453d87538ce",
@@ -2805,7 +3093,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "4664c1d0dbe35076",
@@ -2823,7 +3111,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "5ab33fca71946fd4",
@@ -2933,7 +3221,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "4d71797f7a6b0d24",
@@ -2989,7 +3277,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "789688cdd7bdff7d",
@@ -3205,7 +3493,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1cec8cc8ee5b2710",
@@ -3223,7 +3511,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "38198544b7024d54",
@@ -3241,7 +3529,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "5dd8e02ebaddff90",
@@ -3331,7 +3619,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "ec5f8cad28f4fb30",
@@ -3403,7 +3691,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "795e00cf6b887895",
@@ -3963,7 +4251,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "f91c48b4ec7eefc2",
@@ -3981,7 +4269,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "687e8a66ce9f12d7",
@@ -4143,7 +4431,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "86fe3625ad48410c",
@@ -4197,7 +4485,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "b80b1232a840fc89",
@@ -4215,7 +4503,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "8a1ba3ddd0a506e2",
@@ -4269,7 +4557,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "69dbdb7bcc30d471",
@@ -4323,7 +4611,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "9ccc90b62349a93f",
@@ -4341,7 +4629,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "ec02a005255ebf59",
@@ -4359,7 +4647,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "096122fab1d32ffd",
@@ -4413,7 +4701,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "979f9780b27e5332",
@@ -4611,7 +4899,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "f677995c34d48ff5",
@@ -4629,7 +4917,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "4a67f5fc6fa36cd5",
@@ -4701,7 +4989,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "563d835d25c805f7",
@@ -4791,7 +5079,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "d3b81b0f694bcf89",
@@ -4809,7 +5097,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "eb0d50ac0676b1c5",
@@ -4845,7 +5133,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "36218969e2a8d62d",
@@ -4935,7 +5223,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -5403,7 +5691,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "445c473bcc96fd30",
@@ -5511,7 +5799,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "caedc067982b36dd",
@@ -5873,7 +6161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-24T00:01"
+   "last_seen": "2026-10-24T04:30"
   },
   {
    "id": "fca23955eda8859c",
