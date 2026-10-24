@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:42",
+ "updated": "2026-10-24T00:02",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -186,6 +186,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "19412918e9f9c3dd",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Gli autotrasportatori in Messico proclamano uno sciopero nazionale a oltranza",
+   "summary": "Da lunedì 26 ottobre protesta contro insicurezza stradale, estorsioni e costi operativi",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/gli-autotrasportatori-in-messico-proclamano-uno-sciopero-nazionale-a-oltranza_6d713ad5-ed16-49e3-ba0e-c62a86ef3ce7.html",
+   "published": "2026-10-23T23:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T00:01",
+   "last_seen": "2026-10-24T00:01"
+  },
+  {
+   "id": "8bf7d41ac9dd0c94",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 24 octobre : pourquoi iront-ils manifester ?",
+   "summary": "La question d'aller manifester est un dilemme pour de nombreux Français qui souhaitent, pour certains, faire entendre leur mécontentement, mais craignent de se faire piéger par les violences.",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-pourquoi-iront-ils-manifester_8251468.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-23T22:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T00:01",
+   "last_seen": "2026-10-24T00:01"
+  },
+  {
    "id": "c4d3256f991df513",
    "zone": "montpellier",
    "affects": [],
@@ -201,7 +237,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "72072fa2445c1925",
@@ -219,7 +255,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "921dcaae65f78378",
@@ -237,7 +273,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "45312c0bf36ab29a",
@@ -273,7 +309,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "0d730a6236108e40",
@@ -293,7 +329,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "d714e590f1c88cf7",
@@ -419,7 +455,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "3add1f3efe00200d",
@@ -437,7 +473,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T04:43",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "00f77628367bb1a8",
@@ -601,7 +637,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1b0782ba1c643f1f",
@@ -619,7 +655,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "afe33e3f848d9ae6",
@@ -871,7 +907,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "074351c2b74fbf34",
@@ -997,7 +1033,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "fa9e32ac592529d8",
@@ -2322,6 +2358,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "70b4fabd2edb41ec",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le congrès du Rassemblement national à Orléans, épicentre d'une nouvelle journée de manifestations à haut risque",
+   "summary": "Les autorités attendent jusqu'à 30 000 personnes samedi dès 10h30, sur un parcours modifié pour éviter le centre-ville. Deux fois plus de monde qu'à l'acmé du mouvement contre la dernière réforme des retraites.",
+   "link": "https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-24T00:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T00:01",
+   "last_seen": "2026-10-24T00:01"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-24T00:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-24T00:01"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-24T00:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-24T00:01"
+  },
+  {
    "id": "58e4d7d48ef5c09d",
    "zone": "fr_national",
    "affects": [],
@@ -2355,7 +2445,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "602dbcf7931a96a7",
@@ -2373,7 +2463,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "ab8b0caf9f411307",
@@ -2391,7 +2481,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1be76a2b1fbbb1be",
@@ -2409,43 +2499,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
-   "id": "4c81878c6455f94d",
+   "id": "6573aaffbbda3560",
    "zone": "fr_national",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
    "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-23T21:40",
+   "title": "Mobilisation du 24 octobre : un référé déposé samedi matin par l'intersyndicale contre le changement de parcours de la manifestation à Paris",
+   "summary": "La préfecture de police de Paris a interdit vendredi après-midi le parcours de la manifestation négocié la veille avec les syndicats pour samedi entre les places de la Bastille et de la Nation et a proposé un parcours alternatif, refusé par l'intersyndicale.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-24-octobre-un-refere-depose-samedi-matin-par-l-intersyndicale-contre-le-changement-de-parcours-de-la-manifestation-a-paris_8251420.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-23T21:37",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T21:40"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-23T21:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-23T21:40"
+   "first_seen": "2026-10-24T00:01",
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "95923c265f489635",
@@ -2463,7 +2535,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "87a11a57da28395c",
@@ -2481,7 +2553,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "20c92b319823590f",
@@ -2517,7 +2589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "9c500aa45b1ee8a2",
@@ -2535,7 +2607,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "ba335aba59b13681",
@@ -2553,7 +2625,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1977c6fd7fd2265b",
@@ -2589,7 +2661,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1fdab3bebdef8678",
@@ -2607,7 +2679,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "65b6a5165227a5d5",
@@ -2643,7 +2715,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "f1ea7604b8d942b1",
@@ -2661,7 +2733,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "6c8e31ddf050fb1b",
@@ -2679,7 +2751,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "b6cee6b8ad60e1df",
@@ -2697,7 +2769,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "b6d018666c01b497",
@@ -2715,7 +2787,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "9bb23453d87538ce",
@@ -2733,7 +2805,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "4664c1d0dbe35076",
@@ -2751,7 +2823,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "5ab33fca71946fd4",
@@ -2789,7 +2861,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "7728ffa0b44b44c2",
@@ -2807,7 +2879,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "7793a99c1e8525f6",
@@ -2825,7 +2897,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "d473979eb9f800dc",
@@ -2843,7 +2915,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "7b76eecedff96774",
@@ -2861,7 +2933,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "4d71797f7a6b0d24",
@@ -2879,7 +2951,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "73c9769b4c7f676d",
@@ -2917,7 +2989,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "789688cdd7bdff7d",
@@ -2935,7 +3007,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "93021b143949fcab",
@@ -2971,7 +3043,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "fd71137fda2c0bf6",
@@ -3097,7 +3169,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1c2ce7891e2d22f5",
@@ -3133,7 +3205,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1cec8cc8ee5b2710",
@@ -3151,7 +3223,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "38198544b7024d54",
@@ -3169,7 +3241,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "5dd8e02ebaddff90",
@@ -3205,7 +3277,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "49b7b48bba0cebe5",
@@ -3259,7 +3331,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "ec5f8cad28f4fb30",
@@ -3331,7 +3403,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "795e00cf6b887895",
@@ -3367,7 +3439,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "424e1f7b072846ea",
@@ -3891,7 +3963,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "f91c48b4ec7eefc2",
@@ -3909,7 +3981,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "687e8a66ce9f12d7",
@@ -3981,7 +4053,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "b987d7466ca9e195",
@@ -4071,7 +4143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "86fe3625ad48410c",
@@ -4125,7 +4197,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "b80b1232a840fc89",
@@ -4143,7 +4215,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "8a1ba3ddd0a506e2",
@@ -4197,7 +4269,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "69dbdb7bcc30d471",
@@ -4251,7 +4323,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "9ccc90b62349a93f",
@@ -4269,7 +4341,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "ec02a005255ebf59",
@@ -4287,7 +4359,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "096122fab1d32ffd",
@@ -4341,7 +4413,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "979f9780b27e5332",
@@ -4539,7 +4611,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "f677995c34d48ff5",
@@ -4557,7 +4629,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "4a67f5fc6fa36cd5",
@@ -4629,7 +4701,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "563d835d25c805f7",
@@ -4719,7 +4791,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "d3b81b0f694bcf89",
@@ -4737,7 +4809,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "eb0d50ac0676b1c5",
@@ -4773,7 +4845,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "36218969e2a8d62d",
@@ -4863,7 +4935,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -5331,7 +5403,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "445c473bcc96fd30",
@@ -5439,7 +5511,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "caedc067982b36dd",
@@ -5801,7 +5873,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-23T21:40"
+   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "fca23955eda8859c",
