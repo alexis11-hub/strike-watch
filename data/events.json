@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:11",
+ "updated": "2026-10-24T21:36",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -186,6 +186,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "a5aeb531276f2ebf",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations du 24 octobre : \"Les cortèges se sont bien passés\", estime le ministre de l'Intérieur, qui dénonce néanmoins la présence de \"casseurs\"",
+   "summary": "Après une journée relativement calme, la situation s'est tendue en fin de cortège dans plusieurs villes, comme à Paris, Marseille, Lille et Lyon.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-24T23:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T19:10",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
    "id": "345a0567a02aeae1",
    "zone": "it_national",
    "affects": [],
@@ -196,12 +214,66 @@
    "title": "Città blindate, cortei in tutta Italia. Alta tensione a Torino",
    "summary": "Indagata la 'mente' del Movimento 17 ottobre. Piantedosi: 'Fermezza contro i violenti'. A Roma manifestanti al Colosseo",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/citta-blindate-cortei-in-tutta-italia.-tensioni-a-torino-milano-firenze.-a-roma_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-   "published": "2026-10-24T21:05",
+   "published": "2026-10-24T22:27",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "e680199ddaa30384",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation en baisse, près de 1 000 interpellations, deux blessés graves… Ce qu'il faut retenir de cette nouvelle journée de manifestation contre la vie chère",
+   "summary": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré le ministre de l'Intérieur, qui rapporte tout de même des affrontements et l'interpellation d'au moins…",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-24T21:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "9a6ab88fc8761317",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Da Parigi a Strasburgo, il grido degli ottocentomila. Una guerriglia senza fine",
+   "summary": "Parigi, 24 ottobre 2026 – Doveva essere una giornata priva di violenze, visto lo schieramento di polizia e gendarmeria (oltre 70mila uomini) disposto dal ministro degli Interni Laurent Nunez, deciso a riscattarsi dopo il ’fiasco’ di sabato 17 ottobre con gli edifici pubblici incendiati, i negozi sa…",
+   "link": "https://www.quotidiano.net/esteri/da-parigi-a-strasburgo-il-grido-degli-ottocentomila-una-guerriglia-senza-fine-grfmlr2j",
+   "published": "2026-10-24T21:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "2100b2cfc2f3a26e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manganelli e bottigliate: a Firenze la guerriglia va in scena a Santa Trinita. Incappucciati come furie, scontri fino a sera",
+   "summary": "Firenze, 25 ottobre 2026 – Nato tra i canti dei giovani e l’accorato appello di un’anziana fiorentina, il corteo (improvvisato) che ieri ha affollato il centro di Firenze si è trasformato, ingigantito, a ogni via attraversata. Fino a diventare un agglomerato senza bandiere, fatto di volti travisati…",
+   "link": "https://www.lanazione.it/firenze/cronaca/manganelli-e-bottigliate-a-firenze-la-guerriglia-va-in-scena-a-santa-trinita-incappucciati-come-furie-scontri-fino-a-sera-yhwiycx9",
+   "published": "2026-10-24T21:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7c489dcf9bd5cc3f",
@@ -219,7 +291,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "8b4251fbd601fe67",
@@ -237,7 +309,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ce24362c462b24b6",
@@ -255,7 +327,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "d67ab4b1364f4774",
@@ -273,25 +345,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "a5aeb531276f2ebf",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 24 octobre : \"Les cortèges se sont bien passés\", estime le ministre de l'Intérieur, qui dénonce néanmoins la présence de \"casseurs\"",
-   "summary": "Après une journée relativement calme, la situation s'est tendue en fin de cortège dans plusieurs villes, comme à Paris, Marseille, Lille et Lyon.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-24T20:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "04b2b45763981e95",
@@ -309,7 +363,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "8c263b79222cedbb",
@@ -327,7 +381,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "cf2056e1878c2e0b",
@@ -345,7 +399,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "19ed94b90566f638",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontri al centro di Roma, cariche e idranti sui manifestanti",
+   "summary": "Dopo lancio di bottiglie verso le forze dell'ordine",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/scontri-al-centro-di-roma-cariche-e-idranti-sui-manifestanti_b6b52709-4233-4e10-90bb-970379051cac.html",
+   "published": "2026-10-24T19:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "6b56102ecd28b08e",
@@ -381,7 +453,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "248b98bfc5b92381",
@@ -419,7 +491,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "f08d78bb12dafe64",
@@ -437,7 +509,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ae90b16cd38d8fb9",
@@ -473,7 +545,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7156bc894699ce70",
@@ -491,7 +563,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "2e0ee08020ae1fcd",
@@ -509,7 +581,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "202f374f195e3b4f",
@@ -581,7 +653,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "e09fdc6be156f465",
@@ -599,7 +671,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "d079906ddb06fef7",
@@ -619,7 +691,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "df506ba5e0035eeb",
@@ -704,14 +776,14 @@
    "kind": "protest",
    "severity": "high",
    "title": "Manifestazione contro il caro vita a Firenze, maxi corteo attraversa il centro. Scontri dimostranti polizia in via Tornabuoni, serata di tensione",
-   "summary": "Firenze, 24 ottobre 2026 – Si chiude dopo alcune cariche della polizia e momenti di tensione la giornata di manifestazioni a Firenze contro il caro vita. Nella prima parte della giornata, si temevano saccheggi messi in atto da giovanissimi come accaduto il 17 ottobre a Milano . Tanto è vero che mol…",
+   "summary": "Firenze, 24 ottobre 2026 – Si sono viste anche alcune cariche della polizia e momenti di tensione durante la giornata di manifestazioni a Firenze contro il caro vita. Nella prima parte della giornata, si temevano saccheggi messi in atto da giovanissimi come accaduto il 17 ottobre a Milano . Tanto è…",
    "link": "https://www.lanazione.it/firenze/cronaca/manifestazioni-firenze-violenze-saccheggi-diretta-wr03n8r1",
    "published": "2026-10-24T08:25",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "2b217aa8668defac",
@@ -801,7 +873,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "2dbdd286ef3a0392",
@@ -837,7 +909,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "14fa12d167f4140f",
@@ -873,7 +945,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T04:30",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "6e9cc17f253a8edb",
@@ -945,7 +1017,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "72072fa2445c1925",
@@ -1345,7 +1417,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "1b0782ba1c643f1f",
@@ -1615,7 +1687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "074351c2b74fbf34",
@@ -3066,6 +3138,168 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "02bf0aa4d1fbb00d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée... Revivez la jou…",
+   "summary": "Des centaines de milliers de personnes ont à nouveau manifesté samedi pour défendre le pouvoir d’achat et réclamer de meilleurs services publics. Le ministre de l’intérieur, Laurent Nuñez, estimant que « les cortèges se sont bien passés » malgré « près de 1 000 » interpellations .Des heurts ont lie…",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html",
+   "published": "2026-10-24T23:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "5865c5b32fa58230",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortei di protesta da Roma a Milano TUTTI I VIDEO",
+   "summary": "Città blindate e tensioni nelle piazze, presa la 'mente' del M1710",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
+   "published": "2026-10-24T22:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "20bf6f109da042d7",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "REPLAY Mobilisation du 24 octobre : 6 300 manifestants à Montpellier, 600 à Nîmes et Alès, 1 000 interpellations en France",
+   "summary": "Entre 400 000 et 500 000 sont attendues à l’occasion des manifestations partout en France, ce samedi 24 octobre. Cet \"acte II\" des Gilets jaunes sera marqué par un dispositif de sécurité accru malgré la série...",
+   "link": "https://www.midilibre.fr/2026/10/24/en-direct-mobilisation-du-24-octobre-jusqua-500-000-personnes-attendues-par-le-gouvernement-suivez-les-manifestations-13617618.php",
+   "published": "2026-10-24T22:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "2a647cbfd919b08d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
+   "summary": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html",
+   "published": "2026-10-24T21:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "f9114532211f4737",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Réformer Parcoursup, prendre soin des lycées, augmenter le SMIC… Quelles pistes pour calmer la colère des manifestants ?",
+   "summary": "Alors qu'une nouvelle journée de mobilisation avait lieu ce samedi 24 octobre partout en France, comment calmer la colère et répondre aux revendications des manifestants ? Plusieurs pistes sont à l’étude à commencer par une hausse du SMIC.",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reformer-parcoursup-prendre-soin-des-lycees-augmenter-le-smic-quelles-pistes-pour-calmer-la-colere_8252509.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-24T21:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T19:10",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-24T21:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-24T21:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "355cdc822ff64474",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
+   "summary": "9 arresti, 87 le persone denunciate",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
+   "published": "2026-10-24T21:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "d7d3674313ae64ba",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tensioni a manifestazione Firenze, corteo 'in stallo' fino a sera",
+   "summary": "Manifestanti vogliono raggiungere via del lusso ma forze dell'ordine sbarrano l'accesso",
+   "link": "https://www.ansa.it/toscana/notizie/2026/10/24/tensioni-a-manifestazione-firenze-corteo-in-stallo-fino-a-sera_ac97f7ce-4caf-4058-9775-a2e6fddc5a87.html",
+   "published": "2026-10-24T21:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T19:10",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
    "id": "ea2a993bbb3e82fd",
    "zone": "fr_national",
    "affects": [],
@@ -3081,7 +3315,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "2b67bf750f7b0b03",
@@ -3099,25 +3333,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "f9114532211f4737",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Réformer Parcoursup, prendre soin des lycées, augmenter le SMIC… Quelles pistes pour calmer la colère des manifestants ?",
-   "summary": "Alors qu'une nouvelle journée de mobilisation avait lieu ce samedi 24 octobre partout en France, comment calmer la colère et répondre aux revendications des manifestants ? Plusieurs pistes sont à l’étude à commencer par une hausse du SMIC.",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reformer-parcoursup-prendre-soin-des-lycees-augmenter-le-smic-quelles-pistes-pour-calmer-la-colere_8252509.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-24T21:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7ea133ba12cfc7c9",
@@ -3153,43 +3369,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "d7d3674313ae64ba",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "ansa_tos",
-   "source": "ANSA 托斯卡纳",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tensioni a manifestazione Firenze, corteo 'in stallo' fino a sera",
-   "summary": "Manifestanti vogliono raggiungere via del lusso ma forze dell'ordine sbarrano l'accesso",
-   "link": "https://www.ansa.it/toscana/notizie/2026/10/24/tensioni-a-manifestazione-firenze-corteo-in-stallo-fino-a-sera_ac97f7ce-4caf-4058-9775-a2e6fddc5a87.html",
-   "published": "2026-10-24T20:39",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "419f2b82d65bb88d",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges \"bon enfant\", heurts dans certaines villes, interpellations : que retenir de la mobilisation du 24 octobre ?",
-   "summary": "La journée de mobilisation pour le pouvoir d'achat et la défense des services publics avait lieu ce samedi. À l'appel d'anciens gilets jaunes, de syndicats et de lycéens, plusieurs centaines de milliers de personnes sont descendues dans la rue, malgré l'interdiction de nombreux cortèges.",
-   "link": "https://www.ici.fr/infos/societe/corteges-bon-enfant-debordements-a-paris-1-000-interpellations-que-retenir-de-la-mobilisation-du-24-octobre-5674059?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-24T20:13",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ecae593d70f16c3b",
@@ -3207,7 +3387,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "419f2b82d65bb88d",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges \"bon enfant\", heurts dans certaines villes, interpellations : que retenir de la mobilisation du 24 octobre ?",
+   "summary": "La journée de mobilisation pour le pouvoir d'achat et la défense des services publics avait lieu ce samedi. À l'appel d'anciens gilets jaunes, de syndicats et de lycéens, plusieurs centaines de milliers de personnes sont descendues dans la rue, malgré l'interdiction de nombreux cortèges.",
+   "link": "https://www.ici.fr/infos/societe/corteges-bon-enfant-debordements-a-paris-1-000-interpellations-que-retenir-de-la-mobilisation-du-24-octobre-5674059?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-24T20:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T19:10",
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ce022f96bc2a56e6",
@@ -3228,42 +3426,6 @@
    "last_seen": "2026-10-24T19:10"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-24T19:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-24T19:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
    "id": "9e9fa1a6cf0bcd35",
    "zone": "it_national",
    "affects": [],
@@ -3279,7 +3441,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "8b4fda6817c645f1",
@@ -3297,7 +3459,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ba665d4c39d5c13c",
@@ -3351,7 +3513,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "4633ef50de31244d",
@@ -3369,7 +3531,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "59908c646ac120cc",
@@ -3459,7 +3621,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "020bd91043a31a35",
@@ -3477,7 +3639,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7ed457094ee871ae",
@@ -3495,7 +3657,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "8ebf0b4d2ca20659",
@@ -3513,7 +3675,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "5e405d54798cc8e2",
@@ -3531,7 +3693,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "c06fda4560dfbb4b",
@@ -3549,7 +3711,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "46ce81ce7327e846",
@@ -3567,7 +3729,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "c560e5dbe287ee7d",
@@ -3585,7 +3747,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ddeb1b7e05066254",
@@ -3603,7 +3765,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "794de0fb9f6f38e3",
@@ -3621,7 +3783,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "c5c1a4f405ed9477",
@@ -3639,7 +3801,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "0ddd525761246da2",
@@ -3657,7 +3819,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ab1108ec65a26bff",
@@ -3675,7 +3837,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "eb35397c36be8023",
@@ -3693,7 +3855,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "1ec790461e4b7da1",
@@ -3713,7 +3875,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ceab0c120a94effa",
@@ -3731,7 +3893,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7131acfb9d08c37f",
@@ -3749,7 +3911,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "5794bafa9ff86a24",
@@ -3767,7 +3929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "5d2685bf2c116b5b",
@@ -3786,6 +3948,24 @@
    "soon": false,
    "first_seen": "2026-10-24T13:18",
    "last_seen": "2026-10-24T13:18"
+  },
+  {
+   "id": "4f7abc57c7d91c9c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : plus de 6.000 personnes dans la manifestation à Montpellier, 700 à Béziers",
+   "summary": "Ce samedi 24 octobre, l'acte II de la mobilisation \"contre la vie chère\" a réuni 700 personnes à Béziers et plus de 4000 à Montpellier, malgré l'interdiction de la préfecture. Un mouvement bien moins suivi que celui de la semaine dernière, et beaucoup plus calme.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-novembre-les-manifestants-toujours-en-attente-du-tribunal-administratif-de-montpellier-2540969?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-24T15:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -3857,7 +4037,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "c1593ce07c057c59",
@@ -3893,7 +4073,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "7962a8aa227da67d",
@@ -3929,7 +4109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "94160472e7ccea3e",
@@ -3965,7 +4145,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "88eb198c5c324f5f",
@@ -3983,7 +4163,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "2d2d985593fdd9d4",
@@ -4019,7 +4199,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "66c28de394a4f2d5",
@@ -4055,7 +4235,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "050b42271aeae662",
@@ -4091,7 +4271,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "646da4c483e249fc",
@@ -4109,7 +4289,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "4e08fe05e19dd517",
@@ -4127,7 +4307,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ae410c76d66a0bc1",
@@ -4145,7 +4325,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "8a3e87bef729daf4",
@@ -4217,7 +4397,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "e5490bccddd96263",
@@ -4235,7 +4415,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "5968086247b11e24",
@@ -4253,7 +4433,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "a1e17d20a47557df",
@@ -4271,7 +4451,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "4692db09442baaaf",
@@ -4361,7 +4541,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "f3bef04f8815fba4",
@@ -4433,7 +4613,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "190c96b7f81a33d9",
@@ -4487,7 +4667,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "6664a4b3cce3f30d",
@@ -4523,7 +4703,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "b828c4cd7caa2f4b",
@@ -4541,7 +4721,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "d51e27f1daaf6919",
@@ -4687,25 +4867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "a1f6cd8a6f50066f",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tolti i blocchi, i tir ripartono . Arrivano le cisterne di benzina: \"Così non resteremo a secco\"",
-   "summary": "Sono 140 i distributori nella nostra provincia, 45 solo nel capoluogo. Un numero in costante calo. Ferrara ha anche un primato non proprio bello, solo il 18% dei distributori offre un prezzo del gasolio inferiore ai 2,20 euro al litro. Siamo in fondo alla classifica stilata da Facile.it sulla rete…",
-   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/tolti-i-blocchi-i-tir-b1b8029d",
-   "published": "2026-10-24T05:13",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "9c1346e10d351299",
@@ -4718,6 +4880,24 @@
    "title": "La protesta viaggia sui social. La questura alza i livelli di guardia",
    "summary": "La miccia si accende sugli smartphone, rimbalza nelle chat degli adolescenti e innesca una domanda: gli appelli alla protesta resteranno confinati sui social o qualcuno scenderà davvero in piazza? La risposta è ancora ignota ma la questura ha già alzato il livello di attenzione. L’allerta è per ogg…",
    "link": "https://www.lanazione.it/arezzo/cronaca/la-protesta-viaggia-sui-social-fbd5e0e8",
+   "published": "2026-10-24T05:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-24T09:06",
+   "last_seen": "2026-10-24T21:35"
+  },
+  {
+   "id": "a1f6cd8a6f50066f",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tolti i blocchi, i tir ripartono . Arrivano le cisterne di benzina: \"Così non resteremo a secco\"",
+   "summary": "Sono 140 i distributori nella nostra provincia, 45 solo nel capoluogo. Un numero in costante calo. Ferrara ha anche un primato non proprio bello, solo il 18% dei distributori offre un prezzo del gasolio inferiore ai 2,20 euro al litro. Siamo in fondo alla classifica stilata da Facile.it sulla rete…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/tolti-i-blocchi-i-tir-b1b8029d",
    "published": "2026-10-24T05:13",
    "dates": "",
    "national": false,
@@ -4759,7 +4939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "96a427f9947b40ed",
@@ -4795,7 +4975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "bc2e6e13b5643276",
@@ -4813,7 +4993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "1f8be6be93449b0f",
@@ -4849,7 +5029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "d737e91c1b725717",
@@ -5209,7 +5389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "602dbcf7931a96a7",
@@ -5227,7 +5407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ab8b0caf9f411307",
@@ -5263,7 +5443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "6573aaffbbda3560",
@@ -5299,7 +5479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "87a11a57da28395c",
@@ -5317,7 +5497,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "20c92b319823590f",
@@ -5353,7 +5533,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "9c500aa45b1ee8a2",
@@ -5443,7 +5623,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "65b6a5165227a5d5",
@@ -5497,7 +5677,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "6c8e31ddf050fb1b",
@@ -5533,7 +5713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "b6d018666c01b497",
@@ -5987,7 +6167,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "38198544b7024d54",
@@ -6095,7 +6275,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ec5f8cad28f4fb30",
@@ -6727,7 +6907,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "f91c48b4ec7eefc2",
@@ -6961,7 +7141,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "b80b1232a840fc89",
@@ -7105,7 +7285,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "ec02a005255ebf59",
@@ -7123,7 +7303,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "096122fab1d32ffd",
@@ -7177,7 +7357,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "979f9780b27e5332",
@@ -7375,7 +7555,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "f677995c34d48ff5",
@@ -7393,7 +7573,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "4a67f5fc6fa36cd5",
@@ -7465,7 +7645,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "563d835d25c805f7",
@@ -7555,7 +7735,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "d3b81b0f694bcf89",
@@ -7573,7 +7753,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "eb0d50ac0676b1c5",
@@ -7609,7 +7789,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "36218969e2a8d62d",
@@ -7699,7 +7879,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -8167,7 +8347,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "445c473bcc96fd30",
@@ -8637,7 +8817,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-24T19:10"
+   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "fca23955eda8859c",
