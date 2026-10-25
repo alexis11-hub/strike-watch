@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:24",
+ "updated": "2026-10-25T19:10",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -186,6 +186,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "24699f2333676398",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "EN DIRECT Mobilisation du 24 octobre : la présence d’une milice d’ultradroite à Montpellier confirmée, nouveau couvre-feu à Lyon… les dernières infos",
+   "summary": "Au lendemain de l’acte II des manifestations du 24 octobre contre la vie chère, qui ont rassemblé plusieurs centaines de milliers de personnes dans toute la France, les autorités font état de près de 1 000...",
+   "link": "https://www.midilibre.fr/2026/10/25/en-direct-mobilisation-du-24-octobre-pres-de-1-000-interpellations-plusieurs-blesses-graves-les-dernieres-infos-au-lendemain-des-manifestations-13619511.php",
+   "published": "2026-10-25T19:36",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "a0f01bb94c3af85a",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 24 octobre : des militants d'ultradroite accusés de violences lors des manifestations",
+   "summary": "Des militants d'ultradroite qui s'étaient \"donné pour mission de protéger les commerces\" sont accusés d'avoir commis des violences lors des manifestations de samedi dans une quinzaine de villes, dont Nice, Montpellier ou encore Nancy. Laurent Nuñez a demandé aux préfets de saisir la justice.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-24-octobre-des-militants-d-ultradroite-accuses-de-violences-lors-des-manifestations-8674665?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-25T18:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
    "id": "be7c006656ede760",
    "zone": "montpellier",
    "affects": [],
@@ -255,7 +291,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "658df35c05993fb8",
@@ -273,7 +309,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "d21a4368895f9f26",
@@ -327,7 +363,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "2a595caf594167f3",
@@ -345,7 +381,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c72d901741227831",
@@ -381,7 +417,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c1dcebaabe41c8c2",
@@ -453,7 +489,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "956429aaf31059ad",
@@ -471,7 +507,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5336c0a76ff81062",
@@ -489,7 +525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "2578ff36e92f17a2",
@@ -597,7 +633,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "a5aeb531276f2ebf",
@@ -705,7 +741,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "8b4251fbd601fe67",
@@ -741,7 +777,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "d67ab4b1364f4774",
@@ -795,7 +831,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "cf2056e1878c2e0b",
@@ -813,7 +849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "19ed94b90566f638",
@@ -831,7 +867,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "6b56102ecd28b08e",
@@ -867,7 +903,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "248b98bfc5b92381",
@@ -1831,7 +1867,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "1b0782ba1c643f1f",
@@ -3534,42 +3570,6 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
-   "id": "3269c8a448127cc2",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "ansa_tos",
-   "source": "ANSA 托斯卡纳",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Al via a Firenze il Festival delle Regioni",
-   "summary": "Taglio del nastro in piazza S.Croce con Giani e il capo della Protezione civile Ciciliano",
-   "link": "https://www.ansa.it/toscana/notizie/2026/10/25/al-via-a-firenze-il-festival-delle-regioni_57c3a562-8f8b-4705-8a29-9edbd7e06dca.html",
-   "published": "2026-10-25T17:03",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "18d6ed9ca4e79d69",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Lycéens à Matignon, casserolades, acte III de la mobilisation sociale : à quoi faut-il s'attendre cette semaine ?",
-   "summary": "La mobilisation sociale se poursuit cette semaine après des manifestations samedi qui se sont déroulées dans le calme. Les organisations lycéennes seront reçues lundi à Matignon, tandis que des casserolades seront organisées vendredi. L'acte III des manifestations est attendu pour samedi.",
-   "link": "https://www.ici.fr/infos/economie-social/lyceens-a-matignon-casserolades-acte-iii-de-la-mobilisation-sociale-a-quoi-faut-il-s-attendre-cette-semaine-1911943?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-25T16:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
    "id": "885aa36497934a31",
    "zone": "fr_national",
    "affects": [],
@@ -3580,30 +3580,30 @@
    "title": "Après l'attaque terroriste dans les Yvelines, des rassemblements contre le racisme organisés partout en France",
    "summary": "Une marche blanche a rassemblé dimanche plusieurs centaines de personnes, venues défiler à Aubervilliers pour rendre hommage au jeune homme tué vendredi à Trappes. D'autres rassemblements auront lieu dans les jours qui viennent.",
    "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/apres-l-attaque-terroriste-dans-les-yvelines-des-rassemblements-contre-le-racisme-organises-partout-en-france_8253274.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-25T16:53",
+   "published": "2026-10-25T19:58",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
-   "id": "e5504c40be82bbb8",
-   "zone": "montpellier",
+   "id": "2df239b41962476e",
+   "zone": "it_national",
    "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
    "kind": "protest",
    "severity": "medium",
-   "title": "Ce groupe d’ultradroite dont la présence a mis le feu aux poudres lors de la manifestation du 24 octobre à Montpellier",
-   "summary": "La manifestation de ce samedi 24 octobre a été marquée par la présence d’une quinzaine d’hommes présentés comme des militants de l’ultradroite. Le groupe a stationné sur la place de la Comédie avant que leur présence...",
-   "link": "https://www.midilibre.fr/2026/10/25/ce-groupe-dultradroite-dont-la-presence-a-mis-le-feu-aux-poudres-lors-de-la-manifestation-du-24-octobre-13619758.php",
-   "published": "2026-10-25T16:35",
+   "title": "Migliaia di manifestanti a Praga contro l'abolizione del canone radio-tv",
+   "summary": "Il governo è accusato di soffocare la libertà di stampa",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/migliaia-di-manifestanti-a-praga-contro-labolizione-del-canone-radio-tv_85b46aea-ebb4-42cf-a6df-9bdd9be48fdb.html",
+   "published": "2026-10-25T19:38",
    "dates": "",
-   "national": false,
+   "national": true,
    "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "4c81878c6455f94d",
@@ -3616,12 +3616,12 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-25T16:23",
+   "published": "2026-10-25T19:09",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -3634,12 +3634,174 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-25T16:23",
+   "published": "2026-10-25T19:09",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "18d6ed9ca4e79d69",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lycéens à Matignon, casserolades, acte III de la mobilisation sociale : à quoi faut-il s'attendre cette semaine ?",
+   "summary": "La mobilisation sociale se poursuit cette semaine après des manifestations samedi qui se sont déroulées dans le calme. Les organisations lycéennes seront reçues lundi à Matignon, tandis que des casserolades seront organisées vendredi. L'acte III des manifestations est attendu pour samedi.",
+   "link": "https://www.ici.fr/infos/economie-social/lyceens-a-matignon-casserolades-acte-iii-de-la-mobilisation-sociale-a-quoi-faut-il-s-attendre-cette-semaine-1911943?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-25T18:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-25T16:23",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "c7cce3364e50ba75",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestazioni a Firenze, Plures Alia comunica variazione nei servizi",
+   "summary": "Firenze, 25 ottobre 2026 – Plures Alia ha comunicato che in occasione delle visite istituzionali e delle manifestazioni previste a Firenze domani, lunedì 26 ottobre , e dopodomani, martedì 27 , potranno verificarsi alcune modifiche ai servizi di raccolta dei rifiuti e pulizia delle strade nel centr…",
+   "link": "https://www.lanazione.it/firenze/cronaca/alia-plures-servizi-modifica-jawd201v",
+   "published": "2026-10-25T18:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "461a3a1de622d3df",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Après les manifestations du 24 octobre, le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hyper-centre de Lyon",
+   "summary": "Afin d'\"assurer l'ordre public et la sécurité\", le couvre-feu est accompagné d'une interdiction de manifestations et d'attroupements sur la partie de la presqu'île concernée, annonce la préfecture du Rhône.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-25T18:36",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "e9988214ec1a73d0",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "libertas",
+   "source": "Libertas.sm",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Repubblica Futura sulla sentenza CEDU: “Preoccupazioni sulla giustizia sammarinese”",
+   "summary": "Repubblica Futura interviene sulla sentenza della Corte europea dei diritti dell’uomo nella causa Casali contro San Marino, sollevando dubbi sulla L'articolo Repubblica Futura sulla sentenza CEDU: “Preoccupazioni sulla giustizia sammarinese” proviene da libertas .",
+   "link": "https://www.libertas.sm/repubblica-futura-sulla-sentenza-cedu-preoccupazioni-sulla-giustizia-sammarinese/",
+   "published": "2026-10-25T18:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "962f60e00b8d97f1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "On a suivi Adam, street medic de 19 ans, dans un cortège parisien",
+   "summary": "Adam a 19 ans, il est sapeur-pompier volontaire et il a décidé d’utiliser sa formation de secouriste pour opérer en tant que “street medic“ dans les manifestations, avec ses amis qu'il a formé. On l’a suivi dans le cortège parisien du 24 octobre.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/on-a-suivi-adam-street-medic-de-19-ans-dans-un-cortege-parisien_8253406.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-25T18:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "3269c8a448127cc2",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Al via a Firenze il Festival delle Regioni",
+   "summary": "Taglio del nastro in piazza S.Croce con Giani e il capo della Protezione civile Ciciliano",
+   "link": "https://www.ansa.it/toscana/notizie/2026/10/25/al-via-a-firenze-il-festival-delle-regioni_f19b9fca-8b3e-4a28-ab39-464832a26329.html",
+   "published": "2026-10-25T18:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T16:23",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "e5504c40be82bbb8",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Ce groupe d’ultradroite dont la présence a mis le feu aux poudres lors de la manifestation du 24 octobre à Montpellier",
+   "summary": "La manifestation de ce samedi 24 octobre a été marquée par la présence d’une quinzaine d’hommes présentés comme des militants de l’ultradroite. Le groupe a stationné sur la place de la Comédie avant que leur présence...",
+   "link": "https://www.midilibre.fr/2026/10/25/ce-groupe-dultradroite-dont-la-presence-a-mis-le-feu-aux-poudres-lors-de-la-manifestation-du-24-octobre-13619758.php",
+   "published": "2026-10-25T17:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T16:23",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "111f83a2d4f96da5",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Campo di Marte, grande partecipazione al gazebo del Partito Futuro Nazionale Arezzo",
+   "summary": "Arezzo, 25ottobre 2026 – «Politica sul campo, ascolto dei cittadini e dei residenti; attenzione costante al territorio». Grande partecipazione ieri, sabato 24 ottobre, all’iniziativa promossa dal Partito Futuro Nazionale Arezzo a Campo di Marte , ad Arezzo. Il gazebo ha registrato la presenza di is…",
+   "link": "https://www.lanazione.it/arezzo/politica/campo-di-marte-grande-partecipazione-al-gazebo-del-partito-futuro-nazionale-arezzo-yfgk4v9u",
+   "published": "2026-10-25T16:43",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "1ac7a775bc15dc6a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Giovani in piazza, i penalisti: “Il governo alza il livello della risposta repressiva, non è la strada giusta. Rischio di strumentalizzazioni”",
+   "summary": "I quasi quattrocento fermi , tra cui un centinaio di minorenni , le duecentocinquanta perquisizioni in 24 ore, gli arresti e le denunce per le manifestazioni nelle varie città italiane non lasciano dubbi: il governo punta a “ innalzare il livello della risposta repressiva “. “Non credo che sia la s…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/25/manifestazioni-giovani-penalisti-risposta-repressiva-notizie/8549689/",
+   "published": "2026-10-25T16:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-25T19:09",
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "ce00f22209c875e5",
@@ -3657,7 +3819,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "f5f2c8a4310ba22a",
@@ -3675,7 +3837,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "eba10e78575070f9",
@@ -3693,7 +3855,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "1725cb188b23eee5",
@@ -3711,7 +3873,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "4057b2f93f5a715c",
@@ -3729,7 +3891,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "6cab10bd17cc8546",
@@ -3749,7 +3911,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -3767,7 +3929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "49653329b0dc0db7",
@@ -3785,7 +3947,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c3d765ebe07dd0c4",
@@ -3803,7 +3965,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "8a0c7a445ccb0b76",
@@ -3821,7 +3983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5865c5b32fa58230",
@@ -3839,7 +4001,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "e0e80d7dff6fc170",
@@ -3857,7 +4019,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "bc61967da17c2d49",
@@ -3875,7 +4037,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "3fa2098cc363eae6",
@@ -3929,7 +4091,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "2b2c79c7c01190f9",
@@ -3983,7 +4145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "f5abe07bbc3e1e00",
@@ -4019,7 +4181,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "a58218dd1c6eebfe",
@@ -4037,7 +4199,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "70a6c2092adbde78",
@@ -4109,7 +4271,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "2a244b6061dc5746",
@@ -4127,7 +4289,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "05d861e566e2c209",
@@ -4163,7 +4325,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5e22b35930cb2428",
@@ -4505,7 +4667,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "2a647cbfd919b08d",
@@ -4559,7 +4721,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "355cdc822ff64474",
@@ -4595,7 +4757,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "ea2a993bbb3e82fd",
@@ -4721,7 +4883,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "8b4fda6817c645f1",
@@ -4739,7 +4901,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "ba665d4c39d5c13c",
@@ -4901,7 +5063,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "020bd91043a31a35",
@@ -4919,7 +5081,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "7ed457094ee871ae",
@@ -4955,7 +5117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5e405d54798cc8e2",
@@ -5009,7 +5171,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c560e5dbe287ee7d",
@@ -5045,7 +5207,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "794de0fb9f6f38e3",
@@ -5063,7 +5225,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c5c1a4f405ed9477",
@@ -5173,7 +5335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "7131acfb9d08c37f",
@@ -5245,7 +5407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -5317,7 +5479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "c1593ce07c057c59",
@@ -5425,7 +5587,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "88eb198c5c324f5f",
@@ -5479,7 +5641,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "66c28de394a4f2d5",
@@ -5515,7 +5677,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "050b42271aeae662",
@@ -5551,7 +5713,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "646da4c483e249fc",
@@ -5605,7 +5767,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "8a3e87bef729daf4",
@@ -5677,7 +5839,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "e5490bccddd96263",
@@ -5695,7 +5857,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5968086247b11e24",
@@ -5713,7 +5875,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "a1e17d20a47557df",
@@ -5731,7 +5893,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "4692db09442baaaf",
@@ -5821,7 +5983,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T13:18",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "f3bef04f8815fba4",
@@ -5857,7 +6019,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "5c67407e1717a84d",
@@ -5965,7 +6127,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "6664a4b3cce3f30d",
@@ -6001,7 +6163,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "b828c4cd7caa2f4b",
@@ -6019,7 +6181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "d51e27f1daaf6919",
@@ -6741,7 +6903,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "6573aaffbbda3560",
@@ -6777,7 +6939,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "87a11a57da28395c",
@@ -6795,7 +6957,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "20c92b319823590f",
@@ -6975,7 +7137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "6c8e31ddf050fb1b",
@@ -7011,7 +7173,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "b6d018666c01b497",
@@ -7465,7 +7627,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "38198544b7024d54",
@@ -7573,7 +7735,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "ec5f8cad28f4fb30",
@@ -9177,7 +9339,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "08fed8094a1818bb",
@@ -9195,7 +9357,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-22T07:57",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "1ebb4c677c1c0c20",
@@ -10133,7 +10295,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-25T16:23"
+   "last_seen": "2026-10-25T19:09"
   },
   {
    "id": "fca23955eda8859c",
