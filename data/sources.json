@@ -1,38 +1,11 @@
 [
  {
-  "id": "smrtv",
-  "name": "San Marino RTV",
-  "ok": true,
-  "items": 20,
-  "kept": 0,
-  "ms": 718,
-  "error": ""
- },
- {
   "id": "libertas",
   "name": "Libertas.sm",
   "ok": true,
   "items": 100,
   "kept": 1,
-  "ms": 1055,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 42,
-  "kept": 8,
-  "ms": 1242,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 5,
-  "ms": 1245,
+  "ms": 568,
   "error": ""
  },
  {
@@ -41,16 +14,34 @@
   "ok": true,
   "items": 24,
   "kept": 0,
-  "ms": 1249,
+  "ms": 675,
   "error": ""
  },
  {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 40,
-  "kept": 9,
-  "ms": 582,
+  "items": 41,
+  "kept": 8,
+  "ms": 680,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 21,
+  "kept": 5,
+  "ms": 683,
+  "error": ""
+ },
+ {
+  "id": "smrtv",
+  "name": "San Marino RTV",
+  "ok": true,
+  "items": 20,
+  "kept": 0,
+  "ms": 681,
   "error": ""
  },
  {
@@ -59,7 +50,7 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 1362,
+  "ms": 808,
   "error": ""
  },
  {
@@ -68,7 +59,16 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 235,
+  "ms": 167,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 9,
+  "ms": 304,
   "error": ""
  },
  {
@@ -76,17 +76,8 @@
   "name": "ICI 全国",
   "ok": true,
   "items": 42,
-  "kept": 5,
-  "ms": 329,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 11,
-  "ms": 1691,
+  "kept": 6,
+  "ms": 152,
   "error": ""
  },
  {
@@ -95,7 +86,16 @@
   "ok": true,
   "items": 31,
   "kept": 5,
-  "ms": 456,
+  "ms": 376,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 11,
+  "ms": 1173,
   "error": ""
  },
  {
@@ -104,16 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 2,
-  "ms": 246,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 13,
-  "ms": 1073,
+  "ms": 274,
   "error": ""
  },
  {
@@ -122,16 +113,25 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 776,
+  "ms": 504,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 132,
-  "kept": 31,
-  "ms": 804,
+  "items": 133,
+  "kept": 30,
+  "ms": 598,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 13,
+  "ms": 976,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1662,
+  "ms": 1227,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83851,
+  "ms": 83023,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
