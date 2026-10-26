@@ -5,25 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 591,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 10,
-  "ms": 747,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 794,
+  "ms": 755,
   "error": ""
  },
  {
@@ -32,25 +14,7 @@
   "ok": true,
   "items": 40,
   "kept": 9,
-  "ms": 410,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 5,
-  "ms": 1073,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 24,
-  "kept": 0,
-  "ms": 1075,
+  "ms": 300,
   "error": ""
  },
  {
@@ -59,7 +23,25 @@
   "ok": true,
   "items": 41,
   "kept": 8,
-  "ms": 1090,
+  "ms": 1319,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 21,
+  "kept": 5,
+  "ms": 1323,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 24,
+  "kept": 0,
+  "ms": 1326,
   "error": ""
  },
  {
@@ -67,17 +49,26 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 1,
-  "ms": 152,
+  "kept": 3,
+  "ms": 94,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "franceinfo",
+  "name": "franceinfo",
   "ok": true,
-  "items": 42,
-  "kept": 6,
-  "ms": 220,
+  "items": 26,
+  "kept": 2,
+  "ms": 218,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 10,
+  "ms": 1585,
   "error": ""
  },
  {
@@ -85,17 +76,17 @@
   "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
   "items": 100,
-  "kept": 2,
-  "ms": 1328,
+  "kept": 6,
+  "ms": 1733,
   "error": ""
  },
  {
-  "id": "franceinfo",
-  "name": "franceinfo",
+  "id": "ici_nat",
+  "name": "ICI 全国",
   "ok": true,
-  "items": 31,
-  "kept": 5,
-  "ms": 338,
+  "items": 42,
+  "kept": 3,
+  "ms": 715,
   "error": ""
  },
  {
@@ -103,8 +94,8 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 2,
-  "ms": 383,
+  "kept": 1,
+  "ms": 576,
   "error": ""
  },
  {
@@ -113,7 +104,7 @@
   "ok": true,
   "items": 100,
   "kept": 13,
-  "ms": 939,
+  "ms": 1276,
   "error": ""
  },
  {
@@ -122,7 +113,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 652,
+  "ms": 796,
   "error": ""
  },
  {
@@ -131,7 +122,7 @@
   "ok": true,
   "items": 133,
   "kept": 30,
-  "ms": 638,
+  "ms": 977,
   "error": ""
  },
  {
@@ -140,7 +131,16 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1355,
+  "ms": 1782,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 1,
+  "ms": 5702,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83728,
+  "ms": 83163,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
