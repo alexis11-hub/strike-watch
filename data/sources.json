@@ -5,133 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 755,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 9,
-  "ms": 300,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 41,
-  "kept": 8,
-  "ms": 1319,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 5,
-  "ms": 1323,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 24,
-  "kept": 0,
-  "ms": 1326,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 3,
-  "ms": 94,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 26,
-  "kept": 2,
-  "ms": 218,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 10,
-  "ms": 1585,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 6,
-  "ms": 1733,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 42,
-  "kept": 3,
-  "ms": 715,
-  "error": ""
- },
- {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
-  "ok": true,
-  "items": 25,
-  "kept": 1,
-  "ms": 576,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 13,
-  "ms": 1276,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 1,
-  "ms": 796,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 133,
-  "kept": 30,
-  "ms": 977,
-  "error": ""
- },
- {
-  "id": "cgt",
-  "name": "CGT 全国工会",
-  "ok": true,
-  "items": 10,
-  "kept": 2,
-  "ms": 1782,
+  "ms": 530,
   "error": ""
  },
  {
@@ -140,7 +14,133 @@
   "ok": true,
   "items": 100,
   "kept": 1,
-  "ms": 5702,
+  "ms": 651,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 25,
+  "kept": 0,
+  "ms": 791,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 21,
+  "kept": 4,
+  "ms": 795,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 39,
+  "kept": 3,
+  "ms": 810,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 6,
+  "ms": 948,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 9,
+  "ms": 467,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 1,
+  "ms": 265,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 30,
+  "kept": 5,
+  "ms": 563,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 0,
+  "ms": 1462,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 42,
+  "kept": 6,
+  "ms": 694,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 646,
+  "error": ""
+ },
+ {
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
+  "ok": true,
+  "items": 25,
+  "kept": 0,
+  "ms": 315,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 132,
+  "kept": 32,
+  "ms": 703,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 10,
+  "ms": 1302,
+  "error": ""
+ },
+ {
+  "id": "cgt",
+  "name": "CGT 全国工会",
+  "ok": true,
+  "items": 10,
+  "kept": 2,
+  "ms": 1539,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83163,
+  "ms": 85273,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
