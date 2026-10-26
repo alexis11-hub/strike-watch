@@ -5,88 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 694,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 841,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 9,
-  "ms": 417,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 5,
-  "ms": 1210,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 41,
-  "kept": 8,
-  "ms": 1214,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 24,
-  "kept": 0,
-  "ms": 1216,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 209,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 42,
-  "kept": 6,
-  "ms": 233,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1546,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 31,
-  "kept": 5,
-  "ms": 358,
+  "ms": 591,
   "error": ""
  },
  {
@@ -95,7 +14,88 @@
   "ok": true,
   "items": 100,
   "kept": 10,
-  "ms": 1628,
+  "ms": 747,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 1,
+  "ms": 794,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 9,
+  "ms": 410,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 21,
+  "kept": 5,
+  "ms": 1073,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 24,
+  "kept": 0,
+  "ms": 1075,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 41,
+  "kept": 8,
+  "ms": 1090,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 1,
+  "ms": 152,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 42,
+  "kept": 6,
+  "ms": 220,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 1328,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
+  "kept": 5,
+  "ms": 338,
   "error": ""
  },
  {
@@ -104,7 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 2,
-  "ms": 414,
+  "ms": 383,
   "error": ""
  },
  {
@@ -113,7 +113,7 @@
   "ok": true,
   "items": 100,
   "kept": 13,
-  "ms": 1265,
+  "ms": 939,
   "error": ""
  },
  {
@@ -122,7 +122,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 998,
+  "ms": 652,
   "error": ""
  },
  {
@@ -131,7 +131,7 @@
   "ok": true,
   "items": 133,
   "kept": 30,
-  "ms": 1120,
+  "ms": 638,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1604,
+  "ms": 1355,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 84293,
+  "ms": 83728,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
