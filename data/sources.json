@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 1,
-  "ms": 628,
+  "ms": 542,
   "error": ""
  },
  {
@@ -14,34 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 1,
-  "ms": 837,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 3,
-  "ms": 1275,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 8,
-  "ms": 747,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 22,
-  "kept": 0,
-  "ms": 1417,
+  "ms": 636,
   "error": ""
  },
  {
@@ -50,16 +23,52 @@
   "ok": true,
   "items": 21,
   "kept": 3,
-  "ms": 1456,
+  "ms": 1048,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 22,
+  "kept": 0,
+  "ms": 1053,
   "error": ""
  },
  {
   "id": "ansa_lom",
   "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 48,
+  "items": 49,
   "kept": 2,
-  "ms": 1487,
+  "ms": 1058,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 3,
+  "ms": 1197,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 8,
+  "ms": 659,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 3,
+  "ms": 168,
   "error": ""
  },
  {
@@ -68,34 +77,16 @@
   "ok": true,
   "items": 100,
   "kept": 12,
-  "ms": 1496,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 214,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 0,
-  "ms": 482,
+  "ms": 1405,
   "error": ""
  },
  {
   "id": "ici_nat",
   "name": "ICI 全国",
   "ok": true,
-  "items": 43,
-  "kept": 6,
-  "ms": 568,
+  "items": 42,
+  "kept": 7,
+  "ms": 213,
   "error": ""
  },
  {
@@ -104,25 +95,25 @@
   "ok": true,
   "items": 100,
   "kept": 11,
-  "ms": 1251,
+  "ms": 933,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 28,
-  "kept": 4,
-  "ms": 835,
+  "items": 31,
+  "kept": 6,
+  "ms": 522,
   "error": ""
  },
  {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
+  "id": "ansa_top",
+  "name": "ANSA 头条",
   "ok": true,
-  "items": 137,
-  "kept": 32,
-  "ms": 840,
+  "items": 10,
+  "kept": 0,
+  "ms": 633,
   "error": ""
  },
  {
@@ -131,7 +122,16 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 799,
+  "ms": 494,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 137,
+  "kept": 30,
+  "ms": 739,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1301,
+  "ms": 1339,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 86073,
+  "ms": 83722,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
