@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:26",
+ "updated": "2026-10-27T19:32",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -163,6 +163,154 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
+   "id": "1a3ee112ae1e0312",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero nazionale dei taxi il 15 dicembre contro il caro carburante",
+   "summary": "'Inerzia del governo'. A novembre manifestazioni a Milano, Napoli e Firenze",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/sciopero-nazionale-dei-taxi-il-15-dicembre_0693e19f-1d49-4414-a09e-43c4a39a5777.html",
+   "published": "2026-10-27T18:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "df53307c4e174295",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Proclamato lo sciopero nazionale dei taxi il 15 di dicembre con manifestazione a Roma: “Immobilismo del governo”",
+   "summary": "I tassisti tornano a incrociare le braccia. “A causa della totale inerzia del governo , le organizzazioni sindacali e associazioni di categoria del settore taxi, riunitesi oggi a Firenze, proclamano lo sciopero nazionale per l’intera giornata del 15 dicembre 2026 con manifestazione a Roma “. Non so…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-taxi-15-dicembre-roma-notizie/8551821/",
+   "published": "2026-10-27T17:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "41b19e123d8744af",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontri al corteo pro Askatasuna, interrogatori precautelari per 19 indagati",
+   "summary": "A Torino, per un indagato l'accusa è tentato omicidio",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/scontri-a-corteo-pro-askatasuna-interrogatori-precautelari-per-19-indagati_4dae6251-ce54-4545-855e-74e40c440783.html",
+   "published": "2026-10-27T17:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "c7c8c500bcb34661",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 17 octobre : la famille de l'homme décédé porte plainte pour \"violences volontaires\"",
+   "summary": "Une plainte pour \"violences volontaires ayant entrainé la mort sans intention de la donner\" a été déposée lundi soir, dix jours après la mort de Christophe M. Ce manifestant est décédé pendant la mobilisation du 17 octobre à Paris. Les circonstances de sa mort sont toujours inconnues.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-17-octobre-la-famille-de-l-homme-decede-porte-plainte-pour-violences-volontaires-3488020?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-27T17:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "169b228001ccf396",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "ENQUETE VIDEO Manifestations du 24 octobre : qu’a fait la police face à l’extrême droite ?",
+   "summary": "De Nice à Rouen et de Montpellier à Nancy, des militants d’extrême droite se sont mobilisés dans de nombreuses villes, samedi. Entre protection des commerces, violences contre les manifestants, et appui aux forces de l’ordre.",
+   "link": "https://www.lemonde.fr/videos/video/2026/10/27/manifestations-du-24-octobre-qu-a-fait-la-police-face-a-l-extreme-droite_6801308_1669088.html",
+   "published": "2026-10-27T16:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "4091b767b966e2bf",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Plus de 2 500 magasins touchés par des dégradations en marge des manifestations des 17 et 24 octobre, selon les chambres de commerce",
+   "summary": "Selon ce bilan, \"1 161 commerces ont été fortement dégradés\", c'est-à-dire pillés, saccagés ou incendiés. Avec 527 commerces concernés, la ville de Marseille et sa métropole ont été encore plus touchées que Paris et l'Ile-de-France.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-2-500-magasins-touches-par-les-violences-en-marge-des-manifestations-des-17-et-24-octobre-selon-les-chambres-de-commerce_8256049.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T16:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "e3257d7b382c15a2",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero 30 ottobre, trasporti precettati da Salvini: “In quei giorni si va al cimitero per commemorare i defunti”",
+   "summary": "Può esserci un’ agitazione sindacale nel comparto dei trasporti due giorni prima della Commemorazione dei defunti , oppure si rischia di comprimere il diritto di andare nei cimiteri nei giorni di massimo afflusso nel corso dell’anno? È vietato, dice la Commissione Garanzia Sciopero sulla base della…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-trasporti-precettazione-commemorazione-defunti/8551542/",
+   "published": "2026-10-27T16:33",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "afcd01ffae910c07",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale 30 ottobre, 22mila persone preparano le proteste su 3 chat Telegram: “Vietato incitare alla violenza”",
+   "summary": "Su Telegram procede l’organizzazione delle proteste, mentre Youssef Siher è agli arresti con l’accusa di terrorismo e il gruppo Movimento 17 ottobre ha chiuso i battenti . Prossimo appuntamento: lo sciopero generale del 30 ottobre contro il carovita . La linea emersa dalla chat Italia in piazza è c…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-telegram-proteste-notizie/8551570/",
+   "published": "2026-10-27T16:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
    "id": "78b6b6bff1130749",
    "zone": "firenze",
    "affects": [],
@@ -178,25 +326,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
-  },
-  {
-   "id": "41b19e123d8744af",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Scontri al corteo pro Askatasuna, interrogatori precautelari per 19 indagati",
-   "summary": "A Torino, per un indagato l'accusa è tentato omicidio",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/scontri-a-corteo-pro-askatasuna-interrogatori-precautelari-per-19-indagati_4dae6251-ce54-4545-855e-74e40c440783.html",
-   "published": "2026-10-27T12:28",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "668d5d9dc9d190fa",
@@ -214,7 +344,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "5c75ddf402326d8c",
@@ -268,7 +398,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "3611002a9cb0a091",
@@ -286,7 +416,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "e575c64407612dbf",
@@ -394,7 +524,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -507,7 +637,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "40c826c5a426445a",
@@ -525,7 +655,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "95d1beaa4fbc40ce",
@@ -579,7 +709,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "8445abc0553719df",
@@ -975,7 +1105,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "799e0fad9a7849de",
@@ -993,7 +1123,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "c1dcebaabe41c8c2",
@@ -1191,7 +1321,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "a5aeb531276f2ebf",
@@ -1299,7 +1429,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "8b4251fbd601fe67",
@@ -4128,6 +4258,204 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "3e01a18a347c9d4d",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Per lo sciopero del 30 ottobre vari preconcentramenti a Milano",
+   "summary": "Lambretta in piazza Leonardo da Vinci, universitari partiranno dai loro atenei",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/27/per-lo-sciopero-del-30-ottobre-vari-preconcentramenti-a-milano_200fe379-2899-41ce-acad-34cbf165706e.html",
+   "published": "2026-10-27T19:43",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-27T19:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-27T19:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "2140c18f221c9929",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Demoskopika, giovani in piazza, indignazione per caro vita davanti a tutto",
+   "summary": "Orientamenti dei ragazzi su video e social",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/demoskopika-giovani-in-piazza-indignazione-per-caro-vita-davanti-a-tutto_8a196598-a58d-4096-bc51-a44ab8e1b661.html",
+   "published": "2026-10-27T18:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "4f1fad859efc86f7",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Agricoltori in piazza Montecitorio: “Meloni e Salvini? Qui li abbiamo votati tutti, i video sulle accise ce li ricordiamo. Ma trovano 13 miliardi per le armi e…",
+   "summary": "“Con tutto il rispetto dell’opposizione noi vogliamo parlare con qualcuno del governo ”. Resterà delusa la richiesta degli agricoltori crotonesi che oggi hanno manifestato davanti alla Camera dei Deputati . “Ci hanno ignorato totalmente”. Uno degli imprenditori agricoli che ha preso la parola duran…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/protesta-agricoltori-montecitorio-meloni-salvini-notizie/8551794/",
+   "published": "2026-10-27T18:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "a6f7feb22ff08eaa",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : pourquoi le gouvernement a-t-il annoncé ses mesures à des créateurs de contenu en avant-première ?",
+   "summary": "Sébastien Lecornu et plusieurs ministres ont reçu des influenceurs et des médias en ligne spécialisés sur les sujets de scolarité. Ils ont été informés en premier des mesures envisagées par le gouvernement pour répondre au mouvement, au grand dam des syndicats lycéens.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-pourquoi-le-gouvernement-a-t-il-annonce-ses-mesures-a-des-createurs-de-contenu-en-avant-premiere_8253583.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T17:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "d1d243e207ca1e11",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "I giovani scendono in piazza perché hanno capito che il sistema attuale dev’essere abbattuto e ricostruito",
+   "summary": "di Alessia Manera* In queste settimane si stanno riempiendo le piazze di tutta Italia e le modalità, le parole d’ordine che le stanno attraversando, meritano una riflessione attenta , soprattutto da parte di quella società adulta che rischia di utilizzare etichette stantie e di bollare come già vis…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/disordini-giovani-nuove-generazioni-repressione-notizie/8551701/",
+   "published": "2026-10-27T17:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "71797d6a2ee6826d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La famille de Christophe M., manifestant mort à Paris aux abords du cortège du 17 octobre, a déposé plainte",
+   "summary": "\"Face à l'impossibilité d'obtenir les conclusions de l'autopsie, effectuée vendredi, nous avons déposé plainte avec constitution de partie civile\", a précisé l'avocat de la famille.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-famille-de-christophe-m-manifestant-mort-a-paris-aux-abords-du-cortege-du-17-octobre-a-depose-plainte_8256034.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T16:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "d2c8ed9ca3d8f217",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation étudiante : pas de rentrée pour près de 20 000 étudiants de l'Université de Bordeaux",
+   "summary": "Le président de l'Université de Bordeaux annonce que les campus Montesquieu, de la Victoire ainsi que ceux de Peixotto et de Bordes resteront fermés du lundi 2 novembre au dimanche 8 novembre, après les vacances. Les conditions pour une réouverture ne sont pas réunies selon la présidence.",
+   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/bordeaux/mobilisation-etudiante-pas-de-rentree-pour-pres-de-20-000-etudiants-de-l-universite-de-bordeaux-4807023?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-27T16:41",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "e0ae8db1672b85d3",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : le ministre appelle à \"reprendre le travail lundi\", les syndicats à poursuivre le mouvement",
+   "summary": "\"Le travail doit reprendre lundi\", a enjoint ce mardi le ministre de l'Enseignement supérieur Philippe Baptiste, au lendemain d'annonces du gouvernement qui n'ont pas convaincu les organisations lycéennes et étudiantes. Ces dernières ont appelé à poursuivre la mobilisation.",
+   "link": "https://www.ici.fr/infos/education/crise-dans-l-education-le-ministre-appelle-a-reprendre-le-travail-lundi-les-syndicats-a-poursuivre-le-mouvement-5085380?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-27T15:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
+   "id": "ec044175f240224f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : le ministre appelle à \"reprendre le travail lundi\", les syndicats à poursuivre le mouvement",
+   "summary": "\"Le travail doit reprendre lundi\", a enjoint ce mardi le ministre de l'Enseignement supérieur Philippe Baptiste, au lendemain d'annonces du gouvernement qui n'ont pas convaincu les organisations lycéennes et étudiantes. Ces dernières ont appelé à poursuivre la mobilisation.",
+   "link": "https://www.ici.fr/infos/education/crise-dans-l-education-le-ministre-appelle-a-reprendre-le-travail-lundi-les-syndicats-a-poursuivre-le-mouvement-5085380?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-27T15:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T19:31",
+   "last_seen": "2026-10-27T19:31"
+  },
+  {
    "id": "55aedb5476ced05e",
    "zone": "fr_national",
    "affects": [],
@@ -4146,42 +4474,6 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-27T14:25",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-27T14:25"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-27T14:25",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-27T14:25"
-  },
-  {
    "id": "dfaa6bae22f1606d",
    "zone": "fr_national",
    "affects": [],
@@ -4197,7 +4489,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "8fdc231b041a8e75",
@@ -4251,7 +4543,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "e8abd5ebbc7e348d",
@@ -4269,7 +4561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "91c657f2363821ba",
@@ -4287,7 +4579,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "f4cc9a0eae82108f",
@@ -4305,7 +4597,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "d17c87154e6877a2",
@@ -4359,7 +4651,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "8adfd26b6da95d04",
@@ -4377,7 +4669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "363bf7c01f84686e",
@@ -4395,7 +4687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "3fd3de6d95af1978",
@@ -4431,7 +4723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "caabf96eb21d6268",
@@ -4449,7 +4741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "3d0f254b04e4f701",
@@ -4467,7 +4759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "cfa3c9ed38e3d872",
@@ -4503,7 +4795,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "19f89e9eaf698711",
@@ -4755,7 +5047,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "c61d7862134b539f",
@@ -4845,7 +5137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "12427e5c6fa91873",
@@ -4989,7 +5281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "11c76dd78fe28bd6",
@@ -5007,7 +5299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "33a1c79d910f7824",
@@ -5061,7 +5353,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "949897c0af09e2b4",
@@ -5097,7 +5389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "e8d91eefd618dde9",
@@ -5205,7 +5497,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5259,7 +5551,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "3ab74a441b17a285",
@@ -5421,7 +5713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "282212cf25682828",
@@ -5457,7 +5749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -5979,7 +6271,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -6123,7 +6415,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "1725cb188b23eee5",
@@ -6197,7 +6489,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -6269,7 +6561,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "8a0c7a445ccb0b76",
@@ -7007,7 +7299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "355cdc822ff64474",
@@ -7711,7 +8003,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -9495,7 +9787,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-27T14:25"
+   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "b6d018666c01b497",
