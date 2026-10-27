@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:32",
+ "updated": "2026-10-27T23:12",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -180,7 +180,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "df53307c4e174295",
@@ -200,7 +200,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "41b19e123d8744af",
@@ -218,7 +218,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -236,7 +236,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "169b228001ccf396",
@@ -254,7 +254,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "4091b767b966e2bf",
@@ -272,7 +272,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "00d96a5910f5c0a8",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero 30 ottobre, trasporti precettati da Salvini: “In quei giorni si va al cimitero per commemorare i defunti”. Usb: “Disobbediremo”",
+   "summary": "Può esserci un’ agitazione sindacale nel comparto dei trasporti due giorni prima della Commemorazione dei defunti , oppure si rischia di comprimere il diritto di andare nei cimiteri nei giorni di massimo afflusso nel corso dell’anno? È vietato, dice la Commissione Garanzia Sciopero sulla base della…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-trasporti-precettazione-commemorazione-defunti/8551542/",
+   "published": "2026-10-27T16:33",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T23:10",
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "e3257d7b382c15a2",
@@ -326,7 +344,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "668d5d9dc9d190fa",
@@ -344,7 +362,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "5c75ddf402326d8c",
@@ -398,7 +416,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "3611002a9cb0a091",
@@ -416,7 +434,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "e575c64407612dbf",
@@ -524,7 +542,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -637,7 +655,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "40c826c5a426445a",
@@ -655,7 +673,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "95d1beaa4fbc40ce",
@@ -709,7 +727,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "8445abc0553719df",
@@ -1105,7 +1123,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "799e0fad9a7849de",
@@ -1123,7 +1141,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "c1dcebaabe41c8c2",
@@ -1321,7 +1339,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "a5aeb531276f2ebf",
@@ -4258,6 +4276,114 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-27T23:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-27T23:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "6390f777fb01b9ed",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'adolescente de 17 ans qui a perdu un œil à Mulhouse en marge de la mobilisation du 17 octobre va porter plainte",
+   "summary": "La jeune fille aurait été grièvement blessée en raison d'un projectile lancé par les forces de l'ordre pendant la manifestation, une enquête a déjà été confiée à l'IGPN.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-adolescente-de-17-ans-qui-a-perdu-un-il-a-mulhouse-en-marge-de-la-mobilisation-du-17-octobre-va-porter-plainte_8256484.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T23:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T23:10",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "11f9d966f3048b22",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Présidentielle 2027 : le député de l’Hérault Charles Alloncle nommé porte-parole de campagne de Marine Le Pen",
+   "summary": "Le député UDR de l’Hérault Charles Alloncle a été nommé \"porte-parole de campagne\" du Rassemblement national ce 27 octobre en vue de la présidentielle 2027. L’ex-rapporteur de la commission sur l’audiovisuel public...",
+   "link": "https://www.midilibre.fr/2026/10/27/presidentielle-2027-le-depute-de-lherault-charles-alloncle-nomme-porte-parole-de-campagne-de-marine-le-pen-13623051.php",
+   "published": "2026-10-27T21:39",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T23:10",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "1e77c6c507e08105",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Exit poll Israele, blocco Eisenkot a 52 seggi, blocco Netanyahu a 50",
+   "summary": "I primi dati di Channel 12",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-blocco-eisenkot-a-52-seggi-blocco-netanyahu-a-50_63fe9e71-471a-4e91-a829-efeca06a828c.html",
+   "published": "2026-10-27T21:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T23:10",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
+   "id": "8c599f4c31811095",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mit precetta sciopero trasporti del 30. Usb, 'lo confermiamo",
+   "summary": "Salvini firma l'ordinanza sullo stop, 'franchigia del 2 novembre'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/mit-precetta-sciopero-trasporti-del-30.-usb-lo-confermiamo_a5821a56-2cff-47a5-92b0-773f154cf7bf.html",
+   "published": "2026-10-27T21:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T23:10",
+   "last_seen": "2026-10-27T23:10"
+  },
+  {
    "id": "3e01a18a347c9d4d",
    "zone": "milano",
    "affects": [],
@@ -4273,43 +4399,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-27T19:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-27T19:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "2140c18f221c9929",
@@ -4327,7 +4417,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -4345,7 +4435,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "a6f7feb22ff08eaa",
@@ -4363,7 +4453,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "d1d243e207ca1e11",
@@ -4381,7 +4471,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "71797d6a2ee6826d",
@@ -4399,7 +4489,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "d2c8ed9ca3d8f217",
@@ -4417,7 +4507,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "e0ae8db1672b85d3",
@@ -4435,7 +4525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "ec044175f240224f",
@@ -4453,7 +4543,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "55aedb5476ced05e",
@@ -4543,7 +4633,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "e8abd5ebbc7e348d",
@@ -4561,7 +4651,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "91c657f2363821ba",
@@ -4579,7 +4669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "f4cc9a0eae82108f",
@@ -4597,7 +4687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "d17c87154e6877a2",
@@ -4651,7 +4741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "8adfd26b6da95d04",
@@ -4669,7 +4759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "363bf7c01f84686e",
@@ -4723,7 +4813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "caabf96eb21d6268",
@@ -4741,7 +4831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "3d0f254b04e4f701",
@@ -4759,7 +4849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "cfa3c9ed38e3d872",
@@ -4795,7 +4885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "19f89e9eaf698711",
@@ -5047,7 +5137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "c61d7862134b539f",
@@ -5137,7 +5227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "12427e5c6fa91873",
@@ -5281,7 +5371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "11c76dd78fe28bd6",
@@ -5299,7 +5389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "33a1c79d910f7824",
@@ -5353,7 +5443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "949897c0af09e2b4",
@@ -5497,7 +5587,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5551,7 +5641,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "3ab74a441b17a285",
@@ -5713,7 +5803,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "282212cf25682828",
@@ -5749,7 +5839,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -6271,7 +6361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -6415,7 +6505,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "1725cb188b23eee5",
@@ -6489,7 +6579,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -6561,7 +6651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "8a0c7a445ccb0b76",
@@ -8003,7 +8093,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -9787,7 +9877,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-27T19:31"
+   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "b6d018666c01b497",
