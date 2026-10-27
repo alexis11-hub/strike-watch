@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:08",
+ "updated": "2026-10-27T14:26",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -163,6 +163,60 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
+   "id": "78b6b6bff1130749",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Scuola, treni, bus e aeroporti: venerdì nero in Toscana, sciopero generale il 30 ottobre",
+   "summary": "Firenze, 27 ottobre 2026 – Scuola, treni, autobus e aeroporti: venerdì 30 ottobre si annuncia una giornata di mobilitazione anche in Toscana. Diverse sigle sindacali hanno proclamato scioperi per l'intera giornata o per specifici settori, con possibili ripercussioni sulle lezioni e sulla mobilità.…",
+   "link": "https://www.lanazione.it/cronaca/scuola-treni-bus-e-aeroporti-venerdi-nero-in-toscana-sciopero-generale-il-30-ottobre-srvlvpgx",
+   "published": "2026-10-27T12:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "41b19e123d8744af",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontri al corteo pro Askatasuna, interrogatori precautelari per 19 indagati",
+   "summary": "A Torino, per un indagato l'accusa è tentato omicidio",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/scontri-a-corteo-pro-askatasuna-interrogatori-precautelari-per-19-indagati_4dae6251-ce54-4545-855e-74e40c440783.html",
+   "published": "2026-10-27T12:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "668d5d9dc9d190fa",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"Casseurs-payeurs\" : RSA et aides saisies, 10 000 euros d’amende… Que contient le projet de loi controversé qui arrive au Sénat ce mardi ?",
+   "summary": "Le Sénat examine mardi 27 octobre 2026 le projet de loi \"casseurs-payeurs\", visant à responsabiliser financièrement les fauteurs de troubles lors de manifestations. Ce texte, soutenu par la droite et l’extrême droite,...",
+   "link": "https://www.midilibre.fr/2026/10/27/casseurs-payeurs-rsa-et-aides-saisies-10-000-euros-damende-que-contient-le-projet-de-loi-controverse-qui-arrive-au-senat-ce-mardi-13622189.php",
+   "published": "2026-10-27T10:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
    "id": "5c75ddf402326d8c",
    "zone": "it_national",
    "affects": [],
@@ -214,7 +268,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "3611002a9cb0a091",
@@ -232,7 +286,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "e575c64407612dbf",
@@ -307,6 +361,24 @@
    "last_seen": "2026-10-27T08:06"
   },
   {
+   "id": "0a630805e3e6be91",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisations sociales : le Sénat et le gouvernement comptent durcir le projet de loi « casseurs-payeurs », examiné à partir de mardi dans l’Hémicycle",
+   "summary": "Le texte, mis en avant depuis les violences du 17 octobre, sera examiné en séance publique, mardi 27 octobre, au Sénat. Les sénateurs l’ont déjà durci en commission des lois.",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html",
+   "published": "2026-10-27T05:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
    "id": "e2cb6f30be6367c6",
    "zone": "montpellier",
    "affects": [],
@@ -322,7 +394,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -435,7 +507,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "40c826c5a426445a",
@@ -453,7 +525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "95d1beaa4fbc40ce",
@@ -507,7 +579,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "8445abc0553719df",
@@ -903,7 +975,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "799e0fad9a7849de",
@@ -921,7 +993,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "c1dcebaabe41c8c2",
@@ -1119,7 +1191,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "a5aeb531276f2ebf",
@@ -1227,7 +1299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "8b4251fbd601fe67",
@@ -1263,7 +1335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "d67ab4b1364f4774",
@@ -1317,7 +1389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "cf2056e1878c2e0b",
@@ -1353,7 +1425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "6b56102ecd28b08e",
@@ -1389,7 +1461,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "248b98bfc5b92381",
@@ -4056,6 +4128,186 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "55aedb5476ced05e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Attentat raciste dans les Yvelines, mobilisation lycéenne... Suivez la séance des Questions au gouvernement à l'Assemblée nationale à partir de 15 heures",
+   "summary": "Le maire de Trappes, Ali Rabeh, est attendu dans l'hémicycle mardi, où les députés vont observer une minute de silence en hommage à Pengo Bossio Wangi, victime de l'attentat raciste perpétré vendredi.",
+   "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/video-attentat-raciste-dans-les-yvelines-mobilisation-lyceenne-suivez-la-seance-des-questions-au-gouvernement-a-l-assemblee-nationale-a-partir-de-15-heures_8255923.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T15:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-27T14:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-27T14:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "dfaa6bae22f1606d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"Le compte n'y est pas\", déplore la secrétaire générale du Snes-FSU après sa réunion avec Edouard Geffray",
+   "summary": "Le syndicat maintient son appel à manifester le 5 novembre.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T13:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "8fdc231b041a8e75",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Migliaia di persone in piazza a Belgrado: la festa per la vittoria della lista studentesca",
+   "summary": "Decine di migliaia di persone sono tornate ieri sera dalle 19 per celebrare la vittoria alle elezioni della Studentska Lista in piazza Slavija, nel centro di Belgrado, nella quale il 22 ottobre è stato tenuto il grande comizio elettorale di chiusura e dove la scorsa notte si è festeggiato. Sul palc…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/proteste-serbia-belgrado-studentska-lista-notizie/8551356/",
+   "published": "2026-10-27T12:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "f923effa2350aac0",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Torino, auto sfreccia in mezzo al corteo: “Era della polizia”. Grimaldi (Avs) interroga Piantedosi: “Venga a rispondere in Aula”",
+   "summary": "Una Citroen C3 bianca , lo slalom a velocità sostenuta in mezzo a piazza Castello , in quel momento piena di manifestanti e cinturata dalla polizia . Diverse persone sfiorate, costrette ad allontanarsi all’ultimo secondo per non essere investite mentre il panico cresceva. Qualcuno ha pensato a un a…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/27/auto-civetta-polizia-corteo-torino-grimaldi-avs-interrogazione-piantedosi/8551292/",
+   "published": "2026-10-27T12:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "9deba98920fc8536",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Quel pays au monde a mieux que Parcoursup ?\" : malgré la colère des lycéens, Jean-Michel Blanquer défend coûte que coûte la plateforme",
+   "summary": "Le gouvernement a annoncé le 26 octobre la disparition de la plateforme Parcoursup d’ici 2028, en réponse à la colère lycéenne. Jean-Michel Blanquer, ancien ministre de l’Éducation, défend son bilan, soulignant une...",
+   "link": "https://www.midilibre.fr/2026/10/27/parcoursup-a-ete-un-progres-enorme-malgre-la-colere-des-lyceens-jean-michel-blanquer-defend-coute-que-coute-la-plateforme-13622133.php",
+   "published": "2026-10-27T11:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "e8abd5ebbc7e348d",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Guerre en Ukraine : ce que l’on sait du cessez-le-feu humanitaire très localisé, annoncé par Melania Trump et qui a débuté ce mardi matin",
+   "summary": "Un cessez-le-feu humanitaire a été instauré mardi 27 octobre 2026 à Olechky, ville ukrainienne sous occupation russe, pour permettre l’acheminement d’aide. Annoncé par Melania Trump, il intervient dans un contexte de...",
+   "link": "https://www.midilibre.fr/2026/10/27/guerre-en-ukraine-ce-que-lon-sait-du-cessez-le-feu-humanitaire-tres-localise-annonce-par-melania-trump-et-qui-a-debute-ce-mardi-matin-13622215.php",
+   "published": "2026-10-27T10:33",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "91c657f2363821ba",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Caro-vita, tagli alla scuola e crisi agricola: protesta al professionale agrario: “Uno sciopero pacifico per il nostro futuro”",
+   "summary": "Firenze, 27 ottobre 2026 – Caro-vita, risorse per l'istruzione e difficoltà del settore agricolo. Sono questi i temi al centro della protesta degli studenti del professionale agrario , che stamani hanno organizzato un presidio pacifico all'esterno della scuola. Davanti ai cancelli di via de’ Vespuc…",
+   "link": "https://www.lanazione.it/firenze/cronaca/caro-vita-tagli-alla-scuola-e-crisi-agricola-protesta-al-professionale-agrario-uno-sciopero-pacifico-per-il-nostro-futuro-kuwkkdbq",
+   "published": "2026-10-27T10:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-27T14:25",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "f4cc9a0eae82108f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 24 octobre : de Montpellier à Toulouse, comment l’extrême droite violente s’est invitée dans les cortèges pour y semer le désordre ?",
+   "summary": "Samedi 24 octobre 2026, en marge des cortèges, des groupes de militants d’extrême droite ont été observés en train d’invectiver les manifestants. Certains ont même été filmés pendant qu’ils s’adonnaient à des...",
+   "link": "https://www.midilibre.fr/2026/10/26/manifestations-du-24-octobre-de-montpellier-a-toulouse-comment-lextreme-droite-violente-sest-invitee-dans-les-corteges-pour-y-semer-le-desordre-13621094.php",
+   "published": "2026-10-27T09:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-26T19:54",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
    "id": "d17c87154e6877a2",
    "zone": "fr_national",
    "affects": [],
@@ -4092,42 +4344,6 @@
    "last_seen": "2026-10-27T08:06"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-27T08:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-27T08:06"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-27T08:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-27T08:06"
-  },
-  {
    "id": "89340dfa34899285",
    "zone": "firenze",
    "affects": [],
@@ -4143,7 +4359,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "8adfd26b6da95d04",
@@ -4161,7 +4377,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "363bf7c01f84686e",
@@ -4179,7 +4395,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "3fd3de6d95af1978",
@@ -4197,7 +4413,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "194f2bb4417fc828",
@@ -4215,7 +4431,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "caabf96eb21d6268",
@@ -4233,7 +4449,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "3d0f254b04e4f701",
@@ -4251,7 +4467,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "cfa3c9ed38e3d872",
@@ -4269,7 +4485,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "f0c4a8b1e0f3a0a1",
@@ -4287,7 +4503,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "19f89e9eaf698711",
@@ -4539,7 +4755,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "c61d7862134b539f",
@@ -4614,22 +4830,22 @@
    "last_seen": "2026-10-27T02:20"
   },
   {
-   "id": "f4cc9a0eae82108f",
+   "id": "7bf7eb1e20d1d9ea",
    "zone": "montpellier",
    "affects": [],
    "source_id": "midilibre",
    "source": "Midi Libre",
    "kind": "protest",
    "severity": "medium",
-   "title": "Manifestations du 24 octobre : de Montpellier à Toulouse, comment l’extrême droite violente s’est invitée dans les cortèges pour y semer le désordre ?",
-   "summary": "Samedi 24 octobre 2026, en marge des cortèges, des groupes de militants d’extrême droite ont été observés en train d’invectiver les manifestants. Certains ont même été filmés pendant qu’ils s’adonnaient à des...",
-   "link": "https://www.midilibre.fr/2026/10/26/manifestations-du-24-octobre-de-montpellier-a-toulouse-comment-lextreme-droite-violente-sest-invitee-dans-les-corteges-pour-y-semer-le-desordre-13621094.php",
-   "published": "2026-10-26T19:59",
+   "title": "Colère des lycéens et annonces du gouvernement : \"Un prêt aux Régions ? On se moque de nous !\", s’indigne Kamel Chibli",
+   "summary": "Kamel Chibli, vice-président à l’Éducation, l’Orientation, la Jeunesse et les Sports, au sein du Conseil régional d’Occitanie détaille et commente les mesures dévoilées ce lundi 26 octobre par le Premier ministre et...",
+   "link": "https://www.midilibre.fr/2026/10/26/colere-des-lyceens-et-annonces-du-gouvernement-un-pret-aux-regions-on-se-moque-de-nous-sindigne-kamel-chibli-13621439.php",
+   "published": "2026-10-26T19:56",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "12427e5c6fa91873",
@@ -4645,24 +4861,6 @@
    "published": "2026-10-26T19:56",
    "dates": "",
    "national": true,
-   "soon": false,
-   "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
-  },
-  {
-   "id": "7bf7eb1e20d1d9ea",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Colère des lycéens et annonces du gouvernement : \"Un prêt aux Régions ? On se moque de nous !\", s’indigne Kamel Chibli",
-   "summary": "Kamel Chibli, vice-président à l’Éducation, l’Orientation, la Jeunesse et les Sports, au sein du Conseil régional d’Occitanie détaille et commente les mesures dévoilées ce lundi 26 octobre par le Premier ministre et...",
-   "link": "https://www.midilibre.fr/2026/10/26/colere-des-lyceens-et-annonces-du-gouvernement-un-pret-aux-regions-on-se-moque-de-nous-sindigne-kamel-chibli-13621439.php",
-   "published": "2026-10-26T19:56",
-   "dates": "",
-   "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
    "last_seen": "2026-10-27T08:06"
@@ -4791,7 +4989,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "11c76dd78fe28bd6",
@@ -4809,7 +5007,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "33a1c79d910f7824",
@@ -4863,7 +5061,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "949897c0af09e2b4",
@@ -4899,7 +5097,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "e8d91eefd618dde9",
@@ -5007,7 +5205,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5061,7 +5259,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "3ab74a441b17a285",
@@ -5223,7 +5421,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "282212cf25682828",
@@ -5259,7 +5457,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -5781,7 +5979,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -5817,7 +6015,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "e5504c40be82bbb8",
@@ -5925,7 +6123,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "1725cb188b23eee5",
@@ -5999,7 +6197,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -6056,24 +6254,6 @@
    "last_seen": "2026-10-27T08:06"
   },
   {
-   "id": "8a0c7a445ccb0b76",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "A Milano una normale domenica di shopping, 'ieri un sospiro di sollievo'",
-   "summary": "Lince dei parà ancora in piazza Duomo, negozi tutti aperti",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/10/25/a-milano-una-normale-domenica-di-shopping-ieri-un-sospiro-di-sollievo_9a912ee8-7aa7-4314-86b6-93ebdc307df8.html",
-   "published": "2026-10-25T12:48",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-27T08:06"
-  },
-  {
    "id": "5865c5b32fa58230",
    "zone": "milano",
    "affects": [],
@@ -6089,6 +6269,24 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
+   "last_seen": "2026-10-27T14:25"
+  },
+  {
+   "id": "8a0c7a445ccb0b76",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Milano una normale domenica di shopping, 'ieri un sospiro di sollievo'",
+   "summary": "Lince dei parà ancora in piazza Duomo, negozi tutti aperti",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/25/a-milano-una-normale-domenica-di-shopping-ieri-un-sospiro-di-sollievo_9a912ee8-7aa7-4314-86b6-93ebdc307df8.html",
+   "published": "2026-10-25T12:48",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-25T12:14",
    "last_seen": "2026-10-27T08:06"
   },
   {
@@ -6809,7 +7007,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "355cdc822ff64474",
@@ -6971,7 +7169,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "1a82247445119b8d",
@@ -6989,7 +7187,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "8b4fda6817c645f1",
@@ -7169,7 +7367,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "020bd91043a31a35",
@@ -7187,7 +7385,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "7ed457094ee871ae",
@@ -7331,7 +7529,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "c5c1a4f405ed9477",
@@ -7513,7 +7711,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -9297,7 +9495,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-27T08:06"
+   "last_seen": "2026-10-27T14:25"
   },
   {
    "id": "b6d018666c01b497",
