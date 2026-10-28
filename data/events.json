@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:12",
+ "updated": "2026-10-28T02:13",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -163,6 +163,24 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
+   "id": "179c35a39ce8185a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisations sociales : le projet de loi « casseurs-payeurs » approuvé et élargi par le Sénat après les violences du 17 octobre",
+   "summary": "Le texte, très critiqué à gauche, a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
+   "published": "2026-10-28T01:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T02:12",
+   "last_seen": "2026-10-28T02:12"
+  },
+  {
    "id": "1a3ee112ae1e0312",
    "zone": "milano",
    "affects": [
@@ -180,7 +198,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "df53307c4e174295",
@@ -200,7 +218,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "41b19e123d8744af",
@@ -218,7 +236,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -236,7 +254,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "169b228001ccf396",
@@ -254,7 +272,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "4091b767b966e2bf",
@@ -272,7 +290,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "00d96a5910f5c0a8",
@@ -290,7 +308,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "e3257d7b382c15a2",
@@ -344,7 +362,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "668d5d9dc9d190fa",
@@ -362,7 +380,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "5c75ddf402326d8c",
@@ -542,7 +560,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -655,7 +673,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "40c826c5a426445a",
@@ -673,7 +691,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "95d1beaa4fbc40ce",
@@ -727,7 +745,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "8445abc0553719df",
@@ -1123,7 +1141,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "799e0fad9a7849de",
@@ -1141,7 +1159,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "c1dcebaabe41c8c2",
@@ -1322,24 +1340,6 @@
    "soon": false,
    "first_seen": "2026-10-25T06:50",
    "last_seen": "2026-10-25T06:50"
-  },
-  {
-   "id": "d16c7c014412bc53",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Cortei in tutta Italia. Alta tensione a Torino - IL RACCONTO DELLA GIORNATA",
-   "summary": "Indagata la 'mente' del Movimento 17 ottobre. Piantedosi: 'Fermezza contro i violenti'. A Roma manifestanti al Colosseo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-in-tutta-italia.-alta-tensione-a-torino-il-racconto-della-giornata_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-   "published": "2026-10-25T00:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "a5aeb531276f2ebf",
@@ -4286,12 +4286,12 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-27T23:10",
+   "published": "2026-10-28T02:12",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -4304,12 +4304,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-27T23:10",
+   "published": "2026-10-28T02:12",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "6390f777fb01b9ed",
@@ -4327,7 +4327,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "11f9d966f3048b22",
@@ -4345,7 +4345,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "1e77c6c507e08105",
@@ -4363,7 +4363,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "8c599f4c31811095",
@@ -4381,7 +4381,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "3e01a18a347c9d4d",
@@ -4399,7 +4399,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "2140c18f221c9929",
@@ -4417,7 +4417,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -4435,7 +4435,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "a6f7feb22ff08eaa",
@@ -4453,7 +4453,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "d1d243e207ca1e11",
@@ -4471,7 +4471,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "71797d6a2ee6826d",
@@ -4489,7 +4489,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "d2c8ed9ca3d8f217",
@@ -4507,7 +4507,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "e0ae8db1672b85d3",
@@ -4525,7 +4525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "ec044175f240224f",
@@ -4543,7 +4543,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "55aedb5476ced05e",
@@ -4633,7 +4633,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "e8abd5ebbc7e348d",
@@ -4651,7 +4651,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "91c657f2363821ba",
@@ -4669,7 +4669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "f4cc9a0eae82108f",
@@ -4687,7 +4687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "d17c87154e6877a2",
@@ -4741,7 +4741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "8adfd26b6da95d04",
@@ -4885,7 +4885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "19f89e9eaf698711",
@@ -5137,7 +5137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "c61d7862134b539f",
@@ -5227,7 +5227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "12427e5c6fa91873",
@@ -5371,7 +5371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "11c76dd78fe28bd6",
@@ -5443,7 +5443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "949897c0af09e2b4",
@@ -5587,7 +5587,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5641,7 +5641,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "3ab74a441b17a285",
@@ -5803,7 +5803,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "282212cf25682828",
@@ -5839,7 +5839,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -6361,7 +6361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -6505,7 +6505,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "1725cb188b23eee5",
@@ -6579,7 +6579,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -6651,7 +6651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "8a0c7a445ccb0b76",
@@ -7264,6 +7264,24 @@
    "soon": false,
    "first_seen": "2026-10-25T06:50",
    "last_seen": "2026-10-25T12:14"
+  },
+  {
+   "id": "d16c7c014412bc53",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortei in tutta Italia. Alta tensione a Torino - IL RACCONTO DELLA GIORNATA",
+   "summary": "Indagata la 'mente' del Movimento 17 ottobre. Piantedosi: 'Fermezza contro i violenti'. A Roma manifestanti al Colosseo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-in-tutta-italia.-alta-tensione-a-torino-il-racconto-della-giornata_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
+   "published": "2026-10-25T00:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-24T23:42",
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "295bc7f3e0c9e9e5",
@@ -8093,7 +8111,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "75b3aae7e6e34706",
@@ -9877,7 +9895,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-27T23:10"
+   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "b6d018666c01b497",
