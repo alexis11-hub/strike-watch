@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T02:13",
+ "updated": "2026-10-28T08:31",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -163,6 +163,96 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
+   "id": "9e758728468432dd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le gouvernement obtient au Sénat l'adoption d'un dispositif permettant le blocage de contenus appelant aux pillages sur les réseaux sociaux",
+   "summary": "Si le texte est adopté à l'Assemblée nationale, les plateformes seraient tenues de procéder au retrait de ces contenus dans un délai de 24 heures, sans quoi elles s'exposeraient à un \"blocage\" ou un \"déréférencement\", selon l'amendement gouvernemental.",
+   "link": "https://www.franceinfo.fr/politique/le-gouvernement-obtient-au-senat-l-adoption-d-un-dispositif-permettant-le-blocage-de-contenus-sur-les-reseaux-sociaux-appelant-aux-pillages_8256943.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T09:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "27fdae05556eac90",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Pillages en marge des manifestations : les commerçants pourront toucher \"jusqu'à 10.000 euros\" d'aides de l'État",
+   "summary": "Les commerçants les plus durement touchés par les pillages en marge des manifestations du 17 et du 24 octobre pourront toucher \"jusqu'à 10.000 euros\" d'aides de l'État, a déclaré ce mardi dans Le Parisien le ministre du Commerce, Serge Papin, annonçant la création d'un fonds de soutien.",
+   "link": "https://www.ici.fr/infos/economie-social/pillages-en-marge-des-manifestations-les-commercants-pourront-toucher-jusqu-a-10-000-euros-d-aides-de-l-etat-1446315?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-28T08:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "69c096a384c7c0f3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Prestations sociales saisies, interdictions de manifester, blocage des réseaux sociaux… Le projet de loi \"casseurs-payeurs\" adopté et élargi au Sénat, en plein…",
+   "summary": "Laurent Nuñez a annoncé qu'il saisirait le Conseil d'Etat sur ces extensions, pour vérifier si \"l'équilibre entre solidarité et réparation\" était bien respecté.",
+   "link": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T07:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "c234daca69da8c1e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Assemblea aretina per lo sciopero, manifestazione venerdì 30 ottobre in occasione dello sciopero generale",
+   "summary": "Arezzo, 28 ottobre 2026 – Non si ferma la stagione delle proteste in città. Assemblea aretina per lo sciopero convoca una manifestazione venerdì 30 ottobre in occasione dello sciopero generale, indetto dai sindacati di base, contro guerra e carovita. La convocazione è per le ore 9:00 ai giardini di…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/assemblea-aretina-per-lo-sciopero-manifestazione-venerdi-30-ottobre-in-occasione-dello-sciopero-generale-rxiyy1bo",
+   "published": "2026-10-28T07:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "a7ccb5708727ca36",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Gli scontri del 20 luglio. Divieto di dimora per quindici attivisti",
+   "summary": "In una città che ribolle di rabbia da giorni, il passato recente delle manifestazioni torna a galla. Quello del 20 luglio scorso, quando il periodo lastricato di tensioni sotto le Due Torri cominciò dalla degenerazione della piazza pacifica convocata inizialmente per solidarietà alla famiglia di Ab…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/gli-scontri-del-20-luglio-e236d108",
+   "published": "2026-10-28T06:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
    "id": "179c35a39ce8185a",
    "zone": "fr_national",
    "affects": [],
@@ -198,7 +288,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "df53307c4e174295",
@@ -236,7 +326,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -362,7 +452,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "9aca5422b341aa5e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations : que prévoit le projet de loi casseur-payeur ?",
+   "summary": "Le projet de loi casseur-payeur, destiné à limiter les violences lors des manifestations, est examiné mercredi 27 octobre au Sénat. Le texte prévoit notamment que les personnes présentes autour d'un casseur puissent être tenues responsables des dégâts. La Ligue des droits de l'homme dénonce un proj…",
+   "link": "https://www.franceinfo.fr/societe/loi-anti-casseurs/manifestations-que-prevoit-le-projet-de-loi-casseur-payeur_8255476.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-27T11:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "668d5d9dc9d190fa",
@@ -380,7 +488,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "5c75ddf402326d8c",
@@ -560,7 +668,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "914d5c4f4cd7bde1",
@@ -673,7 +781,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "40c826c5a426445a",
@@ -745,7 +853,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "8445abc0553719df",
@@ -1141,7 +1249,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "799e0fad9a7849de",
@@ -4276,6 +4384,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "23159238774034f5",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Israele, al 72,4% dello scrutinio blocco Netanyahu con 54 seggi",
+   "summary": "48 allo schieramento di Eisenkot, 18 seggi ai partiti arabi",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/israele-al-724-dello-scrutinio-blocco-netanyahu-con-54-seggi_2fafc1e0-b66c-4914-a734-e867c4957344.html",
+   "published": "2026-10-28T09:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
    "id": "4c81878c6455f94d",
    "zone": "fr_national",
    "affects": [],
@@ -4286,12 +4412,12 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-28T02:12",
+   "published": "2026-10-28T08:30",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -4304,12 +4430,138 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-28T02:12",
+   "published": "2026-10-28T08:30",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "0f759f24ab679532",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisations des lycéens : les députés vont débattre dans l'après-midi de l'avenir de Parcoursup",
+   "summary": "Les différents syndicats qualifient \"d'insuffisantes\" les nouvelles mesures annoncées par le gouvernement lundi et appellent à poursuivre la mobilisation.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T08:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "c6fecb8dd00f6c14",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Elezioni in Israele, Netanyahu avanti nello scrutinio ma senza maggioranza",
+   "summary": "Con oltre metà dei voti conteggiati, il blocco del premier otterrebbe 56 seggi contro i 49 dell'opposizione. Decisivi i partiti arabi. Trump rivendica il proprio sostegno a Netanyahu.",
+   "link": "https://www.sanmarinortv.sm/news/mondo-c8/elezioni-in-israele-netanyahu-avanti-nello-scrutinio-ma-senza-maggioranza-a297827",
+   "published": "2026-10-28T07:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "a176eca2c1b5ca09",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dons des Français en baisse : \"Il y a une bonne mobilisation même si on note une très légère érosion\", constate le Secours populaire",
+   "summary": "Les dons des Français sont en baisse de 18 euros cette année, selon les résultats de l'Observatoire des générosités 2026. Sur franceinfo, Joëlle Bottalico note toutefois une forte mobilisation des plus jeunes.",
+   "link": "https://www.franceinfo.fr/economie/dons-des-francais-en-baisse-il-y-a-une-bonne-mobilisation-meme-si-on-note-une-tres-legere-erosion-constate-le-secours-populaire_8256868.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T07:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "ed4475d546fdaf9b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'antenne de Côte-d'Or du collectif legal team aide les personnes arrêtées lors des mobilisations sociales",
+   "summary": "Depuis une quinzaine d'années, à Dijon, la caisse de solidarité contre la répression aide toutes celles et ceux qui y sont confrontés face à la justice, mieux la comprendre, avoir un avocat, le payer, etc. Depuis le début des mobilisations sociales de cet automne, ses membres sont très mobilisés.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-bourgogne/la-cgt-d-ikea-dijon-sous-le-choc-depuis-l-annonce-d-un-plan-social-national-300-postes-pourraient-disparaitre-3127090?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-28T06:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "91d2a847adcc2825",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fischietti e striscioni . Porto Corsini in piazza: \"No alla Baiona chiusa\"",
+   "summary": "’No chiusura via Baiona’: lo striscione a caratteri cubitali chiarisce l’obiettivo della protesta. Per il terzo martedì di fila, ieri pomeriggio, una delegazione dei residenti di Porto Corsini ha fatto sentire la propria voce al consiglio comunale. Questa volta non dentro a Palazzo Merlato ma sotto…",
+   "link": "https://www.ilrestodelcarlino.it/ravenna/cronaca/fischietti-e-striscioni-porto-c73f5c29",
+   "published": "2026-10-28T06:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "114c234b2a2448e0",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Nasce polo dei libri da 250 milioni: \"Txt è il cuore, restiamo in città. Per dare occupazione e un futuro\"",
+   "summary": "I genitori in coda a settembre, i libri che mancavano, gli ordini scritti a mano. Sembra un’altra era, quelle sere in negozio, un gruppo di ragazzi che cercano una soluzione. Affondano lì le radici, la nascita di un polo da 250 milioni per l’ingrosso librario. Protagonista dell’operazione, tra le p…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/nasce-polo-dei-libri-da-e76c95c7",
+   "published": "2026-10-28T06:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "7440b1415bdb2935",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "San Decenzio, la resa. Round ‘vinto’ dal Comune. La protesta è un flop",
+   "summary": "Più giornalisti che manifestanti. La mobilitazione di ambulanti e commercianti annunciata per ieri al mercato di San Decenzio , dal punto di vista della partecipazione, è stata un flop. Molto sotto le aspettative degli organizzatori i quali avevano preventivato alla Questura la possibile presenza d…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/san-decenzio-la-resa-round-efe04e57",
+   "published": "2026-10-28T06:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "6390f777fb01b9ed",
@@ -4327,7 +4579,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
+  },
+  {
+   "id": "8ecd7a3554ef7862",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 17 octobre : l'adolescente blessée à l'oeil à Mulhouse va porter plainte",
+   "summary": "La jeune fille blessée en marge des manifestations le 17 octobre à Mulhouse a perdu définitivement la vue de son œil gauche. Son avocat va porter plainte ce mercredi 28 octobre.",
+   "link": "https://www.ici.fr/grand-est/alsace-cea/mulhouse/manifestation-du-17-octobre-l-adolescente-blessee-a-l-oeil-a-mulhouse-va-porter-plainte-6903211?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-27T22:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "11f9d966f3048b22",
@@ -4345,7 +4615,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "1e77c6c507e08105",
@@ -4399,7 +4669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "2140c18f221c9929",
@@ -4417,7 +4687,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -4633,7 +4903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "e8abd5ebbc7e348d",
@@ -4651,7 +4921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "91c657f2363821ba",
@@ -4669,7 +4939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "f4cc9a0eae82108f",
@@ -4687,7 +4957,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "d17c87154e6877a2",
@@ -4885,7 +5155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "19f89e9eaf698711",
@@ -5137,7 +5407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "c61d7862134b539f",
@@ -5227,7 +5497,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "12427e5c6fa91873",
@@ -5443,7 +5713,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "949897c0af09e2b4",
@@ -5587,7 +5857,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5641,7 +5911,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "3ab74a441b17a285",
@@ -5803,7 +6073,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "282212cf25682828",
@@ -5839,7 +6109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -6505,7 +6775,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "1725cb188b23eee5",
@@ -6579,7 +6849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -8111,7 +8381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-28T02:12"
+   "last_seen": "2026-10-28T08:30"
   },
   {
    "id": "75b3aae7e6e34706",
