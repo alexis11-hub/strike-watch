@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:31",
+ "updated": "2026-10-28T15:27",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -163,6 +163,96 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
+   "id": "2109c6d44bb4f621",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations : des commerçants réclament de pouvoir ouvrir le dimanche pour rattraper leur chiffre d'affaires",
+   "summary": "L'Alliance du commerce réclame \"en urgence\" des \"autorisations exceptionnelles\" d'ouverture le dimanche, pour permettre aux commerçants de rattraper leur chiffre d'affaires, après les pillages en marge notamment de la mobilisation du 17 octobre, déclare son directeur général mercredi sur franceinfo.",
+   "link": "https://www.ici.fr/infos/economie-social/manifestations-des-commercants-reclament-de-pouvoir-ouvrir-le-dimanche-pour-rattraper-leur-chiffre-d-affaires-2977400?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-28T16:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "6332db920f44aa67",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale il 30 ottobre, l’Usb mobilita il Paese contro carovita e riarmo: dai trasporti alla sanità, oltre 50 manifestazioni. La mappa in aggiornamento",
+   "summary": "“Contro l’economia di guerra imposta dal Governo Meloni, contro il carovita che sta strangolando la popolazione, contro la repressione dei giovani e dei lavoratori che protestano per i loro diritti”. Venerdì 30 ottobre sarà una grande giornata di protesta in tutto il Paese: lo sciopero generale, pr…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/28/mappa-sciopero-generale-usb-carovita-carburanti-riarmo-30-ottobre-notizie/8550541/",
+   "published": "2026-10-28T14:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "b74e4dd881d19d3b",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "strike",
+   "severity": "high",
+   "title": "A Milano occupato il liceo classico Tito Livio",
+   "summary": "In vista dello sciopero generale del 30 ottobre",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/28/a-milano-occupato-il-liceo-classico-tito-livio_507ae688-1c4a-4497-bc49-b679c68eff67.html",
+   "published": "2026-10-28T13:20",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "e90667ef315583aa",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Présidentielle 2027 : faut-il changer la date du second tour ? Le gouvernement répond à la proposition de Bruno Retailleau",
+   "summary": "Le gouvernement a confirmé mercredi le maintien des dates de l’élection présidentielle aux 18 avril et 2 mai, malgré les craintes de débordements après les violences du 17 octobre. La droite et le Rassemblement...",
+   "link": "https://www.midilibre.fr/2026/10/28/presidentielle-2027-faut-il-changer-la-date-du-second-tour-le-gouvernement-repond-a-la-proposition-de-bruno-retailleau-13624629.php",
+   "published": "2026-10-28T12:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "5e6f33e08645b82c",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Tamponamento e incendio a Faenza: 2 auto distrutte dalle fiamme",
+   "summary": "Faenza, 28 ottobre 2026 – Un tamponamento seguito da un incendio si è verificato nella mattinata di oggi, attorno alle 9 lungo via Madrara a Faenza . All'altezza del chilometro 2,5, un'automobile in arresto per svoltare a sinistra è stata tamponata da un secondo veicolo sopraggiungente lungo la car…",
+   "link": "https://www.ilrestodelcarlino.it/ravenna/cronaca/tamponamento-incendio-faenza-6cacd652",
+   "published": "2026-10-28T10:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
    "id": "9e758728468432dd",
    "zone": "fr_national",
    "affects": [],
@@ -196,7 +286,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "f2e31e4da24334c5",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "L'État va mettre en place une taxe \"émeutes\" pour payer les dégâts liés aux violences lors des mobilisations sociales",
+   "summary": "À travers cette mesure imagée dès 2023 et qui concerne particuliers, entreprises et collectivités, l'exécutif espère réunir 400 millions d'euros. La somme permettra d'aider les assureurs et l'État à payer les dégradations des 17 et 24 octobre, estimées à plus d'un milliard d'euros.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-etat-va-mettre-en-place-une-taxe-emeutes-pour-payer-les-degats-lies-aux-violences-lors-des-mobilisations-sociales_8236306.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T08:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "69c096a384c7c0f3",
@@ -214,7 +322,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "c234daca69da8c1e",
@@ -232,7 +340,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "a7ccb5708727ca36",
@@ -288,7 +396,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "df53307c4e174295",
@@ -326,7 +434,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -781,7 +889,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "40c826c5a426445a",
@@ -853,7 +961,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "8445abc0553719df",
@@ -4384,6 +4492,150 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-28T15:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-28T15:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "dccdef5b54e8657d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisations sociales : Emmanuel Macron a présidé un conseil de défense pour préparer les manifestations du week-end",
+   "summary": "La réunion fut l’occasion de faire un « retour d’expérience du week-end passé », qui s’est déroulé sans incident majeur, a exposé l’Elysée, qui dit vouloir « maintenir un haut niveau de vigilance ».",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-emmanuel-macron-a-preside-un-conseil-de-defense-pour-preparer-les-manifestations-du-week-end_6801580_823448.html",
+   "published": "2026-10-28T14:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "382affd289bde8a6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Caro affitti, 450 euro per un posto letto. Gli studenti in tenda davanti a Palazzo Vecchio",
+   "summary": "Firenze, 28 ottobre 2026 – Pamela paga 450 euro al mese per un posto letto, spese escluse. Thomas ne spende 520 per una stanza singola. Tommaso, invece, viaggia ogni giorno per più di tre ore tra treni e autobus: parte da Vernio, in provincia di Prato, per raggiungere l'università a Firenze, dove s…",
+   "link": "https://www.lanazione.it/firenze/caro-affitti-450-euro-per-un-posto-letto-gli-studenti-in-tenda-davanti-a-palazzo-vecchio-7e7a71bd",
+   "published": "2026-10-28T13:35",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "5fd4581fa612b2e3",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tenda in piazza Signoria a Firenze contro la crisi abitativa degli studenti",
+   "summary": "Cau chiede posti letto in studentati a prezzo calmierato e in base al reddito",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/tenda-in-piazza-signoria-a-firenze-contro-la-crisi-abitativa-degli-studenti_055caf3c-8598-493f-9ba6-424715d32822.html",
+   "published": "2026-10-28T13:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "ea75645c45045b6f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations : l'Alliance du commerce réclame \"en urgence\" des \"autorisations exceptionnelles\" d'ouverture le dimanche pour permettre aux commerçants de ratt…",
+   "summary": "Yohann Petiot appelle les préfets à prendre en urgences des mesures d'autorisations pour permettre aux commerces sinistrés d'ouvrir le dimanche, alors que les achats pour les fêtes de fin d'année se profilent déjà.",
+   "link": "https://www.franceinfo.fr/economie/greve/manifestations-l-alliance-du-commerce-reclame-en-urgence-des-autorisations-exceptionnelles-d-ouverture-le-dimanche-pour-permettre-aux-commercants-de-rattraper-leur-chiffre-d-affaires_8257168.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T11:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "0f759f24ab679532",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisations des lycéens : les députés vont débattre dans l'après-midi de l'avenir de Parcoursup",
+   "summary": "Les différents syndicats qualifient \"d'insuffisantes\" les nouvelles mesures annoncées par le gouvernement lundi et appellent à poursuivre la mobilisation.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T11:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T08:30",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
+   "id": "17c4fa1182ee87fc",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Nuova protesta per gli stipendi, dieci operai su impalcatura nel Teramano",
+   "summary": "Sono i dipendenti di un'altra ditta che ha lavorato nel cantiere privato",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/nuova-protesta-per-gli-stipendi-dieci-operai-su-impalcatura-nel-teramano_2b47ffce-16b0-4bd2-aeb3-c259e97722dd.html",
+   "published": "2026-10-28T10:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
    "id": "23159238774034f5",
    "zone": "it_national",
    "affects": [],
@@ -4402,58 +4654,22 @@
    "last_seen": "2026-10-28T08:30"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-28T08:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-28T08:30"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-28T08:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-28T08:30"
-  },
-  {
-   "id": "0f759f24ab679532",
+   "id": "0bd4632cf87718b7",
    "zone": "fr_national",
    "affects": [],
    "source_id": "franceinfo",
    "source": "franceinfo",
    "kind": "protest",
    "severity": "medium",
-   "title": "Mobilisations des lycéens : les députés vont débattre dans l'après-midi de l'avenir de Parcoursup",
-   "summary": "Les différents syndicats qualifient \"d'insuffisantes\" les nouvelles mesures annoncées par le gouvernement lundi et appellent à poursuivre la mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-28T08:17",
+   "title": "Jordan Bardella a-t-il vraiment retiré une montre de luxe de son poignet alors qu'il prenait la parole au congrès du Rassemblement national ?",
+   "summary": "Plusieurs internautes partagent un extrait vidéo dans lequel on voit le président du RN retirer sa montre alors qu'il se trouve à la tribune, en plein discours pour le congrès de son parti. Cet extrait est vrai, mais il ne s'agit pas d'une montre de luxe.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/jordan-bardella-a-t-il-vraiment-retire-une-montre-de-luxe-de-son-poignet-alors-qu-il-prenait-la-parole-au-congres-du-rassemblement-national_8236312.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T08:01",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-28T08:30"
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "c6fecb8dd00f6c14",
@@ -4564,6 +4780,24 @@
    "last_seen": "2026-10-28T08:30"
   },
   {
+   "id": "a43c41d21cea1cb7",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Israele, scrutinio concluso: Netanyahu avanti con 53 seggi, ma senza maggioranza",
+   "summary": "Il blocco del premier uscente precede quello di Gadi Eisenkot, fermo a 48 seggi. Decisivi i 19 parlamentari dei partiti arabi per i futuri equilibri politici.",
+   "link": "https://www.sanmarinortv.sm/news/mondo-c8/israele-scrutinio-concluso-netanyahu-avanti-con-53-seggi-ma-senza-maggioranza-a297852",
+   "published": "2026-10-28T03:38",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T15:26",
+   "last_seen": "2026-10-28T15:26"
+  },
+  {
    "id": "6390f777fb01b9ed",
    "zone": "fr_national",
    "affects": [],
@@ -4615,7 +4849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "1e77c6c507e08105",
@@ -4669,7 +4903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "2140c18f221c9929",
@@ -4687,7 +4921,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -4921,7 +5155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "91c657f2363821ba",
@@ -5407,7 +5641,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "c61d7862134b539f",
@@ -5713,7 +5947,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "949897c0af09e2b4",
@@ -5857,7 +6091,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -5911,7 +6145,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "3ab74a441b17a285",
@@ -6073,7 +6307,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "282212cf25682828",
@@ -6109,7 +6343,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -6849,7 +7083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -8374,14 +8608,14 @@
    "kind": "protest",
    "severity": "medium",
    "title": "Mobilisation du 24 octobre : plus de 6.000 personnes dans la manifestation à Montpellier, 700 à Béziers",
-   "summary": "Ce samedi 24 octobre, l'acte II de la mobilisation \"contre la vie chère\" a réuni 700 personnes à Béziers et plus de 4000 à Montpellier, malgré l'interdiction de la préfecture. Un mouvement bien moins suivi que celui de la semaine dernière, et beaucoup plus calme.",
+   "summary": "Ce samedi 24 octobre, l'acte II de la mobilisation \"contre la vie chère\" a réuni 700 personnes à Béziers et plus de 6.300 à Montpellier, malgré l'interdiction de la préfecture. Un mouvement bien moins suivi que celui de la semaine dernière, et beaucoup plus calme.",
    "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-novembre-les-manifestants-toujours-en-attente-du-tribunal-administratif-de-montpellier-2540969?at_medium=lien_RSS&at_locale=28",
    "published": "2026-10-24T15:08",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-28T08:30"
+   "last_seen": "2026-10-28T15:26"
   },
   {
    "id": "75b3aae7e6e34706",
