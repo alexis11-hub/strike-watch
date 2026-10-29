@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:51",
+ "updated": "2026-10-29T22:15",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -140,6 +140,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "b6f875974d4fc912",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale, Usb: “Il governo non risponde nel merito delle proteste”. Rischio violenze? “Spostano l’attenzione sull’ordine pubblico”",
+   "summary": "La sensazione dell’Unione sindacale di base, alla vigilia dello sciopero generale del 30 ottobre , è che le oltre 50 manifestazioni in programma in tutta Italia possano essere imponenti. E che sarà proprio la grande partecipazione delle persone a scoraggiare le possibili violenze. Allo stesso tempo…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-generale-scontri-usb-governo-proteste-violenze-sicurezza-manifestazioni-notizie/8554104/",
+   "published": "2026-10-29T19:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "9170ce65460cecd0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
+   "summary": "Ce groupe autoproclamé \"d'entraide citoyenne\" s'est constitué dans le secteur de Lorient, en réponse à un appel national à défendre les commerçants face aux pillages éventuels. Un témoin a également fait état d'intimidations de leur part lorsqu'il a pris ces personnes en photo.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T19:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "827ed907d807c79d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero 30 ottobre, il corteo di Firenze: orario, percorso e strade interessate, partenza dalla Fortezza da Basso",
+   "summary": "Firenze, 29 ottobre 2026 – Ci si aspetta un corteo da non meno di quattromila persone a Firenze per lo sciopero del 30 ottobre proclamato da Usb , ma che vede diverse altre sigle aggregarsi. Contro il caro vita e contro il riarmo: questi i due temi che muovono la manifestazione dell’Unione sindacal…",
+   "link": "https://www.lanazione.it/firenze/cronaca/sciopero-30-ottobre-percorso-corteo-firenze-gssmaujs",
+   "published": "2026-10-29T19:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
    "id": "55ba42b903926ed3",
    "zone": "milano",
    "affects": [],
@@ -173,7 +227,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "67763ca4bb1fcaff",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Verso lo sciopero del 30 ottobre, le voci: “Siamo stanchi di scappare dall’Italia perché non ci danno risposte”. “Quando neanche con doppi turni e straordinari…",
+   "summary": "“Non arriviamo più alla fine del mese “. È da qui che parte la mobilitazione del 30 ottobre , quando le piazze di diverse città italiane saranno animate dallo sciopero generale promosso dall’ Usb . A scendere in strada saranno persone con storie ed età diverse, unite dalla difficoltà ad affrontare…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-generale-30-ottobre-voci-stanchi-stage-500-euro-non-arrivi-a-fine-mese-non-stare-a-guardare/8554691/",
+   "published": "2026-10-29T17:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "44099f876bbccbfb",
@@ -209,7 +281,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "4866543564617140",
@@ -227,7 +299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "409e969f4dd4d074",
@@ -245,7 +317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "5d2485e3d8c5c0e6",
@@ -263,7 +335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "10c762ee41146048",
@@ -299,7 +371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "003aba8341d0c5f9",
@@ -317,7 +389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "340d7cdd85723035",
@@ -353,7 +425,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "1104f58c0cfe4650",
@@ -502,7 +574,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "1ecaec42922e11cf",
@@ -592,7 +664,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "42b6f3346b53012e",
@@ -646,7 +718,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "e90667ef315583aa",
@@ -828,7 +900,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "df53307c4e174295",
@@ -866,7 +938,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -4887,6 +4959,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-29T22:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-29T22:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "5b90d2d65005e4f8",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Chi scende in piazza e dove, la mappa del venerdì nero",
+   "summary": "Dai sindacalisti agli studenti ai proPal, cortei in oltre 50 città",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/chi-scende-in-piazza-e-dove-la-mappa-del-venerdi-nero_1b7b41a3-a291-47a9-9049-e83060ee87f8.html",
+   "published": "2026-10-29T21:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "770928a6f9739921",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero Usb, a Firenze ufficializzato il percorso del corteo",
+   "summary": "Centinaia gli agenti impegnati a seguire la manifestazione",
+   "link": "https://www.ansa.it/toscana/notizie/2026/10/29/sciopero-usb-a-firenze-ufficializzato-il-percorso-del-corteo_83c7b42e-f2a5-4229-9b9c-eb610365f07b.html",
+   "published": "2026-10-29T20:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
    "id": "3211f61cf6e6f4d3",
    "zone": "fr_national",
    "affects": [],
@@ -4895,14 +5039,140 @@
    "kind": "protest",
    "severity": "medium",
    "title": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
-   "summary": "Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête de Halloween.",
+   "summary": "Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête d’Halloween.",
    "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-29T18:39",
+   "published": "2026-10-29T20:00",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "17578159c3b48b85",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Périmètre interdit, trams, couvre-feu… les mesures prévues pour la troisième manifestation après deux samedis sous tension à Montpellier",
+   "summary": "Dans un arrêté pris ce jeudi soir, la préfète Chantal Mauchet renouvelle l’interdiction des rassemblements dans l’Écusson et sur le parvis devant le Polygone. Contrairement au samedi précédent, la circulation des...",
+   "link": "https://www.midilibre.fr/2026/10/29/perimetre-interdit-trams-couvre-feu-les-mesures-prevues-pour-la-troisieme-manifestation-apres-deux-samedis-sous-tension-a-montpellier-13626803.php",
+   "published": "2026-10-29T19:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "1e5a5e79bacb4ab5",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Al Campus Einaudi di Torino un sit-in contro l'occupazione",
+   "summary": "Una cinquantina di persone al presidio, cori degli occupanti",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/al-campus-einaudi-di-torino-un-sit-in-contro-loccupazione_25f23e57-ad4b-460c-892b-70f58b341d05.html",
+   "published": "2026-10-29T19:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "e7acedde5af241f2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 31 octobre : à quoi faut-il s'attendre dans l'Hérault ?",
+   "summary": "Contrairement au 24 octobre, la préfète de l'Hérault n'interdit pas la manifestation déclarée pour le 31 octobre à Montpellier. En revanche, elle maintient l'interdiction de défiler dans le centre ville.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-31-octobre-a-quoi-faut-il-s-attendre-dans-l-herault-1100378?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-29T19:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "38446be103ff1ea9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"C'est du dernière minute\" : à Tours, les mariages le samedi à l'hôtel de ville déplacés en raison des mobilisations",
+   "summary": "En raison des mobilisations rassemblant des milliers de manifestants, ces deux derniers samedi à Tours, la mairie déplace les mariages prévus à l'hôtel de ville ce 31 octobre. Une future mariée raconte son désarroi.",
+   "link": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/c-est-du-derniere-minute-a-tours-les-mariages-le-samedi-a-l-hotel-de-ville-deplaces-en-raison-des-mobilisations-3439297?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-29T18:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "a922ae0e3e79e800",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycées : Carole Delga lance Direct Lycées, un nouveau dispositif pour \"faire remonter les difficultés du quotidien\"",
+   "summary": "Dans un contexte de mobilisations lycéennes, la présidente de la Région Occitanie, Carole Delga, a commenté ce jeudi 29 octobre les annonces du gouvernement du 26 octobre dernier. Elle a également rappelé \"l’action...",
+   "link": "https://www.midilibre.fr/2026/10/29/mobilisation-des-lycees-carole-delga-lance-direct-lycees-un-nouveau-dispositif-pour-faire-remonter-les-difficultes-du-quotidien-13626348.php",
+   "published": "2026-10-29T18:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "75a7b2213f13d714",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il a eu entièrement raison\" : Marine Tondelier défend Kylian Mbappé suite aux propos controversés du joueur sur Mao Zedong",
+   "summary": "Marine Tondelier, secrétaire nationale des écologistes, a soutenu mercredi 28 octobre, Kylian Mbappé après ses propos qualifiant Mao Zedong de \"dictateur\", qui ont provoqué la colère de Pékin. Elle affirme que le...",
+   "link": "https://www.midilibre.fr/2026/10/29/il-a-eu-entierement-raison-marine-tondelier-defend-killian-mbappe-suite-aux-propos-controverses-du-joueur-sur-mao-zedong-13626808.php",
+   "published": "2026-10-29T18:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T22:14",
+   "last_seen": "2026-10-29T22:14"
+  },
+  {
+   "id": "77faba980e06b41b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
+   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-29T18:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T20:26",
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "edd5b6294de16e7c",
@@ -4913,14 +5183,14 @@
    "kind": "protest",
    "severity": "medium",
    "title": "Mobilisations du 31 octobre : Laurent Nuñez prévoit un dispositif de 70 000 policiers et gendarmes, et confirme l’interdiction des rassemblements dans les cent…",
-   "summary": "« C’est un dispositif exceptionnel, c’est le même volume que pour le 24 octobre », a expliqué le ministre de l’intérieur, au cours d’un point presse organisé jeudi soir, à deux jours de nouvelles mobilisations sociales.",
+   "summary": "« C’est un dispositif exceptionnel, c’est le même volume que pour le 24 octobre », a expliqué le ministre de l’intérieur, au cours d’un point presse organisé jeudi soir, à deux jours des nouvelles mobilisations sociales.",
    "link": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html",
    "published": "2026-10-29T18:37",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "67ba625363b64883",
@@ -4959,42 +5229,6 @@
    "last_seen": "2026-10-29T17:50"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-29T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-29T17:50"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-29T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-29T17:50"
-  },
-  {
    "id": "d766709333683b80",
    "zone": "milano",
    "affects": [],
@@ -5010,7 +5244,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "2f04962ef34844ff",
@@ -5028,7 +5262,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "a345de415dca3226",
@@ -5046,7 +5280,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "850a66c645848ea2",
@@ -5064,7 +5298,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "2eefb779d8d6de0b",
@@ -5082,7 +5316,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "1d01ea5a19e299e1",
@@ -5100,7 +5334,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "b237ce34d3e07e89",
@@ -5118,7 +5352,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "e18d28b4dcc8f8a7",
@@ -5136,7 +5370,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "88a3a0597d28c999",
@@ -5172,7 +5406,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "b430f3008c87f430",
@@ -5190,24 +5424,6 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
-  },
-  {
-   "id": "77faba980e06b41b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
-   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-29T15:08",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
    "last_seen": "2026-10-29T17:50"
   },
   {
@@ -5244,7 +5460,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "61b3a060bbafddcf",
@@ -5298,7 +5514,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "a0b16bd2762d1c0c",
@@ -5316,7 +5532,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "3867f00dc3d43990",
@@ -5334,7 +5550,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "f0d036e8942c7836",
@@ -5352,7 +5568,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "47c812a9b60293e0",
@@ -5388,7 +5604,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "7484f36f9bf8ffaa",
@@ -5406,7 +5622,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -5424,7 +5640,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "2819b113da3be8a8",
@@ -5442,7 +5658,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "2e930cda37551701",
@@ -5478,7 +5694,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "35294742d47b0c11",
@@ -6145,7 +6361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -6199,7 +6415,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "ea75645c45045b6f",
@@ -6253,7 +6469,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "23159238774034f5",
@@ -6541,7 +6757,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -7261,7 +7477,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "c61d7862134b539f",
@@ -7603,7 +7819,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T17:50"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "47f132d64882e97e",
@@ -8503,7 +8719,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T22:14"
   },
   {
    "id": "962f60e00b8d97f1",
