@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:43",
+ "updated": "2026-10-29T11:47",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -140,6 +140,186 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "10c762ee41146048",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 31 octobre : à Grenoble, des commerçants de plus en plus tentés par l'autodéfense",
+   "summary": "Alors que l'acte III de la mobilisation se prépare à Grenoble et partout en France, de plus en plus de commerçants excédés par les pillages et les violences sont tentés par l'autodéfense et s'équipent dans des armureries.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/mobilisation-du-31-octobre-a-grenoble-des-commercants-de-plus-en-plus-tentes-par-l-autodefense-7843426?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-29T12:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "55ba42b903926ed3",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sindacati di base in oltre 50 piazze domani per lo sciopero generale, Piantedosi: 'Gli allarmi ci sono ma nulla di diverso dal passato'",
+   "summary": "Ultima generazione: 'Aderiamo allo sciopero di domani'. Aula occupata all'Università Bicocca di Milano, attesa per i cortei di domani",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-da-quanto-trattato-finora_99d186a2-8b27-442f-b637-bc226fa79102.html",
+   "published": "2026-10-29T12:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "1f913b00ecdbd933",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manganello e taser sequestrati a scuola. Ipia: “Il giovane denunciato? Non studia qui”",
+   "summary": "Imola, 29 ottobre 2026 – Hanno creato preoccupazione e dibattito le vicende del manganello telescopico e del dissuasore elettrico sequestrati dai carabinieri davanti a due scuole della città. Episodi che, una settimana fa, hanno portato alla denuncia di tre minorenni del Circondario. A chiarire qua…",
+   "link": "https://www.ilrestodelcarlino.it/imola/cronaca/manganello-e-dissuasore-sequestrati-davanti-a-scuola-h7u8dneh",
+   "published": "2026-10-29T11:22",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "003aba8341d0c5f9",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Dibattito sui sequestri di manganello e taser. L’istituto Ipia: \"Il giovane denunciato? Non studia qui\"",
+   "summary": "Imola, 29 ottobre 2026 – Hanno creato preoccupazione e dibattito le vicende del manganello telescopico e del dissuasore elettrico sequestrati dai carabinieri davanti a due scuole della città. Episodi che, una settimana fa, hanno portato alla denuncia di tre minorenni del Circondario. A chiarire qua…",
+   "link": "https://www.ilrestodelcarlino.it/imola/cronaca/dibattito-sequestri-manganello-taser-a2941e54",
+   "published": "2026-10-29T11:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "340d7cdd85723035",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations : le gouvernement \"facilitera\" l'ouverture des commerces le dimanche \"d'ici à Noël\"",
+   "summary": "Comme réclamé par plusieurs représentants des commerçants, le gouvernement assure ce jeudi qu'il \"facilitera l'ouverture le dimanche d'ici à Noël\" pour leur permettre de rattraper leur chiffre d'affaires, après les pillages en marge de la mobilisation du 17 octobre notamment.",
+   "link": "https://www.ici.fr/infos/economie-social/manifestations-des-commercants-reclament-de-pouvoir-ouvrir-le-dimanche-pour-rattraper-leur-chiffre-d-affaires-2977400?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-29T09:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "77e0adbd5488e19f",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Podismo Corrimutina unisce tutta la città",
+   "summary": "Torna, l’8 novembre, Corrimutina , una tradizione iniziata nel 1980. Corrimutina è per tutti: studenti, genitori, podisti e camminatori, a muoversi e far festa insieme. Non vi sono classifiche individuali né riscontri cronometrici, saranno premiate partecipazione e capacità di coinvolgimento. \"Corr…",
+   "link": "https://www.ilrestodelcarlino.it/modena/sport/podismo-corrimutina-unisce-tutta-la-f88728cd",
+   "published": "2026-10-29T07:30",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "1104f58c0cfe4650",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Corteo Usb, attesi migliaia di partecipanti. Massima allerta, percorso ancora da concordare",
+   "summary": "Sale l’attesa, e la tensione, per lo sciopero generale . Scuola, treni, autobus e aeroporti: domani si annuncia una giornata di mobilitazione anche a Firenze. Diverse sigle sindacali hanno proclamato scioperi per l’intera giornata o per specifici settori, con possibili ripercussioni sulle lezioni e…",
+   "link": "https://www.lanazione.it/firenze/cronaca/corteo-usb-attesi-migliaia-651a3eaf",
+   "published": "2026-10-29T05:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "ddb9f007d8323134",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Carovita, domani servizi a rischio. Il corteo sfilerà per le vie del centro",
+   "summary": "Carovita, crisi industriale, sicurezza sul lavoro e condizioni delle scuole. Sono i temi al centro della mobilitazione prevista per domani ad Arezzo, nell’ambito dello sciopero generale che coinvolgerà diverse città italiane. Gli organizzatori aretini hanno convocato la manifestazione a Campo di Ma…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/carovita-domani-servizi-a-rischio-9607dac4",
+   "published": "2026-10-29T05:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "8b2bc43fba540fb6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le scorie della manifestazione. Mazze chiodate tra gli scooter. Caccia ai ’banditi’ nei video",
+   "summary": "Firenze, 29 ottobre 2026 – Cinque bastoni di legno con dei chiodi che sporgono alle estremità sono stati rinvenuti tra gli scooter in via Ventisette Aprile dagli agenti del reparto mobile della polizia. Il ritrovamento è avvenuto lunedì 26 ottobre, mentre era in corso il corteo indetto dagli studen…",
+   "link": "https://www.lanazione.it/firenze/cronaca/le-scorie-della-manifestazione-mazze-b332146b",
+   "published": "2026-10-29T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "eb990e87a93fb491",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Mobilitazione anche al Buzzi e Gramsci-Keynes",
+   "summary": "Le scuole sono in fermento. Le mobilitazioni si moltiplicano di plesso in plesso, le assemblee diventano occasioni di confronto e gli studenti si preparano allo sciopero generale . La mobilitazione prende forme diverse, tra autogestione, dibattiti e gruppi di lavoro. Con un filo conduttore: la volo…",
+   "link": "https://www.lanazione.it/prato/cronaca/mobilitazione-anche-al-buzzi-e-d350c6a4",
+   "published": "2026-10-29T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
    "id": "6b3e8e2ea453a987",
    "zone": "it_national",
    "affects": [],
@@ -214,7 +394,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "1ecaec42922e11cf",
@@ -304,7 +484,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "42b6f3346b53012e",
@@ -358,7 +538,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "e90667ef315583aa",
@@ -376,7 +556,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "5e6f33e08645b82c",
@@ -540,7 +720,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "df53307c4e174295",
@@ -578,7 +758,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -1033,7 +1213,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "40c826c5a426445a",
@@ -1105,7 +1285,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "8445abc0553719df",
@@ -4617,6 +4797,384 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "850a66c645848ea2",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Aula occupata all'Università Bicocca a Milano, attesa per i cortei di domani",
+   "summary": "Oggi in Questura i piani per l'ordine pubblico. Previste 10mila persone",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/29/aula-occupata-alluniversita-bicocca-a-milano-attesa-per-i-cortei-di-domani_3904de2b-a7ec-4167-a221-93208fadd540.html",
+   "published": "2026-10-29T12:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-29T11:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-29T11:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "77faba980e06b41b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
+   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-29T11:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T20:26",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "61b3a060bbafddcf",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Caregiver in piazza contro il ddl Locatelli: “400 euro al mese per assistere i nostri figli? È lavoro nero di Stato. No elemosina, vogliamo dignità”",
+   "summary": "“Da soli non ce la facciamo più”, “chiediamo dignità”, “ per le armi trovano i soldi , per la disabilità le risorse restano sempre ampiamente insufficienti”, “caregiver uguale lavoro nero”, “per lo Stato siamo invisibili”, “nessun aiuto per chi aiuta”, “disabilitati a vivere”. Sono solo alcuni degl…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/ddl-caregiver-protesta-roma-locatelli-notizie/8553897/",
+   "published": "2026-10-29T11:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "40562f5125bb8da3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : Edouard Geffray estime que les « jeunes ont besoin d’aller en cours »",
+   "summary": "Le ministre de l’éducation a défendu dans la matinée les mesures proposées par le gouvernement afin de tenter d’éteindre la contestation lycéenne lancée il y a plus d’un mois et qui a conduit au blocage de nombreux établissements.",
+   "link": "https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html",
+   "published": "2026-10-29T10:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "a0b757a744258a47",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lenzuolata a Gavinana. L’assedio di auto e bus: \"Qui non si vive più\". Incontro con il Comune",
+   "summary": "Firenze, 29 ottobre 2026 – Le lenzuola si rincorrono da un balcone all’altro. \" Non è un viale, è una giungla \", si legge in via Lapo da Castiglionchio . E ancora: \"Basta con il traffico\", \"Non si vive più\". Stamattina l’esasperazione degli abitanti è finita alle finestre, affidata a quei messaggi…",
+   "link": "https://www.lanazione.it/firenze/cronaca/lenzuolata-a-gavinana-lassedio-di-auto-e-bus-qui-non-si-vive-piu-incontro-con-il-comune-c1ebc507",
+   "published": "2026-10-29T10:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "a0b16bd2762d1c0c",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Visite e diagnostica oculistica avanzata: il nuovo centro di Firenze",
+   "summary": "Firenze, 29 ottobre 2026 - Un nuovo centro dedicato alla diagnostica oculistica e all’oftalmologia, anche pediatrica. È quello inaugurato in piazzale Donatello 3, a Firenze, da Hi-Care Surgery, realtà che conta già due sedi a Lastra a Signa e a Villa Donatello, nel territorio di Sesto Fiorentino. Q…",
+   "link": "https://www.lanazione.it/cronaca/nuovo-centro-hi-care-surgery-df1edbc8",
+   "published": "2026-10-29T09:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "3867f00dc3d43990",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mouvement social : ouvrir des commerces le dimanche jusqu’à Noël ? Le gouvernement va permettre \"de rattraper le manque à gagner\"",
+   "summary": "Pour compenser les pertes liées aux manifestations, le gouvernement facilitera l’ouverture dominicale des commerces jusqu’à Noël, ont annoncé jeudi la porte-parole Maud Bregeon et le ministre du Travail Jean-Pierre...",
+   "link": "https://www.midilibre.fr/2026/10/29/mouvement-social-ouvrir-des-commerces-le-dimanche-jusqua-noel-le-gouvernement-va-permettre-de-rattraper-le-manque-a-gagner-13625985.php",
+   "published": "2026-10-29T09:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "f0d036e8942c7836",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Présidentielle 2027 : Gabriel Attal veut une \"primaire des démocrates\", la proposition de l’ex-Premier ministre peut-elle aboutir ?",
+   "summary": "Distancé dans les sondages, le chef de Renaissance Gabriel Attal a prôné mercredi sur TF1 une \"primaire des démocrates\" d’ici janvier, afin d’éviter un second tour opposant La France insoumise au Rassemblement...",
+   "link": "https://www.midilibre.fr/2026/10/29/presidentielle-2027-gabriel-attal-veut-une-primaire-des-democrates-la-proposition-de-lex-premier-ministre-peut-elle-aboutir-13625923.php",
+   "published": "2026-10-29T09:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "47c812a9b60293e0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations : Jean-Pierre Farandou veut donner un \"OK de principe\" aux commerçants qui veulent ouvrir le dimanche, pour compenser les pertes d'activités",
+   "summary": "Le ministre du Travail et des Solidarités, Jean-Pierre Farandou, assure sur France Inter ne pas s'opposer à l'ouverture dominicale sur la base du volontariat.",
+   "link": "https://www.franceinfo.fr/economie/greve/manifestations-jean-pierre-farandou-veut-donner-un-ok-de-principe-aux-commercants-qui-veulent-ouvrir-le-dimanche-pour-compenser-les-pertes-d-activites_8258495.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T09:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "ebca6c376a655d05",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Atletica. Al campo scuola sabato torna ’Il più veloce di Ferrara’, dedicato agli studenti",
+   "summary": "Ritorna in pista il trofeo ‘il più Veloce di Ferrara’ per gli alunni delle scuole medie. L’appuntamento è in programma sabato alle 14.30 al campo scuola ‘Gianpaolo Lenzi’ in via Porta Catena, ritrovo alle 13.45, dove si terrà la storica manifestazione ‘Il più Veloce di Ferrara e provincia’. Si trat…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/sport/atletica-al-campo-scuola-sabato-e5cf54f3",
+   "published": "2026-10-29T07:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "7484f36f9bf8ffaa",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il est temps de reprendre les cours\" pour Carole Drucker-Godard, rectrice de l'académie de Montpellier",
+   "summary": "Les vacances de la Toussaint se terminent. Lundi retour en classe pour les élèves. Le gouvernement a annoncé des mesures pour calmer la colère lycéenne et étudiante mais le compte n'y est pas encore pour l’intersyndicale qui appelle à poursuivre le mouvement.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/carole-drucker-godard-rectrice-de-l-academie-de-montpellier-5142504?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-29T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "5a2892d7dd2c2a62",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'occupation de la faculté des sciences de Montpellier se poursuit pendant les vacances",
+   "summary": "L'occupation de la faculté des sciences de Montpellier ralentit. Un seul bâtiment est encore occupé par les manifestants ce jeudi. Depuis trois semaines, une grosse centaine de jeunes s'autogère avec des votes en assemblée générale. Leur objectif est de tenir le plus longtemps possible.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/l-occupation-de-la-faculte-des-sciences-de-montpellier-se-poursuit-pendant-les-vacances-3827660?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-29T07:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "2819b113da3be8a8",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Une association dénonce la présence d'une \"milice d'extrême droite\" aux côtés des forces de l'ordre à Montpellier",
+   "summary": "L'Observatoire des libertés publiques de Montpellier (OLM) a étudié des vidéos et photos du maintien de l'ordre de la manifestation du samedi 24 octobre. Elle affirme ce mercredi qu'une \"milice d'extrême droite\" a agi aux côtés des forces de l'ordre sans aucune intervention de leur part.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/une-milice-d-extreme-droite-aux-cotes-des-forces-de-l-ordre-lors-de-la-manifestation-du-24-octobre-a-montpellier-9688071?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-29T07:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "2e930cda37551701",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Assurdo rischiare con l’offerta di rilancio già presente sul tavolo\"",
+   "summary": "\"Solidarietà alle lavoratrici e ai lavoratori di Holostem\" arriva anche dal mondo politico. Al presidio ieri ha partecipato la consigliera regionale Maria Cost insieme all’assessora del Comune Federica Venturelli e al presidente del Consiglio comunale Antonio Carpentieri. Un confronto diretto con i…",
+   "link": "https://www.ilrestodelcarlino.it/modena/cronaca/assurdo-rischiare-con-61183955",
+   "published": "2026-10-29T06:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "ba892ad020c8dba2",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Via Fiorentina, attività a picco: \"Gli affari crollati fino al 35%\". E saltano anche i posti di lavoro",
+   "summary": "\"Il mio fatturato è calato del 35% rispetto ai primi mesi di apertura\". Salvatore Billi snocciola numeri e percentuali del lavoro che non gira, da quando in via Fiorentina è \"piombato\" il cantiere della maxi-rotatoria. \"Ho scelto di investire qui e continuerò a farlo perché credo in questa città, m…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/via-fiorentina-attivita-a-picco-ad9343fd",
+   "published": "2026-10-29T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "0754b97aab97900e",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gli operai senza stipendi. Protesta da Crucianelli, arrivano pure i carabinieri",
+   "summary": "di Lucia Gentili e Paola Pagnanelli Questa volta gli operai della ricostruzione post-sisma senza stipendio non sono saliti sulla gru, ma si sono presentati direttamente davanti alla ditta Crucianelli Rest Edile, in via Sacharov a Tolentino. È successo ieri mattina. Un gruppo di operai egiziani, una…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/gli-operai-senza-stipendi-protesta-8523165c",
+   "published": "2026-10-29T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "35294742d47b0c11",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Una singola? 520 euro: \"Nella città bomboniera non c’è posto per noi\"",
+   "summary": "Pamela paga 450 euro al mese per un posto letto , spese escluse. Il contratto dura un anno con possibilità di rinnovo per il secondo. Thomas ne spende 520 per una singola. Tommaso, invece, parte da Vernio e ogni giorno passa più di tre ore tra treni e autobus per raggiungere l’università e tornare…",
+   "link": "https://www.lanazione.it/firenze/cronaca/una-singola-520-euro-nella-d611d87d",
+   "published": "2026-10-29T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "168845e090f156dc",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gad, stretta sul locale. Orari ridotti per il bar: \"Dovrà chiudere alle 20\"",
+   "summary": "È partita la stretta dell’amministrazione comunale sul fronte della sicurezza e del decoro urbano nel quartiere Giardino. Il Comune ha avviato nella giornata di ieri la fase procedimentale mirata a disporre la limitazione oraria per un secondo pubblico esercizio situato in viale IV Novembre, un bar…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/gad-stretta-sul-locale-orari-1c008273",
+   "published": "2026-10-29T06:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
+   "id": "e29e444740cdb8be",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fiera dei Morti, conto alla rovescia. Quest’anno in centro c’è l’anteprima",
+   "summary": "La Fiera dei Morti torna con tutta la sua forza: evento di antiche origini ma che dimostra di sapersi arricchire di significative novità. Come da tradizione, è in programma il primo novembre la doppia inaugurazione legata alle due sezioni allestite a Pian di Massiano (ore 10) e in piazza Italia (or…",
+   "link": "https://www.lanazione.it/umbria/cronaca/fiera-dei-morti-conto-alla-e2eaa105",
+   "published": "2026-10-29T06:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T11:45"
+  },
+  {
    "id": "65a835fcda2e8a4f",
    "zone": "fr_national",
    "affects": [],
@@ -4632,42 +5190,6 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T05:41",
-   "last_seen": "2026-10-29T05:41"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-29T05:42",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-29T05:41"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-29T05:42",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
    "last_seen": "2026-10-29T05:41"
   },
   {
@@ -5083,7 +5605,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "8def8a0bc64b2e2a",
@@ -5230,24 +5752,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "77faba980e06b41b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
-   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-28T17:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T05:41"
-  },
-  {
    "id": "a80f33b37cb5f2f7",
    "zone": "firenze",
    "affects": [],
@@ -5281,7 +5785,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -5335,7 +5839,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "ea75645c45045b6f",
@@ -5389,7 +5893,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "23159238774034f5",
@@ -5659,7 +6163,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "2140c18f221c9929",
@@ -5677,7 +6181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -6397,7 +6901,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "c61d7862134b539f",
@@ -6703,7 +7207,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "949897c0af09e2b4",
@@ -6847,7 +7351,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -6901,7 +7405,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "3ab74a441b17a285",
@@ -7063,7 +7567,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "282212cf25682828",
@@ -7099,7 +7603,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -7621,7 +8125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-29T05:41"
+   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "962f60e00b8d97f1",
