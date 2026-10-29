@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:11",
+ "updated": "2026-10-29T05:43",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -140,6 +140,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "6b3e8e2ea453a987",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le proteste degli studenti hanno ricevuto la risposta che dà un governo di destra: manganelli, cariche e leggi speciali",
+   "summary": "Nessun governo di qualunque segno politico, sotto qualsiasi cielo, teme più delle proteste di piazza. Quando il popolo butta a mare la rassegnazione ad accettare l’inaccettabile, bisogna prepararsi a qualcosa che nessun potere costituito, legittimo o no, può essere certo di controllare. In Francia…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/proteste-studenti-repressione-pacchetto-sicurezza-notizie/8551253/",
+   "published": "2026-10-29T05:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "9ad3df1f68c0b566",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Correre contro la violenza. Il dolore diventa messaggio. L’abbraccio in piazza Palma per non dimenticare Giacomo",
+   "summary": "Quindici tappe, 550 chilometri a piedi e una storia da non dimenticare. Andrea Pieri è arrivato a Massa con la maratona solidale “Uniti per Paolo“ , il viaggio partito il 25 ottobre dall’Isola d’Elba con destinazione Milano, dove l’arrivo è previsto l’8 novembre. Una corsa per sensibilizzare contro…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/correre-contro-la-violenza-il-faa3c327",
+   "published": "2026-10-29T05:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
    "id": "2fee0f283cc594db",
    "zone": "it_national",
    "affects": [
@@ -178,7 +214,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "1ecaec42922e11cf",
@@ -196,7 +232,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T00:09",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "f4757c2a6483e75f",
@@ -250,7 +286,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "985cbd844bd1a525",
@@ -268,7 +304,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "42b6f3346b53012e",
@@ -286,7 +322,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "6332db920f44aa67",
@@ -322,7 +358,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "e90667ef315583aa",
@@ -340,7 +376,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "5e6f33e08645b82c",
@@ -504,7 +540,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "df53307c4e174295",
@@ -542,7 +578,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -997,7 +1033,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "40c826c5a426445a",
@@ -1069,7 +1105,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "8445abc0553719df",
@@ -4581,6 +4617,384 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "65a835fcda2e8a4f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "\"Paris-Moscou\" : Paul Greveillac publie un recueil de nouvelles à l'écriture vive et acérée où l'Histoire se loge parfois dans un grain de sable",
+   "summary": "Un livre qui décrit en creux quarante ans d'allers-retours sulfureux entre la France et la Russie.",
+   "link": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/paris-moscou-paul-greveillac-publie-un-recueil-de-nouvelles-a-l-ecriture-vive-et-aceree-ou-l-histoire-se-loge-parfois-dans-un-grain-de-sable_8257117.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T06:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-29T05:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-29T05:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "bf1ae3e31e031f2f",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Via Marconi colpisce anche i taxi. Autisti bloccati nella preferenziale: \"Danni economici e tanti ritardi\"",
+   "summary": "\"La chiusura di via Indipendenza ai mezzi, diventata pedonale, e i lavori sotto le Due Torri hanno reso via Marconi l’unica strada di accesso e uscita al centro. Ma qui non ci sono portate sufficienti per tutto questo traffico\". Riccardo Carboni è il presidente di Cotabo. Ogni giorno centinaia di T…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/via-marconi-colpisce-anche-i-c454c2ff",
+   "published": "2026-10-29T05:33",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "1abcc4e80f9312f9",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Furti in abitazione, torna l’incubo. Due colpi a distanza di poche ore",
+   "summary": "Ladri in azione a Villa Sant’Antonio e Piattoni, bottino in soldi e gioielli. Cresce la preoccupazione tra i residenti. Torna l’incubo dei furti a Castel di Lama , dove nelle ultime ore sono stati messi a segno due colpi in abitazione, uno nella zona bassa e l’altro nella frazione di Piattoni. I ma…",
+   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/furti-in-abitazione-torna-lincubo-d489bf3e",
+   "published": "2026-10-29T05:33",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "5d833ccd3e3da87f",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Welfare, la Cgil scuote il Comune: \"Serve un patto per l’occupazione e una leva fiscale per sostenerlo\"",
+   "summary": "Reggio è la provincia più manifatturiera della regione insieme a Modena, continua a mostrare punti di tenuta ma scricchiola sotto il peso di una profonda transizione demografica e produttiva. È il quadro in chiaroscuro tracciato dal report annuale dell’Ires Emilia-Romagna presentato nella sede dell…",
+   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/welfare-la-cgil-scuote-il-329f4023",
+   "published": "2026-10-29T05:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "00431f95aee2babb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L’onda colorata. La terza giornata di mobilitazione: \"Studiare è un diritto\"",
+   "summary": "\"L’istruzione non è un lusso, è un diritto di tutti\" e \"Vogliamo scuole, non prigioni\". \"Avere un solo bagno per un’intera scuola è vergognoso\", \"Non chiedete di costruire un futuro se cade a pezzi il presente\" e \"Un libro deve aprire la mente non svuotare il portafogli\". Sono alcuni dei messaggi s…",
+   "link": "https://www.lanazione.it/pistoia/cronaca/londa-colorata-la-terza-giornata-b404012a",
+   "published": "2026-10-29T05:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "efe5edff2915ee16",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tassisti contro la chiusura di viale Carducci: \"Siamo costretti a giri lunghi e ’costosi’\"",
+   "summary": "I tassisti lucchesi protestano per la decisione di chiudere alle auto viale Carducci in direzione viale Europa-stazione nei giorni Comics. \"Una scelta che sta provocando un disservizio significativo – dicono i tassisti – e che appare ancora più incomprensibile se si considera che, negli anni preced…",
+   "link": "https://www.lanazione.it/lucca/cronaca/tassisti-contro-la-chiusura-di-cd3379fc",
+   "published": "2026-10-29T05:27",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "d0e89025e82f4032",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Si allarga il “fronte proteste“: \"Servono medici e programmazione\"",
+   "summary": "Carenza cronica di medici e infermieri , turni massacranti per chi lavora, falle nella sicurezza culminate nell’aggressione a un operatore al Pronto soccorso, l’assenza del primario di Ginecologia e le incognite sul personale della Casa di Comunità: non è tutto. A questo si aggiunge la delicata sit…",
+   "link": "https://www.lanazione.it/umbria/cronaca/si-allarga-il-fronte-proteste-653f3113",
+   "published": "2026-10-29T05:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "9cefe4f8d8aad4bb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Ascoltate le nostre richieste, siamo stanchi di promesse vuote\"",
+   "summary": "Una settimana all’insegna delle proteste, pacifiche, ma sentite. Lunedì l’avvio lo hanno dato gli studenti dell’Istituto Pontormo, che resterà occupato fino al week-end. Martedì è toccato ai ragazzi e alle ragazze dell’Istituto Fermi-Da Vinci, più nello specifico alla sede di via Fabiani. I temi di…",
+   "link": "https://www.lanazione.it/empoli/cronaca/ascoltate-le-nostre-richieste-siamo-b8944b2f",
+   "published": "2026-10-29T05:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "e8ff30b5fb91ecd9",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Stalking e proteste all’ospedale. Evasa dai domiciliari, torna in carcere",
+   "summary": "Ieri i carabinieri di Copparo hanno eseguito un’ordinanza di aggravamento di misura cautelare emessa dal Tribunale di Ferrara, che ha disposto la revoca degli arresti domiciliari e l’applicazione della custodia cautelare in carcere nei confronti di una donna di 34 anni residente nel copparese. La v…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/stalking-e-proteste-allospedale-evasa-68e03b26",
+   "published": "2026-10-29T05:09",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "2aa991101641a1f8",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Decoro degli spazi verdi. Ecco ‘Puliamo il mondo’ con 160 studenti coinvolti",
+   "summary": "Tanti alunni degli Istituti comprensivi di Poggibonsi impegnati nelle operazioni per il decoro degli spazi verdi. A Poggibonsi ha preso il via la manifestazione per il volontariato ambientale nel quadro dei progetti collegati a Puliamo il mondo , iniziativa targata Legambiente a di determinati luog…",
+   "link": "https://www.lanazione.it/siena/cronaca/decoro-degli-spazi-verdi-ecco-b2ecda74",
+   "published": "2026-10-29T05:09",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "db2b0982a2a1d610",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Infiltrazioni a scuola, caccia ai fondi per i lavori",
+   "summary": "Acqua dal tetto della scuola di via Regina Elena: il Comune cerca i soldi per sistemare la situazione dall’8 per mille. L’amministrazione candida infatti l’istituto che ospita asilo e primaria per accaparrarsi risorse statali dell’8 per mille, e con quei fondi avviare un intervento di manutenzione…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/infiltrazioni-a-scuola-caccia-ai-d49a2205",
+   "published": "2026-10-29T05:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "e34dfed46c098803",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "In corteo per l’Enriques. Oltre seicento persone hanno sfilato per la scuola",
+   "summary": "Oltre seicento persone, tra studenti, docenti e personale Ata dell’Enriques, hanno preso parte al corteo che si è mosso per le strade cittadine partendo dalla scuola per arrivare a piazza del Popolo. Una manifestazione organizzata per richiamare l’attenzione della cittadinanza sull’ atto vandalico…",
+   "link": "https://www.lanazione.it/empoli/cronaca/in-corteo-per-lenriques-oltre-7ba6975d",
+   "published": "2026-10-29T05:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "8658433af4896357",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "’Gustatus’, taglio del nastro. Gastronomia, cultura e musica",
+   "summary": "Prende il via oggi la ventunesima edizione di ’Gustatus’, kermesse che racchiude in sé le eccellenze culinarie, gastronomiche, enologiche e che offre anche ampi spazi al divertimento, con eventi pensati per un pubblico di tutte le età, alla cultura e all’informazione. \"Gustatus è una grande manifes…",
+   "link": "https://www.lanazione.it/grosseto/cronaca/gustatus-taglio-del-nastro-gastronomia-9d13e4c0",
+   "published": "2026-10-29T05:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "b08dabea81ff7e4e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Camion in panne paralizza il traffico. Ore di code per prendere la Fi-Pi-Li",
+   "summary": "Un’altra giornata di paralisi sulle strade delle Signe. A causare il blocco, intorno alle 6.30 di ieri mattina, il guasto subito da un camion di un’azienda di autospurghi. Pare che il veicolo abbia avuto un grave malfunzionamento, bloccandosi in via Gramsci , peraltro in una posizione tale da rende…",
+   "link": "https://www.lanazione.it/firenze/cronaca/camion-in-panne-paralizza-il-6d9f55af",
+   "published": "2026-10-29T05:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "92e472a234e085c6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "David Rossi, l’esperto del caso Claps: “Un colpo da ko al fegato”",
+   "summary": "FIRENZE, 29 ottobre 2026 – Un tappo chiamato suicidio. Così Carmelo Miceli , l’avvocato che per conto di Antonella Tognazzi e Carolina Orlandi , moglie e figlia di David Rossi , ha depositato mesi or sono un’istanza di riapertura delle indagini, definisce il blocco in cui si erano arenate le due in…",
+   "link": "https://www.lanazione.it/siena/cronaca/david-rossi-lesperto-del-caso-claps-un-colpo-da-ko-al-fegato-nsssfn0h",
+   "published": "2026-10-29T05:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "78c48f662ffd7d4d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Vìola il divieto di avvicinamento: preso",
+   "summary": "SPOLETO Già colpito dal divieto di avvicinamento, raggiunge la ex compagna e la figlia in un bar ma finisce ai “domiciliari“. La polizia ha arrestato in flagranza un uomo di 38 anni per il reato di violazione del divieto di avvicinamento all’ex compagna. Il 38enne, già gravato dalla misura dell’all…",
+   "link": "https://www.lanazione.it/umbria/cronaca/viola-il-divieto-di-avvicinamento-5d678a87",
+   "published": "2026-10-29T04:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "7ab87e190561bc65",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Contro guerra e carovita. Domani maxi sciopero: \"Per il nostro futuro\"",
+   "summary": "Contro guerra e carovita, ecco lo sciopero di domani, venerdì 30 ottobre che parte alle 9 da piazza XX Settembre per concludersi alla Prefettura passando per i LungarnoLeopardi e Pacinotti. Le Usb avvertono: \"A tutti quelli che producono la ricchezza del Paese, contro chi vuole rubarci il futuro, n…",
+   "link": "https://www.lanazione.it/pisa/cronaca/contro-guerra-e-carovita-domani-bcbd9b0a",
+   "published": "2026-10-29T04:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "bd32e7b57c9c3f8e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Educazione affettiva a scuola: \"I bimbi riconoscono le emozioni\"",
+   "summary": "\"I nostri figli hanno imparato a riconoscere le emozioni e ne hanno tratto beneficio\". A Greve l’ educazione affettiva convince i genitori. Mentre sul referendum contro la legge sull’educazione sessuale e affettiva nelle scuole, dopo il via libera della Cassazione, si attende il giudizio della Cort…",
+   "link": "https://www.lanazione.it/firenze/cronaca/educazione-affettiva-a-scuola-i-eec44053",
+   "published": "2026-10-29T04:48",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "9554d7c7136057a9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main",
+   "summary": "Le manifestant de 20 ans a été touché lors de heurts avec les forces de l’ordre en marge de la mobilisation du 24 octobre à Toulouse.",
+   "link": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
+   "published": "2026-10-29T02:16",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T05:41",
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
    "id": "d7e0fa922355f1c3",
    "zone": "fr_national",
    "affects": [],
@@ -4596,7 +5010,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T00:09",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "a7d87e766313b6ec",
@@ -4614,43 +5028,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T00:09",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-29T00:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-29T00:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "51ea7135b380e9a9",
@@ -4687,7 +5065,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T00:09",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "2eefb779d8d6de0b",
@@ -4705,7 +5083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "8def8a0bc64b2e2a",
@@ -4723,7 +5101,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "a2246b97f746dc85",
@@ -4777,7 +5155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "7882501751904327",
@@ -4795,7 +5173,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T00:09",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "ed0781964e4677bf",
@@ -4813,7 +5191,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "f1f88997cd5acd9b",
@@ -4831,25 +5209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "77faba980e06b41b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
-   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-28T17:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "8a630a39fe26109b",
@@ -4867,7 +5227,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
+  },
+  {
+   "id": "77faba980e06b41b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
+   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-28T17:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-28T20:26",
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "a80f33b37cb5f2f7",
@@ -4903,7 +5281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -4957,7 +5335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "ea75645c45045b6f",
@@ -5011,7 +5389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "23159238774034f5",
@@ -5173,7 +5551,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "6390f777fb01b9ed",
@@ -5227,7 +5605,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "1e77c6c507e08105",
@@ -5281,7 +5659,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "2140c18f221c9929",
@@ -5299,7 +5677,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -6019,7 +6397,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "c61d7862134b539f",
@@ -6325,7 +6703,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "949897c0af09e2b4",
@@ -6469,7 +6847,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -6523,7 +6901,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "3ab74a441b17a285",
@@ -6685,7 +7063,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "282212cf25682828",
@@ -6721,7 +7099,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -7243,7 +7621,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -7461,7 +7839,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T00:09"
+   "last_seen": "2026-10-29T05:41"
   },
   {
    "id": "bf500f2cd0fdcb05",

@@ -1,29 +1,29 @@
 [
  {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 506,
-  "error": ""
- },
- {
   "id": "smrtv",
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
   "kept": 1,
-  "ms": 509,
+  "ms": 453,
   "error": ""
  },
  {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
+  "id": "libertas",
+  "name": "Libertas.sm",
   "ok": true,
   "items": 100,
-  "kept": 0,
-  "ms": 737,
+  "kept": 2,
+  "ms": 575,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 7,
+  "ms": 145,
   "error": ""
  },
  {
@@ -32,7 +32,7 @@
   "ok": true,
   "items": 35,
   "kept": 0,
-  "ms": 809,
+  "ms": 736,
   "error": ""
  },
  {
@@ -41,7 +41,7 @@
   "ok": true,
   "items": 24,
   "kept": 1,
-  "ms": 812,
+  "ms": 755,
   "error": ""
  },
  {
@@ -50,34 +50,16 @@
   "ok": true,
   "items": 68,
   "kept": 3,
-  "ms": 820,
+  "ms": 762,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
   "items": 100,
-  "kept": 3,
-  "ms": 930,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 43,
-  "kept": 2,
-  "ms": 169,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 8,
-  "ms": 533,
+  "kept": 5,
+  "ms": 814,
   "error": ""
  },
  {
@@ -86,16 +68,25 @@
   "ok": true,
   "items": 16,
   "kept": 3,
-  "ms": 236,
+  "ms": 77,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 43,
+  "kept": 2,
+  "ms": 146,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 37,
-  "kept": 6,
-  "ms": 400,
+  "items": 35,
+  "kept": 5,
+  "ms": 325,
   "error": ""
  },
  {
@@ -103,17 +94,8 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 3,
-  "ms": 238,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
   "kept": 4,
-  "ms": 803,
+  "ms": 211,
   "error": ""
  },
  {
@@ -122,7 +104,16 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 562,
+  "ms": 305,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 4,
+  "ms": 796,
   "error": ""
  },
  {
@@ -131,7 +122,7 @@
   "ok": true,
   "items": 143,
   "kept": 9,
-  "ms": 560,
+  "ms": 625,
   "error": ""
  },
  {
@@ -140,7 +131,16 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1040,
+  "ms": 1104,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 13,
+  "ms": 2454,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 84215,
+  "ms": 83526,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
