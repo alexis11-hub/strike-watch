@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:27",
+ "updated": "2026-10-29T00:11",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -178,7 +178,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "1ecaec42922e11cf",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "“Fatico a prendere Meloni sul serio. Risponde alle proteste con botte e arresti”: così D’Alema su La7",
+   "summary": "“Fatico a prendere sul serio Meloni . Il capo di un governo che ha le autostrade bloccate dai camionisti , i contadini in rivolta, i ragazzi per strada, anche con atti violenti, è in grado di rispondere soltanto in termini di sicurezza, botte , arresti preventivi, criminalizzazione”. Sono le parole…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/28/dalema-meloni-siher-milano-magistratura/8553434/",
+   "published": "2026-10-28T21:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T00:09",
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "f4757c2a6483e75f",
@@ -196,7 +214,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "104fa8e7122c6630",
@@ -214,7 +232,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "2109c6d44bb4f621",
@@ -232,7 +250,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "985cbd844bd1a525",
@@ -250,7 +268,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "42b6f3346b53012e",
@@ -268,7 +286,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "6332db920f44aa67",
@@ -304,7 +322,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "e90667ef315583aa",
@@ -322,7 +340,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "5e6f33e08645b82c",
@@ -430,7 +448,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "a7ccb5708727ca36",
@@ -486,7 +504,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "df53307c4e174295",
@@ -524,7 +542,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -979,7 +997,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "40c826c5a426445a",
@@ -1051,7 +1069,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "8445abc0553719df",
@@ -4563,6 +4581,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "d7e0fa922355f1c3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte",
+   "summary": "Emmanuel Macron a appelé, mercredi, à ce que \"le calme revienne\" dans les lycées et à la reprise des cours \"à la rentrée\" de lundi \"après les vacances de la Toussaint\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-parcoursup-racisme-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-a-la-chaine-hugodecrypte_8258006.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T00:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T00:09",
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "a7d87e766313b6ec",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : Emmanuel Macron appelle à une rentrée dans \"le calme\" lundi",
+   "summary": "\"La jeunesse a été entendue\", a estimé le chef de l'Etat, mercredi, dans un entretien accordé au journaliste Hugo Travers.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T00:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T00:09",
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-29T00:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-29T00:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
    "id": "51ea7135b380e9a9",
    "zone": "rimini",
    "affects": [],
@@ -4582,6 +4672,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "5e149e62704e9d21",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite",
+   "summary": "L'enquête pour \"agression sexuelle\" visant un policier lors de l'interpellation d'une adolescente de 14 ans à Metz, en marge d'une mobilisation des lycéens le 5 octobre, a été classée sans suite, a appris franceinfo mercredi auprès du procureur de la République de Metz.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T21:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T00:09",
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
    "id": "2eefb779d8d6de0b",
    "zone": "milano",
    "affects": [],
@@ -4597,43 +4705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-28T20:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-28T20:26"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-28T20:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "8def8a0bc64b2e2a",
@@ -4651,7 +4723,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "a2246b97f746dc85",
@@ -4669,7 +4741,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "fce162630cfa776c",
@@ -4705,7 +4777,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "7882501751904327",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 31 octobre : pourquoi les élèves, les étudiants et les enseignants seront à nouveau dans la rue samedi ?",
+   "summary": "Remplacement de Parcoursup, 5 milliards d’euros pour rénover les bâtiments, 15 000 places supplémentaires dans l’enseignement supérieur… les mesures annoncées par le gouvernement ne satisfont pas pleinement les acteurs de l’éducation. Lycéens, étudiants et enseignants seront à nouveau dans la rue c…",
+   "link": "https://france3-regions.franceinfo.fr/grand-est/lorraine/mobilisation-du-31-octobre-pourquoi-les-eleves-les-etudiants-et-les-enseignants-seront-a-nouveau-dans-la-rue-samedi-3440619.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-28T18:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T00:09",
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "ed0781964e4677bf",
@@ -4723,7 +4813,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "f1f88997cd5acd9b",
@@ -4741,25 +4831,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
-  },
-  {
-   "id": "8a630a39fe26109b",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
-   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-28T17:44",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "77faba980e06b41b",
@@ -4777,7 +4849,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
+  },
+  {
+   "id": "8a630a39fe26109b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
+   "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-28T17:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T20:26",
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "a80f33b37cb5f2f7",
@@ -4795,7 +4885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "51d41084e4b87a37",
@@ -4813,7 +4903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -4849,7 +4939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "5fd4581fa612b2e3",
@@ -4867,7 +4957,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "ea75645c45045b6f",
@@ -4921,7 +5011,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "23159238774034f5",
@@ -5083,7 +5173,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "6390f777fb01b9ed",
@@ -5137,7 +5227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "1e77c6c507e08105",
@@ -5191,7 +5281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "2140c18f221c9929",
@@ -5209,7 +5299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -5929,7 +6019,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "c61d7862134b539f",
@@ -6235,7 +6325,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "949897c0af09e2b4",
@@ -6379,7 +6469,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "abea7b03d3e4dece",
@@ -6433,7 +6523,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "3ab74a441b17a285",
@@ -6595,7 +6685,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "282212cf25682828",
@@ -6631,7 +6721,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "7f34b6fe0a66f43f",
@@ -7153,7 +7243,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "962f60e00b8d97f1",
@@ -7371,7 +7461,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "bf500f2cd0fdcb05",
@@ -8903,7 +8993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-28T20:26"
+   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "75b3aae7e6e34706",
