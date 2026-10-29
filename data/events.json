@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:47",
+ "updated": "2026-10-29T17:51",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -140,6 +140,132 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "55ba42b903926ed3",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sindacati di base in oltre 50 piazze domani per lo sciopero generale, Piantedosi: 'Gli allarmi ci sono ma nulla di diverso dal passato'",
+   "summary": "Ultima generazione: 'Aderiamo allo sciopero di domani'. Aula occupata all'Università Bicocca di Milano, attesa per i cortei di domani",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-da-quanto-trattato-finora_99d186a2-8b27-442f-b637-bc226fa79102.html",
+   "published": "2026-10-29T18:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "88e03248b4e6fe76",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestation du 31 octobre : un risque renforcé de dégradations avec la soirée d’Halloween ? Le point sur le dispositif de sécurité prévu par le gouvernement",
+   "summary": "Le ministre de l’Intérieur, Laurent Nuñez, a demandé aux préfets de renforcer les dispositifs de sécurité pour les manifestations prévues samedi 31 octobre, jour d’Halloween, en raison d’un risque élevé de violences...",
+   "link": "https://www.midilibre.fr/2026/10/29/manifestation-du-31-octobre-un-risque-renforce-de-degradations-avec-la-soiree-dhalloween-le-point-sur-le-dispositif-de-securite-prevu-par-le-13626710.php",
+   "published": "2026-10-29T17:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "44099f876bbccbfb",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Verso lo sciopero del 30 ottobre, le voci: “Stanchi di stage a 500 euro al mese”. “Quando neanche con doppi turni e straordinari arrivi a fine mese non puoi st…",
+   "summary": "“Non arriviamo più alla fine del mese “. È da qui che parte la mobilitazione del 30 ottobre , quando le piazze di diverse città italiane saranno animate dallo sciopero generale promosso dall’ Usb . A scendere in strada saranno persone con storie ed età diverse, unite dalla difficoltà ad affrontare…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-generale-30-ottobre-voci-stanchi-stage-500-euro-non-arrivi-a-fine-mese-non-stare-a-guardare/8554691/",
+   "published": "2026-10-29T17:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "9a4a133f7f5c9d15",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Milano e le manifestazioni del 30 ottobre, allerta massima: diverse piazze di studenti e centri sociali. Impegnati centinaia di agenti",
+   "summary": "L’obiettivo è quello già visto: mettere in atto più concentramenti e più piazze di partenza per poi riunire i vari cortei . Venerdì è sciopero generale e se in altre città c’è più tranquillità rispetto alla gestione dell’ordine pubblico , a Milano l’ allerta è massima . Se non altro per i fatti avv…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/milano-e-le-manifestazioni-del-30-ottobre-allerta-massima-diverse-piazze-di-studenti-e-centri-sociali-impegnati-centinaia-di-agenti/8554357/",
+   "published": "2026-10-29T17:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "4866543564617140",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale a Milano, concordato percorso verso la periferia",
+   "summary": "Centro blindato, due cortei puntano alla tangenziale",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/29/sciopero-generale-a-milano-concordato-percorso-verso-la-periferia_5dcfe38e-5d60-45ac-a5c1-18ee9e04eb34.html",
+   "published": "2026-10-29T16:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "409e969f4dd4d074",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "La rivolta delle lenzuola: \"Non si vive più\", sale la protesta nel quartiere blindato per i lavori. Atteso l’incontro con il Comune",
+   "summary": "Firenze, 29 ottobre 2026 - Le lenzuola si rincorrono da un balcone all'altro . \"Non è un viale, è una giungla\", si legge in via Lapo da Castiglionchio . E ancora: \"Basta con il traffico\", \"Non si vive più\". Da ieri l'esasperazione degli abitanti è finita alle finestre, affidata a quei messaggi che…",
+   "link": "https://www.lanazione.it/firenze/cronaca/la-rivolta-delle-lenzuola-non-si-vive-piu-sale-la-protesta-nel-quartiere-blindato-per-i-lavori-atteso-lincontro-con-il-comune-ac6a7e8b",
+   "published": "2026-10-29T16:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "5d2485e3d8c5c0e6",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Anche il personale di Italo è pronto allo sciopero. I lavoratori si fermeranno il 9 novembre: “Rinnovo contrattuale e aumenti salariali”",
+   "summary": "Prosegue l’ondata di proteste che sta attraversando da settimane il nostro Paese. Dopo lo sciopero generale del 30 ottobre , è stato indetta una nuova mobilitazione nazionale per lunedì 9 novembre. A scioperare sarà il personale ferroviario di Italo , dalle 9 alle 17 . Lo annunciano Filt Cgil , Fit…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-italo-9-novembre-ferroviario-notizie/8554358/",
+   "published": "2026-10-29T15:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
    "id": "10c762ee41146048",
    "zone": "fr_national",
    "affects": [],
@@ -151,24 +277,6 @@
    "summary": "Alors que l'acte III de la mobilisation se prépare à Grenoble et partout en France, de plus en plus de commerçants excédés par les pillages et les violences sont tentés par l'autodéfense et s'équipent dans des armureries.",
    "link": "https://www.ici.fr/emissions/l-info-d-ici-matin-ici-isere/mobilisation-du-31-octobre-a-grenoble-des-commercants-de-plus-en-plus-tentes-par-l-autodefense-7843426?at_medium=lien_RSS&at_locale=56",
    "published": "2026-10-29T12:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
-  },
-  {
-   "id": "55ba42b903926ed3",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sindacati di base in oltre 50 piazze domani per lo sciopero generale, Piantedosi: 'Gli allarmi ci sono ma nulla di diverso dal passato'",
-   "summary": "Ultima generazione: 'Aderiamo allo sciopero di domani'. Aula occupata all'Università Bicocca di Milano, attesa per i cortei di domani",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-da-quanto-trattato-finora_99d186a2-8b27-442f-b637-bc226fa79102.html",
-   "published": "2026-10-29T12:19",
    "dates": "",
    "national": true,
    "soon": false,
@@ -191,7 +299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "003aba8341d0c5f9",
@@ -209,7 +317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "340d7cdd85723035",
@@ -245,7 +353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "1104f58c0cfe4650",
@@ -394,7 +502,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "1ecaec42922e11cf",
@@ -484,7 +592,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "42b6f3346b53012e",
@@ -538,7 +646,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "e90667ef315583aa",
@@ -720,7 +828,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "df53307c4e174295",
@@ -758,7 +866,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -1268,24 +1376,6 @@
    "soon": false,
    "first_seen": "2026-10-26T19:54",
    "last_seen": "2026-10-27T02:20"
-  },
-  {
-   "id": "e2365576a6707367",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 24 octobre : enquête ouverte pour identifier le groupe d'ultradroite accusé de violences à Montpellier",
-   "summary": "Une enquête a été ouverte après la mobilisation du 24 octobre, indique ce lundi le procureur de Montpellier, pour identifier les individus \"commettant des violences à l’encontre d’autres groupes\". Le maire Michaël Delafosse avait, lui, dénoncé la présence d'une \"milice d'ultradroite\".",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-octobre-enquete-ouverte-pour-identifier-le-groupe-d-ultradroite-accuse-de-violences-a-montpellier-9390546?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-26T14:53",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T11:45"
   },
   {
    "id": "8445abc0553719df",
@@ -4797,22 +4887,76 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
-   "id": "850a66c645848ea2",
-   "zone": "milano",
+   "id": "3211f61cf6e6f4d3",
+   "zone": "fr_national",
    "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
+   "source_id": "franceinfo",
+   "source": "franceinfo",
    "kind": "protest",
    "severity": "medium",
-   "title": "Aula occupata all'Università Bicocca a Milano, attesa per i cortei di domani",
-   "summary": "Oggi in Questura i piani per l'ordine pubblico. Previste 10mila persone",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/10/29/aula-occupata-alluniversita-bicocca-a-milano-attesa-per-i-cortei-di-domani_3904de2b-a7ec-4167-a221-93208fadd540.html",
-   "published": "2026-10-29T12:14",
+   "title": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
+   "summary": "Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête de Halloween.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T18:39",
    "dates": "",
-   "national": false,
+   "national": true,
    "soon": false,
-   "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "edd5b6294de16e7c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisations du 31 octobre : Laurent Nuñez prévoit un dispositif de 70 000 policiers et gendarmes, et confirme l’interdiction des rassemblements dans les cent…",
+   "summary": "« C’est un dispositif exceptionnel, c’est le même volume que pour le 24 octobre », a expliqué le ministre de l’intérieur, au cours d’un point presse organisé jeudi soir, à deux jours de nouvelles mobilisations sociales.",
+   "link": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html",
+   "published": "2026-10-29T18:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "67ba625363b64883",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Avec « Soulèvement », Angelin Preljocaj capte les colères contemporaines",
+   "summary": "Le chorégraphe signe, pour ses douze danseurs, une fresque insurrectionnelle où les corps se dressent et s’étreignent, sur une partition électro ensorcelante d’Irène Drésel.",
+   "link": "https://www.lemonde.fr/culture/article/2026/10/29/avec-soulevement-angelin-preljocaj-capte-les-coleres-contemporaines_6802364_3246.html",
+   "published": "2026-10-29T18:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "c48b53b3a40c5833",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi",
+   "summary": "Les organisations syndicales souhaitent que soit publié \"au plus vite\" un arrêté d'interdiction partielle de manifester samedi à Paris, afin d'avoir le temps de le contester en justice.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-de-la-manifestation-a-paris-samedi_8259164.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T17:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "4c81878c6455f94d",
@@ -4825,12 +4969,12 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-29T11:45",
+   "published": "2026-10-29T17:50",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -4843,12 +4987,210 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-29T11:45",
+   "published": "2026-10-29T17:50",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "d766709333683b80",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero 30 ottobre, dopo la precettazione dei trasporti Trenitalia e Trenord annunciano che la circolazione sarà regolare",
+   "summary": "Doveva essere un venerdì nero per i trasporti, ma la situazione sembra rientrata. Per quanto riguarda le mobilitazioni di domani 30 ottobre , è stata disposta la precettazione nel settore dei trasporti che ha portato al differimento dell’astensione dal lavoro nel settore. Trenitalia e Trenord confe…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-trasporti-precettazione-ottobre-notizie/8554681/",
+   "published": "2026-10-29T17:33",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "2f04962ef34844ff",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"C'est abandonner les ménages les plus précaires\" : le gouvernement supprime plusieurs programmes de rénovation énergétique et déclenche la colère des acteurs…",
+   "summary": "L'exécutif souhaite \"recentrer\" les certificats d'économies d'énergie sur l'électrification. Le dispositif Action des collectivités territoriales pour l'efficacité énergétique évoque une \"décision incompréhensible\".",
+   "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/transition-ecologique-du-batiment/c-est-abandonner-les-menages-les-plus-precaires-le-gouvernement-supprime-plusieurs-programmes-de-renovation-energetique-et-declenche-la-colere-des-acteurs-de-la-filiere_8258663.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T17:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "a345de415dca3226",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le match de Top 14 entre le MHR et le Castres Olympique va être reporté en raison des manifestations annoncées",
+   "summary": "La rencontre comptant pour la huitième journée du Top 14 entre le Montpellier Hérault Rugby et le Castres Olympique, prévue ce samedi 31 octobre, va être reportée au lendemain.",
+   "link": "https://www.midilibre.fr/2026/10/29/le-match-de-top-14-entre-le-mhr-et-le-castres-olympique-va-etre-reporte-en-raison-des-manifestations-annoncees-13626690.php",
+   "published": "2026-10-29T17:24",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "850a66c645848ea2",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Aula occupata all'Università Bicocca a Milano, attesa per i cortei di domani",
+   "summary": "Oggi in Questura i piani per l'ordine pubblico. Previste 10mila persone",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/29/aula-occupata-alluniversita-bicocca-a-milano-attesa-per-i-cortei-di-domani_3904de2b-a7ec-4167-a221-93208fadd540.html",
+   "published": "2026-10-29T16:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "2eefb779d8d6de0b",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Studenti occupano aula della Statale a Milano",
+   "summary": "Protesta per posti letti, pochi docenti e sovraffollamento strutture",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/28/studenti-occupano-l-aula-magna-della-statale-a-milano_2af75c5b-bd92-49db-bbf2-3c70fa5dc19f.html",
+   "published": "2026-10-29T16:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-28T20:26",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "1d01ea5a19e299e1",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Oculistica, ecco il nuovo centro a Firenze. Visite specialistiche anche per i più piccoli",
+   "summary": "Firenze, 29 ottobre 2026 – Hi-care surgery porta a Firenze visite specialistiche e diagnostica oculistica avanzata anche per l’età pediatrica. La sede di Lastra a Signa e quella a Villa Donatello di Sesto Fiorentino restano il polo dedicato alla chirurgia refrattiva laser, alla microchirurgia della…",
+   "link": "https://www.lanazione.it/firenze/cronaca/hi-care-surgery-apre-un-nuovo-centro-di-diagnostica-oculistica-a-firenze-b9ecb485",
+   "published": "2026-10-29T16:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "b237ce34d3e07e89",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“Luci a San Siro, non le spegnerete mai”: la protesta dei tifosi dell’Inter alla presentazione del nuovo stadio – Video",
+   "summary": "Una piccola protesta a pochi minuti dall’inizio dell’evento di presentazione del nuovo stadio di Milan e Inter, in programma oggi, alle 16:30, al Castello Sforzesco. Alcuni esponenti della curva dell’Inter si sono presentati all’ingresso del castello con uno striscione breve ma chiaro: “Luci a San…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/san-siro-nuovo-stadio-protesta-tifosi-inter-castello-sforzesco/8554559/",
+   "published": "2026-10-29T16:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "e18d28b4dcc8f8a7",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Si infiamma la protesta negli atenei, da Milano a Napoli facoltà occupate",
+   "summary": "Anche decine di scuole in mobilitazione da nord a sud Italia",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/si-infiamma-la-protesta-negli-atenei-da-milano-a-napoli-facolta-occupate_675da6a0-f66a-4779-b770-5436b4259ede.html",
+   "published": "2026-10-29T16:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "88a3a0597d28c999",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Après les manifestations, les commerçants pourront-ils ouvrir le dimanche ?",
+   "summary": "Avec l'enchaînement des manifestations le samedi, les commerçants demandent à pouvoir compenser leur manque à gagner en ouvrant le dimanche. La porte-parole du gouvernement, Maud Bregeon, présente les dérogations possibles.",
+   "link": "https://www.franceinfo.fr/economie/commerce/apres-les-manifestations-les-commercants-pourront-ils-ouvrir-le-dimanche_8258894.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T15:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "27bd089b8d4dd7bd",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il Viminale: 'In campo un dispositivo per isolare i violenti nei cortei'",
+   "summary": "'Per tutelare il diritto di manifestare pacificamente e isolare violenti'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/il-viminale-in-campo-dispositivo-per-isolare-i-violenti-nei-cortei_1272a9ff-36d1-493f-9619-f221cfe216ff.html",
+   "published": "2026-10-29T15:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "b430f3008c87f430",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Il 30 ottobre scioperano anche i portuali di tutto il mondo contro il traffico di armi: “Scali al servizio dei popoli, non basi per la guerra”",
+   "summary": "Bandiere, megafoni e striscioni sulle banchine del porto di Copenhagen. Come su quelle degli scali di Melbourne, Casablanca, San Francisco e nello scalo indiano di Mumbai. Il 30 ottobre i portuali si fermano in tutto il mondo contro il traffico di armi . Per ribadire che non lavorano per la guerra…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/29/sciopero-riarmo-portuali-traffico-armi-30-ottobre-sindacati-notizie/8554192/",
+   "published": "2026-10-29T15:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "77faba980e06b41b",
@@ -4861,12 +5203,48 @@
    "title": "Cortèges hors des centres-villes, dispositif de sécurité : à quoi s'attendre pour la mobilisation du 31 octobre ?",
    "summary": "Après deux samedis de mobilisation, les gilets jaunes ont une nouvelle fois appelé à manifester ce samedi, avec des rassemblements partout en France. Le gouvernement a annoncé qu'il allait \"maintenir un haut niveau de vigilance\". Voici à quoi il faut s'attendre.",
    "link": "https://www.ici.fr/infos/societe/corteges-hors-des-centre-villes-dispositif-de-securite-a-quoi-s-attendre-pour-la-mobilisation-du-31-octobre-9303882?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-29T11:07",
+   "published": "2026-10-29T15:08",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "c7703d4e0a874877",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le forum et la manifestation organisés samedi et dimanche par le collectif Objectif Remigration ont été interdits",
+   "summary": "Ces arrêtés d'interdiction ont été pris \"au regard des risques de troubles à l’ordre public notamment à la suite de l’attentat de Trappes\", a annoncé jeudi la préfecture de police de Paris.",
+   "link": "https://www.franceinfo.fr/economie/greve/le-forum-et-la-manifestation-organises-samedi-et-dimanche-par-le-collectif-objectif-remigration-ont-ete-interdits_8258789.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T13:38",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "ba636f23ff4b3c27",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Monte dei Paschi, a un bivio il futuro della banca: \"Dipendenti preoccupati\"",
+   "summary": "L'intervista a margine dell'assemblea dei soci. Presidio dei dipendenti",
+   "link": "https://www.lanazione.it/video/monte-dei-paschi-a-un-bivio-il-futuro-della-banca-dipendenti-preoccupati-uuo6wbhf",
+   "published": "2026-10-29T12:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T17:50",
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "61b3a060bbafddcf",
@@ -4920,7 +5298,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "a0b16bd2762d1c0c",
@@ -4938,7 +5316,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "3867f00dc3d43990",
@@ -4956,7 +5334,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "f0d036e8942c7836",
@@ -4974,7 +5352,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "47c812a9b60293e0",
@@ -5010,7 +5388,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "7484f36f9bf8ffaa",
@@ -5028,7 +5406,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -5046,7 +5424,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "2819b113da3be8a8",
@@ -5064,7 +5442,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "2e930cda37551701",
@@ -5082,7 +5460,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "ba892ad020c8dba2",
@@ -5100,25 +5478,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
-  },
-  {
-   "id": "0754b97aab97900e",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Gli operai senza stipendi. Protesta da Crucianelli, arrivano pure i carabinieri",
-   "summary": "di Lucia Gentili e Paola Pagnanelli Questa volta gli operai della ricostruzione post-sisma senza stipendio non sono saliti sulla gru, ma si sono presentati direttamente davanti alla ditta Crucianelli Rest Edile, in via Sacharov a Tolentino. È successo ieri mattina. Un gruppo di operai egiziani, una…",
-   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/gli-operai-senza-stipendi-protesta-8523165c",
-   "published": "2026-10-29T06:11",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "35294742d47b0c11",
@@ -5131,6 +5491,24 @@
    "title": "Una singola? 520 euro: \"Nella città bomboniera non c’è posto per noi\"",
    "summary": "Pamela paga 450 euro al mese per un posto letto , spese escluse. Il contratto dura un anno con possibilità di rinnovo per il secondo. Thomas ne spende 520 per una singola. Tommaso, invece, parte da Vernio e ogni giorno passa più di tre ore tra treni e autobus per raggiungere l’università e tornare…",
    "link": "https://www.lanazione.it/firenze/cronaca/una-singola-520-euro-nella-d611d87d",
+   "published": "2026-10-29T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-29T11:45",
+   "last_seen": "2026-10-29T17:50"
+  },
+  {
+   "id": "0754b97aab97900e",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gli operai senza stipendi. Protesta da Crucianelli, arrivano pure i carabinieri",
+   "summary": "di Lucia Gentili e Paola Pagnanelli Questa volta gli operai della ricostruzione post-sisma senza stipendio non sono saliti sulla gru, ma si sono presentati direttamente davanti alla ditta Crucianelli Rest Edile, in via Sacharov a Tolentino. È successo ieri mattina. Un gruppo di operai egiziani, una…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/gli-operai-senza-stipendi-protesta-8523165c",
    "published": "2026-10-29T06:11",
    "dates": "",
    "national": false,
@@ -5590,24 +5968,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "2eefb779d8d6de0b",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Studenti occupano aula della Statale a Milano",
-   "summary": "Protesta per posti letti, pochi docenti e sovraffollamento strutture",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/10/28/studenti-occupano-l-aula-magna-della-statale-a-milano_2af75c5b-bd92-49db-bbf2-3c70fa5dc19f.html",
-   "published": "2026-10-28T20:45",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T11:45"
-  },
-  {
    "id": "8def8a0bc64b2e2a",
    "zone": "it_national",
    "affects": [],
@@ -5839,7 +6199,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "ea75645c45045b6f",
@@ -5893,7 +6253,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "23159238774034f5",
@@ -6163,7 +6523,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "2140c18f221c9929",
@@ -6181,7 +6541,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -6901,7 +7261,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "c61d7862134b539f",
@@ -7226,6 +7586,24 @@
    "soon": false,
    "first_seen": "2026-10-26T14:00",
    "last_seen": "2026-10-26T14:00"
+  },
+  {
+   "id": "e2365576a6707367",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 24 octobre : enquête ouverte pour identifier le groupe d'ultradroite accusé de violences à Montpellier",
+   "summary": "Une enquête a été ouverte après la mobilisation du 24 octobre, indique ce lundi le procureur de Montpellier, pour identifier les individus \"commettant des violences à l’encontre d’autres groupes\". Le maire Michaël Delafosse avait, lui, dénoncé la présence d'une \"milice d'ultradroite\".",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-octobre-enquete-ouverte-pour-identifier-le-groupe-d-ultradroite-accuse-de-violences-a-montpellier-9390546?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-26T14:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-26T14:00",
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "47f132d64882e97e",
@@ -7567,7 +7945,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T11:45"
+   "last_seen": "2026-10-29T17:50"
   },
   {
    "id": "282212cf25682828",
