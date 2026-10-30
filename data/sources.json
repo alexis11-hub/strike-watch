@@ -14,7 +14,43 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 668,
+  "ms": 614,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 6,
+  "ms": 469,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 11,
+  "ms": 1247,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 45,
+  "kept": 0,
+  "ms": 1323,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 5,
+  "ms": 1326,
   "error": ""
  },
  {
@@ -23,43 +59,16 @@
   "ok": true,
   "items": 27,
   "kept": 2,
-  "ms": 788,
+  "ms": 1337,
   "error": ""
  },
  {
   "id": "ansa_lom",
   "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 65,
-  "kept": 4,
-  "ms": 794,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 41,
-  "kept": 0,
-  "ms": 809,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 903,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 5,
-  "ms": 410,
+  "items": 62,
+  "kept": 9,
+  "ms": 1338,
   "error": ""
  },
  {
@@ -67,35 +76,26 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 0,
-  "ms": 149,
+  "kept": 1,
+  "ms": 135,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "midilibre",
+  "name": "Midi Libre",
   "ok": true,
-  "items": 44,
-  "kept": 3,
-  "ms": 219,
+  "items": 100,
+  "kept": 8,
+  "ms": 1069,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 30,
+  "items": 29,
   "kept": 4,
-  "ms": 416,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 5,
-  "ms": 1265,
+  "ms": 513,
   "error": ""
  },
  {
@@ -104,7 +104,16 @@
   "ok": true,
   "items": 25,
   "kept": 1,
-  "ms": 413,
+  "ms": 432,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 43,
+  "kept": 2,
+  "ms": 597,
   "error": ""
  },
  {
@@ -112,26 +121,17 @@
   "name": "ANSA 头条",
   "ok": true,
   "items": 10,
-  "kept": 0,
-  "ms": 622,
+  "kept": 1,
+  "ms": 693,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 141,
-  "kept": 9,
-  "ms": 788,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 9,
-  "ms": 1158,
+  "items": 168,
+  "kept": 40,
+  "ms": 840,
   "error": ""
  },
  {
@@ -139,8 +139,8 @@
   "name": "CGT 全国工会",
   "ok": true,
   "items": 10,
-  "kept": 1,
-  "ms": 1331,
+  "kept": 3,
+  "ms": 1305,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83326,
+  "ms": 83481,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
