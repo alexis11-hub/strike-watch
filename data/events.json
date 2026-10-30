@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:15",
+ "updated": "2026-10-30T01:59",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "5b7b54bf76c31865",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Oggi è sciopero generale. Nove tra cortei e concentramenti in Toscana. Possibili disagi per il trasporto e il settore pubblico",
+   "summary": "Firenze, 30 ottobre 2026 – Uno sciopero generale contro il carovita e il riarmo. Insomma, un altro venerdì che potrebbe comportare disagi agli utenti del trasporto e del settore pubblico. E in particolare per il mondo della scuola. Una mobilitazione indetta dalla sigla sindacale Usb ( Unione sindac…",
+   "link": "https://www.lanazione.it/cronaca/sciopero-generale-nove-cortei-concentramenti-toscana-disagi-trasporto-nhvb1uxa",
+   "published": "2026-10-30T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-30T01:58",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
    "id": "f49d1ea9a2f4a65f",
    "zone": "it_national",
    "affects": [
@@ -140,6 +158,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "be96fbbfb538d6e5",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences dans les manifestations : les cellules locales de déontologie, l'autre police des polices, sont-elles assez contrôlées ?",
+   "summary": "Alors que les plaintes visant les forces de l’ordre se multiplient, une grande partie des enquêtes pour des faits impliquant des policiers échappe à l’IGPN. Elles sont confiées à des cellules locales de déontologie, dont le manque de transparence et les conditions de fonctionnement soulèvent des qu…",
+   "link": "https://www.franceinfo.fr/faits-divers/police/revelations-sur-les-cellules-de-deontologie-l-autre-police-des-polices_8259413.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T23:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T01:58",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
+   "id": "32e58d8d1b32e6c1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
+   "summary": "À l’approche du 31 octobre, les autorités redoutent une soirée sous tension. Entre manifestations des Gilets jaunes aux références macabres, risques de violences urbaines et présence annoncée de groupes d’ultra-droite, les forces de l’ordre se préparent à une journée jugée particulièrement sensible.",
+   "link": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-29T22:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T01:58",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
    "id": "b6f875974d4fc912",
    "zone": "it_national",
    "affects": [],
@@ -155,7 +209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "9170ce65460cecd0",
@@ -173,7 +227,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "827ed907d807c79d",
@@ -191,7 +245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "55ba42b903926ed3",
@@ -227,7 +281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "67763ca4bb1fcaff",
@@ -245,7 +299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "44099f876bbccbfb",
@@ -281,7 +335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "4866543564617140",
@@ -299,7 +353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "409e969f4dd4d074",
@@ -317,7 +371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "5d2485e3d8c5c0e6",
@@ -335,7 +389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "10c762ee41146048",
@@ -371,7 +425,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "003aba8341d0c5f9",
@@ -389,7 +443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "340d7cdd85723035",
@@ -425,7 +479,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "1104f58c0cfe4650",
@@ -574,7 +628,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "1ecaec42922e11cf",
@@ -664,7 +718,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "42b6f3346b53012e",
@@ -718,7 +772,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "e90667ef315583aa",
@@ -900,7 +954,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "df53307c4e174295",
@@ -938,7 +992,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "c7c8c500bcb34661",
@@ -4940,6 +4994,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-30T01:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-30T01:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
+   "id": "97890996ecffbb97",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Obiettivo litorale perfetto, nuove norme per i gestori: vietato fumare in spiaggia",
+   "summary": "Sarzana, 30 ottobre 2026 – “Le regole per un litorale perfetto ”. La giunta sarzanese fissa le linee guida a cui attenersi in vista della prossima stagione balneare, nel rispetto di chi utilizza le spiagge e del turista, che deve conservarne un ricordo tale da invogliarlo a ritornare. Regole nell’o…",
+   "link": "https://www.lanazione.it/sarzana/cronaca/vietato-fumare-in-spiaggia-d0a4ts8f",
+   "published": "2026-10-30T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-30T01:58",
+   "last_seen": "2026-10-30T01:58"
+  },
+  {
    "id": "059da7d203259a89",
    "zone": "firenze",
    "affects": [],
@@ -4959,42 +5067,6 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-29T22:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-29T22:14"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-29T22:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-29T22:14"
-  },
-  {
    "id": "5b90d2d65005e4f8",
    "zone": "it_national",
    "affects": [],
@@ -5010,7 +5082,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "770928a6f9739921",
@@ -5028,7 +5100,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "3211f61cf6e6f4d3",
@@ -5046,7 +5118,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "17578159c3b48b85",
@@ -5064,7 +5136,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "1e5a5e79bacb4ab5",
@@ -5082,7 +5154,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "e7acedde5af241f2",
@@ -5100,7 +5172,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "38446be103ff1ea9",
@@ -5118,7 +5190,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "a922ae0e3e79e800",
@@ -5136,7 +5208,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "75a7b2213f13d714",
@@ -5154,7 +5226,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "77faba980e06b41b",
@@ -5172,7 +5244,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "edd5b6294de16e7c",
@@ -5190,7 +5262,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "67ba625363b64883",
@@ -5244,7 +5316,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "2f04962ef34844ff",
@@ -5262,7 +5334,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "a345de415dca3226",
@@ -5280,7 +5352,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "850a66c645848ea2",
@@ -5298,7 +5370,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "2eefb779d8d6de0b",
@@ -5316,7 +5388,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "1d01ea5a19e299e1",
@@ -5334,7 +5406,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "b237ce34d3e07e89",
@@ -5352,7 +5424,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "e18d28b4dcc8f8a7",
@@ -5370,7 +5442,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "88a3a0597d28c999",
@@ -5406,7 +5478,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "b430f3008c87f430",
@@ -5460,7 +5532,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "61b3a060bbafddcf",
@@ -5514,7 +5586,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "a0b16bd2762d1c0c",
@@ -5532,7 +5604,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "3867f00dc3d43990",
@@ -5550,7 +5622,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "f0d036e8942c7836",
@@ -5568,7 +5640,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "47c812a9b60293e0",
@@ -5604,7 +5676,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "7484f36f9bf8ffaa",
@@ -5622,7 +5694,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -5640,7 +5712,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "2819b113da3be8a8",
@@ -5658,7 +5730,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "2e930cda37551701",
@@ -6415,7 +6487,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "ea75645c45045b6f",
@@ -6469,7 +6541,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "23159238774034f5",
@@ -6757,7 +6829,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "4f1fad859efc86f7",
@@ -7477,7 +7549,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "c61d7862134b539f",
@@ -7819,7 +7891,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-29T22:14"
+   "last_seen": "2026-10-30T01:58"
   },
   {
    "id": "47f132d64882e97e",
