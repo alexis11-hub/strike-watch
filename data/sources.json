@@ -5,16 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 538,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 614,
+  "ms": 730,
   "error": ""
  },
  {
@@ -22,26 +13,8 @@
   "name": "ICI / France Bleu 埃罗省",
   "ok": true,
   "items": 40,
-  "kept": 6,
-  "ms": 469,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 11,
-  "ms": 1247,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 45,
-  "kept": 0,
-  "ms": 1323,
+  "kept": 5,
+  "ms": 343,
   "error": ""
  },
  {
@@ -50,25 +23,52 @@
   "ok": true,
   "items": 100,
   "kept": 5,
-  "ms": 1326,
+  "ms": 1216,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 14,
+  "ms": 1529,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
+  "kept": 6,
+  "ms": 278,
   "error": ""
  },
  {
   "id": "ansa_tos",
   "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 27,
-  "kept": 2,
-  "ms": 1337,
+  "items": 29,
+  "kept": 3,
+  "ms": 1833,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 42,
+  "kept": 0,
+  "ms": 1855,
   "error": ""
  },
  {
   "id": "ansa_lom",
   "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 62,
-  "kept": 9,
-  "ms": 1338,
+  "items": 61,
+  "kept": 10,
+  "ms": 1868,
   "error": ""
  },
  {
@@ -76,26 +76,17 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 1,
-  "ms": 135,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 8,
-  "ms": 1069,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 29,
   "kept": 4,
-  "ms": 513,
+  "ms": 64,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 44,
+  "kept": 4,
+  "ms": 185,
   "error": ""
  },
  {
@@ -103,35 +94,8 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 1,
-  "ms": 432,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 43,
-  "kept": 2,
-  "ms": 597,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 1,
-  "ms": 693,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 168,
-  "kept": 40,
-  "ms": 840,
+  "kept": 5,
+  "ms": 423,
   "error": ""
  },
  {
@@ -140,7 +104,43 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1305,
+  "ms": 1092,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 10,
+  "ms": 1389,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 773,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 172,
+  "kept": 45,
+  "ms": 951,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 2872,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83481,
+  "ms": 82962,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
