@@ -5,7 +5,16 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 647,
+  "ms": 467,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 578,
   "error": ""
  },
  {
@@ -14,7 +23,7 @@
   "ok": true,
   "items": 40,
   "kept": 6,
-  "ms": 415,
+  "ms": 302,
   "error": ""
  },
  {
@@ -22,8 +31,17 @@
   "name": "La Nazione · 佛罗伦萨",
   "ok": true,
   "items": 100,
-  "kept": 14,
-  "ms": 1236,
+  "kept": 13,
+  "ms": 929,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 6,
+  "ms": 993,
   "error": ""
  },
  {
@@ -32,16 +50,7 @@
   "ok": true,
   "items": 42,
   "kept": 0,
-  "ms": 1244,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 56,
-  "kept": 9,
-  "ms": 1255,
+  "ms": 1039,
   "error": ""
  },
  {
@@ -50,16 +59,16 @@
   "ok": true,
   "items": 29,
   "kept": 3,
-  "ms": 1274,
+  "ms": 1046,
   "error": ""
  },
  {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 100,
-  "kept": 7,
-  "ms": 1365,
+  "items": 55,
+  "kept": 9,
+  "ms": 1071,
   "error": ""
  },
  {
@@ -67,8 +76,8 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 2,
-  "ms": 224,
+  "kept": 1,
+  "ms": 151,
   "error": ""
  },
  {
@@ -76,8 +85,8 @@
   "name": "ICI 全国",
   "ok": true,
   "items": 42,
-  "kept": 4,
-  "ms": 283,
+  "kept": 5,
+  "ms": 133,
   "error": ""
  },
  {
@@ -86,7 +95,7 @@
   "ok": true,
   "items": 31,
   "kept": 6,
-  "ms": 597,
+  "ms": 247,
   "error": ""
  },
  {
@@ -94,8 +103,8 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 5,
-  "ms": 418,
+  "kept": 4,
+  "ms": 355,
   "error": ""
  },
  {
@@ -104,7 +113,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 741,
+  "ms": 487,
   "error": ""
  },
  {
@@ -113,7 +122,7 @@
   "ok": true,
   "items": 171,
   "kept": 45,
-  "ms": 747,
+  "ms": 572,
   "error": ""
  },
  {
@@ -121,8 +130,8 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 11,
-  "ms": 1235,
+  "kept": 10,
+  "ms": 1130,
   "error": ""
  },
  {
@@ -131,17 +140,8 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1399,
+  "ms": 1268,
   "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": false,
-  "items": 0,
-  "kept": 0,
-  "ms": 8946,
-  "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  {
   "id": "mit",
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 84787,
+  "ms": 83761,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
