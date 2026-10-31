@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:53",
+ "updated": "2026-10-31T14:56",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,132 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "ce622787108c4c2c",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Cortei, 60 perquisizioni in 23 città",
+   "summary": "'Nei confronti di chi sui social ha incitato alle violenze di piazza'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta-_449404aa-1c37-4c96-aa63-5089df5221ae.html",
+   "published": "2026-10-31T15:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "904363d3b15f39ce",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "EN DIRECT Manifestation du 31 octobre : les manifestants défilent à Nîmes, des déambulations également observées à Montpellier",
+   "summary": "La France s’apprête à vivre une nouvelle journée de mobilisation, ce samedi 31 octobre. Le ministre de l’Intérieur a mis en garde contre \"des épisodes de violences comparables à ceux du 17 octobre\".",
+   "link": "https://www.midilibre.fr/2026/10/31/en-direct-manifestation-du-31-octobre-vers-un-samedi-noir-plus-de-70-000-policiers-et-gendarmes-mobilises-a-travers-la-france-pour-prevenir-les-heurts-13628569.php",
+   "published": "2026-10-31T15:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "a3a81dc99bb5b401",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Lors de la mobilisation du 31 octobre, les autorités craignent la présence de 300 à 600 militants d'ultragauche à Paris",
+   "summary": "Un document de la direction de l'ordre public et de la circulation, que franceinfo a consulté, évoque la présence à Paris, samedi, de \"militants aguerris aux violences urbaines\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/lors-de-la-mobilisation-du-31-octobre-les-autorites-craignent-la-presence-de-300-a-600-militants-d-ultragauche-a-paris_8261882.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T15:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "4850ccc7ee4bc45f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "high",
+   "title": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestations très suivies",
+   "summary": "Une grève générale a eu lieu vendredi 30 octobre, à l’appel de l’Union syndicale de base pour en particulier dénoncer le coût de la vie et les problèmes de logement.",
+   "link": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html",
+   "published": "2026-10-31T10:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "bf63c50c75f2dec8",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale, cortei in tutta Italia",
+   "summary": "Le immagini",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-cortei-in-tutta-italia_27f8d4bf-d6d2-4835-9a1c-7a2d6c5ed3ab.html",
+   "published": "2026-10-31T09:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T19:56",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "1280393b2335f9b2",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Polonia, manifestanti davanti la sede della Corte costituzionale dopo la sospensione del presidente ordinata dal governo Tusk",
+   "summary": "Crisi istituzionale in Polonia e tensioni in piazza a Varsavia. Al centro della contesa ci sono i vertici della Corte Costituzionale . Sullo sfondo, lo scontro tra il governo europeista di Donald Tusk e il presidente della Repubblica Karol Nawrock i, considerato alleato del partito d’opposizione Le…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/31/crisi-istituzionale-polonia-corte-costituzionale-notizie/8556229/",
+   "published": "2026-10-31T09:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "60d4002bba308bdd",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Cortei, sessanta perquisizioni in 23 città contro “soggetti che hanno incitato a compiere violenze nelle manifestazioni”",
+   "summary": "Digos e Polizia postale hanno effettuato sessanta perquisizioni in 23 città “nei confronti di soggetti che nelle chat e nelle piattaforme social avevano incitato a compiere violenze nelle recenti manifestazioni di piazza”. Lo comunicano le forze dell’ordine all’indomani dei cortei quasi tutti pacif…",
+   "link": "https://www.ilfattoquotidiano.it/2026/10/31/perquisizioni-cortei-violenze-istigazione-notizie/8556236/",
+   "published": "2026-10-31T09:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
    "id": "ecef097668b1d2f7",
    "zone": "milano",
    "affects": [],
@@ -86,7 +212,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d2e0b8dd3eff5ba2",
@@ -104,7 +230,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "892fde622e424802",
@@ -140,7 +266,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "e9fc6f55cff42e0e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "CARTE Manifestations du 31 octobre : barrages filtrants, blocages de stations-service… Voici les principaux secteurs touchés en Occitanie",
+   "summary": "Ce 31 octobre 2026, près de 900 actions sont déclarées dans toute la France. En Occitanie, une cinquantaine de rassemblements sont annoncés. Les voici en carte.",
+   "link": "https://www.midilibre.fr/2026/10/31/carte-manifestations-du-31-octobre-barrages-filtrants-blocages-de-stations-service-voici-les-principaux-secteurs-touches-en-occitanie-13628174.php",
+   "published": "2026-10-31T08:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T08:52",
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "916e0d2532c5b646",
@@ -161,24 +305,6 @@
    "last_seen": "2026-10-31T08:52"
   },
   {
-   "id": "e9fc6f55cff42e0e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "CARTE Manifestations du 31 octobre : barrages filtrants, blocages de stations-service… Voici les principaux secteurs touchés en Occitanie",
-   "summary": "Ce 31 octobre 2026, près de 900 actions sont déclarées dans toute la France. En Occitanie, une cinquantaine de rassemblements sont annoncés. Les voici en carte.",
-   "link": "https://www.midilibre.fr/2026/10/31/carte-manifestations-du-31-octobre-barrages-filtrants-blocages-de-stations-service-voici-les-principaux-secteurs-touches-en-occitanie-13628174.php",
-   "published": "2026-10-31T08:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
    "id": "ff94f5581ef4f8cb",
    "zone": "firenze",
    "affects": [],
@@ -187,14 +313,14 @@
    "kind": "strike",
    "severity": "high",
    "title": "Viali e piazza Libertà in tilt. La sfilata ’occupa’ le strade. E tutta la città si paralizza",
-   "summary": "\"Che bello, tutte le auto bloccate\". \"È dalle 10 di mattina che c’è questo caos\". Due punti di vista, due facce di una stessa città, Firenze, che ieri ha vissuto il venerdì nero dello sciopero generale , con inevitabili e pesanti conseguenze su viabilità e trasporto locale. Da una parte ci sono i m…",
+   "summary": "Firenze, 31 ottobre 2026 – \"Che bello, tutte le auto bloccate\". \"È dalle 10 di mattina che c’è questo caos\". Due punti di vista, due facce di una stessa città, Firenze, che ieri ha vissuto il venerdì nero dello sciopero generale , con inevitabili e pesanti conseguenze su viabilità e trasporto local…",
    "link": "https://www.lanazione.it/firenze/cronaca/viali-e-piazza-liberta-in-05609ab7",
    "published": "2026-10-31T06:13",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "4e7e9820659e39aa",
@@ -212,7 +338,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "5331a3b7695e3e0c",
@@ -230,7 +356,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "7170680ec2b6f898",
@@ -284,7 +410,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T23:25",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "a9d9fdee663f276a",
@@ -302,7 +428,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "bfbaafbc4efb48b1",
@@ -356,25 +482,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
-   "id": "bf63c50c75f2dec8",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale, cortei in tutta Italia",
-   "summary": "Le immagini",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-cortei-in-tutta-italia_27f8d4bf-d6d2-4835-9a1c-7a2d6c5ed3ab.html",
-   "published": "2026-10-30T19:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "130599136eb07f15",
@@ -392,7 +500,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "73f9e1132004c2ff",
@@ -410,7 +518,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "b7899cddcf85760d",
@@ -574,7 +682,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "28f81cfe32e2dd99",
@@ -628,7 +736,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "8231c15db3bb3412",
@@ -682,7 +790,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "ea59771b63c70600",
@@ -754,7 +862,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "eae49e96565e85b9",
@@ -772,7 +880,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "8605cb7ad1b5dcaf",
@@ -1183,7 +1291,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "409e969f4dd4d074",
@@ -5824,6 +5932,366 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "b4e7ecc65d8938e5",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "DIRECT - Mobilisation du 31 octobre : des manifestations calmes, de nombreuses personnes déguisées pour Halloween",
+   "summary": "La mobilisation sociale contre la \"vie chère\" se poursuit ce samedi avec une troisième journée de manifestations en France qui rassemblent gilets jaunes, militants, syndicats, lycéens et étudiants. Le gouvernement a dit \"maintenir un haut niveau de vigilance\". Suivez la journée avec ICI.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-31T15:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "2fa0881f896364ef",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "DIRECT - Mobilisation du 31 octobre : des manifestants arrivent place de la Comédie à Montpellier, malgré l'interdiction",
+   "summary": "La mobilisation contre la vie chère se poursuit, ce samedi 31 octobre, avec l'\"acte III\", avec un cortège à Montpellier de plusieurs milliers de personnes, malgré l'interdiction de la préfecture de l'Hérault de manifester. Suivez cette journée de mobilisation avec ICI Hérault.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/direct-mobilisation-du-31-octobre-interdiction-de-manifester-confirmee-a-montpellier-400-a-500-personnes-a-beziers-1645259?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-31T15:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "17c790429b8f0104",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine",
+   "summary": "Cette opération a eu lieu dans le cadre d'une trêve qui débuté mardi matin et doit durer jusqu'à dimanche soir. Ni Moscou, ni Kiev n'ont précisé le nombre de personnes évacuées.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T15:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "2c562fad53671d89",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 31 octobre : la plupart des cortèges se déroulent dans le calme, \"sans incident notable\", selon le ministère de l'Intérieur",
+   "summary": "Dans la capitale, le Conseil d'Etat a annulé la décision du tribunal administratif de Paris qui avait autorisé hier soir un parcours entre Bastille et Nation. Les manifestants défilent donc entre porte de Bagnolet et porte de Charenton.",
+   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T15:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-10-31T14:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-10-31T14:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-10-31T14:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "4ee8b349a965bc6a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : des syndicats lycéens et étudiants appellent à bloquer les établissements les 3 et 5 novembre",
+   "summary": "Alors que se tient partout en France, ce 31 octobre, l'acte III de la mobilisation sociale, l'Union étudiante et l'Union syndicale lycéenne appellent à bloquer lycées et universités mardi et jeudi prochains. Le 5 novembre, il s'agit notamment de participer à la journée nationale et intersyndicale.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-sociale-des-syndicats-lyceens-et-etudiants-appellent-a-bloquer-lycees-et-universites-les-3-et-5-novembre-2249248?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-10-31T14:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "e1c729aaa2affba4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Pinocchio e i Carabinieri, a Firenze la legalità è narrata con la letteratura",
+   "summary": "L'iniziativa coinvolge Aci, 30 auto d'epoca in corteo portano corona a Martiri di Fiesole",
+   "link": "https://www.ansa.it/toscana/notizie/2026/10/31/pinocchio-e-i-carabinieri-a-firenze-la-legalita-e-narrata-con-la-letteratura_df854a9a-a7e3-46fc-a15e-af41ee7ccf33.html",
+   "published": "2026-10-31T14:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "43d1834f4c6b9468",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Route du Rhum : \"Je veux juste montrer qu’on peut y arriver quand on a envie de faire des choses\", assure Nicolas Rouger, à nouveau au départ de la course",
+   "summary": "Le Sétois Nicolas Rouger s’apprête à participer à sa deuxième Route du Rhum, dimanche 1er novembre, malgré des obstacles majeurs. Son bateau, \"Demain c’est loin\", a été réparé grâce à une mobilisation solidaire à Port...",
+   "link": "https://www.midilibre.fr/2026/10/31/route-du-rhum-je-veux-juste-montrer-quon-peut-y-arriver-quand-on-a-envie-de-faire-des-choses-assure-nicolas-rouger-a-nouveau-au-depart-de-la-course-13621187.php",
+   "published": "2026-10-31T14:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "e000c948bbc6f37e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, manifestations du 31 octobre : à Paris, le cortège s’est élancé sur le parcours autorisé au départ de la porte de Bagnolet ; 15 000 manifestants en…",
+   "summary": "Avant le départ de la manifestation parisienne, la porte-parole de l’Union étudiante, Sabrine Kharbach, a incité à répondre à « l’appel de l’Union syndicale lycéenne, de l’Union étudiante et de l’intersyndicale » pour de nouveaux blocages des universités et des lycées « dès mardi ».",
+   "link": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html",
+   "published": "2026-10-31T14:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "8778475126f1df96",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lavoratori vestiti da Halloween davanti alla boutique di Valentino a Venezia",
+   "summary": "La protesta contro il trasferimento del magazzino di Valdagno in Lombardia",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_fc7f2d44-4556-4ea2-9991-3cb7fe56b769.html",
+   "published": "2026-10-31T14:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "e621c2bf480f88ba",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 31 octobre : manifestation interdite à Montpellier, à quoi faut-il s'attendre dans l'Hérault ?",
+   "summary": "Comme pour le 24 octobre, la préfète de l'Hérault décide finalement d'interdire la manifestation déclarée pour le 31 octobre à Montpellier. Et elle élargit le périmètre dans le centre ville où il est interdit de se rassembler.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-31-octobre-a-quoi-faut-il-s-attendre-dans-l-herault-1100378?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-10-31T13:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-10-30T19:56",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "23d0f423a39db7d7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Bordeaux, Avignon, Guéret... Des manifestations \"globalement\" calmes en début d'après-midi, lors de la mobilisation du 31 octobre",
+   "summary": "De nombreuses manifestations et rassemblements sont prévus partout en France, pour \"l'Acte III\" de la mobilisation contre la vie chère et pour une amélioration des conditions d'études des lycéens et étudiants. 70 000 policiers et gendarmes sont mobilisés.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/pau-avignon-gueret-les-premiers-corteges-de-la-mobilisation-du-31-octobre-se-sont-elances_8261798.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T13:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "1974c61ef61686d2",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Dodici denunciati e 256 identificati a Torino nei cortei per lo sciopero",
+   "summary": "Il bilancio della questura del capoluogo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/dodici-denunciati-e-256-identificati-a-torino-nei-cortei-per-lo-sciopero_0c76c2a9-b56c-4061-a4d5-26b5a15af11d.html",
+   "published": "2026-10-31T12:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "265691b1a88ba8c4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Le commerce traditionnel est en danger\", alerte le président de la Chambre du commerce et de l'industrie de Paris avant de nouvelles manifestations samedi",
+   "summary": "Certains secteurs économiques font \"40% de leur chiffre d'affaires sur les deux derniers mois de l'année\", rappelle Gérald Barbier. Il craint que des commerces \"ne se relèvent pas\" en cas de nouveaux incidents.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-commerce-traditionnel-est-en-danger-alerte-le-president-de-la-chambre-du-commerce-et-de-l-industrie-de-paris-avant-de-nouvelles-manifestations-samedi_8261735.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T12:11",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "781572e9cca0577f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortei, 3 perquisiti dalla Digos a Firenze e nella provincia",
+   "summary": "Altri 10 denunciati per interruzione dei binari del tram il 24 ottobre",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-3-perquisiti-dalla-digos-a-firenze-e-nella-provincia_5b673d21-2403-45bf-814f-82311d4ade60.html",
+   "published": "2026-10-31T11:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "d711b2ea537f325a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thevenot",
+   "summary": "La députée Renaissance des Hauts-de-Seine, soutien de Gabriel Attal pour 2027, était l'invitée de franceinfo samedi. Elle répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T11:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "34608a318f59da6a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le Conseil d'Etat donne raison à Laurent Nuñez et valide le parcours entre les portes de Bagnolet et de Charenton pour la manifestation du 31 octobre à Paris",
+   "summary": "La plus haute juridiction administrative française a désavoué le tribunal administratif qui avait autorisé le parcours entre Bastille et Nation voulu par les organisateurs.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-conseil-d-etat-donne-raison-a-laurent-nunez-et-valide-le-parcours-entre-porte-de-bagnolet-et-porte-de-charenton-pour-la-manifestation-du-31-octobre-a-paris_8261531.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-10-31T10:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "f1ebce50bb498b95",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortei di studenti e lavoratori in 60 città, tensioni a Roma e Torino",
+   "summary": "Usb: \"Oltre un milione in piazza\". Piantedosi: \"garantito il diritto a manifestare nonostante alcuni violenti\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/cortei-di-studenti-e-lavoratori-in-60-citta-tensioni-a-roma-e-torino_a01576fd-7a47-4585-8b60-c9e676a5c213.html",
+   "published": "2026-10-31T10:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T19:56",
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
    "id": "c5d73acd40f66e82",
    "zone": "fr_national",
    "affects": [],
@@ -5911,61 +6379,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
+   "id": "d696ce140be3173c",
+   "zone": "firenze",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
    "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-10-31T08:52",
+   "title": "Alan e la mano di Orfeo, Friedman in Fraternita",
+   "summary": "Arezzo, 31 ottobre 2026 – Questo pomeriggio alle 17 presso la CaMu la Casa della Musica di Arezzo, nel Palazzo della Fraternita in piazza Grande , Alan Friedman , giornalista di fama internazionale, presenterà il suo primo romanzo, “La mano di Orfeo” (Baldini e Castoldi), un thriller tra storia, fi…",
+   "link": "https://www.lanazione.it/arezzo/cosa-fare/alan-e-la-mano-di-orfeo-friedman-in-fraternita-yg2gp0t1",
+   "published": "2026-10-31T08:57",
    "dates": "",
-   "national": true,
+   "national": false,
    "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-31T08:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-31T08:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-31T08:52"
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "125ca4fca8fd22fb",
@@ -5983,7 +6415,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "e471fa8efbaf9895",
@@ -6055,7 +6487,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "ecd098efa26134c2",
@@ -6073,7 +6505,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "4f9c3ca96bcad9cb",
@@ -6091,7 +6523,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "951995991edf43d6",
@@ -6109,7 +6541,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "01018f1198f9257a",
@@ -6127,7 +6559,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "075d615b9a4aa4d9",
@@ -6145,7 +6577,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "de616f07db70f3d0",
@@ -6163,7 +6595,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d3b9618f62b5c9da",
@@ -6181,7 +6613,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "34214cd72bd8ca98",
@@ -6199,7 +6631,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "ef0736b2a8b50ee2",
@@ -6235,7 +6667,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "e42efe8b3b8a8618",
@@ -6253,7 +6685,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d96ccc1aa511ec42",
@@ -6308,6 +6740,24 @@
    "soon": false,
    "first_seen": "2026-10-31T08:52",
    "last_seen": "2026-10-31T08:52"
+  },
+  {
+   "id": "59b7e6713f71eddc",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "« Ma mère aurait adoré que je prenne cette mouche comme un signe de sa présence » : ces « synchronicités » qu’on interprète comme une manifestation du défunt",
+   "summary": "Un nuage à la forme évocatrice, une lumière qui s’allume, un objet perdu que l’on retrouve… Beaucoup de personnes endeuillés interprètent ces événements comme des signes, au-delà de la mort. Une manière de se consoler et de garder le défunt dans la vie.",
+   "link": "https://www.lemonde.fr/intimites/article/2026/10/31/ma-mere-aurait-adore-que-je-prenne-cette-mouche-comme-un-signe-de-sa-presence-ces-synchronicites-qu-on-interprete-comme-une-manifestation-du-defunt_6803382_6190330.html",
+   "published": "2026-10-31T05:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-31T14:55",
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "75bdfbb305545991",
@@ -6400,24 +6850,6 @@
    "last_seen": "2026-10-31T02:36"
   },
   {
-   "id": "f1ebce50bb498b95",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei di studenti e lavoratori in 60 città, tensioni a Roma e Torino",
-   "summary": "Usb: \"Oltre un milione in piazza\". Piantedosi: \"garantito il diritto a manifestare nonostante alcuni violenti\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/cortei-di-studenti-e-lavoratori-in-60-citta-tensioni-a-roma-e-torino_a01576fd-7a47-4585-8b60-c9e676a5c213.html",
-   "published": "2026-10-30T22:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
    "id": "d35ddef176b5cc37",
    "zone": "montpellier",
    "affects": [],
@@ -6433,7 +6865,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T23:25",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "b62fd7ef83bfb426",
@@ -6469,7 +6901,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d07ab8f7bec8faad",
@@ -6523,7 +6955,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d395cea04c1d2dce",
@@ -6541,7 +6973,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "bd2cd5a7613d5203",
@@ -6559,7 +6991,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "8e2b7dd7bdb4710f",
@@ -6595,7 +7027,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "31f424b8a73b2b62",
@@ -6613,7 +7045,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "183344abf0b6a88b",
@@ -6649,7 +7081,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "c7a95beae7e7816f",
@@ -6739,7 +7171,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "3ddb482b462c3b47",
@@ -6829,25 +7261,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
-  },
-  {
-   "id": "e621c2bf480f88ba",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : manifestation interdite à Montpellier, à quoi faut-il s'attendre dans l'Hérault ?",
-   "summary": "Comme pour le 24 octobre, la préfète de l'Hérault décide finalement d'interdire la manifestation déclarée pour le 31 octobre à Montpellier. Et elle élargit le périmètre dans le centre ville où il est interdit de se rassembler.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-31-octobre-a-quoi-faut-il-s-attendre-dans-l-herault-1100378?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-30T16:16",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "fab6556739cbe2e0",
@@ -6865,25 +7279,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T02:36"
-  },
-  {
-   "id": "6055aa0f3534ac7a",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Occupazione Campus a Torino, UniTo 'da Fuan violazioni anche penali'",
-   "summary": "Dipartimento Giurisprudenza: \"Imprecise dichiarazioni politiche da Fdi\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/occupazione-campus-a-torino-unito-da-fuan-violazioni-anche-penali_2e6df696-3732-44a3-9150-5654e6eead19.html",
-   "published": "2026-10-30T16:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "ac452132efa5c112",
@@ -6901,7 +7297,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
+  },
+  {
+   "id": "6055aa0f3534ac7a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Occupazione Campus a Torino, UniTo 'da Fuan violazioni anche penali'",
+   "summary": "Dipartimento Giurisprudenza: \"Imprecise dichiarazioni politiche da Fdi\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/occupazione-campus-a-torino-unito-da-fuan-violazioni-anche-penali_2e6df696-3732-44a3-9150-5654e6eead19.html",
+   "published": "2026-10-30T16:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T19:56",
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "2cae8e2ef5a7bf8c",
@@ -6919,7 +7333,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "bb87b8aba30e486a",
@@ -6937,7 +7351,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d7f250e9b8e2869c",
@@ -6955,7 +7369,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "5342ade723595929",
@@ -6973,7 +7387,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T02:36"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "8cd65513adfa48ca",
@@ -6991,7 +7405,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "5898fa1c0864aeb7",
@@ -7063,7 +7477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "11868b98301af7fd",
@@ -7117,7 +7531,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "9fe222c5ff45a8b5",
@@ -7153,7 +7567,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "48ed52a10033e4ad",
@@ -7207,7 +7621,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "6284894fc9bfecc0",
@@ -7243,7 +7657,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "49fa99d2ef4cc86c",
@@ -7261,7 +7675,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "00aee4697068b597",
@@ -7279,7 +7693,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "4369ec4946c8faac",
@@ -7297,7 +7711,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "50de0b06a270b078",
@@ -7315,7 +7729,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "8298467417b60168",
@@ -7369,7 +7783,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "c5990cfa5f64ed16",
@@ -7387,7 +7801,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "15f81c1ade24dbcd",
@@ -7405,7 +7819,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "d8645971b237f989",
@@ -7423,7 +7837,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "bc3cdbbd9cef5b65",
@@ -7441,7 +7855,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "91aad4126a100016",
@@ -7459,7 +7873,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "9fcba9335e0498d2",
@@ -7477,7 +7891,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "a00ccbaf61fdca64",
@@ -7495,7 +7909,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "af46b9b12828b87a",
@@ -7513,7 +7927,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "2e0f843558921735",
@@ -7531,7 +7945,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "484485c40930d2e7",
@@ -7567,7 +7981,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "b6b45a7e0e170a20",
@@ -7585,7 +7999,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "03b4c1669be9faff",
@@ -7603,7 +8017,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "9012c0c28c5d5b5d",
@@ -7621,7 +8035,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "6f9b0fb25a87e599",
@@ -7657,7 +8071,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "65b537f8352fc655",
@@ -7729,7 +8143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -7910,7 +8324,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "3211f61cf6e6f4d3",
@@ -7964,7 +8378,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "38446be103ff1ea9",
@@ -8216,7 +8630,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "88a3a0597d28c999",
@@ -8252,7 +8666,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "b430f3008c87f430",
@@ -8468,7 +8882,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -8486,7 +8900,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "2819b113da3be8a8",
@@ -8504,7 +8918,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "2e930cda37551701",
@@ -9207,7 +9621,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -11565,7 +11979,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-31T08:52"
+   "last_seen": "2026-10-31T14:55"
   },
   {
    "id": "962f60e00b8d97f1",
