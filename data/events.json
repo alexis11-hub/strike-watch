@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:11",
+ "updated": "2026-11-01T01:08",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -86,7 +86,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "f8127b2b78f58010",
@@ -104,7 +104,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "971d4eb185e80822",
@@ -122,7 +122,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "274d1b98ac81d975",
@@ -140,7 +140,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -158,7 +158,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "2ac15c3be7971cf5",
@@ -212,7 +212,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "ce622787108c4c2c",
@@ -248,7 +248,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -266,7 +266,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "904363d3b15f39ce",
@@ -338,7 +338,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "1280393b2335f9b2",
@@ -392,7 +392,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d2e0b8dd3eff5ba2",
@@ -446,7 +446,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e9fc6f55cff42e0e",
@@ -464,7 +464,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "916e0d2532c5b646",
@@ -500,7 +500,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "4e7e9820659e39aa",
@@ -608,7 +608,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "bfbaafbc4efb48b1",
@@ -662,7 +662,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "130599136eb07f15",
@@ -680,7 +680,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "73f9e1132004c2ff",
@@ -698,7 +698,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "b7899cddcf85760d",
@@ -862,7 +862,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "28f81cfe32e2dd99",
@@ -916,7 +916,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "8231c15db3bb3412",
@@ -970,7 +970,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "ea59771b63c70600",
@@ -1042,7 +1042,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "eae49e96565e85b9",
@@ -1060,7 +1060,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "8605cb7ad1b5dcaf",
@@ -6112,6 +6112,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-01T01:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-01T01:06"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-01T01:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-01T01:06"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-11-01T01:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-11-01T01:06"
+  },
+  {
    "id": "0e3cb4a9b4134855",
    "zone": "fr_national",
    "affects": [],
@@ -6127,61 +6181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-10-31T22:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-10-31T22:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-31T22:09"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-10-31T22:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "120e9f2df85e1d76",
@@ -6199,7 +6199,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e689d83a2116a6fa",
@@ -6217,7 +6217,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "8b49fc9653cb996d",
@@ -6235,7 +6235,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "17a1cd296ffc57f2",
@@ -6253,7 +6253,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "1384a045b5cc6ddb",
@@ -6271,7 +6271,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6ddc011a0a306c5c",
@@ -6289,7 +6289,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "770a4a90e381855c",
@@ -6361,7 +6361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "17c790429b8f0104",
@@ -6379,7 +6379,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "f1831dbeb639522d",
@@ -6397,7 +6397,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "47430f137f358259",
@@ -6469,7 +6469,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "12924def2a0cc966",
@@ -6487,7 +6487,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -6505,7 +6505,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "b4e7ecc65d8938e5",
@@ -6577,7 +6577,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "43d1834f4c6b9468",
@@ -6595,7 +6595,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e000c948bbc6f37e",
@@ -6631,7 +6631,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e621c2bf480f88ba",
@@ -6649,7 +6649,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -6685,7 +6685,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -6721,7 +6721,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d711b2ea537f325a",
@@ -6739,7 +6739,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "34608a318f59da6a",
@@ -6775,7 +6775,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "c5d73acd40f66e82",
@@ -6865,7 +6865,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d696ce140be3173c",
@@ -6883,7 +6883,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "125ca4fca8fd22fb",
@@ -6901,7 +6901,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "e471fa8efbaf9895",
@@ -7351,7 +7351,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T23:25",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "b62fd7ef83bfb426",
@@ -7387,7 +7387,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d07ab8f7bec8faad",
@@ -7441,7 +7441,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "bd2cd5a7613d5203",
@@ -7459,7 +7459,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d395cea04c1d2dce",
@@ -7513,7 +7513,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "31f424b8a73b2b62",
@@ -7531,7 +7531,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "183344abf0b6a88b",
@@ -7567,7 +7567,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "c7a95beae7e7816f",
@@ -7657,7 +7657,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "3ddb482b462c3b47",
@@ -7747,7 +7747,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "fab6556739cbe2e0",
@@ -7765,7 +7765,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "ac452132efa5c112",
@@ -7783,7 +7783,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6055aa0f3534ac7a",
@@ -7801,7 +7801,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "2cae8e2ef5a7bf8c",
@@ -7819,7 +7819,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "bb87b8aba30e486a",
@@ -7837,7 +7837,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d7f250e9b8e2869c",
@@ -7855,7 +7855,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "5342ade723595929",
@@ -7891,7 +7891,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "5898fa1c0864aeb7",
@@ -7963,7 +7963,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "11868b98301af7fd",
@@ -8017,7 +8017,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "9fe222c5ff45a8b5",
@@ -8053,7 +8053,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "48ed52a10033e4ad",
@@ -8107,7 +8107,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6284894fc9bfecc0",
@@ -8143,7 +8143,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "49fa99d2ef4cc86c",
@@ -8161,7 +8161,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "00aee4697068b597",
@@ -8179,7 +8179,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "4369ec4946c8faac",
@@ -8197,7 +8197,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "50de0b06a270b078",
@@ -8215,7 +8215,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "8298467417b60168",
@@ -8269,7 +8269,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "c5990cfa5f64ed16",
@@ -8287,7 +8287,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "15f81c1ade24dbcd",
@@ -8305,7 +8305,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "d8645971b237f989",
@@ -8323,7 +8323,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "bc3cdbbd9cef5b65",
@@ -8341,7 +8341,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "91aad4126a100016",
@@ -8359,7 +8359,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "9fcba9335e0498d2",
@@ -8377,7 +8377,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "a00ccbaf61fdca64",
@@ -8395,7 +8395,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "af46b9b12828b87a",
@@ -8413,7 +8413,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "2e0f843558921735",
@@ -8431,7 +8431,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "484485c40930d2e7",
@@ -8467,7 +8467,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "b6b45a7e0e170a20",
@@ -8485,7 +8485,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "03b4c1669be9faff",
@@ -8503,7 +8503,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "9012c0c28c5d5b5d",
@@ -8521,7 +8521,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6f9b0fb25a87e599",
@@ -8557,7 +8557,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "65b537f8352fc655",
@@ -8629,7 +8629,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -8864,7 +8864,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T22:14",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "38446be103ff1ea9",
@@ -9116,7 +9116,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "88a3a0597d28c999",
@@ -9152,7 +9152,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-29T17:50",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "b430f3008c87f430",
@@ -9368,7 +9368,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -9386,7 +9386,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "2819b113da3be8a8",
@@ -9404,7 +9404,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-10-31T22:09"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "2e930cda37551701",
@@ -10107,7 +10107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-31T18:56"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -12465,7 +12465,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-31T18:56"
+   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "962f60e00b8d97f1",
