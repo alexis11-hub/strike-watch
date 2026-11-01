@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:28",
+ "updated": "2026-11-01T19:03",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "1847880f84edbff9",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Usb lancia la prossima manifestazione nazionale contro carovita e riarmo, in piazza a Roma il 12 dicembre: “Meloni si deve dimettere”",
+   "summary": "Dopo lo sciopero generale di venerdì 30 ottobre, che ha visto manifestazioni in tutta Italia e il blocco dei porti in 5 continenti per oltre 100 città nel mondo, la mobilitazione non si ferma. Ad annunciarlo, dalle tende al Colosseo montate al termine del corteo del 30 ottobre, è il sindacato Usb d…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/01/usb-manifestazione-12-dicembre-roma-notizie/8557106/",
+   "published": "2026-11-01T17:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "67d30c7be3136b01",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+   "summary": "Sur Instagram, le collectif GenZ Regelt, à l'origine de ses rassemblements, s'est \"expressément distancé de toute forme de violence\".",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-01T16:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "ee70cbf9db200da2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations en Allemagne : la gauche condamne les violences et appelle à ne pas occulter les revendications",
+   "summary": "Samedi, les manifestations organisées dans des dizaines de villes se sont dans l’ensemble déroulées dans le calme avant que des tensions éclatent en soirée. Le ministre de l’intérieur allemand, Alexander Dobrindt, a accusé « des groupes de gauche enclins à la violence et des fauteurs de troubles is…",
+   "link": "https://www.lemonde.fr/international/article/2026/11/01/manifestations-en-allemagne-la-gauche-condamne-les-violences-et-appelle-a-ne-pas-occulter-les-revendications_6804443_3210.html",
+   "published": "2026-11-01T15:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
    "id": "e0b018667f0db567",
    "zone": "fr_national",
    "affects": [],
@@ -86,7 +140,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-01T14:26",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "f2981cee343728fa",
@@ -104,7 +158,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-01T14:26",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "054c472d21741e31",
@@ -122,7 +176,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-01T14:26",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "440035ba051ef119",
@@ -178,7 +232,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T07:29",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -196,7 +250,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "d8c24e6b0b49cd7b",
@@ -358,7 +412,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "ce622787108c4c2c",
@@ -394,7 +448,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -484,7 +538,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "1280393b2335f9b2",
@@ -754,7 +808,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "bfbaafbc4efb48b1",
@@ -808,7 +862,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "130599136eb07f15",
@@ -826,7 +880,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "73f9e1132004c2ff",
@@ -1008,7 +1062,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "28f81cfe32e2dd99",
@@ -1062,7 +1116,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "8231c15db3bb3412",
@@ -1116,7 +1170,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "ea59771b63c70600",
@@ -1206,7 +1260,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "8605cb7ad1b5dcaf",
@@ -6258,6 +6312,222 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "3b1f6c7eaa1bb17c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Blocage des lycées et des facs, grève interprofessionnelle, acte IV samedi : à quoi s'attendre cette semaine ?",
+   "summary": "Après la mobilisation du 31 octobre dont les \"cortèges se sont bien déroulés\" selon le ministre de l'Intérieur, de nouvelles actions s'annoncent. Les organisations lycéennes et étudiantes appellent au blocage dès la rentrée. Une journée de grève interprofessionnelle est prévue le 5 novembre.",
+   "link": "https://www.ici.fr/infos/economie-social/blocage-des-lycees-et-des-facs-journee-de-greve-interprofessionnelle-le-5-novembre-a-quoi-s-attendre-cette-semaine-9362381?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-01T19:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "48e5dbf0c3dbad98",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : des avocats dénoncent des assignations à résidence pour empêcher des personnes de manifester",
+   "summary": "Des avocats dénoncent dimanche des assignations à résidence émises par les autorités pour empêcher certains militants de participer aux manifestations de samedi. Ces arrêtés sont justifiés par \"le but de prévenir la commission d'actes de terrorisme\", une assimilation que contestent les concernés.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-sociale-des-avocats-denoncent-des-assignations-a-residence-pour-empecher-des-personnes-de-manifester-5776998?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-01T19:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "93df3918640a3c1a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : des avocats dénoncent des assignations à résidence pour empêcher des personnes de manifester",
+   "summary": "Des avocats dénoncent dimanche des assignations à résidence émises par les autorités pour empêcher certains militants de participer aux manifestations de samedi. Ces arrêtés sont justifiés par \"le but de prévenir la commission d'actes de terrorisme\", une assimilation que contestent les concernés.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-sociale-des-avocats-denoncent-des-assignations-a-residence-pour-empecher-des-personnes-de-manifester-5776998?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-01T19:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "6e3001ceeb7d5fab",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Giudice Alaska respinge causa di Trump sul blocco della certificazione dei voti",
+   "summary": "Lo Stato al centro di uno scandalo per un caso di omonimia",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/giudice-alaska-respinge-causa-di-trump-sul-blocco-della-certificazione-dei_bd95c173-4581-47fc-9d74-5b6e7913cd14.html",
+   "published": "2026-11-01T19:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "63f077ea5e80ab5d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+   "summary": "Cette mesure a été prise par le ministère de l'Intérieur au titre de la prévention du terrorisme. Cela l'a empêchée de participer à cette mobilisation dont elle était l'une des organisatrices.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-01T19:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-01T19:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-01T19:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-11-01T19:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "a9b0984294a1333b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Considérés comme \"terroristes\" pour avoir manifesté, ils sont assignés à résidence : des avocats dénoncent un détournement de la loi",
+   "summary": "Des assignations à résidence ont été imposées par le ministère de l’Intérieur à des militants présumés pour empêcher leur participation à des manifestations. Ces mesures, justifiées par la prévention du terrorisme,...",
+   "link": "https://www.midilibre.fr/2026/11/01/consideres-comme-terroristes-pour-avoir-manifeste-ils-sont-assignes-a-residence-des-avocats-denoncent-un-detournement-de-la-loi-13631070.php",
+   "published": "2026-11-01T18:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "8acc983f51fa4303",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
+   "summary": "De New York à Hongkong, les traditionnels cortèges d’Halloween ont défilé dans les villes du monde entier pour la terrifiante soirée du 31 octobre.",
+   "link": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
+   "published": "2026-11-01T18:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "9ecdaa6cf4f00776",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 31 octobre : enquête ouverte pour tentative d’homicide à la suite du jet d’un cocktail Molotov sur des gendarmes à Paris",
+   "summary": "Des photos et des vidéos ont montré une bombe artisanale exploser aux pieds d’un membre des forces de sécurité porte de Charenton, dans le 12ᵉ arrondissement, le blessant légèrement.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html",
+   "published": "2026-11-01T15:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
+   "id": "2274ebbdef222857",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Ils payent leur matériel de leur poche pour secourir la foule : qui sont ces \"street medics\" déployés au milieu des manifestations ?",
+   "summary": "Qui sont les \"street medics \" ? Lors des manifestations qui se succèdent depuis plusieurs semaines, on les repère facilement grâce aux symboles médicaux qu’ils arborent, comme la croix rouge. Sans statut officiel, ces...",
+   "link": "https://www.midilibre.fr/2026/11/01/ils-payent-leur-materiel-de-leur-poche-pour-secourir-la-foule-qui-sont-ces-street-medics-deployes-au-milieu-des-manifestations-13630841.php",
+   "published": "2026-11-01T15:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
+  },
+  {
    "id": "130dda306fe2a6ac",
    "zone": "it_national",
    "affects": [],
@@ -6276,58 +6546,22 @@
    "last_seen": "2026-11-01T14:26"
   },
   {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
+   "id": "88f1b3888b96ffe8",
+   "zone": "sanmarino",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
+   "source_id": "libertas",
+   "source": "Libertas.sm",
+   "kind": "protest",
    "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-01T14:26",
+   "title": "Gattini abbandonati a San Marino, archiviato il procedimento: la Segreteria punta a rafforzare i controlli",
+   "summary": "SAN MARINO – La Segreteria di Stato per il Territorio e l’Ambiente esprime rammarico e preoccupazione per l’archiviazione del procedimento L'articolo Gattini abbandonati a San Marino, archiviato il procedimento: la Segreteria punta a rafforzare i controlli proviene da libertas .",
+   "link": "https://www.libertas.sm/gattini-abbandonati-a-san-marino-archiviato-il-procedimento-la-segreteria-punta-a-rafforzare-i-controlli/",
+   "published": "2026-11-01T15:08",
    "dates": "",
-   "national": true,
+   "national": false,
    "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-01T14:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-01T14:26"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-01T14:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-01T14:26"
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "a770081a263ca694",
@@ -6435,7 +6669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T07:29",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "2ee93eb9569abee1",
@@ -6471,7 +6705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T07:29",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "df99a486108d3f66",
@@ -6831,7 +7065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "17c790429b8f0104",
@@ -6957,7 +7191,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -6975,7 +7209,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "b4e7ecc65d8938e5",
@@ -7065,7 +7299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "e000c948bbc6f37e",
@@ -7101,7 +7335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "e621c2bf480f88ba",
@@ -7119,7 +7353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -7155,7 +7389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -7191,7 +7425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "d711b2ea537f325a",
@@ -7245,7 +7479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "c5d73acd40f66e82",
@@ -7857,7 +8091,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "d07ab8f7bec8faad",
@@ -7911,7 +8145,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "bd2cd5a7613d5203",
@@ -7929,7 +8163,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "d395cea04c1d2dce",
@@ -8127,7 +8361,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "3ddb482b462c3b47",
@@ -8253,7 +8487,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "ac452132efa5c112",
@@ -8289,7 +8523,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "bb87b8aba30e486a",
@@ -8325,7 +8559,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "5342ade723595929",
@@ -8361,7 +8595,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "5898fa1c0864aeb7",
@@ -8433,7 +8667,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "11868b98301af7fd",
@@ -8487,7 +8721,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "9fe222c5ff45a8b5",
@@ -8523,7 +8757,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "48ed52a10033e4ad",
@@ -8577,7 +8811,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "6284894fc9bfecc0",
@@ -8613,7 +8847,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "49fa99d2ef4cc86c",
@@ -8631,7 +8865,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "00aee4697068b597",
@@ -8649,7 +8883,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "4369ec4946c8faac",
@@ -8667,7 +8901,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "50de0b06a270b078",
@@ -8685,7 +8919,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "8298467417b60168",
@@ -8739,7 +8973,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "c5990cfa5f64ed16",
@@ -8757,7 +8991,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "15f81c1ade24dbcd",
@@ -8793,7 +9027,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "bc3cdbbd9cef5b65",
@@ -8811,7 +9045,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "91aad4126a100016",
@@ -8829,7 +9063,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "9fcba9335e0498d2",
@@ -8847,7 +9081,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "a00ccbaf61fdca64",
@@ -8865,7 +9099,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "af46b9b12828b87a",
@@ -8883,7 +9117,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "2e0f843558921735",
@@ -8901,7 +9135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "484485c40930d2e7",
@@ -8937,7 +9171,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "b6b45a7e0e170a20",
@@ -8955,7 +9189,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "03b4c1669be9faff",
@@ -8973,7 +9207,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "9012c0c28c5d5b5d",
@@ -9027,7 +9261,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "65b537f8352fc655",
@@ -9099,7 +9333,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -9838,7 +10072,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "5a2892d7dd2c2a62",
@@ -9856,7 +10090,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-29T11:45",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "2819b113da3be8a8",
@@ -10577,7 +10811,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -12935,7 +13169,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-01T14:26"
+   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "962f60e00b8d97f1",
