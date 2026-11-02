@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:02",
+ "updated": "2026-11-02T19:27",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -69,6 +69,42 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "06a31a1cd79fe945",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "De Pascale sui giovani ai cortei: “Giusto protestare in modo pacifico, la politica non ne ha azzeccate tante negli ultimi 30 anni”",
+   "summary": "Bologna, 2 novembre 2026 – I cortei che si sono svolti in tutta Italia (tra cui anche a Bologna ) non sono stati sono scontri e violenza secondo il governatore dell’Emilia Romagna Michele de Pascale , ma hanno visto scendere in piazza tanti giovani che hanno protestato pacificamente per un futuro m…",
+   "link": "https://www.ilrestodelcarlino.it/emilia-romagna/cronaca/cortei-de-pascale-e9ddwrjm",
+   "published": "2026-11-02T14:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "06a513bb5422b7ea",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Prévention des incendies : \"nos territoires ruraux méritent mieux que des caricatures\"… Le coup de gueule de la députée lozérienne Sophie Pantel",
+   "summary": "Sophie Pantel dénonce \"la recherche du buzz\" et la méconnaissance \"des préoccupations de nos territoires ruraux et de montagne\".",
+   "link": "https://www.midilibre.fr/2026/11/02/prevention-des-incendies-nos-territoires-ruraux-meritent-mieux-que-des-caricatures-le-coup-de-gueule-de-la-deputee-lozerienne-sophie-pantel-13611444.php",
+   "published": "2026-11-02T10:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "ff18818e47bddd84",
@@ -286,7 +322,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -502,7 +538,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -862,7 +898,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "bfbaafbc4efb48b1",
@@ -6376,12 +6412,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-02T09:00",
+   "published": "2026-11-02T19:26",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6394,12 +6430,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-02T09:00",
+   "published": "2026-11-02T19:26",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "4c81878c6455f94d",
@@ -6412,12 +6448,354 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-02T09:00",
+   "published": "2026-11-02T19:26",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "1605633af0dd6ff1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
+   "summary": "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du service d’ordre du parti d’extrême droite, le Département protection sécurité (DPS). « Le Monde » a constaté la présence d’un groupe de choc interne, bap…",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
+   "published": "2026-11-02T19:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "2e82d6cd02fd1749",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "D’Alema a La7: “I ragazzi protestano contro i disvalori della destra di governo. Ridurre tutto a ordine pubblico è povertà culturale, umana e politica”",
+   "summary": "“ Vedere piazze piene di ragazzi rincuora , dà speranza nel futuro, perché dimostra che questa società non è piegata al conformismo, ai disvalori della destra che ci governa . Questi ragazzi reagiscono a una regressione nelle nostre società”. Massimo D’Alema , ex presidente del Consiglio e presiden…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/02/dalema-meloni-decreto-sicurezza-giovani-proteste-gaza-guerra/8558172/",
+   "published": "2026-11-02T17:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "2372871b41898b47",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mouvement lycéen et étudiant : la Préfecture de police de Paris interdit la manifestation prévue mardi par l’Interfac Ile-de-France au cœur de la capitale",
+   "summary": "L’Interfac, qui refuse le parcours alternatif proposé en périphérie, compte saisir le tribunal administratif.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/02/mouvement-lyceen-et-etudiant-la-prefecture-de-police-de-paris-interdit-la-manifestation-prevue-mardi-par-l-interfac-ile-de-france-au-c-ur-de-la-capitale_6805292_823448.html",
+   "published": "2026-11-02T17:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "41040fe8690396bd",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
+   "summary": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_bf0c0690-72bf-42ba-b709-8874d4e725b9.html",
+   "published": "2026-11-02T17:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "f5a5b039a15e8de1",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Prix des carburants : jusqu’à 18 centimes en moins à la pompe, pourquoi certaines stations n’appliquent toujours pas la baisse ?",
+   "summary": "Depuis samedi 31 octobre, les prix des carburants baissent en France grâce au déblocage de stocks stratégiques par le gouvernement. Serge Papin, ministre du Commerce, annonce une réduction de 12 à 18 centimes par...",
+   "link": "https://www.midilibre.fr/2026/11/02/prix-des-carburants-jusqua-18-centimes-en-moins-a-la-pompe-pourquoi-certaines-stations-nappliquent-toujours-pas-la-baisse-13632557.php",
+   "published": "2026-11-02T17:38",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "39cfb06b5b191afd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Écoles, transports, pharmacies : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
+   "summary": "Les syndicats appellent à une grande journée de mobilisation jeudi 5 novembre. Plus de 200 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
+   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T17:36",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "bda660a935330db0",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 5 novembre : parcours, convergence des luttes, sécurisation de la manifestation… les annonces de l’intersyndicale gardoise",
+   "summary": "Après la mobilisation pacifique du 31 octobre ayant réuni 3 000 personnes, les syndicats appellent une nouvelle fois à descendre dans la rue. Un appel qui s’annonce très suivi, pour l’heure.",
+   "link": "https://www.midilibre.fr/2026/11/02/mobilisation-du-5-novembre-parcours-convergence-des-luttes-securisation-de-la-manifestation-les-annonces-de-lintersyndicale-gardoise-13632234.php",
+   "published": "2026-11-02T17:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "49dadd521fc9689f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il ne faut pas arrêter, c'est maintenant que ça se joue\" : à Aubervilliers, des lycéens déterminés à poursuivre les blocages \"pour se faire entendre\"",
+   "summary": "Les mesures proposées par l'exécutif n'ont pas convaincu les jeunes présents lundi devant l'établissement. \"On arrêtera de se mobiliser quand le gouvernement arrêtera juste d'essayer de nous faire plaisir avec des mesures bidon\", a martelé l'un des organisateurs du blocus.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-ne-faut-pas-arreter-c-est-maintenant-que-ca-se-joue-a-aubervilliers-des-lyceens-determines-a-poursuivre-les-blocages-pour-se-faire-entendre_8263874.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T16:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "b11a29185340c74c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "TÉMOIGNAGE - \"On n'est pas en colère, on veut la justice\", dit le père de Pengo, victime de l'attentat dans les Yvelines",
+   "summary": "Dix jours après l'attentat raciste à Trappes et La Verrière, dans les Yvelines, le père et la sœur de Pengo Bossio Wangi, assassiné par Kevin Tessier, se sont exprimés devant la presse ce lundi. \"On n'est pas en colère, on veut simplement la justice et la paix\", ont-ils déclaré.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/temoignage-on-n-est-pas-en-colere-on-veut-la-justice-dit-le-pere-de-pengo-victime-de-l-attentat-dans-les-yvelines-5142299?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T16:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "700a30c893efe6f2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Pompier blessé par balle près de Marseille : des rassemblements en soutien devant les casernes ce lundi à midi",
+   "summary": "Les syndicats de sapeurs-pompiers professionnels ont appelé à des rassemblements ce lundi midi devant toutes les casernes de France en solidarité à leur collègue très gravement blessé par balle dimanche lors d'une intervention aux Pennes-Mirabeau, au nord de Marseille.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/pompier-blesse-par-balle-pres-de-marseille-des-rassemblements-de-soutien-devant-les-casernes-ce-lundi-a-midi-6034867?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T15:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "0e028ffd06cf52d9",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Consumo di suolo, in Toscana persi 500 ettari in un anno. Coldiretti: \"Attenzione ai data center\"",
+   "summary": "Firenze, 2 novembre 2026 – Quasi 500 ettari di suolo consumati in un anno, di cui 41 occupati da impianti per la produzione di energia rinnovabile. E ora, dopo il fotovoltaico a terra, sulle campagne toscane si affaccia una nuova preoccupazione: l'arrivo dei grandi data center, le infrastrutture te…",
+   "link": "https://www.lanazione.it/cronaca/allarme-consumo-suolo-data-center-l12k2i7f",
+   "published": "2026-11-02T15:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "6f5be0c8cb8abdae",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"plus de 150\" établissements perturbés ce lundi selon l'Union syndicale lycéenne",
+   "summary": "Cette rentrée est marquée par des appels à poursuivre le mouvement des lycéens et des étudiants, malgré les annonces du gouvernement. L'Union syndicale lycéenne a décompté 150 lycées mobilisés ce lundi matin, tandis que le gouvernement a évoqué des blocus \"résiduels\".",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-02T15:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "568101b9309e34f4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"plus de 150\" établissements perturbés ce lundi selon l'Union syndicale lycéenne",
+   "summary": "Cette rentrée est marquée par des appels à poursuivre le mouvement des lycéens et des étudiants, malgré les annonces du gouvernement. L'Union syndicale lycéenne a décompté 150 lycées mobilisés ce lundi matin, tandis que le gouvernement a évoqué des blocus \"résiduels\".",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T15:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "05a90f0efdc6580b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Inscriptions racistes sur la mosquée de Lodève, la mairie dépose plainte et organise un nouveau rassemblement de soutien",
+   "summary": "La mairie de Lodève dépose plainte et organise un nouveau rassemblement ce mercredi pour soutenir la communauté musulmane après les inscriptions racistes découvertes sur la mosquée le 28 octobre.",
+   "link": "https://www.ici.fr/occitanie/herault-34/lodeve/inscriptions-racistes-sur-la-mosquee-de-lodeve-la-mairie-depose-plainte-et-organise-un-nouveau-rassemblement-de-soutien-1804866?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-02T15:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "4cf28c2f08871374",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Inscriptions racistes sur la mosquée de Lodève, la mairie dépose plainte et organise un nouveau rassemblement de soutien",
+   "summary": "La mairie de Lodève dépose plainte et organise un nouveau rassemblement ce mercredi pour soutenir la communauté musulmane après les inscriptions racistes découvertes sur la mosquée le 28 octobre.",
+   "link": "https://www.ici.fr/occitanie/herault-34/lodeve/inscriptions-racistes-sur-la-mosquee-de-lodeve-la-mairie-depose-plainte-et-organise-un-nouveau-rassemblement-de-soutien-1804866?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T15:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "0e046246a1e76852",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Blocus des lycées : une infirmière scolaire plaquée au sol puis interpellée devant un établissement de Montpellier",
+   "summary": "La rentrée scolaire au lycée Jean-Monnet de Montpellier a été marquée par une intervention policière ce lundi 2 novembre au matin, pour empêcher le blocage de l’établissement. La vidéo de l’interpellation musclée de...",
+   "link": "https://www.midilibre.fr/2026/11/02/blocus-des-lycees-une-infirmiere-scolaire-plaquee-au-sol-puis-interpellee-devant-un-etablissement-de-montpellier-13632192.php",
+   "published": "2026-11-02T14:36",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "47ea00573aca96d0",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Anthony Jelonch forfait pour le XV de France après une commotion, Charles Kanté Samba appelé pour affronter les Fidji samedi",
+   "summary": "Anthony Jelonch, troisième ligne du Stade toulousain, a déclaré forfait, lundi 2 novembre, pour le rassemblement du XV de France après une commotion cérébrale subie dimanche contre Pau. Il est remplacé par Charles...",
+   "link": "https://www.midilibre.fr/2026/11/02/anthony-jelonch-forfait-pour-le-xv-de-france-apres-une-commotion-charles-kante-samba-appele-pour-affronter-les-fidji-samedi-13632251.php",
+   "published": "2026-11-02T13:49",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "cc1731d6bd12b6da",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Les évacués ukrainiens d'Olechky racontent la famine dans la ville sous occupation russe",
+   "summary": "La trêve exceptionnelle de six jours en vigueur à Olechky a pris fin dimanche soir. Instaurée en raison de la situation humanitaire catastrophique dans cette ville sous occupation russe, elle a permis l'évacuation d'habitants et l'acheminement d'aide.",
+   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T13:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
+  },
+  {
+   "id": "c565851720a8c9bf",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : seulement 1 % des établissements encore bloqués ce lundi… Le mouvement de colère est-il en train de s’essouffler ?",
+   "summary": "Lundi 2 novembre, seuls 41 lycées sur 3 700 étaient bloqués en France, selon le ministère de l’Éducation, malgré l’appel des organisations lycéennes et étudiantes à poursuivre la mobilisation contre la politique...",
+   "link": "https://www.midilibre.fr/2026/11/02/mobilisation-des-lyceens-seuls-1-des-etablissements-encore-bloques-ce-lundi-le-mouvement-de-colere-est-il-en-train-de-sessouffler-13631979.php",
+   "published": "2026-11-02T11:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "55c7b303176cdfd1",
@@ -6507,7 +6885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "2c463a9c232dc124",
@@ -6544,6 +6922,24 @@
    "soon": false,
    "first_seen": "2026-11-02T09:00",
    "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "2f8320a79d08166f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "\"Ce mouvement de colère en France est parti pour durer\", explique le sociologue montpelliérain Michel Crespy",
+   "summary": "Retour sur le mouvement social et la situation politique actuelle avec le sociologue Michel Crespy, invité d'ICI Hérault ce lundi 2 novembre.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/le-sociologue-montpellierain-michel-crespy-5457810?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-02T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "ecfbd74b8e289e77",
@@ -6597,7 +6993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "440a9d5051115821",
@@ -6723,7 +7119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T22:46",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "3b1f6c7eaa1bb17c",
@@ -6849,7 +7245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "8acc983f51fa4303",
@@ -6903,7 +7299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "130dda306fe2a6ac",
@@ -6939,7 +7335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "a770081a263ca694",
@@ -7569,7 +7965,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -7731,7 +8127,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -7767,7 +8163,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -7803,7 +8199,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "d711b2ea537f325a",
@@ -7857,7 +8253,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "c5d73acd40f66e82",
@@ -9711,7 +10107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -11189,7 +11585,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -13547,7 +13943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-02T09:00"
+   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "962f60e00b8d97f1",
