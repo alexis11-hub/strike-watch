@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:00",
+ "updated": "2026-11-02T09:02",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -69,6 +69,42 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "ff18818e47bddd84",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Manca una bidella, la scuola chiude: \"Ormai personale ai minimi termini\"",
+   "summary": "Dopo il caso della scuola elementare chiusa per sciopero venerdì dopo l’assenza di una sola bidella, a intervenire è direttamente il sindacato Usb. A prendere parola per l’unione sindacale di base è Antonio Ferrucci, che ricorda come \"la chiusura del plesso sia nata dalla concomitanza tra l’assenza…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/manca-una-bidella-la-scuola-2ec9fdbb",
+   "published": "2026-11-02T04:40",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "6488f2f398080837",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontro in A11, auto si ribalta. Un giovane in ospedale",
+   "summary": "PISTOIA Una lunga coda si è formata sulle due corsie dell’autostrada A11, ieri sera, verso l’ora di cena. L’autostrada è rimasta bloccata fra Pistoia e l’area di servizio di Serravalle poco dopo le 19.30: è in quel tratto che due auto si sono scontrate. La dinamica dell’incidente è ancora allo stud…",
+   "link": "https://www.lanazione.it/pistoia/cronaca/scontro-in-a11-auto-si-f61d2132",
+   "published": "2026-11-02T04:30",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "e0b018667f0db567",
@@ -233,6 +269,24 @@
    "soon": false,
    "first_seen": "2026-11-01T07:29",
    "last_seen": "2026-11-02T01:59"
+  },
+  {
+   "id": "8757092177283402",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du 31 octobre : 8.000 manifestants à Montpellier malgré l'interdiction, des affrontements en fin de journée",
+   "summary": "La mobilisation contre la vie chère s'est poursuivie ce samedi 31 octobre, avec l'acte III. Un cortège de 8.000 personnes a atteint la place de la Comédie à Montpellier, malgré l'interdiction de la préfecture. La tension est montée en soirée, avec des affrontements à signaler.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/direct-mobilisation-du-31-octobre-interdiction-de-manifester-confirmee-a-montpellier-400-a-500-personnes-a-beziers-1645259?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-01T05:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -412,7 +466,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "ce622787108c4c2c",
@@ -448,7 +502,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -538,7 +592,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "1280393b2335f9b2",
@@ -808,7 +862,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "bfbaafbc4efb48b1",
@@ -862,7 +916,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "130599136eb07f15",
@@ -880,7 +934,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "73f9e1132004c2ff",
@@ -1062,7 +1116,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "28f81cfe32e2dd99",
@@ -1116,7 +1170,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "8231c15db3bb3412",
@@ -1170,7 +1224,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "ea59771b63c70600",
@@ -1260,7 +1314,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "8605cb7ad1b5dcaf",
@@ -6322,12 +6376,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-02T01:59",
+   "published": "2026-11-02T09:00",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6340,12 +6394,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-02T01:59",
+   "published": "2026-11-02T09:00",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "4c81878c6455f94d",
@@ -6358,12 +6412,264 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-02T01:59",
+   "published": "2026-11-02T09:00",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "55c7b303176cdfd1",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"Quelques lycées perturbés\" ce lundi matin, \"assez résiduel\" selon le ministre de l'Éducation",
+   "summary": "Cette rentrée est marquée par la poursuite du mouvement des lycéens et des étudiants dans certaines régions, malgré les annonces du gouvernement. \"Quelques lycées\" sont perturbés ce lundi matin, indique le ministre de l'Éducation, mais \"c'est assez résiduel\", selon Édouard Geffray.",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-02T08:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "714460128e01a2e2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"Quelques lycées perturbés\" ce lundi matin, \"assez résiduel\" selon le ministre de l'Éducation",
+   "summary": "Cette rentrée est marquée par la poursuite du mouvement des lycéens et des étudiants dans certaines régions, malgré les annonces du gouvernement. \"Quelques lycées\" sont perturbés ce lundi matin, indique le ministre de l'Éducation, mais \"c'est assez résiduel\", selon Édouard Geffray.",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T08:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "ce242bfd6405387f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : « La priorité absolue, c’est que les élèves puissent aller en cours », estime le ministre de l’éducation nationale, Edouard Geffray",
+   "summary": "Malgré les concessions annoncées par le gouvernement la semaine du 26 octobre, plusieurs organisations étudiantes et lycéennes ont appelé à poursuivre le mouvement à l’occasion de la rentrée scolaire, lundi 2 novembre.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/02/mobilisation-lyceenne-la-priorite-absolue-c-est-que-les-eleves-puissent-aller-en-cours-estime-le-ministre-de-l-education-nationale-edouard-geffray_6805152_823448.html",
+   "published": "2026-11-02T08:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "8d24ba1f3cf56ca6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Blocages des lycées : \"quelques\" établissements concernés \"à ce stade\", selon le ministre Edouard Geffray, qui parle d'une mobilisation \"résiduelle\"",
+   "summary": "A l'issue des vacances de la Toussaint, plusieurs organisations lycéennes et étudiantes appellent à poursuivre le mouvement, qui s'était prolongé par des manifestations.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T08:38",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "b4e064e302b5ceeb",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Virtus, altro esame al PalaDozza. Obiettivo: dimenticare l’Europa",
+   "summary": "Partita delicata? Di più. Il posticipo non è un esame per la Virtus, ma un test per capire se il ’momento nero’ è alle spalle sì. Parlare di ’momento nero’ con una squadra in testa alla classifica – per di più unica imbattuta – potrebbe apparire alquanto ingeneroso. Nessun cambio di giudizio in cor…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/sport/virtus-altro-esame-al-paladozza-36278a25",
+   "published": "2026-11-02T08:20",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "2c463a9c232dc124",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Bologna canta Francesco Guccini: in centinana in Piazza Maggiore con le chitarre e gli ombrelli aperti. La figlia Teresa: “Papà si sarebbe commosso” – IL VIDEO",
+   "summary": "Piazza Maggiore si è trasformata ieri, primo novembre, in un mare di ombrelli colorati. Nonostante la pioggia che cadeva sul cuore di Bologna, centinaia di persone si sono date appuntamento nella piazza simbolo della città emiliana per rendere omaggio a Francesco Guccini, il “Maestrone” di Pavana s…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/02/bologna-canta-francesco-guccini-in-centinana-in-piazza-maggiore-con-le-chitarre-e-gli-ombrelli-aperti-la-figlia-teresa-papa-si-sarebbe-commosso-il-video/8557339/",
+   "published": "2026-11-02T08:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "ff03020f54c5340e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il y a le bac qui arrive quand même\" : la poursuite des blocages suscite des doutes et des inquiétudes chez des lycéens",
+   "summary": "Après deux semaines de vacances, les lycéens sont attendus pour une reprise des cours. Si certains craignent pour leur baccalauréat, d'autres n'entendent pas mettre un terme à leur mobilisation. D'autres encore font la distinction entre poursuite des négociations et blocages.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-le-bac-qui-arrive-quand-meme-la-poursuite-des-blocages-suscite-des-doutes-et-des-inquietudes-chez-des-lyceens_8263535.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T08:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "ecfbd74b8e289e77",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "\"Ce mouvement de colère en France est parti pour durer \" explique le sociologue montpelliérain Michel Crespy",
+   "summary": "Retour sur le mouvement social et la situation politique actuelle.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/le-sociologue-montpellierain-michel-crespy-5457810?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-02T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "91e5d7b260ef9ee5",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Midterm Usa, la “mobilitazione senza precedenti” degli elettori latini: “Traditi da Trump”. “Ma è voto pragmatico, non un sostegno ai dem”",
+   "summary": "Oltre 5,2 milioni di elettori latini hanno votato in anticipo alle elezioni di metà mandato in calendario martedì 3 novembre negli Stati Uniti . Si tratta di una partecipazione record , rilevata da piattaforme come TargetSmart , che quasi raddoppia le circa 2,9 milioni di schede anticipate registra…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/02/midterm-usa-elettori-latini-trump-notizie/8557079/",
+   "published": "2026-11-02T07:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "bad78ede4ba60b99",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On ne s’en sort plus, ce n’est plus tenable\" : à Béziers, la Coordination rurale 34 annonce une opération escargot ce mardi",
+   "summary": "Après les mobilisations lycéennes, étudiantes et syndicales, les agriculteurs s’apprêtent, à leur tour, à manifester à Béziers. Ce mardi 3 novembre, la Coordination rurale de l’Hérault appelle à une opération escargot...",
+   "link": "https://www.midilibre.fr/2026/11/02/on-ne-sen-sort-plus-ce-nest-plus-tenable-a-beziers-la-coordination-rurale-34-annonce-une-operation-escargot-ce-mardi-13628051.php",
+   "published": "2026-11-02T06:15",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "440a9d5051115821",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Stretta su bar e ristoranti. Si allarga lo stop ai nuovi locali: \"Blocco anche in altre strade\"",
+   "summary": "di Antonio Passanese Con nove voti favorevoli, due contrari e due astenuti, la Commissione Sviluppo economico di Palazzo Vecchio approva – e invia la delibera in Consiglio comunale per il via libera definitivo – il giro di vite contro l’invasione di minimarket e attività di somministrazione anche f…",
+   "link": "https://www.lanazione.it/firenze/cronaca/stretta-su-bar-e-ristoranti-d466bffc",
+   "published": "2026-11-02T04:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "fbf8595a3e158d3e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Basta part-time involontari\". Appello delle educatrici museali",
+   "summary": "\"Basta part-time involontari di 8-12 ore a settimana. Siamo stanche\". Un appello accorato che è anche la sintesi della protesta delle educatrici museali in appalto dei musei pratesi, durante l’evento con l’artista Emilio Isgrò al Centro Pecci. Le lavoratrici si rivolgono al Comune, committente dell…",
+   "link": "https://www.lanazione.it/prato/cronaca/basta-part-time-involontari-appello-delle-85011727",
+   "published": "2026-11-02T04:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "06cedea7028f1d30",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Romagna al bivio economico: \"Puntiamo su alta qualità\"",
+   "summary": "La Romagna forma più laureati, registra una crescita delle start up innovative e aumenta la propria capacità di attrarre nuovi residenti. Tuttavia, il nodo resta quello di trasformare questo patrimonio di competenze in sviluppo economico duraturo, occupazione qualificata e imprese capaci di innovar…",
+   "link": "https://www.ilrestodelcarlino.it/cesena/cronaca/romagna-al-bivio-economico-puntiamo-7f4ff6a9",
+   "published": "2026-11-02T04:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "1aa00af01b1a5ec8",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Pronti a scrivere una nuova pagina\". Il centrodestra unito fra la gente",
+   "summary": "Il centrodestra fa squadra e guarda al futuro: \"Pronti a scrivere una nuova pagina per la città\". C’è stata grande partecipazione al gazebo unitario del centrodestra in Piazza 2 Giugno. Un’importante occasione di incontro e confronto con i cittadini, che hanno voluto fermarsi per condividere idee,…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/pronti-a-scrivere-una-nuova-7e5983e3",
+   "published": "2026-11-02T04:25",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-02T09:00",
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "027e31ba922265e1",
@@ -6417,7 +6723,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T22:46",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
+  },
+  {
+   "id": "3b1f6c7eaa1bb17c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Blocage des lycées et des facs, grève interprofessionnelle, acte IV samedi : à quoi s'attendre cette semaine ?",
+   "summary": "Après la mobilisation du 31 octobre dont les \"cortèges se sont bien déroulés\" selon le ministre de l'Intérieur, de nouvelles actions s'annoncent. Les organisations lycéennes et étudiantes appellent au blocage dès la rentrée. Une journée de grève interprofessionnelle est prévue le 5 novembre.",
+   "link": "https://www.ici.fr/infos/economie-social/blocage-des-lycees-et-des-facs-journee-de-greve-interprofessionnelle-le-5-novembre-a-quoi-s-attendre-cette-semaine-9362381?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-01T19:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-01T19:02",
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "e37bc1c38b0a5d41",
@@ -6438,24 +6762,6 @@
    "last_seen": "2026-11-02T01:59"
   },
   {
-   "id": "3b1f6c7eaa1bb17c",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Blocage des lycées et des facs, grève interprofessionnelle, acte IV samedi : à quoi s'attendre cette semaine ?",
-   "summary": "Après la mobilisation du 31 octobre dont les \"cortèges se sont bien déroulés\" selon le ministre de l'Intérieur, de nouvelles actions s'annoncent. Les organisations lycéennes et étudiantes appellent au blocage dès la rentrée. Une journée de grève interprofessionnelle est prévue le 5 novembre.",
-   "link": "https://www.ici.fr/infos/economie-social/blocage-des-lycees-et-des-facs-journee-de-greve-interprofessionnelle-le-5-novembre-a-quoi-s-attendre-cette-semaine-9362381?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-01T19:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
-  },
-  {
    "id": "93df3918640a3c1a",
    "zone": "fr_national",
    "affects": [],
@@ -6471,7 +6777,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "48e5dbf0c3dbad98",
@@ -6525,7 +6831,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "a9b0984294a1333b",
@@ -6543,7 +6849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "8acc983f51fa4303",
@@ -6597,7 +6903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "130dda306fe2a6ac",
@@ -6633,7 +6939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "a770081a263ca694",
@@ -7137,7 +7443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "17c790429b8f0104",
@@ -7263,7 +7569,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -7281,7 +7587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "b4e7ecc65d8938e5",
@@ -7407,7 +7713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "e621c2bf480f88ba",
@@ -7425,7 +7731,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -7461,7 +7767,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -7497,7 +7803,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "d711b2ea537f325a",
@@ -7551,7 +7857,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "c5d73acd40f66e82",
@@ -8163,7 +8469,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "d07ab8f7bec8faad",
@@ -8217,7 +8523,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "bd2cd5a7613d5203",
@@ -8235,7 +8541,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "d395cea04c1d2dce",
@@ -8433,7 +8739,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "3ddb482b462c3b47",
@@ -8559,7 +8865,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "ac452132efa5c112",
@@ -8595,7 +8901,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "bb87b8aba30e486a",
@@ -8631,7 +8937,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "5342ade723595929",
@@ -8667,7 +8973,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "5898fa1c0864aeb7",
@@ -8739,7 +9045,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "11868b98301af7fd",
@@ -8793,7 +9099,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "9fe222c5ff45a8b5",
@@ -8829,7 +9135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "48ed52a10033e4ad",
@@ -8883,7 +9189,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "6284894fc9bfecc0",
@@ -8919,7 +9225,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "49fa99d2ef4cc86c",
@@ -8937,7 +9243,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "00aee4697068b597",
@@ -8955,7 +9261,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "4369ec4946c8faac",
@@ -8973,7 +9279,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "50de0b06a270b078",
@@ -8991,7 +9297,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "8298467417b60168",
@@ -9045,7 +9351,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "c5990cfa5f64ed16",
@@ -9063,7 +9369,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "15f81c1ade24dbcd",
@@ -9099,7 +9405,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "bc3cdbbd9cef5b65",
@@ -9117,7 +9423,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "91aad4126a100016",
@@ -9135,7 +9441,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "9fcba9335e0498d2",
@@ -9153,7 +9459,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "a00ccbaf61fdca64",
@@ -9171,7 +9477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "af46b9b12828b87a",
@@ -9189,7 +9495,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "2e0f843558921735",
@@ -9207,7 +9513,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "484485c40930d2e7",
@@ -9243,7 +9549,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "b6b45a7e0e170a20",
@@ -9261,7 +9567,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "03b4c1669be9faff",
@@ -9279,7 +9585,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "9012c0c28c5d5b5d",
@@ -9405,7 +9711,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -10883,7 +11189,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -13241,7 +13547,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-02T01:59"
+   "last_seen": "2026-11-02T09:00"
   },
   {
    "id": "962f60e00b8d97f1",
