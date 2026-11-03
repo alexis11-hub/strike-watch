@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:44",
+ "updated": "2026-11-03T08:36",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "de9a300bb4c53557",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Tende, cariche della polizia, multe ai clacson e sentenze: la protesta per la casa in Portogallo mette il governo sotto pressione",
+   "summary": "Poco prima della mezzanotte di domenica 1° novembre, la polizia ha iniziato a multare le auto che suonavano i clacson nel centro di Lisbona , come gesto di solidarietà nei confronti dei manifestanti che, dal 10 ottobre , stanno protestando in Portogallo per la crisi sociale e politica che da queste…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/03/protesta-casa-portogallo-cariche-polizia-governo-pressione-notizie/8558268/",
+   "published": "2026-11-03T07:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "ec934d292d7697eb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Criminalità giovanile: giro di vite. Stupefacenti, armi, violenze. Arresti e denunce in Umbria",
+   "summary": "Droga, armi. Due arresti per tentato omicidio e lesioni gravi. Anche in Umbria come nel resto d’Italia gli ultimi quindici giorni sono stati particolarmente intensi sul fronte del contrasto della criminalità giovanile. Un “approfondimento“ a tutto tondo che ha interessato tanto le criticità emerse…",
+   "link": "https://www.lanazione.it/umbria/cronaca/criminalita-giovanile-giro-di-vite-bd64649f",
+   "published": "2026-11-03T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
    "id": "19d3ee0f28f22c31",
    "zone": "fr_national",
    "affects": [],
@@ -104,7 +140,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "c3569f2f203ef315",
@@ -158,7 +194,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "ff18818e47bddd84",
@@ -376,7 +412,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -592,7 +628,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -6466,12 +6502,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-03T01:42",
+   "published": "2026-11-03T08:35",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6484,12 +6520,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-03T01:42",
+   "published": "2026-11-03T08:35",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "4c81878c6455f94d",
@@ -6502,12 +6538,156 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-03T01:42",
+   "published": "2026-11-03T08:35",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "12cee234095d8afc",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Avec l'arrestation de l'infirmière on n'a pas envoyé le bon message\", Marie Nikichine Présidente de la FCPE 34",
+   "summary": "Quelle suite pour la mobilisation des lycéens ? Le nombre de blocus était en très nette baisse ce lundi jour de rentrée mais il devrait y en avoir plus ce mardi. L'infirmière arrêtée devant le lycée Jean Monnet à Montpellier a été libérée sans charges retenues contre elle.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/marie-nikichine-la-presidente-de-la-fcpe-34-1426770?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-03T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "98471c5996e13b36",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne et étudiante : les organisations appellent à une nouvelle journée de blocages massifs des facs et des lycées, avant la grève de jeudi",
+   "summary": "\"On recommence frontalement dans la mobilisation\", a revendiqué Manon Moret, secrétaire générale de l'Unef.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T07:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "e15dc78da92c3e4a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'occupazione al Russell Newton di Scandicci",
+   "summary": "L'occupazione al Russell Newton di Scandicci",
+   "link": "https://www.lanazione.it/video/loccupazione-al-russell-newton-di-scandicci-ibwamike",
+   "published": "2026-11-03T07:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "54945a216fcdd5dd",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Due occupazioni nella notte. Al tecnico agrario entrano sette studenti incappucciati. Al Russell Newton di Scandicci la mobilitazione continua",
+   "summary": "Firenze, 3 novembre 2026 – Non si fermano le occupazioni a Firenze . E in questo autunno caldo la scia si fa lunga. Durante la notte, infatti, sono due le scuole occupate a Firenze e provincia: si tratta dell’ istituto tecnico agrario di Firenze e del Russell Newton di Scandicci . Ma se nel primo c…",
+   "link": "https://www.lanazione.it/firenze/cronaca/due-occupazioni-nella-notte-al-tecnico-agrario-entrano-sette-studenti-incappucciati-al-russell-newton-di-scandicci-la-mobilitazione-continua-xxr3yysf",
+   "published": "2026-11-03T07:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "6a9be9e6829574a9",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "India, migliaia in piazza contro la revisione delle liste elettorali: “130 milioni di nomi cancellati. Penalizzati musulmani e minoranze”",
+   "summary": "Decine di migliaia di persone, provenienti da tutta l’ India , hanno preso parte a una grande manifestazione di protesta a Nuova Delhi contro la revisione del registro degli elettori voluta dal premier Narendra Modi . Lo scopo di questa procedura, sostiene il governo, dovrebbe essere quello di canc…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/03/india-migliaia-in-piazza-contro-la-revisione-delle-liste-elettorali-130-milioni-di-nomi-cancellati-penalizzati-musulmani-e-minoranze/8558368/",
+   "published": "2026-11-03T07:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "e46d53535b7e41bc",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Proposer quelque chose d'alternatif\" : à Paris, des étudiants remplacent les blocages par une \"université populaire\"",
+   "summary": "L'Institut de psychologie de l'université Paris Cité expérimente une autre forme de rassemblement. La direction et les étudiants ont mis en place une \"université populaire\" pour permettre les échanges sans reprendre les cours habituels.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-proposer-chose-d-alternatif-a-paris-des-etudiants-remplacent-les-blocages-par-une-universite-populaire_8264780.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T06:33",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "5454357f54e9b889",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Braccia incrociate alla Dpc Hydraulics",
+   "summary": "Sciopero spontaneo e braccia incrociate alla Dpc Hydraulics di Reggio, stabilimento di via Moscova appartenente al Gruppo Dana. Al termine dell’assemblea sindacale promossa dalla Fiom Cgil, le tute blu hanno deciso di fermare la produzione per protestare contro la Legge di Bilancio del Governo Melo…",
+   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/braccia-incrociate-alla-dpc-3bbe44d3",
+   "published": "2026-11-03T06:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
+  },
+  {
+   "id": "1d6ca46bd515517f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Impianto Belcari sotto accusa. Caldaia, reti e terreno di gioco: \"Servono interventi e tempi certi\"",
+   "summary": "Un campo sportivo che cade a pezzi, interventi che non risolvono i problemi e società costrette a cercare ospitalità altrove. La situazione del campo comunale “Belcari di Pietraia finisce al centro della protesta del Club Vecchia Quercia e del Circolino Casciana Terme . Le due società, che coinvolg…",
+   "link": "https://www.lanazione.it/pontedera/cronaca/impianto-belcari-sotto-accusa-caldaia-b1f6514f",
+   "published": "2026-11-03T05:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T08:35",
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "b346b40f2530f441",
@@ -6579,7 +6759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "fb75fd226b2411a7",
@@ -6705,7 +6885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "39cfb06b5b191afd",
@@ -6741,7 +6921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "49dadd521fc9689f",
@@ -6759,7 +6939,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "b11a29185340c74c",
@@ -6849,7 +7029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "4cf28c2f08871374",
@@ -6885,7 +7065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "47ea00573aca96d0",
@@ -6903,7 +7083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "cc1731d6bd12b6da",
@@ -6939,7 +7119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "55c7b303176cdfd1",
@@ -7083,7 +7263,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "ecfbd74b8e289e77",
@@ -7137,7 +7317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "440a9d5051115821",
@@ -7389,7 +7569,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "8acc983f51fa4303",
@@ -8109,7 +8289,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -8271,7 +8451,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -8307,7 +8487,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -8343,7 +8523,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "d711b2ea537f325a",
