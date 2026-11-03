@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:27",
+ "updated": "2026-11-03T01:44",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "19d3ee0f28f22c31",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le gouvernement demande aux préfets de faciliter les ouvertures dominicales pour aider les commerces touchés par les violences en marge des manifestations",
+   "summary": "Jeudi, le gouvernement avait déjà annoncé qu'il encourageait maires et préfets à autoriser des ouvertures dominicales exceptionnelles, réclamées par les professionnels jusqu'à Noël.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-demande-aux-prefets-de-faciliter-les-ouvertures-dominicales-pour-aider-les-commerces-touches-par-les-violences-en-marge-des-manifestations_8264768.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T21:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "a50df796d255fec9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Le ministre de l'Intérieur \"ne renoncera à aucun moyen intermédiaire\" comme les grenades et gaz lacrymogènes lors des manifestations",
+   "summary": "\"La répression, elle n'existe pas\", a répondu Laurent Nuñez à des députés qui ont demandé de renoncer à l'emploi des grenades par les forces de l'ordre, après les graves blessures de lycéens lors du mouvement de mobilisation.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-lors-des-manifestations_8264732.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T20:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "c3569f2f203ef315",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "En Allemagne, les violences en marge des manifestations du week-end suscitent un vif débat politique au sein du gouvernement",
+   "summary": "Le ministre de l’intérieur conservateur accuse l’extrême gauche et les « fauteurs de troubles de la communauté immigrée » d’être responsables des violences à Francfort en marge des manifestations. « Le chancelier fédéral s’est rallié » à cette version, a précisé le porte-parole de Friedrich Merz, t…",
+   "link": "https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html",
+   "published": "2026-11-02T20:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
    "id": "06a31a1cd79fe945",
    "zone": "rimini",
    "affects": [],
@@ -86,7 +140,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "06a513bb5422b7ea",
@@ -104,7 +158,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "ff18818e47bddd84",
@@ -322,7 +376,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -538,7 +592,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "a42a1c96f5af5af9",
@@ -6412,12 +6466,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-02T19:26",
+   "published": "2026-11-03T01:42",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6430,12 +6484,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-02T19:26",
+   "published": "2026-11-03T01:42",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "4c81878c6455f94d",
@@ -6448,12 +6502,120 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-02T19:26",
+   "published": "2026-11-03T01:42",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "b346b40f2530f441",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California",
+   "summary": "Si ipotizzava schede fossero state consegnate a cittadini non americani",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/corte-suprema-usa-boccia-richiesta-trump-su-blocco-20.000-voti-in-california_7b600cfe-d6e8-49eb-8f32-cca7fde2a7e6.html",
+   "published": "2026-11-03T00:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "8cd57a1bb09cf46e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours",
+   "summary": "Les autorités ont évoqué un parcours \"incompatible avec les contraintes de sécurité en vigueur\" mises en place \"dans un contexte social extrêmement tendu\". L'organisation étudiante dénonce \"une interdiction généralisée de manifester dans Paris\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T22:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "568101b9309e34f4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : \"plus de 150\" établissements perturbés ce lundi selon l'Union syndicale lycéenne",
+   "summary": "Cette rentrée est marquée par des appels à poursuivre le mouvement des lycéens et des étudiants, malgré les annonces du gouvernement. L'Union syndicale lycéenne a décompté 150 lycées mobilisés ce lundi matin, tandis que le gouvernement a évoqué des blocus \"résiduels\".",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-02T20:38",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "e3daa7416abce3c4",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Blocus des lycéens : accalmie pour la rentrée scolaire avant une journée de mardi décisive pour la suite du mouvement",
+   "summary": "La mobilisation était globalement en baisse ce lundi, sauf à Montpellier, où certains blocages ont occasionné une intervention musclée des forces de l’ordre. Lycéens et étudiants promettent une relance du mouvement ce...",
+   "link": "https://www.midilibre.fr/2026/11/02/blocus-des-lyceens-accalmie-pour-la-rentree-scolaire-avant-une-journee-de-mardi-decisive-pour-la-suite-du-mouvement-13632571.php",
+   "published": "2026-11-02T20:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "fb75fd226b2411a7",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Stava guidando nella notte di Halloween con un tasso alcolemico sopra i 2,50: patente ritirata e confisca del veicolo",
+   "summary": "La Spezia, 2 novembre 2026 - La notte di Halloween ha richiesto un presidio della polizia locale in diversi punti della città, dal centro storico ai quartieri periferici. I controlli hanno riguardato la circolazione stradale, il possesso di stupefacenti, il rispetto delle regole negli spazi pubblic…",
+   "link": "https://www.lanazione.it/la-spezia/cronaca/ubriaca-alla-guida-halloween-297af89f",
+   "published": "2026-11-02T20:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
+  },
+  {
+   "id": "049e36c755903060",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sassuolo-Fiorentina 2-4, Njie e Mastantuono trascinano la Viola. Ora la sfida alla Juventus",
+   "summary": "Firenze, 2 novembre 2026 - Torna alla vittoria la Fiorentina , che sbanca il Mapei Stadium di Reggio Emilia per 4-2 e si porta via i tre punti. Un buon modo per cominciare la settimana che porterà alla partita di domenica sera contro la Juventus . In gol Pellegrino, Njie, Mastantuono e Valdepenas .…",
+   "link": "https://www.lanazione.it/firenze/sport/fiorentina/sassuolo-fiorentina-2-4-njie-e-mastantuono-trascinano-la-viola-ora-la-sfida-alla-juventus-phgwuqra",
+   "published": "2026-11-02T19:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T01:42",
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "1605633af0dd6ff1",
@@ -6464,14 +6626,14 @@
    "kind": "protest",
    "severity": "medium",
    "title": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
-   "summary": "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du service d’ordre du parti d’extrême droite, le Département protection sécurité (DPS). « Le Monde » a constaté la présence d’un groupe de choc interne, bap…",
+   "summary": "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la présence d’un groupe de choc interne, bap…",
    "link": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
    "published": "2026-11-02T19:24",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "2e82d6cd02fd1749",
@@ -6489,7 +6651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "2372871b41898b47",
@@ -6543,7 +6705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "39cfb06b5b191afd",
@@ -6561,7 +6723,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "bda660a935330db0",
@@ -6579,7 +6741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "49dadd521fc9689f",
@@ -6597,7 +6759,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "b11a29185340c74c",
@@ -6615,7 +6777,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "700a30c893efe6f2",
@@ -6633,7 +6795,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "0e028ffd06cf52d9",
@@ -6651,7 +6813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "6f5be0c8cb8abdae",
@@ -6672,24 +6834,6 @@
    "last_seen": "2026-11-02T19:26"
   },
   {
-   "id": "568101b9309e34f4",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : \"plus de 150\" établissements perturbés ce lundi selon l'Union syndicale lycéenne",
-   "summary": "Cette rentrée est marquée par des appels à poursuivre le mouvement des lycéens et des étudiants, malgré les annonces du gouvernement. L'Union syndicale lycéenne a décompté 150 lycées mobilisés ce lundi matin, tandis que le gouvernement a évoqué des blocus \"résiduels\".",
-   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-02T15:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
-  },
-  {
    "id": "05a90f0efdc6580b",
    "zone": "montpellier",
    "affects": [],
@@ -6705,7 +6849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "4cf28c2f08871374",
@@ -6741,7 +6885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "47ea00573aca96d0",
@@ -6759,7 +6903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "cc1731d6bd12b6da",
@@ -6795,7 +6939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "55c7b303176cdfd1",
@@ -6885,7 +7029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "2c463a9c232dc124",
@@ -6939,7 +7083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "ecfbd74b8e289e77",
@@ -6993,7 +7137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "440a9d5051115821",
@@ -7245,7 +7389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "8acc983f51fa4303",
@@ -7299,7 +7443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "130dda306fe2a6ac",
@@ -7335,7 +7479,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "a770081a263ca694",
@@ -7965,7 +8109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "e1c729aaa2affba4",
@@ -8127,7 +8271,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -8163,7 +8307,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "265691b1a88ba8c4",
@@ -8199,7 +8343,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "d711b2ea537f325a",
@@ -8253,7 +8397,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "c5d73acd40f66e82",
@@ -10107,7 +10251,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T08:08",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "37a1f52e05a1d95b",
@@ -11585,7 +11729,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -13943,7 +14087,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-02T19:26"
+   "last_seen": "2026-11-03T01:42"
   },
   {
    "id": "962f60e00b8d97f1",
