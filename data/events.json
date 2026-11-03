@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:33",
+ "updated": "2026-11-03T22:00",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -69,6 +69,42 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "964b27ef817b7b9c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
+   "summary": "La commission sur les violences des 17 et 18 octobre doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances et que le…",
+   "link": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
+   "published": "2026-11-03T20:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "70416dab41b2d569",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation des lycéens en Gironde : le proviseur du lycée des Iris à Lormont agressé par un élève",
+   "summary": "Le proviseur du lycée les Iris de Lormont, près de Bordeaux, a déposé plainte ce mardi après-midi après avoir été agressé dans la matinée, pendant une tentative de blocage de cet établissement déjà saccagé le mois dernier.",
+   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/lormont/mobilisation-des-lyceens-en-gironde-le-proviseur-du-lycee-des-iris-a-lormont-agresse-par-un-eleve-5842106?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-03T18:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "87be65a0ce16d4d6",
@@ -158,7 +194,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "c3569f2f203ef315",
@@ -430,7 +466,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -6510,6 +6546,186 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-03T21:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-03T21:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "4c81878c6455f94d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La CGT appelle à généraliser la grève le 5 novembre",
+   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
+   "published": "2026-11-03T21:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-22T13:27",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "39cfb06b5b191afd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Écoles, transports, pharmacies : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
+   "summary": "Les syndicats appellent à une grande journée de mobilisation jeudi 5 novembre. Plus de 200 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
+   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-03T21:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-02T19:26",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "1923e7f68bfbccbb",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : 37 agents de l'Education nationale ont été blessés depuis lundi, annonce Edouard Geffray",
+   "summary": "Le proviseur d'un lycée à Lormont, près de Bordeaux, a notamment déposé plainte après avoir été poussé à terre par un élève lors d'une tentative de blocage de l'établissement.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T21:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "02fbf1983dbd740a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'intersyndicale saisit la justice sur le parcours de la manifestation du 5 novembre à Paris",
+   "summary": "Les différents syndicats souhaitent que la préfecture de police publie, avant mercredi à 14 heures, les potentiels arrêtés d'interdiction qu'elle pourrait prendre sur le tracé prévu jeudi entre Bastille et Concorde.",
+   "link": "https://www.franceinfo.fr/economie/greve/l-intersyndicale-saisit-la-justice-sur-le-parcours-parisien-de-la-manifestation-du-5-novembre_8266493.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T20:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "8b3babd8e5202c3c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "À deux jours de la manifestation du 5 novembre, les cheminots obtiennent de la SNCF le versement d’une prime de 400 euros",
+   "summary": "Ce mardi 3 novembre, les représentants syndicaux des cheminots se sont entretenus avec la direction de la SNCF pour faire suite à la grève du 10 juin dernier. Les syndicats n’ont pas eu la hausse de salaires qu’ils...",
+   "link": "https://www.midilibre.fr/2026/11/03/a-deux-jours-de-la-manifestation-du-5-novembre-les-cheminots-obtiennent-de-la-sncf-le-versement-dune-prime-de-400-euros-13634471.php",
+   "published": "2026-11-03T20:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "245bda140c11392a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mouvement lycéen : entre reprise des cours et maintien des blocages, la mobilisation à un moment charnière après les vacances",
+   "summary": "La bataille des chiffres fait rage entre gouvernement et organisations syndicales sur le niveau des perturbations dans les lycées. Parmi les élèves présents au sein des blocages d’Ile-de-France, la détermination le dispute à l’inquiétude pour la suite de leur scolarité après des semaines sans cours.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
+   "published": "2026-11-03T19:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "c3281b1371b0e91e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : à quoi s'attendre, ce jeudi, dans l'Hérault ?",
+   "summary": "Une nouvelle journée de grève et de manifestations se prépare pour ce jeudi dans l'Hérault. Les syndicats ont coché cette date du 5 novembre depuis quelques semaines déjà, alors que la colère gronde dans le pays tous les samedis et le reste de la semaine devant les lycées.",
+   "link": "https://www.ici.fr/occitanie/herault-34/greve-du-5-novembre-a-quoi-s-attendre-ce-jeudi-dans-l-herault-8219811?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-03T17:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
+   "id": "a7b7c881a14abd32",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : des chefs d'établissement visés par des tirs de mortiers dans deux lycées de l'Essonne",
+   "summary": "Des chefs d'établissement ont été visés par des tirs de mortiers d'artifice, mardi, dans deux lycées de l'Essonne, en marge de la mobilisation lycéenne. Au lycée de Quincy-sous-Sénart, des tirs ont également eu lieu à l'intérieur de l'établissement, entraînant le déclenchement d'un plan de mise en…",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-des-chefs-d-etablissement-vises-par-des-tirs-de-mortiers-dans-deux-lycees-de-l-essonne_8266232.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T17:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
+  },
+  {
    "id": "da0d70185d55910a",
    "zone": "montpellier",
    "affects": [],
@@ -6525,7 +6741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "254bd7560413c9f0",
@@ -6544,6 +6760,24 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "806fd76da053236e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : la SNCF prévoit un trafic \"perturbé\" sur plusieurs lignes, \"légèrement perturbé\" pour les TGV",
+   "summary": "Le trafic ferroviaire s'annonce \"légèrement perturbé\" pour les TGV et \"perturbé\" sur la plupart des lignes le jeudi 5 novembre en marge de la mobilisation interprofessionnelle nationale, indique ce mardi SNCF Voyageurs.",
+   "link": "https://www.ici.fr/infos/transports/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-sur-plusieurs-lignes-legerement-perturbe-pour-les-tgv-1839432?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-03T16:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "4aac152c4770aad2",
@@ -6597,61 +6831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-03T16:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-03T16:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-03T16:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "aa000ab34db0e4d0",
@@ -6705,7 +6885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "6458b143f1359d90",
@@ -6723,7 +6903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "6454182492e566c3",
@@ -6759,7 +6939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "e163b05dea6b0133",
@@ -6777,7 +6957,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "1d2b5db1d30cabdb",
@@ -6813,7 +6993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "89599a239a9438cc",
@@ -6831,7 +7011,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "d788dba93b33f133",
@@ -6849,7 +7029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "12cee234095d8afc",
@@ -6867,7 +7047,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "98471c5996e13b36",
@@ -6903,7 +7083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "54945a216fcdd5dd",
@@ -6921,7 +7101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "6a9be9e6829574a9",
@@ -7065,7 +7245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "fb75fd226b2411a7",
@@ -7191,25 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "39cfb06b5b191afd",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Écoles, transports, pharmacies : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
-   "summary": "Les syndicats appellent à une grande journée de mobilisation jeudi 5 novembre. Plus de 200 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-02T17:36",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "bda660a935330db0",
@@ -7227,7 +7389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "49dadd521fc9689f",
@@ -7335,7 +7497,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "4cf28c2f08871374",
@@ -7371,7 +7533,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "47ea00573aca96d0",
@@ -7587,7 +7749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "ecfbd74b8e289e77",
@@ -7983,7 +8145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "a770081a263ca694",
@@ -8775,7 +8937,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -12233,7 +12395,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -14591,7 +14753,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-03T16:31"
+   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "962f60e00b8d97f1",
