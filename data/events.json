@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:36",
+ "updated": "2026-11-03T16:33",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "87be65a0ce16d4d6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Une enquête pour violences confiée à l'IGPN après qu'un homme a été blessé au visage à Marseille en marge des manifestations du 31 octobre",
+   "summary": "La victime, un homme de 39 ans, a déposé une plainte pour \"violences volontaires avec armes en réunion entraînant une ITT de plus de huit jours par personne dépositaire de l'autorité publique\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/a-marseille-une-enquete-pour-violences-confiee-a-l-igpn-apres-qu-un-homme-a-ete-blesse-au-visage-en-marge-des-manifestations-du-31-octobre_8265575.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T11:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
    "id": "de9a300bb4c53557",
    "zone": "it_national",
    "affects": [],
@@ -104,7 +122,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "19d3ee0f28f22c31",
@@ -412,7 +430,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "30ddc01d6d8f18f6",
@@ -6492,6 +6510,96 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "da0d70185d55910a",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 5 novembre : trains perturbés, syndicats, lycéens et salariés dans la rue… à quoi s’attendre jeudi ?",
+   "summary": "Ce jeudi 5 novembre, une mobilisation massive est attendue en France à l’appel de l’intersyndicale. Après des semaines de mobilisation de la jeunesse, syndicats et gilets jaunes s’unissent pour réclamer une hausse des...",
+   "link": "https://www.midilibre.fr/2026/11/03/manifestation-du-5-novembre-trains-perturbes-syndicats-lyceens-et-salaries-dans-la-rue-a-quoi-sattendre-jeudi-13634216.php",
+   "published": "2026-11-03T17:23",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "254bd7560413c9f0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 17 octobre : le ministre Laurent Nuñez confesse son \"manque d'anticipation\" face à des phénomènes simultanés, \"de manière à faire éclater le…",
+   "summary": "Il a également évoqué un \"échec\", tout en précisant que \"l'échec constaté ne présum[ait] pas en soi une faute des services de l'Etat\", dans le cadre de la commission d'enquête de l'Assemblée nationale consacrée à sa gestion du maintien de l'ordre le 17 octobre.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T17:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "4aac152c4770aad2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : la SNCF prévoit un trafic \"perturbé\" sur plusieurs lignes, \"légèrement perturbé\" pour les TGV",
+   "summary": "Le trafic ferroviaire s'annonce \"légèrement perturbé\" pour les TGV et \"perturbé\" sur la plupart des lignes le jeudi 5 novembre en marge de la mobilisation interprofessionnelle nationale, indique ce mardi SNCF Voyageurs.",
+   "link": "https://www.ici.fr/infos/transports/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-sur-plusieurs-lignes-legerement-perturbe-pour-les-tgv-1839432?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-03T16:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "d631c108e60d81ac",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : la SNCF prévoit un trafic TGV \"légèrement perturbé\", et \"perturbé\" sur la plupart des autres lignes",
+   "summary": "Les syndicats ont appelé les salariés à un mouvement national, jeudi, afin de défendre le pouvoir d'achat.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T16:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "9d0f041331fa4e64",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le monde agricole de nouveau dans la rue à Béziers à la veille d'une journée de grève et de mobilisation nationale",
+   "summary": "\"Rien n'a changé depuis les dernières manifestations agricoles\", déplore la Coordination rurale 34, mobilisée ce mardi à Béziers. \"La situation s'aggrave. De nombreux professionnels n'ont plus de trésorerie et ont la corde au cou\", confie le coprésident Benjamin Bajata.",
+   "link": "https://www.ici.fr/occitanie/herault-34/beziers/le-monde-agricole-de-nouveau-dans-la-rue-a-beziers-a-la-veille-d-une-journee-de-greve-et-de-mobilisation-nationale-8141447?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-03T16:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
    "id": "73eeafaf5dd5abd9",
    "zone": "fr_national",
    "affects": [],
@@ -6502,12 +6610,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-03T08:35",
+   "published": "2026-11-03T16:31",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6520,12 +6628,12 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-03T08:35",
+   "published": "2026-11-03T16:31",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "4c81878c6455f94d",
@@ -6538,12 +6646,210 @@
    "title": "La CGT appelle à généraliser la grève le 5 novembre",
    "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-03T08:35",
+   "published": "2026-11-03T16:31",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "aa000ab34db0e4d0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisations sociales : près de 5.000 gardes à vue et 329 personnes incarcérées depuis le 17 octobre",
+   "summary": "Le ministre de la Justice, Gérald Darmanin, a indiqué ce mardi qu'\"il y a eu 4.914 gardes à vue\" et 329 personnes incarcérées depuis le 17 octobre, premier \"acte\" des manifestations contre \"la vie chère\".",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisations-sociales-pres-de-5-000-gardes-a-vue-et-329-personnes-incarcerees-depuis-le-17-octobre-6054731?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-03T15:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "1df12e84c38ba97e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
+   "summary": "En écho aux mouvements de contestation français et européens, des manifestations ont dégénéré ce week-end à Zurich et à Bâle. Les observateurs sont toutefois divisés sur la composante sociale des événements survenus en Suisse, et sur les parallèles pouvant être dressés avec les pays voisins, comme…",
+   "link": "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-03T15:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "e541dca7bfd76c62",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Scuole occupate, 88 prof del Virgilio stanno con gli studenti: \"La protesta non è solo ordine pubblico\"",
+   "summary": "Firenze, 3 novembre 2026 – \"Ci riconosciamo nelle ragioni degli studenti\". Da Empoli arriva una presa di posizione, forte e chiara, a sostegno della mobilitazione. Sono 88 i docenti del liceo Virgilio che hanno firmato una nota dopo l'occupazione dell'istituto iniziata ieri . Una presa di posizione…",
+   "link": "https://www.lanazione.it/empoli/cronaca/scuole-occupate-professori-virgilio-kadghsq5",
+   "published": "2026-11-03T15:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "6458b143f1359d90",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : seuls 48 établissements bloqués à travers la France, le mouvement étudiant s’échauffe avant la journée noire de jeudi",
+   "summary": "Ce mardi 3 novembre, 51 établissements d’enseignement supérieur sur 184 sont perturbés en France, selon le ministère de l’Enseignement supérieur, à l’appel des syndicats étudiants. À Montpellier, plusieurs campus sont...",
+   "link": "https://www.midilibre.fr/2026/11/03/mobilisation-des-lyceens-seuls-48-etablissements-bloques-a-travers-la-france-le-mouvement-etudiant-sechauffe-avant-la-journee-noire-de-jeudi-13633931.php",
+   "published": "2026-11-03T14:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "6454182492e566c3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne et étudiante : plus de 50 campus \"bloqués\" ce mardi, des rassemblements dans plusieurs villes",
+   "summary": "Des blocages ont lieu depuis ce mardi matin devant des lycées et universités de plusieurs régions, alors que les syndicats ont appelé à une \"journée noire\". Des manifestations se tiennent également à Paris et Marseille notamment.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-lyceenne-et-etudiante-des-blocages-d-etablissements-dans-plusieurs-regions-ce-mardi-avant-les-corteges-9216435?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-03T14:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "e61af4e092b61b70",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Aerei a bassa quota su Firenze, ecco perché: la grande cerimonia con Mattarella al Piazzale",
+   "summary": "Firenze, 3 novembre 2026 – Il 4 novembre sarà una giornata speciale per Firenze. Oltre alla ricorrenza dei sessant’anni dell’alluvione che, nel 1966, mise in ginocchio la città, si terranno le celebrazioni in occasione della “ Giornata dell’Unità Nazionale e delle Forze Armate ”. Alle iniziative sa…",
+   "link": "https://www.lanazione.it/firenze/cronaca/mattarella-firenze-4-novembre-ucn70mc4",
+   "published": "2026-11-03T13:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "e163b05dea6b0133",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Elle ne voulait plus payer son loyer tant que son propriétaire ne rénovait pas l’appartement : à 81 ans, Marguerite est expulsée avant la trêve hivernale",
+   "summary": "Une femme de 81 ans a été expulsée de son appartement à Mulhouse (Haut-Rhin), le 27 octobre, cinq jours avant la trêve hivernale. La retraitée avait cessé de payer son loyer pendant onze mois pour protester contre...",
+   "link": "https://www.midilibre.fr/2026/11/03/elle-ne-voulait-plus-payer-son-loyer-tant-que-son-proprietaire-ne-renovait-pas-lappartement-a-81-ans-marguerite-est-expulsee-avant-la-treve-hivernale-13633371.php",
+   "published": "2026-11-03T12:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "1d2b5db1d30cabdb",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Manovra di bilancio, inizia l'esame alla Camera, ma c'è già aria di sciopero",
+   "summary": "Sindacati contro i tagli alla scuola, proclamata astensione il 20 novembre",
+   "link": "https://www.sanmarinortv.sm/news/italia-c7/manovra-di-bilancio-inizia-l-esame-alla-camera-ma-c-e-gia-aria-di-sciopero-a298031",
+   "published": "2026-11-03T11:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "4faa36c11706d9ad",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Scuole colabrodo, entrare di notte è troppo facile: \"Allarmi e cancelli non bastano\"",
+   "summary": "Firenze, 3 novembre 2026 – Cancellate, catene, allarmi, telecamere. Eppure entrare di notte nelle scuole sembra fin troppo facile. Basta trovare un accesso laterale, scardinare una porta, rompere un vetro o approfittare di una finestra appositamente lasciata socchiusa. In alcuni casi, raccontano i…",
+   "link": "https://www.lanazione.it/firenze/cronaca/scuole-colabrodo-entrare-di-notte-e-troppo-facile-allarmi-e-cancelli-non-bastano-gn6pg53h",
+   "published": "2026-11-03T10:09",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "89599a239a9438cc",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Firenze, torna la fiera delle Arti tessili in piazza Santa Croce",
+   "summary": "Firenze, 3 novembre – Dalla produzione di lana alla lavorazione della fibra di alpaca , fino al cashmere italiano: sono queste le tematiche al centro della nuova edizione della Fiera delle Arti Tessili , che si terrà sabato 7 e domenica 8 novembre in Piazza Santa Croce a Firenze (dalle ore 9 alle 1…",
+   "link": "https://www.lanazione.it/firenze/cosa-fare/firenze-torna-la-fiera-delle-arti-tessili-in-piazza-santa-croce-0e708201",
+   "published": "2026-11-03T09:37",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "d788dba93b33f133",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sindacati, stato di agitazione alla Valdisieve Hospital di Pelago",
+   "summary": "Firenze, 3 novembre 2026 - Stato di agitazione delle lavoratrici e dei lavoratori della Valdisieve Hospital di Pelago (Firenze), dopo la decisione aziendale di chiudere il laboratorio analisi e licenziare le tre lavoratrici che vi operano. Lo hanno proclamato la Fp Cgil Firenze e la Cisl FP Fi-Po .…",
+   "link": "https://www.lanazione.it/firenze/cronaca/sindacati-stato-di-agitazione-alla-valdisieve-hospital-di-pelago-dba0124f",
+   "published": "2026-11-03T09:35",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "12cee234095d8afc",
@@ -6561,7 +6867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "98471c5996e13b36",
@@ -6597,7 +6903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "54945a216fcdd5dd",
@@ -6615,7 +6921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "6a9be9e6829574a9",
@@ -6669,7 +6975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "1d6ca46bd515517f",
@@ -6759,7 +7065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "fb75fd226b2411a7",
@@ -6885,7 +7191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "39cfb06b5b191afd",
@@ -6921,7 +7227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "49dadd521fc9689f",
@@ -7029,7 +7335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "4cf28c2f08871374",
@@ -7065,7 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "47ea00573aca96d0",
@@ -7083,7 +7389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "cc1731d6bd12b6da",
@@ -7119,7 +7425,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
+  },
+  {
+   "id": "5a425c34048fb08c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Blocages des lycées et des universités, grève du 5 novembre, manifestations de gilets jaunes… Quelles sont les mobilisations prévues cette semaine ?",
+   "summary": "La semaine doit être marquée par la grande journée de grève et de manifestations prévue jeudi à l'appel des syndicats, et un nouveau samedi de mobilisation.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocages-des-lycees-et-des-universites-greve-du-5-novembre-manifestations-de-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine_8263529.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-02T11:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-03T16:31",
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "55c7b303176cdfd1",
@@ -7263,7 +7587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "ecfbd74b8e289e77",
@@ -7659,7 +7983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "a770081a263ca694",
@@ -8451,7 +8775,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-03T08:35"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "23d0f423a39db7d7",
@@ -11909,7 +12233,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -14267,7 +14591,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-03T01:42"
+   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "962f60e00b8d97f1",
