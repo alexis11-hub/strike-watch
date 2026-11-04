@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 519,
+  "ms": 433,
   "error": ""
  },
  {
@@ -14,25 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 3,
-  "ms": 544,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 7,
-  "ms": 308,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 40,
-  "kept": 0,
-  "ms": 885,
+  "ms": 542,
   "error": ""
  },
  {
@@ -41,25 +23,34 @@
   "ok": true,
   "items": 23,
   "kept": 0,
-  "ms": 903,
+  "ms": 852,
   "error": ""
  },
  {
   "id": "ansa_lom",
   "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 70,
+  "items": 71,
   "kept": 0,
-  "ms": 930,
+  "ms": 862,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 100,
+  "items": 40,
+  "kept": 0,
+  "ms": 866,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
   "kept": 7,
-  "ms": 928,
+  "ms": 478,
   "error": ""
  },
  {
@@ -68,7 +59,16 @@
   "ok": true,
   "items": 44,
   "kept": 3,
-  "ms": 141,
+  "ms": 203,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 6,
+  "ms": 1195,
   "error": ""
  },
  {
@@ -76,26 +76,17 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 2,
-  "ms": 280,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 0,
-  "ms": 1278,
+  "kept": 1,
+  "ms": 341,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 33,
-  "kept": 4,
-  "ms": 401,
+  "items": 34,
+  "kept": 3,
+  "ms": 407,
   "error": ""
  },
  {
@@ -103,8 +94,8 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 8,
-  "ms": 905,
+  "kept": 7,
+  "ms": 820,
   "error": ""
  },
  {
@@ -113,7 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 303,
+  "ms": 223,
   "error": ""
  },
  {
@@ -122,7 +113,7 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 557,
+  "ms": 505,
   "error": ""
  },
  {
@@ -131,7 +122,7 @@
   "ok": true,
   "items": 114,
   "kept": 0,
-  "ms": 511,
+  "ms": 580,
   "error": ""
  },
  {
@@ -140,7 +131,16 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1114,
+  "ms": 1078,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 0,
+  "ms": 2338,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83852,
+  "ms": 83445,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
