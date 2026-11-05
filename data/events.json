@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:29",
+ "updated": "2026-11-05T09:45",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "7793013e0159a0e5",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Manifestations du 5 novembre : plus de 250 actions annoncées dans toute la France, selon une carte de la GGT",
+   "summary": "Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T09:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "bdfa73e78d70c6ca",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations, blocus… \"Quand il y a un enjeu d’importance, on a désormais le retour de la violence\", décrypte Nicolas Lebourg à propos des groupuscules d’ult…",
+   "summary": "Chercheur au Centre d’études politiques et sociaLes (Cepel) de l’université de Montpellier, coordinateur de la Chaire Citoyenneté, Sciences-Po Saint-Germain-en-Laye, Nicolas Lebourg, spécialiste de l’extrême droite,...",
+   "link": "https://www.midilibre.fr/2026/11/05/manifestations-blocus-quand-il-y-a-un-enjeu-dimportance-on-a-desormais-le-retour-de-la-violence-decrypte-nicolas-lebourg-a-propos-des-groupuscules-13633295.php",
+   "published": "2026-11-05T08:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "1b46c3341c43d5be",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Grève du 5 novembre : entre lycéens, étudiants, syndicats de salariés et « gilets jaunes », le pari d’une convergence des mobilisations",
+   "summary": "Alors que les mouvements de jeunes ont demandé un relais du monde du travail, les organisations syndicales ont appelé à défiler et à cesser le travail, jeudi, dans toute la France. Parmi les revendications : la revalorisation des salaires, la sauvegarde des services publics et la défense du droit d…",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
+   "published": "2026-11-05T05:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
    "id": "7c777938c55b442f",
    "zone": "fr_national",
    "affects": [],
@@ -122,7 +176,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "b0b05a9b3d1aaf85",
@@ -6636,6 +6690,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "633e112ec12a8280",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT Manifestations du 5 novembre : des blocages à Alès et Montpellier, les forces de l’ordre mobilisées à Paris pour lever un blocus à Paris",
+   "summary": "La mobilisation de ce jeudi 5 novembre en France s’annonce massive. À l’appel de l’intersyndicale de nombreux salariés du privé et du public, des enseignants, gilets jaunes, retraités, jeunes et cheminots sera dans la...",
+   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-les-corteges-selancent-des-10-h-30-a-sete-beziers-et-carcassonne-70-000-policiers-deployes-les-dernieres-infos-13636490.php",
+   "published": "2026-11-05T10:39",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "8607c3af8c45d41e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "DIRECT - Grève du 5 novembre : les salariés, retraités et jeunes dans la rue ce jeudi contre la vie chère",
+   "summary": "Plus de 250 rassemblements sont prévus partout en France ce jeudi à l'appel des syndicats pour réclamer une hausse des salaires. Les autorités attendent près de 800.000 personnes. Quelque 70.000 policiers et gendarmes sont déployés. Suivez la journée de mobilisation en direct sur ICI.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-05T10:28",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "b72867861aa3e69e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "DIRECT - Grève du 5 novembre : les salariés, retraités et jeunes dans la rue ce jeudi contre la vie chère",
+   "summary": "Plus de 250 rassemblements sont prévus partout en France ce jeudi à l'appel des syndicats pour réclamer une hausse des salaires. Les autorités attendent près de 800.000 personnes. Quelque 70.000 policiers et gendarmes sont déployés. Suivez la journée de mobilisation en direct sur ICI.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-05T10:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "c3281b1371b0e91e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : à quoi s'attendre, ce jeudi, dans l'Hérault ?",
+   "summary": "Une nouvelle journée de grève et de manifestations se prépare pour ce jeudi dans l'Hérault. Les syndicats ont coché cette date du 5 novembre depuis quelques semaines déjà, alors que la colère gronde dans le pays tous les samedis et le reste de la semaine devant les lycées.",
+   "link": "https://www.ici.fr/occitanie/herault-34/greve-du-5-novembre-a-quoi-s-attendre-ce-jeudi-dans-l-herault-8219811?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-05T10:20",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-03T21:59",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -6646,12 +6772,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-05T02:27",
+   "published": "2026-11-05T09:44",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -6664,12 +6790,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-05T02:27",
+   "published": "2026-11-05T09:44",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6682,12 +6808,282 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-05T02:27",
+   "published": "2026-11-05T09:44",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "eb0c02daffbcef8c",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sindacati della scuola lanciano la mobilitazione, sit in l'11 novembre",
+   "summary": "Cisl, Uil, Snals e Anief contro i tagli. Sciopero Cgil già fissato per il 20",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/sindacati-della-scuola-lanciano-la-mobilitazione-sit-in-l11-novembre_ce814bf9-2c88-4eb7-b4a4-834a3e37c512.html",
+   "published": "2026-11-05T09:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "0339b5865055811d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Face aux attaques \"du grand patronat et du gouvernement, notre seul moyen de défense, c'est la mobilisation et la grève\", affirme Nathalie Arthaud",
+   "summary": "La porte-parole de Lutte ouvrière participe jeudi à la journée de mobilisation intersyndicale. Candidate à l'élection présidentielle, elle défend notamment un smic à 2 200 euros.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/face-aux-attaques-du-grand-patronat-et-du-gouvernement-notre-seul-moyen-de-defense-c-est-la-mobilisation-et-la-greve-affirme-nathalie-arthaud_8268950.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T09:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "b32536494f628823",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 5 novembre : jusqu’à 780 000 manifestants attendus, 70 000 policiers, blindés et drones déployés… le point sur la journée de jeudi",
+   "summary": "La mobilisation de ce jeudi 5 novembre en France s’annonce massive. Les autorités attendent jusqu’à 780 000 manifestants et déploient 70 000 forces de l’ordre pour éviter les débordements du 17 octobre, sur fond de...",
+   "link": "https://www.midilibre.fr/2026/11/05/manifestations-du-5-novembre-jusqua-780-000-manifestants-attendus-70-000-policiers-blindes-et-drones-deployes-le-point-sur-la-journee-a-venir-13636457.php",
+   "published": "2026-11-05T08:25",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "f1374dd1d8c23730",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"J’ai l’ai créée pour mon fils lycéen\" : à quoi sert l’appli Cortège, le \"Waze des manifs et des blocus\" conçue par le militant montpelliérain Neru",
+   "summary": "Le militant montpelliérain Neru a créé l’application collaborative \"Cortège\", une carte interactive signalant en temps réel les mouvements policiers et les blocus en France.",
+   "link": "https://www.midilibre.fr/2026/11/05/jai-lai-creee-pour-mon-fils-lyceen-a-quoi-sert-lappli-cortege-le-waze-des-manifs-et-des-blocus-concue-par-le-militant-montpellierain-neru-13633418.php",
+   "published": "2026-11-05T08:18",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "f9677fdecc4abbe0",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Allarme Cgil: cassa integrazione al 20%: \"La crisi è ormai troppo diffusa\"",
+   "summary": "Nelle Marche torna a suonare l’allarme occupazione. Nel terzo trimestre del 2026 sono state autorizzate complessivamente 20,7 milioni di ore tra Cassa integrazione (Cig), Fis e fondi di solidarietà, secondo le elaborazioni dell’Ires Cgil su dati Inps. La sola cassa integrazione raggiunge quota 20,4…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/allarme-cgil-cassa-integrazione-al-e2c66c6f",
+   "published": "2026-11-05T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "25c080d4c4d380fb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Rivoluzione ecologica a Firenze. La rinascita dei parchi pubblici",
+   "summary": "Parco Florentia sta per diventare realtà, mentre sono ai nastri di partenza altri 5 parchi. Il piano del verde sta diventando un fatto: non una questione secondaria in una città che soffre una difficile convivenza con gli spazi . Lo sanno bene a Palazzo Vecchio, dove si lavora in maniera insistente…",
+   "link": "https://www.lanazione.it/firenze/cronaca/rivoluzione-ecologica-a-firenze-la-a0004248",
+   "published": "2026-11-05T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "0b8b9436f449f89b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+   "summary": "Des juristes et défenseurs des libertés accusent le ministère de l'Intérieur d'avoir détourné des mesures antiterroristes pour empêcher plusieurs dizaines de militants de participer aux mobilisations des 24 et 31 octobre.",
+   "link": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T06:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "87b6ae1fd13b5e90",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On ne pourra pas tout rattraper\" : les blocages des lycées menacent-ils l'année scolaire et la préparation du bac ?",
+   "summary": "Malgré les annonces du gouvernement pendant les vacances de la Toussaint, des blocages se sont poursuivis lundi matin, jour de la rentrée. Alors que le ministre de l'Education, Edouard Geffray, juge l'année scolaire en danger pour plusieurs centaines de milliers d'élèves, enseignants et proviseurs…",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T06:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "48a75b68f919a7ca",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Tutti in piazza\". L’appello di Cgil per manifestare contro il governo. Sabato il sit-in",
+   "summary": "La Cgil scenderà in piazza sabato mattina a partire dalle 9,30, davanti alla Prefettura per dar voce a chi \"non arriva a fine mese\" e protestare contro il caro vita . \"E contro la totale assenza di interventi da parte del governo, che si appresta a varare una Legge di Bilancio la cui sola certezza…",
+   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/tutti-in-piazza-lappello-di-5637a856",
+   "published": "2026-11-05T06:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "31700b6cefc0d2ea",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Assegnate 5 nuove onorificenze per il contributo dato alla società",
+   "summary": "Ci sono riconoscimenti che vanno oltre una medaglia appuntata sul petto. Raccontano una vita, un percorso professionale, un impegno portato avanti negli anni, spesso lontano dai riflettori. È stato questo il significato del momento dedicato alla consegna delle onorificenze dell’Ordine al Merito del…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/assegnate-5-nuove-onorificenze-3513cba9",
+   "published": "2026-11-05T05:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "478dbf961515c380",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dall’incontro Maga al Nucleo anti maranza: \"In piazza per dire no\"",
+   "summary": "Mentre i sostenitori di Donald Trump si radunano in Fiera per il primo evento Maga in Italia, gli oppositori del presidente Usa sfilano in corteo per le vie della città. L’evento è promosso da Rete Pace Ferrara , ma ad aderire saranno anche altri gruppi e pure i partiti, come Alleanza Verdi Sinistr…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/dallincontro-maga-al-nucleo-anti-7a309049",
+   "published": "2026-11-05T05:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "bd5c6d0bdef18d6c",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Pietralunga, zero disoccupati. L’orgoglio del sindaco Rizzuti: \"Qui tutti lavorano col tartufo\"",
+   "summary": "Nascosto tra i rilievi boscosi dell’Alta Valle del Tevere, esiste un borgo medievale che sembra sfidare apertamente qualsiasi congiuntura economica. A Pietralunga , piccolo comune arroccato nel cuore verde dell’Umbria, le dinamiche del mercato del lavoro raccontano una vicenda controcorrente: mentr…",
+   "link": "https://www.lanazione.it/umbria/cronaca/pietralunga-zero-disoccupati-lorgoglio-del-5765d425",
+   "published": "2026-11-05T05:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "0262d3196defe2c3",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "I custodi delle Porte Sante. Rinnovo ai benedettini",
+   "summary": "FIRENZE Il cimitero monumentale delle Porte Sante avrà una sorveglianza più stabile e continuativa. Il Comune di Firenze ha deciso di prolungare da uno a due anni la convenzione con la Congregazione Benedettina Olivetana dell’Abbazia di San Miniato al Monte, che continuerà a occuparsi del presidio,…",
+   "link": "https://www.lanazione.it/firenze/cronaca/i-custodi-delle-porte-6b303fa7",
+   "published": "2026-11-05T05:30",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "208d162852411eae",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sanzioni e limitazioni . L’indotto di Sanlorenzo si ferma per protesta",
+   "summary": "Per far sentire la loro voce hanno deciso di non entrare in cantiere. E alla fine, grazie alla mediazione dei sindacati, le loro richieste saranno oggetto di un tavolo che il colosso della nautica e le parti sociali terranno in Confindustria nelle prossime settimane. Protagonisti della protesta, an…",
+   "link": "https://www.lanazione.it/la-spezia/cronaca/sanzioni-e-limitazioni-lindotto-9fca8670",
+   "published": "2026-11-05T05:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
+  },
+  {
+   "id": "576cc7d72bc24085",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Treni, che passione: \"Frecciarossa, da dicembre prenotazioni bloccate\"",
+   "summary": "Prenotazioni per il Frecciarossa bloccate. E proteste che spuntano in un batter d’occhio. Oltre alla preoccupazione per un possibile stop. L’ennesio. La segnalazione arriva dal consigliere di maggioranza, Lorenzo Mazzani (gruppo Pensa Perugia), secondo il quale \"da diverse segnalazioni ricevute eme…",
+   "link": "https://www.lanazione.it/umbria/cronaca/treni-che-passione-frecciarossa-da-2d0e07a0",
+   "published": "2026-11-05T05:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T09:44",
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "8bb52b46f86db356",
@@ -6705,7 +7101,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T02:27",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "12a23e73c6761802",
@@ -6741,7 +7137,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "6454773cbfaa5889",
@@ -6849,7 +7245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "ba15b0ef1d685fb9",
@@ -6885,7 +7281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "804f1fec9280b707",
@@ -6903,7 +7299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "192000ff2fdafd8d",
@@ -6959,7 +7355,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "3bc377ca55b4d158",
@@ -6977,7 +7373,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "9bcff55d49f51733",
@@ -6996,24 +7392,6 @@
    "soon": false,
    "first_seen": "2026-11-04T16:41",
    "last_seen": "2026-11-04T16:41"
-  },
-  {
-   "id": "c3281b1371b0e91e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : à quoi s'attendre, ce jeudi, dans l'Hérault ?",
-   "summary": "Une nouvelle journée de grève et de manifestations se prépare pour ce jeudi dans l'Hérault. Les syndicats ont coché cette date du 5 novembre depuis quelques semaines déjà, alors que la colère gronde dans le pays tous les samedis et le reste de la semaine devant les lycées.",
-   "link": "https://www.ici.fr/occitanie/herault-34/greve-du-5-novembre-a-quoi-s-attendre-ce-jeudi-dans-l-herault-8219811?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-04T17:07",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "c51275e20fa0a1ce",
@@ -7085,7 +7463,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "17375ba477b67957",
@@ -7157,7 +7535,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -7175,7 +7553,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "4c81878c6455f94d",
@@ -7499,7 +7877,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "aa000ab34db0e4d0",
@@ -7715,7 +8093,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-05T02:27"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "98471c5996e13b36",
@@ -8813,7 +9191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "a770081a263ca694",
@@ -13063,7 +13441,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -15421,7 +15799,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "962f60e00b8d97f1",
