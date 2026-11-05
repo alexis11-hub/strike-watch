@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:14",
+ "updated": "2026-11-05T02:29",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -86,7 +86,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "f1eea9c313f219e2",
@@ -104,7 +104,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "309d83f6c8107897",
@@ -122,7 +122,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "b0b05a9b3d1aaf85",
@@ -140,7 +140,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "0798b5a7fba1c259",
@@ -6636,6 +6636,96 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-05T02:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-05T02:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-05T02:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
+   "id": "8bb52b46f86db356",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Programmes perturbés en raison d'un mouvement de grève le 5 novembre 2026",
+   "summary": "Nous ne sommes pas en mesure de diffuser tous les programmes de ICI.",
+   "link": "https://www.ici.fr/emissions/les-infos-d-ici/programmes-perturbes-en-raison-d-un-mouvement-de-greve-le-5-novembre-2026-9862769?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-05T00:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T02:27",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
+   "id": "12a23e73c6761802",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde, la CGT accepte le parcours République-…",
+   "summary": "La préfecture de police de Paris appelle les manifestants à emprunter le parcours alternatif autorisé entre la place de la République et la place de la Nation.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-04T23:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T02:27",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
    "id": "55e9914ee46335e3",
    "zone": "fr_national",
    "affects": [],
@@ -6651,61 +6741,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-04T22:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-04T22:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-04T22:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "6454773cbfaa5889",
@@ -6723,7 +6759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "86408eabcf59016f",
@@ -6741,7 +6777,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "a3accb172bf3bed9",
@@ -6762,6 +6798,24 @@
    "last_seen": "2026-11-04T22:12"
   },
   {
+   "id": "bea3a4a1fbd87f93",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tours : enquête ouverte après la blessure à l’œil d’un tiktokeur lors d’une manifestation",
+   "summary": "Enzo Gimgembre, 22 ans, s’était rendu samedi à la manifestation « pour filmer ». Jusqu’à ce qu’un « petit groupe de CRS » se détache et qu’une « grenade de désencerclement » soit lancée dans sa direction, explique-t-il.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/04/tours-enquete-ouverte-apres-la-blessure-a-l-il-d-un-tiktokeur-lors-d-une-manifestation_6806430_3224.html",
+   "published": "2026-11-04T22:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T02:27",
+   "last_seen": "2026-11-05T02:27"
+  },
+  {
    "id": "f7e5c7689d316c95",
    "zone": "fr_national",
    "affects": [],
@@ -6777,7 +6831,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "61b7ea90b0a163dd",
@@ -6795,7 +6849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "ba15b0ef1d685fb9",
@@ -6831,7 +6885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "804f1fec9280b707",
@@ -6849,7 +6903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "192000ff2fdafd8d",
@@ -6867,7 +6921,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "29eaf40a71d7ad2d",
@@ -6885,7 +6939,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "6aa1a57d4e3a29fa",
@@ -6905,7 +6959,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "3bc377ca55b4d158",
@@ -6923,7 +6977,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "9bcff55d49f51733",
@@ -6959,7 +7013,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "c51275e20fa0a1ce",
@@ -6995,7 +7049,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "806fd76da053236e",
@@ -7031,7 +7085,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "17375ba477b67957",
@@ -7049,7 +7103,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "ef17e49d127686be",
@@ -7103,7 +7157,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -7121,7 +7175,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "4c81878c6455f94d",
@@ -7319,7 +7373,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "245bda140c11392a",
@@ -7373,7 +7427,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "254bd7560413c9f0",
@@ -7445,7 +7499,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "aa000ab34db0e4d0",
@@ -7661,7 +7715,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "98471c5996e13b36",
@@ -8111,7 +8165,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "4cf28c2f08871374",
@@ -8363,7 +8417,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-04T22:12"
+   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "ecfbd74b8e289e77",
