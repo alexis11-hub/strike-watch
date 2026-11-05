@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:41",
+ "updated": "2026-11-05T22:52",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -71,6 +71,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "7c9be628946daec3",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Parigi, la protesta dei liceali diventa rivolta sociale: “La ricchezza va condivisa. I soldi prendeteli a chi li ha” – Le storie e i cartelli dal corteo",
+   "summary": "Quando è passata un’ora dall’inizio del corteo, in place de la République a Parigi ancora non ci si muove. “Siamo troppi”, dice un ragazzo che sventola un cartello con la scritta “Tax the rich” . Studenti, lavoratori, sindacalisti, precari: le persone si appoggiano gli uni agli altri e cercano di a…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/05/protesta-parigi-corteo-disuguaglianze-notizie/8562492/",
+   "published": "2026-11-05T22:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "cee7cae5c5ec8177",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"Je continue de croire au changement\" : de Douai à Limoges en passant par Paris, les cortèges du 5 novembre font le plein et s'interrogent sur la suite",
+   "summary": "Près de 1,6 million de personnes ont défilé dans toute la France jeudi, selon les organisateurs (575 000 selon les autorités). Dans les cortèges se trouvaient des manifestants motivés pour continuer et d'autres lassés de ne rien obtenir de la part des pouvoirs publics.",
+   "link": "https://www.franceinfo.fr/economie/greve/greve/reportage-je-continue-de-croire-au-changement-de-douai-a-limoges-en-passant-par-paris-les-corteges-du-5-novembre-font-le-plein-et-s-interrogent-sur-la-suite_8269412.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T19:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "d0dabb39eedb940d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Un CRS géant en carton incendié à la manifestation à Strasbourg, le ministre de l'intérieur veut saisir la justice",
+   "summary": "Un grand mannequin en forme de CRS a été brûlé par des manifestants ce jeudi 5 novembre à la fin de la mobilisation à Strasbourg, place de la Bourse. Le ministre de l'Intérieur demande au préfet de saisir la justice, plusieurs élus et syndicats policiers réagissent.",
+   "link": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/un-crs-geant-en-carton-incendie-a-la-manifestation-a-strasbourg-le-ministre-de-l-interieur-veut-saisir-la-justice-7215330?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-05T19:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "c166a88839061e9b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestation du 5 novembre : règles hémorragiques, douleurs intenses… Les gaz lacrymogènes peuvent-ils perturber le cycle menstruel ?",
+   "summary": "Alors que lycéens, étudiants et syndicats manifestent partout en France ce jeudi 5 novembre 2026, plus de 10 000 témoignages recueillis par le collectif Lacrymos de sang font état de troubles menstruels après une...",
+   "link": "https://www.midilibre.fr/2026/11/05/manifestation-du-5-novembre-regles-hemorragiques-douleurs-intenses-les-gaz-lacrymogenes-peuvent-ils-perturber-le-cycle-menstruel-13635517.php",
+   "published": "2026-11-05T19:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T17:40",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
    "id": "0e1724a5baf175bc",
    "zone": "fr_national",
    "affects": [],
@@ -86,7 +158,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "a9989008274cd449",
@@ -120,24 +192,6 @@
    "published": "2026-11-05T16:31",
    "dates": "",
    "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "c166a88839061e9b",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestation du 5 novembre : règles hémorragiques, douleurs intenses… Les gaz lacrymogènes peuvent-ils perturber le cycle menstruel ?",
-   "summary": "Alors que lycéens, étudiants et syndicats manifestent partout en France ce jeudi 5 novembre 2026, plus de 10 000 témoignages recueillis par le collectif Lacrymos de sang font état de troubles menstruels après une...",
-   "link": "https://www.midilibre.fr/2026/11/05/manifestation-du-5-novembre-regles-hemorragiques-douleurs-intenses-les-gaz-lacrymogenes-peuvent-ils-perturber-le-cycle-menstruel-13635517.php",
-   "published": "2026-11-05T15:01",
-   "dates": "",
-   "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-05T17:40"
@@ -212,7 +266,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "1b46c3341c43d5be",
@@ -284,7 +338,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "b0b05a9b3d1aaf85",
@@ -6798,6 +6852,240 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "2f90aa933fbdc92c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat pré…",
+   "summary": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. De son côté, le ministère de l’intérieur a évalué à 575 000 le nombre de manifestants en France, dont 65 000 dans la capitale.",
+   "link": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+   "published": "2026-11-05T23:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-05T22:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-05T22:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-05T22:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "6d729790e768003b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est \"globalement bien déroulée\", rapporte le ministère de l'Intérieur, qui fait état de 44…",
+   "summary": "Des tensions ont été signalées à Paris, Lyon, Rennes ou Toulouse, alors que les manifestations ont réuni 1,6 million de manifestants selon la CGT et 575 000 selon le ministère de l'Intérieur.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T21:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "1f6c140f9f1c3841",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Près de 1,6 million de personnes ont défilé en France lors de la mobilisation du 5 novembre selon la CGT, 575 000 selon le ministère de l'Intérieur",
+   "summary": "Le ministère de l'Intérieur a expliqué que la déambulation des cortèges déclarés s'était \"globalement bien déroulée\".",
+   "link": "https://www.franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T21:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "96d7f266f3b36a5c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Des journalistes de BFMTV en grève ce 5 novembre : que se passe-t-il à la rédaction de la chaîne d’information ?",
+   "summary": "Environ 120 journalistes et techniciens de BFMTV, sur 1 200 salariés, ont suivi un débrayage jeudi pendant la journée de mobilisation contre la vie chère. Ce mouvement social inédit vise à dénoncer des dérives...",
+   "link": "https://www.midilibre.fr/2026/11/05/des-journalistes-de-bfmtv-en-greve-ce-5-novembre-que-se-passe-t-il-a-la-redaction-de-la-chaine-dinformation-13638526.php",
+   "published": "2026-11-05T21:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "8f2502d524915a17",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "REPLAY Manifestations du 5 novembre : 3 200 personnes à Montpellier, 1,6 million de manifestants selon la CGT... Retour sur la mobilisation",
+   "summary": "La mobilisation de ce jeudi 5 novembre en France s’annonce massive. À l’appel de l’intersyndicale de nombreux salariés du privé et du public, des enseignants, gilets jaunes, retraités, jeunes et cheminots sera dans la...",
+   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-les-corteges-selancent-des-10-h-30-a-sete-beziers-et-carcassonne-70-000-policiers-deployes-les-dernieres-infos-13636490.php",
+   "published": "2026-11-05T20:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "be509066d7f4df6f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : près de 1,6 million de manifestants en France selon la CGT, 575.000 selon le gouvernement",
+   "summary": "\"Près de 1,6 million de manifestants\" ont défilé partout en France selon la CGT ce jeudi, à l'appel des syndicats pour réclamer une hausse des salaires. Le ministère de l'Intérieur a de son côté comptabilisé 575.000 manifestants dans les cortèges.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-05T20:40",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "7f6179b34a7055a2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : près de 1,6 million de manifestants en France selon la CGT, 575.000 selon le gouvernement",
+   "summary": "\"Près de 1,6 million de manifestants\" ont défilé partout en France selon la CGT ce jeudi, à l'appel des syndicats pour réclamer une hausse des salaires. Le ministère de l'Intérieur a de son côté comptabilisé 575.000 manifestants dans les cortèges.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-05T20:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "8860dd061330f271",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un \"mannequin géant\" à l'effigie d'un CRS brûlé à Strasbourg lors de la manifestation du 5 novembre, le préfet va saisir la justice",
+   "summary": "\"La haine antiflic n'a plus aucune limite\", a réagi sur X le syndicat Alliance Police nationale.",
+   "link": "https://www.franceinfo.fr/economie/greve/greve/un-mannequin-geant-a-l-effigie-d-un-crs-brule-a-strasbourg-lors-de-la-manifestation-du-5-novembre-le-prefet-va-saisir-la-justice_8269820.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T20:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "4460c6ddc70e150c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : 3.200 à 15.000 manifestants à Montpellier ce jeudi contre la vie chère, malgré la pluie",
+   "summary": "Des milliers de personnes ont manifesté ce jeudi dans les rues de Montpellier, 3.200 selon la préfecture, plus de 15.000 pour la CGT. À l'appel de tous les syndicats, salariés du privé, du public et retraités, mais aussi lycéens et étudiants, se sont retrouvés, malgré la pluie.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/greve-du-5-novembre-manifestation-a-montpellier-ce-jeudi-contre-la-vie-chere-malgre-la-pluie-9853404?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-05T19:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
+   "id": "b68f4f3c4a500f37",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Des journalistes de BFMTV en grève jeudi pour défendre \"la sécurité\" des reporters et \"la crédibilité\" de la chaîne",
+   "summary": "Depuis le début de semaine, quelque 400 journalistes et techniciens ont signé des lettres ouvertes à la direction pour dénoncer une \"banalisation de certains propos racistes\" sur l'antenne.",
+   "link": "https://www.franceinfo.fr/economie/medias/des-journalistes-de-bfmtv-en-greve-jeudi-pour-defendre-la-securite-des-reporters-et-la-credibilite-de-la-chaine_8269730.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T18:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
+  },
+  {
    "id": "72a02eb20e5086b4",
    "zone": "montpellier",
    "affects": [],
@@ -6867,61 +7155,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
+   "id": "4655b2ece2d62b44",
+   "zone": "it_national",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
    "kind": "strike",
    "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-05T17:40",
+   "title": "Le Prime alla Fenice rischiano di saltare, confermati due scioperi a novembre: “Situazione ormai insostenibile”",
+   "summary": "Le Prime alla Fenice sono a rischio. Il personale del Teatro veneziano ha confermato, con voto a maggioranza, gli scioperi previsti per il 13 novembre , quando ‘ Fedora ‘ di Umberto Giordano aprirà la stagione lirica, e per il 28 novembre , in occasione del concerto di Riccardo Frizza che inaugurer…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/05/fenice-sciopero-prime-novembre-notizie/8561752/",
+   "published": "2026-11-05T17:51",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-05T17:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-05T17:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-05T17:40"
+   "first_seen": "2026-11-05T22:51",
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "c8a5c4973c2efac6",
@@ -6939,7 +7191,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "35d3e2822ee7aff9",
@@ -6975,7 +7227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "0d500f7fa2f28196",
@@ -7011,7 +7263,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "3172cd7722bb1c08",
@@ -7065,7 +7317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "282f17c9866d98fa",
@@ -7101,7 +7353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "190852b7dc559c57",
@@ -7119,7 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "633e112ec12a8280",
@@ -7155,7 +7407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "8607c3af8c45d41e",
@@ -7209,7 +7461,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "76fab39861b8d761",
@@ -7227,7 +7479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -7281,7 +7533,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "f1374dd1d8c23730",
@@ -7299,7 +7551,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "f9677fdecc4abbe0",
@@ -7317,7 +7569,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "25c080d4c4d380fb",
@@ -7335,7 +7587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "0b8b9436f449f89b",
@@ -7389,7 +7641,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "31700b6cefc0d2ea",
@@ -7515,7 +7767,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "8bb52b46f86db356",
@@ -7533,7 +7785,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T02:27",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "12a23e73c6761802",
@@ -7677,7 +7929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "ba15b0ef1d685fb9",
@@ -7713,7 +7965,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "804f1fec9280b707",
@@ -7731,7 +7983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "192000ff2fdafd8d",
@@ -7787,7 +8039,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "3bc377ca55b4d158",
@@ -7805,7 +8057,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "9bcff55d49f51733",
@@ -7967,7 +8219,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -8309,7 +8561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "aa000ab34db0e4d0",
@@ -9623,7 +9875,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "a770081a263ca694",
@@ -13873,7 +14125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -15403,7 +15655,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-26T14:00"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "970c91ca89e3556c",
@@ -16231,7 +16483,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "962f60e00b8d97f1",
