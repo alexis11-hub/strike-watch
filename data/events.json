@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:00",
+ "updated": "2026-11-06T10:33",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "d5afbea8c3f2dcaa",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Deux élèves de 16 ans mis en examen dans l'enquête sur l'incendie du lycée Mandela de Nantes, en marge d'un blocage début octobre",
+   "summary": "Le hall de l’établissement avait été entièrement détruit par ce sinistre, survenu le 1er octobre, au début du mouvement lycéen.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-adolescents-de-16-ans-mis-en-examen-dans-l-enquete-sur-l-incendie-du-lycee-mandela-de-nantes-en-marge-d-un-blocage_8270480.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T10:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
    "id": "1b85bf9280198f19",
    "zone": "it_national",
    "affects": [
@@ -69,6 +87,24 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "5e3359cb6ab358cd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Comment un changement de logiciel a rendu le gouvernement aveugle sur les appels à la mobilisation sociale sur TikTok",
+   "summary": "En pleine colère sociale, les réseaux sociaux, notamment TikTok, sont des moyens rapides de communication pour les manifestants… et certains casseurs. Mais la police peine à repérer les vidéos les plus virales. En cause : un changement de logiciel de surveillance des réseaux. Si le nouveau coûte mo…",
+   "link": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-05T23:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "7c9be628946daec3",
@@ -104,7 +140,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "d0dabb39eedb940d",
@@ -140,7 +176,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "0e1724a5baf175bc",
@@ -266,7 +302,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "1b46c3341c43d5be",
@@ -6852,6 +6888,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "be50f389bd06bf36",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On a un cœur et on sait le montrer\" : les parents de Julie veulent un cortège de motos à sa mémoire dans l'Orne",
+   "summary": "Les parents de Julie Bouquet, disparue dans un accident de la route dans l'Orne, lancent un appel à la communauté de motards. Ils souhaitent organiser un cortège pour les obsèques de leur fille dans le secteur de Flers ce samedi, car elle était passionnée de moto.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-normandie-calvados-orne/on-a-un-coeur-et-on-sait-le-montrer-les-parents-de-julie-veulent-un-cortege-de-motos-a-sa-memoire-dans-l-orne-6797163?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T11:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "ad7350d1fb57d60a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Domani a Torino un nuovo corteo contro carovita e riarmo",
+   "summary": "Da piazza Castello, annunciate nuove mobilitazioni e occupazioni",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/domani-a-torino-un-nuovo-corteo-contro-carovita-e-riarmo_8b9afb17-2a80-4e08-b368-c17215f653c2.html",
+   "published": "2026-11-06T11:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -6862,12 +6934,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-06T02:59",
+   "published": "2026-11-06T10:32",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -6880,12 +6952,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-06T02:59",
+   "published": "2026-11-06T10:32",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6898,12 +6970,264 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-06T02:59",
+   "published": "2026-11-06T10:32",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "aba4bca557a602e3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il appartient au gouvernement d'apporter des réponses rapides\", estime Manuel Bompard après la mobilisation du 5 novembre",
+   "summary": "Manuel Bompard, député des Bouches-du-Rhône, coordinateur national de LFI, est l'invité politique de la matinale de franceinfo, vendredi 6 novembre. Il est revenu sur la mobilisation du 5 novembre en France et demande au gouvernement de prendre des mesures pour augmenter les salaires.",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-vendredi-06-novembre-2026_8241226.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T09:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "5dc96304e6f72f0f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "REPLAY Manifestation du 5 novembre à Montpellier : environ 4 000 personnes trempées ont bravé la pluie… la situation en temps réel",
+   "summary": "La mobilisation contre la vie chère et en soutien à la jeunesse continue. Et ce jeudi 5 novembre, l’intersyndicale s’attendait à une participation massive, mais la pluie est venue mettre son grain de sel. Environ 4...",
+   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-a-montpellier-lycees-et-facs-bloques-depart-de-la-manifestation-a-14-h-parcours-la-situation-en-temps-reel-13637093.php",
+   "published": "2026-11-06T09:28",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "4b24e1cc64c6ac18",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 5 novembre : l’ampleur du mouvement l’oblige… Sébastien Lecornu prévoit une \"conférence sociale\" avec les syndicats et le patronat lundi",
+   "summary": "Entre 575 000 et 1,6 million de manifestants ont défilé jeudi 5 novembre pour réclamer une hausse du pouvoir d’achat. Face à cette mobilisation, le Premier ministre Sébastien Lecornu a convoqué une conférence sociale...",
+   "link": "https://www.midilibre.fr/2026/11/06/mobilisation-du-5-novembre-lampleur-du-mouvement-loblige-sebastien-lecornu-prevoit-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi-13639210.php",
+   "published": "2026-11-06T09:19",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "2102139433887567",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : le ministre du Travail juge \"important\" d'essayer de relever le smic au-delà de la \"barre des 1 500 euros net\"",
+   "summary": "Matignon a annoncé jeudi que Sébastien Lecornu avait demandé à son ministre \"de finaliser d'ici dimanche les concertations qu'il mène depuis plusieurs jours\" sur la question des salaires, en vue d'une réunion lundi avec les partenaires sociaux.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T08:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "597c3dad93335f44",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un bus de la ville de Strasbourg réquisitionné pour transporter des personnes interpellées dans la manifestation",
+   "summary": "Un bus de la CTS, la Compagnie des transports strasbourgeois, a été réquisitionné ce jeudi par la police pour transporter des personnes interpellées lors de la manifestation du 5 novembre. Une majorité des personnes sont ressorties du commissariat dans la soirée.",
+   "link": "https://www.ici.fr/grand-est/alsace-cea/un-bus-de-la-ville-de-strasbourg-requisitionne-par-la-police-pour-transporter-des-personnes-interpellees-8226203?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T08:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "3f1c3be04dd7537e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Si on pouvait avoir la trêve des confiseurs !\" : à Paris, des commerçants se confient sur la chute de la fréquentation liée aux manifestations",
+   "summary": "Après trois samedis de mobilisation et encore une journée morte pour de nombreux magasins de centre-ville, jeudi, de nombreux commerçants souffrent, et pas seulement ceux qui ont été vandalisés et pillés.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/si-on-pouvait-avoir-la-treve-des-confiseurs-a-paris-des-commercants-se-confient-sur-la-chute-de-la-frequentation-liee-aux-manifestations_8270330.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T07:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "e25af4df532ae11a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sébastien Lecornu annonce une conférence sociale lundi après une mobilisation massive dans les rues",
+   "summary": "Face à l'importante mobilisation des Français jeudi pour réclamer une hausse de leur pouvoir d'achat, Sébastien Lecornu a annoncé une conférence sociale lundi avec les syndicats et le patronat. Le gouvernement s'est montré ouvert ces derniers jours à un coup de pouce du Smic.",
+   "link": "https://www.ici.fr/infos/economie-social/sebastien-lecornu-annonce-une-conference-sociale-lundi-apres-une-mobilisation-massive-dans-les-rues-8115000?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T07:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "db872c8164cdd597",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 5 novembre : \"On est trempés, mais ce n'est pas grave\", les manifestants ont bravé la pluie à Montpellier",
+   "summary": "La pluie qui est tombée abondamment sur l'Hérault, n'a pas arrêté le cortège, ce jeudi 5 novembre. Il y a eu 3.200 manifestants selon les chiffres de la préfecture, plus de 15.000 selon la CGT.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/greve-du-5-novembre-on-est-trempes-mais-ce-n-est-pas-grave-les-manifestants-ont-brave-la-pluie-a-montpellier-5475766?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-06T07:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "7833344472d7ef36",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Après l'agression dans une école à Nice, les professeurs du groupe scolaire appelés à la grève vendredi",
+   "summary": "Les organisations syndicales apportent leur soutien aux personnels de la communauté éducative touchés par ce drame en début de semaine. Ils demandent des moyens pour renforcer la sécurité de l'établissement.",
+   "link": "https://www.franceinfo.fr/economie/greve/apres-l-agression-dans-une-ecole-a-nice-les-professeurs-du-groupe-scolaire-appeles-a-la-greve-vendredi_8270381.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T07:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "fbdf0a87cc5922e0",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Rabbia davanti alla Cattedrale. Il contro-corteo dei 200: \"Non siamo la città dei Maga\"",
+   "summary": "FERRARA \"Ferrara non merita di finire sulle cronache nazionali per un Nucleo Anti Maranza, il raduno dei Maga, per il sospetto d’infiltrazioni mafiose nella pubblica amministrazione. Ferrara è una città civile e deve restare tale\". Si tratta di uno dei passaggi centrali dell’iniziativa pubblica che…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/rabbia-davanti-alla-cattedrale-il-47d73b80",
+   "published": "2026-11-06T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "a609a01f7ea6a6bf",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Tagli in legge di bilancio. Quattrocento posti a rischio negli istituti marchigiani\"",
+   "summary": "La Uil Scuola lancia l’allarme: \"Nelle Marche sono circa 400 i posti di lavoro a rischio nel sistema scolastico per i tagli agli organici previsti dalla legge di bilancio 2027. Tagli che si aggiungono a quelli programmati negli anni precedenti con possibili pesanti conseguenze sull’offerta formativ…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/tagli-in-legge-di-bilancio-4f9a1aaf",
+   "published": "2026-11-06T06:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "b9b6af2bc800d03c",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Gazza contro la Meloni: \"Tagli alle scuole statali. Ma soldi alle paritarie\"",
+   "summary": "\"Gli scioperi della scuola pubblica hanno dato parecchio fastidio alla Meloni, che nella sua manovra non ha perso tempo a tagliare le risorse all’istituzione statale, premiando invece gli istituti privati\". Così Massimo Gazza , segretario provinciale del Pd, che non le manda a dire al Governo: \"Non…",
+   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/gazza-contro-la-meloni-tagli-d453fbea",
+   "published": "2026-11-06T05:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "4808e2ff8b5d3a6a",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mirandola, asse bipartisan per difendere insieme . Il Santa Maria Bianca",
+   "summary": "Il Consiglio comunale di Mirandola sulla sanità ritrova una posizione unitaria convergente con le preoccupazioni espresse dal comitato Salviamo l’Ospedale della Bassa . Votati unitariamente due ordini del giorno, uno presentato da Forza Italia e uno presentato dal Pd, che ha fatto proprio anche un…",
+   "link": "https://www.ilrestodelcarlino.it/modena/cronaca/mirandola-asse-bipartisan-per-difendere-9728efbd",
+   "published": "2026-11-06T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
+   "id": "60d89c23cdf62c0f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lotta alle truffe e sicurezza cittadina. Incontri con l’Arma",
+   "summary": "di ASSISI Lotta alle truffe e impegno per la sicurezza dei cittadini, sono stati programmati tre incontri con i cittadini su iniziativa del Comando Compagnia Carabinieri di Assisi. Si comincia domani mattina ad Assisi, in piazza del Comune, dove è prevista la presenza della Stazione mobile dell’Arm…",
+   "link": "https://www.lanazione.it/umbria/cronaca/lotta-alle-truffe-e-sicurezza-f707006b",
+   "published": "2026-11-06T05:30",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T10:32",
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "d418efc6b4d84a6b",
@@ -6993,7 +7317,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "96d7f266f3b36a5c",
@@ -7011,7 +7335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "8f2502d524915a17",
@@ -7101,7 +7425,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -7248,6 +7572,24 @@
    "last_seen": "2026-11-05T17:40"
   },
   {
+   "id": "2d8e5fe6d8c114c8",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
+   "summary": "Domani presidio a Milano davanti Assolombarda",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_7c4d8206-0915-4058-b5bf-ef7ac8342d5a.html",
+   "published": "2026-11-05T16:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T17:40",
+   "last_seen": "2026-11-06T10:32"
+  },
+  {
    "id": "fa9751adbb9a3f87",
    "zone": "milano",
    "affects": [],
@@ -7264,24 +7606,6 @@
    "soon": false,
    "first_seen": "2026-11-06T02:59",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "2d8e5fe6d8c114c8",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
-   "summary": "Domani presidio a Milano davanti Assolombarda",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_7c4d8206-0915-4058-b5bf-ef7ac8342d5a.html",
-   "published": "2026-11-05T16:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
   },
   {
    "id": "0d500f7fa2f28196",
@@ -7407,7 +7731,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "190852b7dc559c57",
@@ -7425,7 +7749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "633e112ec12a8280",
@@ -7515,7 +7839,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "76fab39861b8d761",
@@ -7533,7 +7857,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -7587,7 +7911,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "f1374dd1d8c23730",
@@ -7605,7 +7929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "f9677fdecc4abbe0",
@@ -7983,7 +8307,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "ba15b0ef1d685fb9",
@@ -8093,7 +8417,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "3bc377ca55b4d158",
@@ -8273,7 +8597,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -9929,7 +10253,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "a770081a263ca694",
@@ -12017,7 +12341,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-30T19:56"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "a6e737e72acd66cf",
@@ -14179,7 +14503,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -16537,7 +16861,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-06T10:32"
   },
   {
    "id": "962f60e00b8d97f1",
