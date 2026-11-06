@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 579,
+  "ms": 671,
   "error": ""
  },
  {
@@ -14,34 +14,16 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 605,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 0,
-  "ms": 856,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 74,
-  "kept": 1,
-  "ms": 865,
+  "ms": 815,
   "error": ""
  },
  {
   "id": "ansa_er",
   "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 35,
+  "items": 36,
   "kept": 1,
-  "ms": 869,
+  "ms": 997,
   "error": ""
  },
  {
@@ -49,17 +31,26 @@
   "name": "ICI / France Bleu 埃罗省",
   "ok": true,
   "items": 40,
-  "kept": 5,
-  "ms": 401,
+  "kept": 6,
+  "ms": 326,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 997,
+  "items": 22,
+  "kept": 0,
+  "ms": 1009,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 75,
+  "kept": 1,
+  "ms": 1028,
   "error": ""
  },
  {
@@ -67,17 +58,8 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 1,
-  "ms": 227,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1098,
+  "kept": 0,
+  "ms": 152,
   "error": ""
  },
  {
@@ -86,7 +68,16 @@
   "ok": true,
   "items": 43,
   "kept": 2,
-  "ms": 209,
+  "ms": 270,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
+  "kept": 4,
+  "ms": 379,
   "error": ""
  },
  {
@@ -95,43 +86,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 315,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 35,
-  "kept": 3,
-  "ms": 501,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 4,
-  "ms": 819,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 148,
-  "kept": 3,
-  "ms": 427,
-  "error": ""
- },
- {
-  "id": "cgt",
-  "name": "CGT 全国工会",
-  "ok": true,
-  "items": 10,
-  "kept": 3,
-  "ms": 957,
+  "ms": 429,
   "error": ""
  },
  {
@@ -140,7 +95,52 @@
   "ok": true,
   "items": 25,
   "kept": 1,
-  "ms": 1688,
+  "ms": 429,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 141,
+  "kept": 3,
+  "ms": 831,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 5,
+  "ms": 1365,
+  "error": ""
+ },
+ {
+  "id": "cgt",
+  "name": "CGT 全国工会",
+  "ok": true,
+  "items": 10,
+  "kept": 3,
+  "ms": 1665,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 1,
+  "ms": 2917,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 3341,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83640,
+  "ms": 85924,
   "error": "URLError: <urlopen error timed out>"
  }
 ]

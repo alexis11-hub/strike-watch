@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:41",
+ "updated": "2026-11-06T22:24",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -63,7 +63,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "038044197841c943",
@@ -99,7 +99,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "d5afbea8c3f2dcaa",
@@ -6942,6 +6942,186 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-06T22:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-06T22:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-06T22:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "b406e33e18e7a32e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 7 novembre : 70 000 forces de l’ordre reconduites, le ministre de l’Intérieur annonce le dispositif d’encadrement pour demain",
+   "summary": "Le ministre de l’Intérieur Laurent Nuñez a annoncé la reconduction de 70 000 policiers et gendarmes pour encadrer les manifestations du samedi 7 novembre en France. Ce dispositif exceptionnel, incluant 25 blindés...",
+   "link": "https://www.midilibre.fr/2026/11/06/manifestation-du-7-novembre-70-000-forces-de-lordre-reconduites-le-ministre-de-linterieur-annonce-le-dispositif-dencadrement-pour-demain-13640253.php",
+   "published": "2026-11-06T21:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "875bc9908ea15b6b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
+   "summary": "Ils reprochent au ministre de l'Intérieur le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre. Dans la soirée, Laurent Nuñez s'est dit \"très serein\" et \"prêt\" à répondre à toute plainte.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T21:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "c71f7dd9de723f6d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
+   "summary": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T20:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "18ca17f71b76b558",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 7 novembre : rassemblements interdits ou autorisés, tracés des cortèges… à quoi s’attendre demain en Occitanie ?",
+   "summary": "Deux jours après la manifestation du 5 novembre, une nouvelle journée de mobilisation est attendue ce samedi 7 novembre en France. Midi Libre fait le point sur les manifestations à venir en Occitanie.",
+   "link": "https://www.midilibre.fr/2026/11/06/manifestation-du-7-novembre-rassemblements-interdits-ou-autorises-traces-des-corteges-a-quoi-sattendre-demain-en-occitanie-13640119.php",
+   "published": "2026-11-06T20:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "9493f5f86f412c0d",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Bernini incontra a Torino gli studenti contrari all'occupazione Campus",
+   "summary": "La ministra, non esistono diritti di serie A e B",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/bernini-incontra-a-torino-gli-studenti-contrari-alloccupazione-campus_5e673bc1-36b0-4aad-bad6-bf183a3bdcb1.html",
+   "published": "2026-11-06T20:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "ff872a884adee157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 7 novembre : le dispositif de sécurité \"reconduit\" avec 70 000 policiers et gendarmes mobilisés",
+   "summary": "\"Le risque est exactement le même que pour les samedis précédents\", a estimé, vendredi, le ministre de l'Intérieur, Laurent Nuñez.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T20:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "6cf8fa5603fc5562",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dispositif policier, \"acte IV\", manifestations : à quoi s'attendre pour la mobilisation du 7 novembre dans l'Hérault ?",
+   "summary": "La préfecture de l'Hérault annonce un dispositif de sécurité renforcé pour ce samedi 7 novembre, alors qu'une nouvelle journée de contestation a lieu dans tout le pays. Contrairement aux trois samedis précédents, aucune demande officielle pour manifester n'a été déposée à Montpellier.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/dispositif-policier-acte-iv-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-dans-l-herault-5911750?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-06T18:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T22:23",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
    "id": "9b001d1489f20387",
    "zone": "fr_national",
    "affects": [],
@@ -6975,61 +7155,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-06T17:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-06T17:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-06T17:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "bc22b8121997f98e",
@@ -7047,7 +7173,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "fe7a657d7f471f95",
@@ -7065,7 +7191,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "fa6be06f1bef08b4",
@@ -7119,7 +7245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "c96e1b5ec7e75b62",
@@ -7137,7 +7263,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "be50f389bd06bf36",
@@ -7173,7 +7299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "aba4bca557a602e3",
@@ -7209,7 +7335,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "4b24e1cc64c6ac18",
@@ -7227,7 +7353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "2102139433887567",
@@ -7317,7 +7443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "7833344472d7ef36",
@@ -7353,7 +7479,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "a609a01f7ea6a6bf",
@@ -7533,7 +7659,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "8f2502d524915a17",
@@ -7623,7 +7749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -7770,6 +7896,24 @@
    "last_seen": "2026-11-05T17:40"
   },
   {
+   "id": "fa9751adbb9a3f87",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_er",
+   "source": "ANSA 艾米利亚-罗马涅",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
+   "summary": "Domani presidio a Milano davanti Assolombarda",
+   "link": "https://www.ansa.it/emiliaromagna/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_10a6a13d-3849-4aca-b4c3-4faf46e40ef4.html",
+   "published": "2026-11-05T16:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T02:59",
+   "last_seen": "2026-11-06T22:23"
+  },
+  {
    "id": "2d8e5fe6d8c114c8",
    "zone": "milano",
    "affects": [],
@@ -7786,24 +7930,6 @@
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-06T17:40"
-  },
-  {
-   "id": "fa9751adbb9a3f87",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_er",
-   "source": "ANSA 艾米利亚-罗马涅",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
-   "summary": "Domani presidio a Milano davanti Assolombarda",
-   "link": "https://www.ansa.it/emiliaromagna/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_10a6a13d-3849-4aca-b4c3-4faf46e40ef4.html",
-   "published": "2026-11-05T16:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T02:59",
-   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "0d500f7fa2f28196",
@@ -7929,7 +8055,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "190852b7dc559c57",
@@ -8037,7 +8163,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "76fab39861b8d761",
@@ -8055,7 +8181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -8795,7 +8921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -10451,7 +10577,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "a770081a263ca694",
@@ -14701,7 +14827,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-06T17:40"
+   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "dccdef5b54e8657d",
