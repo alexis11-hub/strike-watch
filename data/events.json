@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:52",
+ "updated": "2026-11-06T03:00",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -86,7 +86,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "cee7cae5c5ec8177",
@@ -104,7 +104,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "d0dabb39eedb940d",
@@ -122,7 +122,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "c166a88839061e9b",
@@ -140,7 +140,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "0e1724a5baf175bc",
@@ -158,7 +158,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "a9989008274cd449",
@@ -266,7 +266,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "1b46c3341c43d5be",
@@ -338,7 +338,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "b0b05a9b3d1aaf85",
@@ -6852,6 +6852,96 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-06T02:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-06T02:59"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-06T02:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-06T02:59"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-06T02:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-06T02:59"
+  },
+  {
+   "id": "d418efc6b4d84a6b",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il Rettore dell’Università di Macerata: “L’inchiesta Piena fiducia in Ascenzi. Non si blocchino i lavori”",
+   "summary": "Macerata, 6 novembre 2026 – “Sono molto preoccupato per l’inchiesta, ma ho fiducia nell’ architetto Ascenzi ”. Così il rettore John McCourt sull’indagine della Direzione distrettuale antimafia sulla “cricca” della ricostruzione. Tra gli indagati c’è anche Francesco Ascenzi, capo dell’Ufficio tecnic…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/inchiesta-ricostruzione-parla-il-rettore-universita-cz8sev8k",
+   "published": "2026-11-06T01:25",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T02:59",
+   "last_seen": "2026-11-06T02:59"
+  },
+  {
+   "id": "5d97a1b179da206c",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il Bounty fa causa ai vigili urbani: “Controlli sulla musica ma non si sa chi protesta”",
+   "summary": "Rimini, 6 novembre 2026 – Il Bounty fa causa al Comune . I legali di Giuliano Lanzetti, titolare del noto pub di Marina centro, hanno presentato un ricorso al Tar contro “il mancato accesso agli atti” per una vicenda che si trascina da questa estate. Nel mirino c’è la polizia locale . Dopo alcuni c…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/bounty-causa-vigili-urbani-ppinrhot",
+   "published": "2026-11-06T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T02:59",
+   "last_seen": "2026-11-06T02:59"
+  },
+  {
    "id": "2f90aa933fbdc92c",
    "zone": "fr_national",
    "affects": [],
@@ -6867,61 +6957,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-05T22:51",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T22:51"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-05T22:51",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-05T22:51"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-05T22:51",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "6d729790e768003b",
@@ -6957,7 +6993,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "96d7f266f3b36a5c",
@@ -6975,7 +7011,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "8f2502d524915a17",
@@ -6993,7 +7029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "be509066d7f4df6f",
@@ -7011,7 +7047,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "7f6179b34a7055a2",
@@ -7029,7 +7065,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "8860dd061330f271",
@@ -7047,7 +7083,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "4460c6ddc70e150c",
@@ -7065,7 +7101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -7083,7 +7119,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "72a02eb20e5086b4",
@@ -7155,7 +7191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "4655b2ece2d62b44",
@@ -7173,7 +7209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "c8a5c4973c2efac6",
@@ -7191,7 +7227,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "35d3e2822ee7aff9",
@@ -7210,6 +7246,24 @@
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-05T17:40"
+  },
+  {
+   "id": "fa9751adbb9a3f87",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_er",
+   "source": "ANSA 艾米利亚-罗马涅",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
+   "summary": "Domani presidio a Milano davanti Assolombarda",
+   "link": "https://www.ansa.it/emiliaromagna/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_10a6a13d-3849-4aca-b4c3-4faf46e40ef4.html",
+   "published": "2026-11-05T16:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T02:59",
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "2d8e5fe6d8c114c8",
@@ -7263,7 +7317,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "3172cd7722bb1c08",
@@ -7317,7 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "282f17c9866d98fa",
@@ -7353,7 +7407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "190852b7dc559c57",
@@ -7371,7 +7425,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "633e112ec12a8280",
@@ -7407,7 +7461,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "8607c3af8c45d41e",
@@ -7461,7 +7515,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "76fab39861b8d761",
@@ -7479,7 +7533,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -7533,7 +7587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "f1374dd1d8c23730",
@@ -7551,7 +7605,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "f9677fdecc4abbe0",
@@ -7569,7 +7623,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "25c080d4c4d380fb",
@@ -7587,7 +7641,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "0b8b9436f449f89b",
@@ -7605,7 +7659,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "87b6ae1fd13b5e90",
@@ -7767,7 +7821,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "8bb52b46f86db356",
@@ -7785,7 +7839,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T02:27",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "12a23e73c6761802",
@@ -7929,7 +7983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "ba15b0ef1d685fb9",
@@ -7965,7 +8019,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "804f1fec9280b707",
@@ -7983,7 +8037,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "192000ff2fdafd8d",
@@ -8039,7 +8093,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "3bc377ca55b4d158",
@@ -8057,7 +8111,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "9bcff55d49f51733",
@@ -8219,7 +8273,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -8561,7 +8615,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "aa000ab34db0e4d0",
@@ -9875,7 +9929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "a770081a263ca694",
@@ -14125,7 +14179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "dccdef5b54e8657d",
@@ -15655,7 +15709,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "970c91ca89e3556c",
@@ -16483,7 +16537,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-11-05T22:51"
+   "last_seen": "2026-11-06T02:59"
   },
   {
    "id": "962f60e00b8d97f1",
