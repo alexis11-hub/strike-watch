@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:33",
+ "updated": "2026-11-06T17:41",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -46,6 +46,60 @@
    "soon": false,
    "first_seen": "2026-10-20T12:06",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "6963f26ef27d06cc",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Domani la Francia di nuovo in piazza, polizia schierata al massimo con 70.000 agenti",
+   "summary": "Ministro dell'Interno: 'Appelli sui social alla violenza, ai blocchi e all'insurrezione'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_54f29a27-d4a4-4ccb-9ec3-df97a2ff6747.html",
+   "published": "2026-11-06T18:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "038044197841c943",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations du 7 novembre : le dispositif de sécurité est « reconduit » avec 70 000 policiers et gendarmes mobilisés, annonce Laurent Nuñez",
+   "summary": "Quelque 70 000 policiers et gendarmes seront mobilisés samedi face aux risques de violences, de pillages et de rassemblements spontanés. Le ministre de l’intérieur a annoncé le maintien d’un dispositif renforcé de contrôles et la protection systématique des centres-villes.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
+   "published": "2026-11-06T18:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "7abaf4d9a771867f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation sociale : des avocats saisissent la Cour de justice de la République contre le ministre de l'intérieur",
+   "summary": "Plusieurs avocats ont annoncé vendredi 6 novembre leur intention de saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez, après les violences lors des manifestations lycéennes et la mobilisation sociale contre la vie chère.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-sociale-des-avocats-saisissent-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-5145005?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T17:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "d5afbea8c3f2dcaa",
@@ -176,7 +230,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "0e1724a5baf175bc",
@@ -6888,6 +6942,204 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "9b001d1489f20387",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : le dispositif de 70 000 policiers et gendarmes \"reconduit\" samedi, annonce Laurent Nuñez",
+   "summary": "La CGT Ile-de-France a confirmé à l'AFP l'autorisation du parcours déposé par une intersyndicale des unions régionales (CGT, FO, FSU, Solidaires, CFDT) avec l'intersyndicale jeunesse (Union étudiante, Fage, Unef et USL), à l'instar des précédents samedis.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T18:09",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "f9781d76df3675ec",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges interdits, \"acte IV\", dispositif policier : à quoi s'attendre pour la mobilisation du 7 novembre ?",
+   "summary": "Après trois week-ends de mobilisation, les gilets jaunes, syndicats et lycéens appellent de nouveau à manifester ce samedi partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-interdits-acte-iv-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-4258630?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T17:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-06T17:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-06T17:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-06T17:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "bc22b8121997f98e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“I carabinieri ci hanno puntato le pistole in faccia durante l’occupazione”: la denuncia degli studenti dell’Agrario di Firenze. Avs: “Piantedosi risponda”",
+   "summary": "“Contro la vostra repressione “, recita lo striscione. Nonostante la pioggia erano circa un centinaio, venerdì mattina, gli studenti riuniti in un presidio di protesta davanti all’ Istituto Agrario di Firenze , nel Parco delle Cascine. Con loro, presenti al picchetto, esponenti di Usb e del Collett…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/06/occupazione-pistole-minori-agrario-firenze-proteste-studenti-sicurezza-carabinieri-sgombero-piantedosi-notizie/8563206/",
+   "published": "2026-11-06T16:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "fe7a657d7f471f95",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Politis\" accuse la police d'avoir \"roué de coups\" une de ses journalistes lors de la manifestation parisienne du 5 novembre",
+   "summary": "La journaliste, qui portait un brassard presse, \"a été frappée à plusieurs reprises à coups de matraque, à la tête et aux jambes\" selon le communiqué de l'hebdomadaire qui annonce porter plainte.",
+   "link": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T16:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "fa6be06f1bef08b4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Protesta studenti a Firenze: 'I carabinieri ci hanno puntato pistole in faccia'",
+   "summary": "Il presidio in un istituto agrario. I carabinieri erano intervenuti di notte per allarme antifurto",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/protesta-studenti-a-firenze-i-carabinieri-ci-hanno-puntato-pistole-in-faccia_be13fa73-98c0-4a90-8496-8435e32fad83.html",
+   "published": "2026-11-06T16:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "5c9f243ef927addf",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez, après les blessures infligées à des manifes…",
+   "summary": "Ils lui reprochent le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T14:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "36bd817d4c56d964",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "San Jacopino in subbuglio per auto spaccate, bivacchi e risse: \"I residenti stanno vendendo casa\"",
+   "summary": "Firenze, 6 novembre 2026 – Vetri in frantumi, abitacoli rovistati, oggetti portati via. Ancora un risveglio amarissimo per i residenti di San Jacopino , dove almeno quattro automobili stamani sono state trovate danneggiate, dopo una serie di spaccate. Il quartiere continua purtroppo a fare i conti…",
+   "link": "https://www.lanazione.it/firenze/cronaca/san-jacopino-spaccate-bivacchi-risse-vendita-case-vfq3gyin",
+   "published": "2026-11-06T14:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
+   "id": "c96e1b5ec7e75b62",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Protesta all'Istituto Agrario dopo il tentativo di occupazione",
+   "summary": "Firenze, 6 novembre 2026 – Quasi cento studenti in protesta davanti all'Istituto Agrario di Firenze , nel Parco delle Cascine, per contestare le modalità dell'intervento dei carabinieri che, nella notte tra lunedì e martedì, hanno interrotto un tentativo di occupazione della scuola. Questa mattina…",
+   "link": "https://www.lanazione.it/firenze/protesta-allistituto-agrario-dopo-il-tentativo-di-occupazione-6d50f6e6",
+   "published": "2026-11-06T12:30",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-06T17:40"
+  },
+  {
    "id": "be50f389bd06bf36",
    "zone": "fr_national",
    "affects": [],
@@ -6921,61 +7173,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-06T10:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T10:32"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-06T10:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-06T10:32"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-06T10:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "aba4bca557a602e3",
@@ -7011,7 +7209,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "4b24e1cc64c6ac18",
@@ -7029,7 +7227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "2102139433887567",
@@ -7119,7 +7317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "7833344472d7ef36",
@@ -7155,7 +7353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "a609a01f7ea6a6bf",
@@ -7173,7 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "b9b6af2bc800d03c",
@@ -7335,7 +7533,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "8f2502d524915a17",
@@ -7425,7 +7623,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -7587,7 +7785,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "fa9751adbb9a3f87",
@@ -7731,7 +7929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "190852b7dc559c57",
@@ -7839,7 +8037,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "76fab39861b8d761",
@@ -7857,7 +8055,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -8597,7 +8795,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -10253,7 +10451,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "a770081a263ca694",
@@ -14503,7 +14701,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-06T10:32"
+   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "dccdef5b54e8657d",
