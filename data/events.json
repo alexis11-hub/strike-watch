@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:12",
+ "updated": "2026-11-07T19:25",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "4151e2940c079f09",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "EN DIRECT Manifestations du 7 novembre : près de 5 000 personnes ont défilé à Montpellier selon la préfète de l’Hérault… Les dernières infos",
+   "summary": "Des syndicats, gilets jaunes et jeunes ont manifesté dans toute la France ce samedi 7 novembre, réunissant 146 000 personnes selon l’Intérieur. Un nombre en repli par rapport aux trois précédents samedis. À...",
+   "link": "https://www.midilibre.fr/2026/11/07/en-direct-manifestations-du-7-novembre-des-rassemblements-dans-plusieurs-villes-de-france-pour-lacte-iv-les-dernieres-infos-13640394.php",
+   "published": "2026-11-07T20:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "5cc5fb39514b4f83",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Manifestazione proPal e contro il caro-vita a Milano",
+   "summary": "Corteo in vista anche processo per palestinesi detenuti e sciopero generale",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/07/manifestazione-propal-e-contro-il-caro-vita-a-milano_a4d25d49-425d-40f4-9b6a-835b5826f0b1.html",
+   "published": "2026-11-07T16:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
    "id": "8c33626aa954ca62",
    "zone": "it_national",
    "affects": [],
@@ -63,7 +99,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "7dd952beea0a4437",
@@ -99,7 +135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "8d621cbc15fa1113",
@@ -189,7 +225,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "d5afbea8c3f2dcaa",
@@ -7032,6 +7068,258 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "3be93c4d0e5395fe",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 7 novembre à Montpellier : 5 000 manifestants défilent dans le calme, une soirée sous tension presque inéluctable",
+   "summary": "Hier à Montpellier, environ 300 manifestants ont réussi à atteindre la place de la Comédie en fin d’après-midi, après avoir été repoussés toute la journée par un important dispositif policier. La tension est montée...",
+   "link": "https://www.midilibre.fr/2026/11/07/manifestation-du-7-novembre-a-montpellier-5-000-manifestants-defilent-dans-le-calme-une-soiree-sous-tension-presque-ineluctable-13641790.php",
+   "published": "2026-11-07T20:15",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-07T19:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-07T19:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-07T19:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "e11f19ce391ab2d3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+   "summary": "La mobilisation de samedi est en recul par rapport à jeudi et par rapport aux trois précédents samedis de mobilisation sociale.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T19:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "dbdc958fde30c939",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndi…",
+   "summary": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le gouvernement.",
+   "link": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
+   "published": "2026-11-07T18:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "d398c35599d53913",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-07T18:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "8acead04f333ab3a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T18:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "ea0e6f37c6f267d4",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Proteste a Torino, i manifestanti bruciano bollette di luce e gas: “In Italia i soldi non ci sono più”",
+   "summary": "Decine di bollette di luce e gas sono state date alle fiamme durante il corteo in corso a Torino per ribadire che “in Italia i soldi non ci sono piu”. A San Maurizio i manifestanti intorno alle 17.10 si sono fermati per qualche minuto. “Vogliamo dire al presidente Meloni che i soldi in Italia non c…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/07/proteste-bollette-torino-manifestanti-notizie/8564301/",
+   "published": "2026-11-07T17:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "b0692f3b9299f00d",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corteo a Torino, bruciate bollette contro il carovita",
+   "summary": "Manifestanti in corso San Maurizio, cori contro il governo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/corteo-a-torino-bruciate-bollette-contro-il-carovita_96ec005f-0c12-4a9b-a820-619486c08032.html",
+   "published": "2026-11-07T17:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "13ab53ad81fdc83c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Malgré l'interdiction de la préfecture, plusieurs milliers de personnes ont manifesté dans les rues de Montpellier",
+   "summary": "Nouvelle manifestation ce samedi aprés midi dans les rues de Montpellier. Malgré l'interdiction de la préfecture de l'Hérault plusieurs milliers de personnes, surtout des jeunes, ont défilé dans le secteur de la place Albert 1er. La police a pour sa part empêché tout accès aux rues de l'écusson.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/malgre-l-interdiction-de-la-prefecture-environ-2000-personnes-ont-manifeste-ce-samedi-dans-les-rues-de-montpellier-2354886?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-07T16:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "b92325c1695a8c88",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Torino, in migliaia in corteo contro riarmo e carovita: in testa un trattore",
+   "summary": "Si è mosso intorno alle 16 da piazza Castello a Torino il corteo contro il carovita e il riarmo, con alcune migliaia di manifestanti tra studenti, lavoratori, docenti e agricoltori. Ad aprire la manifestazione, diretta verso via Po e piazza Vittorio Veneto, un trattore degli Agricoltori Autonomi It…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/07/corteo-torino-riarmo-carovita-notizie/8564243/",
+   "published": "2026-11-07T16:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "c37e3940fb51c494",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : des profs grévistes fichés et privés de salaire ? Un mail du ministère fait scandale avant une nouvelle grève mardi",
+   "summary": "Le ministère de l’Éducation nationale est accusé d’avoir fiché les enseignants grévistes solidaires des lycéens, selon un article de L’Humanité du 6 novembre 2026. Un mail interne ordonnerait de décompter des jours de...",
+   "link": "https://www.midilibre.fr/2026/11/07/mobilisation-des-lyceens-des-profs-grevistes-fiches-et-prives-de-salaire-un-mail-du-ministere-fait-scandale-avant-une-nouvelle-greve-mardi-13641369.php",
+   "published": "2026-11-07T16:39",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "afbccadd6e72c3ef",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corteo contro caro-vita e riarmo a Torino, in piazza anche agricoltori",
+   "summary": "Oltre agli studenti e lavoratori, un trattore in piazza Castello",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/corteo-contro-caro-vita-e-riarmo-a-torino-in-piazza-anche-agricoltori_9383fee2-2f4d-4e64-94b3-195869da8f03.html",
+   "published": "2026-11-07T16:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
    "id": "9824556c0966c1b4",
    "zone": "fr_national",
    "affects": [],
@@ -7068,6 +7356,24 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
+   "id": "968908086449bd8f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Vannacci a Firenze, tensione manifestanti-polizia",
+   "summary": "",
+   "link": "https://www.lanazione.it/video/vannacci-a-firenze-tensione-manifestanti-polizia-ttnxat7d",
+   "published": "2026-11-07T15:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
    "id": "7178384a1007f322",
    "zone": "it_national",
    "affects": [],
@@ -7083,7 +7389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "bfba62fa936392a0",
@@ -7101,60 +7407,6 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-07T15:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-07T15:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-07T15:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
    "last_seen": "2026-11-07T15:10"
   },
   {
@@ -7191,7 +7443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "6dffadfb56f01307",
@@ -7263,7 +7515,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "1dc1d02e5c9a9c78",
@@ -7299,7 +7551,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "be015aea8536d6f4",
@@ -7317,7 +7569,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "ea8c69148883dec3",
@@ -7407,7 +7659,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "11cdd97a8397bc4a",
@@ -7461,25 +7713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "afad03d021f09912",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "‘L’oro blu’ e le sfide di Tiviroli: \"Con noi valore e occupazione\"",
-   "summary": "di Negli ultimi \"diciassette anni abbiamo ridistribuito sul territorio circa un miliardo e mezzo di euro. L’azienda oggi vale circa l’1% del Pil della provincia. Tutto questo è stato realizzato con gli investimenti, il personale, l’acquisto di beni e servizi e il versamento di utili e canoni ai Com…",
-   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/loro-blu-e-le-sfide-0aa46b40",
-   "published": "2026-11-07T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "0cd0e65e6d164cf1",
@@ -7492,6 +7726,24 @@
    "title": "Consultazione popolare. L’apertura di Pierguidi: \"Se tocca a me, si farà\"",
    "summary": "FIRENZE Toccasse a Michele Pierguidi indire la consultazione popolare non si tirerebbe di certo indietro. Anche se per il presidente del Q2 vista la natura della questione, tanto per la tramvia per Rovezzano quanto per l’oggetto del quesito popolare, la competenza in materia sarebbe \"comunale, non…",
    "link": "https://www.lanazione.it/firenze/cronaca/consultazione-popolare-lapertura-di-pierguidi-8d8058f3",
+   "published": "2026-11-07T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
+   "id": "afad03d021f09912",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "‘L’oro blu’ e le sfide di Tiviroli: \"Con noi valore e occupazione\"",
+   "summary": "di Negli ultimi \"diciassette anni abbiamo ridistribuito sul territorio circa un miliardo e mezzo di euro. L’azienda oggi vale circa l’1% del Pil della provincia. Tutto questo è stato realizzato con gli investimenti, il personale, l’acquisto di beni e servizi e il versamento di utili e canoni ai Com…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/loro-blu-e-le-sfide-0aa46b40",
    "published": "2026-11-07T06:12",
    "dates": "",
    "national": false,
@@ -7623,7 +7875,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "c71f7dd9de723f6d",
@@ -7659,7 +7911,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -7695,7 +7947,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -7713,7 +7965,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "ff872a884adee157",
@@ -7749,7 +8001,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "9b001d1489f20387",
@@ -7929,7 +8181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "aba4bca557a602e3",
@@ -8073,7 +8325,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "7833344472d7ef36",
@@ -8379,7 +8631,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -8526,6 +8778,24 @@
    "last_seen": "2026-11-05T17:40"
   },
   {
+   "id": "2d8e5fe6d8c114c8",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
+   "summary": "Domani presidio a Milano davanti Assolombarda",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_7c4d8206-0915-4058-b5bf-ef7ac8342d5a.html",
+   "published": "2026-11-05T16:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-05T17:40",
+   "last_seen": "2026-11-07T19:24"
+  },
+  {
    "id": "fa9751adbb9a3f87",
    "zone": "milano",
    "affects": [],
@@ -8542,24 +8812,6 @@
    "soon": false,
    "first_seen": "2026-11-06T02:59",
    "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "2d8e5fe6d8c114c8",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Fim e Fiom, 'situazione drammatica' alla Bcs con rischio per 430 posti di lavoro",
-   "summary": "Domani presidio a Milano davanti Assolombarda",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/11/05/fim-e-fiom-situazione-drammatica-alla-bcs-con-rischio-per-430_7c4d8206-0915-4058-b5bf-ef7ac8342d5a.html",
-   "published": "2026-11-05T16:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "0d500f7fa2f28196",
@@ -8685,7 +8937,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "190852b7dc559c57",
@@ -8793,7 +9045,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "76fab39861b8d761",
@@ -8811,7 +9063,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -11207,7 +11459,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "a770081a263ca694",
@@ -15457,7 +15709,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-07T15:10"
+   "last_seen": "2026-11-07T19:24"
   },
   {
    "id": "dccdef5b54e8657d",
