@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 465,
+  "ms": 630,
   "error": ""
  },
  {
@@ -14,7 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 533,
+  "ms": 743,
   "error": ""
  },
  {
@@ -23,16 +23,16 @@
   "ok": true,
   "items": 40,
   "kept": 7,
-  "ms": 347,
+  "ms": 293,
   "error": ""
  },
  {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 27,
-  "kept": 0,
-  "ms": 846,
+  "items": 45,
+  "kept": 1,
+  "ms": 933,
   "error": ""
  },
  {
@@ -41,16 +41,16 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 855,
+  "ms": 934,
   "error": ""
  },
  {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 57,
-  "kept": 2,
-  "ms": 859,
+  "items": 28,
+  "kept": 0,
+  "ms": 938,
   "error": ""
  },
  {
@@ -59,7 +59,7 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 964,
+  "ms": 1011,
   "error": ""
  },
  {
@@ -68,25 +68,7 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 174,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 27,
-  "kept": 3,
-  "ms": 198,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 44,
-  "kept": 4,
-  "ms": 226,
+  "ms": 150,
   "error": ""
  },
  {
@@ -95,7 +77,16 @@
   "ok": true,
   "items": 100,
   "kept": 5,
-  "ms": 1215,
+  "ms": 1169,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 43,
+  "kept": 3,
+  "ms": 609,
   "error": ""
  },
  {
@@ -104,16 +95,16 @@
   "ok": true,
   "items": 25,
   "kept": 4,
-  "ms": 217,
+  "ms": 390,
   "error": ""
  },
  {
-  "id": "midilibre",
-  "name": "Midi Libre",
+  "id": "franceinfo",
+  "name": "franceinfo",
   "ok": true,
-  "items": 100,
-  "kept": 5,
-  "ms": 921,
+  "items": 27,
+  "kept": 2,
+  "ms": 709,
   "error": ""
  },
  {
@@ -121,17 +112,26 @@
   "name": "ANSA 头条",
   "ok": true,
   "items": 10,
-  "kept": 0,
-  "ms": 603,
+  "kept": 1,
+  "ms": 677,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 134,
-  "kept": 7,
-  "ms": 640,
+  "items": 138,
+  "kept": 8,
+  "ms": 836,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 6,
+  "ms": 1207,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1072,
+  "ms": 1470,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83499,
+  "ms": 82952,
   "error": "URLError: <urlopen error timed out>"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:25",
+ "updated": "2026-11-07T22:53",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "49e27cd585a85910",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Tensione tra corteo antifascista e CasaPound a Gorizia, feriti tre poliziotti",
+   "summary": "Dopo provocazioni da entrambe le parti, hanno tentato di forzare il cordone di polizia",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/tensione-tra-corteo-antifascista-e-casapound-a-gorizia-feriti-tre-poliziotti_b78cb1c8-6bfb-487f-b5cb-ad3fff239a96.html",
+   "published": "2026-11-07T22:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "8dc3c637015d0229",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "REPLAY Manifestations du 7 novembre : près de 5 000 personnes ont défilé à Montpellier selon la préfète de l’Hérault… Revivez cette journée",
+   "summary": "Des syndicats, gilets jaunes et jeunes ont manifesté dans toute la France ce samedi 7 novembre, réunissant 146 000 personnes selon l’Intérieur. Un nombre en repli par rapport aux trois précédents samedis. À...",
+   "link": "https://www.midilibre.fr/2026/11/07/en-direct-manifestations-du-7-novembre-des-rassemblements-dans-plusieurs-villes-de-france-pour-lacte-iv-les-dernieres-infos-13640394.php",
+   "published": "2026-11-07T21:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
    "id": "4151e2940c079f09",
    "zone": "montpellier",
    "affects": [],
@@ -81,7 +117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "8c33626aa954ca62",
@@ -99,7 +135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "7dd952beea0a4437",
@@ -7068,6 +7104,168 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-07T22:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-07T22:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-07T22:52",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "891a7793167891fa",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
+   "summary": "Le cortège qui s'est élancé depuis la place de la République jusqu'à celle de la Nation s'est déroulé en grande majorité dans le calme, même si les quelques milliers de personnes présentes ne décolèrent pas après les propositions du gouvernement qu'ils jugent insuffisantes.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T22:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "d398c35599d53913",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-07T20:48",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "8acead04f333ab3a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T20:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "254f2523acfdfb11",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
+   "summary": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
+   "published": "2026-11-07T20:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "e3278fe7e93e60b3",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Liceali italiani in piazza a Cracovia durante gli spari,messi in salvo dall'ambasciata",
+   "summary": "Una scolaresca di 34 studenti e 3 accompagnatori si sono trovati in mezzo all'attacco",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_381fa448-e9a6-47fd-9747-109b59e9acaf.html",
+   "published": "2026-11-07T20:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
+   "id": "dc21b7556cd15ea2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Les chevaux de Przewalski en danger, le canal du Midi hiberne et 50 jours de grève pour les femmes de chambre de l’Imperator... L'essentiel de l'actu en région",
+   "summary": "Tous les soirs à 20 h 30, retrouvez l’essentiel de l’actualité régionale sur midilibre.fr",
+   "link": "https://www.midilibre.fr/2026/11/07/les-chevaux-de-przewalski-en-danger-le-canal-du-midi-hiberne-et-50-jours-de-greve-pour-les-femmes-de-chambre-de-limperator-lessentiel-de-lactu-en-13641641.php",
+   "published": "2026-11-07T20:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T22:52",
+   "last_seen": "2026-11-07T22:52"
+  },
+  {
    "id": "3be93c4d0e5395fe",
    "zone": "montpellier",
    "affects": [],
@@ -7083,61 +7281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-07T19:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-07T19:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-07T19:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "e11f19ce391ab2d3",
@@ -7155,7 +7299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "dbdc958fde30c939",
@@ -7169,42 +7313,6 @@
    "summary": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le gouvernement.",
    "link": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
    "published": "2026-11-07T18:07",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "d398c35599d53913",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
-   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
-   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-07T18:05",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "8acead04f333ab3a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
-   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
-   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-07T18:05",
    "dates": "",
    "national": true,
    "soon": false,
@@ -7227,7 +7335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "b0692f3b9299f00d",
@@ -7245,7 +7353,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -7263,7 +7371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "b92325c1695a8c88",
@@ -7281,7 +7389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "c37e3940fb51c494",
@@ -7299,7 +7407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "afbccadd6e72c3ef",
@@ -7317,7 +7425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "9824556c0966c1b4",
@@ -7371,7 +7479,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "7178384a1007f322",
@@ -7389,7 +7497,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "bfba62fa936392a0",
@@ -7443,7 +7551,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "6dffadfb56f01307",
@@ -7515,7 +7623,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "1dc1d02e5c9a9c78",
@@ -7551,7 +7659,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "be015aea8536d6f4",
@@ -7569,7 +7677,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "ea8c69148883dec3",
@@ -7713,7 +7821,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "0cd0e65e6d164cf1",
@@ -7731,7 +7839,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "afad03d021f09912",
@@ -7875,7 +7983,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "c71f7dd9de723f6d",
@@ -7911,7 +8019,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -7947,7 +8055,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -7965,7 +8073,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "ff872a884adee157",
@@ -8001,7 +8109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "9b001d1489f20387",
@@ -8181,7 +8289,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "aba4bca557a602e3",
@@ -8325,7 +8433,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "7833344472d7ef36",
@@ -8631,7 +8739,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -8937,7 +9045,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "190852b7dc559c57",
@@ -9045,7 +9153,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "76fab39861b8d761",
@@ -9063,7 +9171,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -11459,7 +11567,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "a770081a263ca694",
@@ -15709,7 +15817,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-07T19:24"
+   "last_seen": "2026-11-07T22:52"
   },
   {
    "id": "dccdef5b54e8657d",
