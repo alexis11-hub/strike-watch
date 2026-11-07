@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:08",
+ "updated": "2026-11-07T08:44",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "8cb3d383365ae103",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Que sait-on des effets sur la santé des gaz lacrymogènes utilisés par les forces de l'ordre dans les manifestations ?",
+   "summary": "Ces armes intermédiaires sont soupçonnées d'être à l'origine de troubles menstruels et de divers effets néfastes sur l'organisme. Mais en l'absence d'études épidémiologiques, les connaissances scientifiques actuelles ne permettent pas d'établir un lien de causalité.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/que-sait-on-des-effets-sur-la-sante-des-gaz-lacrymogenes-utilises-par-les-forces-de-l-ordre-dans-les-manifestations_8264093.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T07:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "8d621cbc15fa1113",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Call center, settore in crisi. Emergenza occupazionale. In cento rischiano il posto",
+   "summary": "la spezia Tra esuberi annunciati, ammortizzatori sociali e salari sempre più ridotti, è gravissima la crisi che sta attraversando il settore dei call center e rischia di trasformarsi in una vera e propria emergenza sociale e occupazionale. Anche a Spezia sono centinaia i lavoratori che vivono una c…",
+   "link": "https://www.lanazione.it/la-spezia/cronaca/call-center-settore-in-crisi-fee155cb",
+   "published": "2026-11-07T06:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
    "id": "6963f26ef27d06cc",
    "zone": "it_national",
    "affects": [],
@@ -64,6 +100,24 @@
    "soon": false,
    "first_seen": "2026-11-06T17:40",
    "last_seen": "2026-11-06T22:23"
+  },
+  {
+   "id": "0c8497f67e100649",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés",
+   "summary": "Quelque 70 000 policiers et gendarmes seront mobilisés samedi face aux risques de violences, de pillages et de rassemblements spontanés. Le ministre de l’intérieur a annoncé le maintien d’un dispositif renforcé de contrôles et la protection systématique des centres-villes.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
+   "published": "2026-11-06T18:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "038044197841c943",
@@ -99,7 +153,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "d5afbea8c3f2dcaa",
@@ -248,7 +302,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T02:59"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "a9989008274cd449",
@@ -6952,12 +7006,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-07T02:06",
+   "published": "2026-11-07T08:43",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -6970,12 +7024,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-07T02:06",
+   "published": "2026-11-07T08:43",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -6988,12 +7042,246 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-07T02:06",
+   "published": "2026-11-07T08:43",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "4f501b95330bb4fa",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "DIRECT - Mobilisation du 7 novembre : suivez l'acte IV des manifestations contre la vie chère",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse appellent à de nouvelles actions ce samedi, pour \"l'acte IV\" de leur mouvement lancé le 17 novembre. Quelque 70.000 policiers et gendarmes sont à nouveau mobilisés. Suivez la journée de mobilisation avec ICI.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T08:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "d790e4d02f7595b1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : suivez avec nous cette nouvelle journée de manifestations",
+   "summary": "De nouvelles manifestations sont prévues samedi sous haute sécurité, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats.",
+   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T07:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "f759896d4e53056f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le ministère de l'Education nationale a-t-il envoyé un mail demandant de signaler les enseignants grévistes solidaires de la mobilisation des lycéens ?",
+   "summary": "Un message a bien été envoyé aux recteurs, le 15 octobre, afin de pouvoir appliquer une retenue sur le salaire des professeurs en grève ou qui n'ont pas assuré leurs heures de cours lors des blocages. Mais ces consignes ne semblent pas avoir été suivies d'effets.",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-ministere-de-l-education-nationale-a-t-il-envoye-un-mail-demandant-de-signaler-les-enseignants-grevistes-solidaires-de-la-mobilisation-des-lyceens_8269187.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T07:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "11cdd97a8397bc4a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On répond au gouvernement, qui veut limiter notre droit de manifester\" : pourquoi des cortèges \"sauvages\" se forment en marge des rassemblements déclarés",
+   "summary": "Tenues au maximum secrètes, ces déambulations se forment en marge des manifestations officielles. Les participants, que franceinfo a interrogés, décrivent des initiatives \"autonomes\" et \"spontanées\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/on-repond-au-gouvernement-qui-veut-limiter-notre-droit-de-manifester-pourquoi-des-corteges-sauvages-se-forment-en-marge-des-rassemblements-declares_8265929.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T07:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "dd4a3f1fc9973efa",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre",
+   "summary": "Le premier grand rassemblement s'est déroulé le 29 septembre. Sept autres journées de mobilisation ont ensuite marqué le pays, sans que le mouvement faiblisse.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/un-tournant-le-17-octobre-un-pic-le-5-novembre-visualisez-comment-la-mobilisation-dans-les-manifestations-en-france-a-evolue-depuis-septembre_8270384.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T07:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "7b4363576de9a00d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Allarme di Cgil e Cisl. Lavoratori preoccupati per il rischio ‘spezzatino’",
+   "summary": "Prima la Cgil, poi la Cisl. Lontani i tempi delle dichiarazioni congiunte sottoscritte da tutte le sigle sindacali, il momento complicato che sta vivendo Banca Mps porta alla luce anche diversità di vedute e soprattutto tempistiche di intervento. Non era per esempio passato inosservato l’intervento…",
+   "link": "https://www.lanazione.it/siena/cronaca/allarme-di-cgil-e-cisl-478fecc7",
+   "published": "2026-11-07T06:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "0cd0e65e6d164cf1",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Consultazione popolare. L’apertura di Pierguidi: \"Se tocca a me, si farà\"",
+   "summary": "FIRENZE Toccasse a Michele Pierguidi indire la consultazione popolare non si tirerebbe di certo indietro. Anche se per il presidente del Q2 vista la natura della questione, tanto per la tramvia per Rovezzano quanto per l’oggetto del quesito popolare, la competenza in materia sarebbe \"comunale, non…",
+   "link": "https://www.lanazione.it/firenze/cronaca/consultazione-popolare-lapertura-di-pierguidi-8d8058f3",
+   "published": "2026-11-07T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "5bd0409ba36e0561",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Commercianti verso l’apertura: \"Chiediamo di essere tutelati. Speriamo che tutto fili liscio\"",
+   "summary": "di Un sabato di pace: una speranza, per il momento. I commercianti sono rimasti alla finestra per giorni, e per tutta la giornata di ieri, in attesa di notizie sull’eventuale corteo in centro. Troppo fresche, ancora, le ferite del 17 e 24 ottobre, per tanti esercenti del centro: irruzioni nei negoz…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/commercianti-verso-lapertura-chiediamo-di-ebe236db",
+   "published": "2026-11-07T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "afad03d021f09912",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "‘L’oro blu’ e le sfide di Tiviroli: \"Con noi valore e occupazione\"",
+   "summary": "di Negli ultimi \"diciassette anni abbiamo ridistribuito sul territorio circa un miliardo e mezzo di euro. L’azienda oggi vale circa l’1% del Pil della provincia. Tutto questo è stato realizzato con gli investimenti, il personale, l’acquisto di beni e servizi e il versamento di utili e canoni ai Com…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/loro-blu-e-le-sfide-0aa46b40",
+   "published": "2026-11-07T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "781ee064f13656cf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Bellocchio? Ha causato turbamento fra i canapi\"",
+   "summary": "Bellocchio, che a luglio correva nella Torre, rischia un’ammonizione per un comportamento che, aveva detto anche a La Nazione, non riteneva di aver compiuto. Non pensava di essere responsabile di \"aver posto in essere un’azione di spinta verso il basso rispettando la giusta distanza e creando una s…",
+   "link": "https://www.lanazione.it/siena/cronaca/bellocchio-ha-causato-turbamento-fra-9ac52313",
+   "published": "2026-11-07T06:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "8317119661c3e228",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Parte la petizione in centro: \"Più controlli e telecamere, qui la sera abbiamo paura\"",
+   "summary": "Una firma per la sicurezza. Questo il senso dell’iniziativa in programma oggi dalle 10 alle 13 al Bar Ferrari, in piazza Ferrari. I cittadini potranno firmare una petizione promossa da alcuni cittadini - capitanati dall’avvocato Alessandro Pierotti -, per chiedere interventi nel quadrilatero tra vi…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/parte-la-petizione-in-centro-c58fe2e2",
+   "published": "2026-11-07T06:04",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "6464bac7eb7f8136",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La versione del preside: \"Avvisato dall’allarme. Sì a un confronto aperto\"",
+   "summary": "FIRENZE Una tentata occupazione dell’Istituto agrario alle Cascine, nella notte tra lunedì e martedì, si è conclusa con l’intervento delle forze dell’ordine e sette studenti accompagnati in caserma. I collettivi denunciano abusi nelle modalità dello sgombero, contro le quali ieri mattina hanno tenu…",
+   "link": "https://www.lanazione.it/firenze/cronaca/la-versione-del-preside-avvisato-ea9e97c5",
+   "published": "2026-11-07T05:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "8d32c58be4318673",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Paraguay, nuove proteste e incidenti di fronte alla casa dell'ex presidente",
+   "summary": "I manifestanti chiedono il carcere e non gli arresti domiciliari per Santiago Peña",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-nuove-proteste-e-incidenti-di-fronte-alla-casa-dellex-presidente_146d34ea-9db7-441f-b600-90efdf133935.html",
+   "published": "2026-11-07T03:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "a42f3ec4feba03f8",
@@ -7029,7 +7317,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "f9781d76df3675ec",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges interdits, \"acte IV\", dispositif policier : à quoi s'attendre pour la mobilisation du 7 novembre ?",
+   "summary": "Après trois week-ends de mobilisation, les gilets jaunes, syndicats et lycéens appellent de nouveau à manifester ce samedi partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-interdits-acte-iv-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-4258630?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T23:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "b406e33e18e7a32e",
@@ -7047,7 +7353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -7065,7 +7371,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "18ca17f71b76b558",
@@ -7083,7 +7389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -7101,7 +7407,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "ff872a884adee157",
@@ -7119,7 +7425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -7137,7 +7443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "9b001d1489f20387",
@@ -7158,24 +7464,6 @@
    "last_seen": "2026-11-06T17:40"
   },
   {
-   "id": "f9781d76df3675ec",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges interdits, \"acte IV\", dispositif policier : à quoi s'attendre pour la mobilisation du 7 novembre ?",
-   "summary": "Après trois week-ends de mobilisation, les gilets jaunes, syndicats et lycéens appellent de nouveau à manifester ce samedi partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-interdits-acte-iv-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-4258630?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-06T17:48",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
    "id": "bc22b8121997f98e",
    "zone": "firenze",
    "affects": [],
@@ -7192,6 +7480,24 @@
    "soon": false,
    "first_seen": "2026-11-06T17:40",
    "last_seen": "2026-11-07T02:06"
+  },
+  {
+   "id": "1ff3d8e68924306a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+   "summary": "Plusieurs membres de l'AFP ont reçu des coups de matraque ou de LBD, tandis qu'une reporter de l'hebdomadaire \"Politis\" a reçu plusieurs coups \"à la tête et aux jambes\".",
+   "link": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-06T16:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "fe7a657d7f471f95",
@@ -7317,7 +7623,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "aba4bca557a602e3",
@@ -7371,7 +7677,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "2102139433887567",
@@ -7461,7 +7767,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "7833344472d7ef36",
@@ -7677,7 +7983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "8f2502d524915a17",
@@ -7767,7 +8073,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -7929,7 +8235,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T02:59",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "2d8e5fe6d8c114c8",
@@ -8073,7 +8379,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "190852b7dc559c57",
@@ -8181,7 +8487,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "76fab39861b8d761",
@@ -8199,7 +8505,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -8939,7 +9245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -10595,7 +10901,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "a770081a263ca694",
@@ -14845,7 +15151,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-07T02:06"
+   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "dccdef5b54e8657d",
