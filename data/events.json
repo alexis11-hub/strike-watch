@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:44",
+ "updated": "2026-11-07T15:12",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "8c33626aa954ca62",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Trieste, scontri tra manifestanti e polizia dopo i morti al Porto Vecchio. Ma sull’accoglienza anche gli agenti accusano la politica",
+   "summary": "Tre poliziotti feriti, una donna denunciata e una manifestazione per ricordare due giovani morti trasformata in una serata di scontri. È il bilancio di venerdì 6 novembre a Trieste , quando circa 200 persone si sono ritrovate in piazza Libertà per chiedere risposte dopo l’incendio nel Porto Vecchio…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/07/trieste-scontri-tra-manifestanti-e-polizia-dopo-i-morti-al-porto-vecchio-ma-sullaccoglienza-anche-gli-agenti-accusano-la-politica/8564034/",
+   "published": "2026-11-07T14:12",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "7dd952beea0a4437",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Verucchio, manifestazione con studenti e famiglie dopo i danneggiamenti di Halloween",
+   "summary": "La sindaca Lara Gobbi: \"Pronti a perdonare, ma chi ha sbagliato faccia il primo passo. Aiutateci a prenderci cura di ciò che è di tutti\"",
+   "link": "https://www.sanmarinortv.sm/news/italia-c7/verucchio-manifestazione-con-studenti-e-famiglie-dopo-i-danneggiamenti-di-halloween-a298190",
+   "published": "2026-11-07T10:49",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
    "id": "8cb3d383365ae103",
    "zone": "fr_national",
    "affects": [],
@@ -58,12 +94,12 @@
    "title": "Que sait-on des effets sur la santé des gaz lacrymogènes utilisés par les forces de l'ordre dans les manifestations ?",
    "summary": "Ces armes intermédiaires sont soupçonnées d'être à l'origine de troubles menstruels et de divers effets néfastes sur l'organisme. Mais en l'absence d'études épidémiologiques, les connaissances scientifiques actuelles ne permettent pas d'établir un lien de causalité.",
    "link": "https://www.franceinfo.fr/societe/manifestations/que-sait-on-des-effets-sur-la-sante-des-gaz-lacrymogenes-utilises-par-les-forces-de-l-ordre-dans-les-manifestations_8264093.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-07T07:04",
+   "published": "2026-11-07T10:33",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "8d621cbc15fa1113",
@@ -81,7 +117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "6963f26ef27d06cc",
@@ -153,7 +189,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "d5afbea8c3f2dcaa",
@@ -6996,6 +7032,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "9824556c0966c1b4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : la tête du cortège parisien arrive à Nation, la mobilisation en \"net recul\" sur l'ensemble du territoire, selon l'entourage du min…",
+   "summary": "De nouvelles manifestations se tiennent samedi sous haute sécurité, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats.",
+   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T16:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "d6d76a0414b0c312",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT Manifestations du 7 novembre : le cortège progresse dans Montpellier… Suivez l'évolution de la situation",
+   "summary": "Deux jours après la mobilisation du 5 novembre, de nouveaux rassemblements sont attendus en France ce samedi 7 novembre. 70 000 forces de l’ordre sont déployées. En Occitanie, plusieurs manifestations ont été...",
+   "link": "https://www.midilibre.fr/2026/11/07/en-direct-manifestations-du-7-novembre-des-rassemblements-dans-plusieurs-villes-de-france-pour-lacte-iv-les-dernieres-infos-13640394.php",
+   "published": "2026-11-07T15:57",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "7178384a1007f322",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un solo medico per 2.300 abitanti, scatta la protesta in Molise",
+   "summary": "Il sindaco lancia una petizione e si affida a un legale per tutelare i cittadini",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/un-solo-medico-per-2.300-abitanti-scatta-la-protesta-in-molise_e479d047-ef44-4d93-971c-86253c7941cf.html",
+   "published": "2026-11-07T15:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "bfba62fa936392a0",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Amiens, Rouen, Montpellier... Le point sur les manifestations du 7 novembre en régions",
+   "summary": "Plusieurs dizaines de manifestations sont en cours samedi lors de ce quatrième samedi de mobilisation, pour maintenir la pression sur le gouvernement deux jours avant une conférence sociale avec les syndicats et le patronat, convoquée lundi matin à Matignon.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T15:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -7006,12 +7114,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-07T08:43",
+   "published": "2026-11-07T15:10",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -7024,12 +7132,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-07T08:43",
+   "published": "2026-11-07T15:10",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -7042,12 +7150,210 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-07T08:43",
+   "published": "2026-11-07T15:10",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "174c83633f781ad2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Deux porte-parole des gilets jaunes interpellés à Paris avant leur rassemblement interdit à la Concorde",
+   "summary": "La coordination des gilets jaunes a appelé à un rassemblement sur la place de la Concorde, dans le cadre de la mobilisation contre la vie chère et pour la jeunesse. La manifestation a été interdite par la préfecture de police de Paris.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/deux-porte-parole-des-gilets-jaunes-interpelles-a-paris-avant-leur-rassemblement-interdit-a-la-concorde_8272388.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T15:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "759858d0d65dade6",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“Non voglio i soldi di chi non mi piace. Ho vissuto 10 anni super povero, in Amazzonia mangiando scarafaggi. Manganellare chi protesta è come curare un mal di…",
+   "summary": "“Io non voglio tutti sotto il mio palco. A me la maggior parte delle persone non piace. Non voglio i loro soldi, non voglio che facciano fila insieme al mio pubblico “. È una presa di posizione netta e totalmente estranea alle logiche del mercato discografico quella che segna la densa intervista ri…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/07/non-voglio-i-soldi-di-chi-non-mi-piace-ho-vissuto-10-anni-super-povero-in-amazzonia-mangiando-scarafaggi-manganellare-chi-protesta-e-come-curare-un-mal-di-pancia-spaccando-la-testa-cosi-gio-e/8564122/",
+   "published": "2026-11-07T14:36",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "6dffadfb56f01307",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, manifestations du 7 novembre : à Paris, la manifestants défilent vers la place de la Nation ; la situation est « globalement calme et maîtrisée », s…",
+   "summary": "Selon l’entourage du ministre de l’intérieur, la mobilisation de ce samedi 7 novembre marque « un net recul » du nombre de manifestants sur l’ensemble du territoire national, « confirmant la baisse observée au fil des dernières semaines ».",
+   "link": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-a-paris-la-manifestation-quitte-la-place-de-la-republique-appel-a-la-greve-dans-l-education-mardi_6808254_3224.html",
+   "published": "2026-11-07T14:26",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "0139abeeba03f2a5",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "DIRECT - Mobilisation du 7 novembre : \"situation calme et maîtrisée\", participation en \"net recul\" selon le gouvernement",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. Quelque 70.000 policiers et gendarmes ont de nouveau été mobilisés. Suivez la journée de mobilisation avec ICI.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-07T14:20",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "ec13d6896ea67474",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "DIRECT - Mobilisation du 7 novembre : \"situation calme et maîtrisée\", participation en \"net recul\" selon le gouvernement",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. Quelque 70.000 policiers et gendarmes ont de nouveau été mobilisés. Suivez la journée de mobilisation avec ICI.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T14:20",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "24641fbdf8ab3104",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il 9 novembre Presidio a Firenze per la tutela dei crinali dell’Appennino dal mega eolico ai confini del Parco Nazionale Foreste Casentinesi",
+   "summary": "Arezzo, 7 novembre 2026 – Si svolgerà lunedì il presidio promosso da Tess, Transizione Energetica Senza Speculazione, Comitato Crinali Liberi Londa, Comitati territoriali riuniti dell’Appennino Mugellano e del Casentino in programma il 9 novembre, dalle ore 16 alle 19, in piazza Duomo 10, a F irenz…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/il-9-novembre-presidio-a-firenze-per-la-tutela-dei-crinali-dellappennino-dal-mega-eolico-ai-confini-del-parco-nazionale-foreste-casentinesi-hb390gpx",
+   "published": "2026-11-07T13:26",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "1dc1d02e5c9a9c78",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Un nouvel appel à la grève mardi dans l'Éducation nationale",
+   "summary": "L'intersyndicale des personnels de l'Education nationale et l'intersyndicale de la jeunesse appellent à \"amplifier la mobilisation\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-nouvel-appel-a-la-greve-mardi-dans-l-education-nationale_8272193.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T12:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "3603bfdee0592ee4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Éducation nationale : un nouvel appel à la grève lancé pour le mardi 10 novembre",
+   "summary": "Une intersyndicale rassemblant organisations lycéennes, étudiantes et d'enseignants appelle à une nouvelle journée de grève et de manifestations le mardi 10 novembre, selon un communiqué diffusé samedi par le Snes-FSU, premier syndicat des collèges et lycées.",
+   "link": "https://www.ici.fr/infos/economie-social/education-nationale-nouvel-appel-a-la-greve-pour-le-mardi-10-novembre-1641012?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T11:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "be015aea8536d6f4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Vannacci ai contestatori: “Puzzoni e fannulloni”. Tensione all’inaugurazione della nuova sede di Firenze",
+   "summary": "Firenze, 7 novembre 2026 – Centinaia di persone sono scese in strada questa mattina a Coverciano per contestare l'apertura della seconda sede fiorentina di Futuro Nazionale , il partito guidato da Roberto Vannacci . Una mobilitazione che ha coinvolto soprattutto gli abitanti del quartiere, ritrovat…",
+   "link": "https://www.lanazione.it/firenze/cronaca/vannacci-sede-firenze-q3z7kybc",
+   "published": "2026-11-07T11:22",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "ea8c69148883dec3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
+   "summary": "Dans les allées du salon organisé vendredi dans le centre de la capitale, des demandeurs d'emploi témoignent de leurs difficultés à faire face à l'augmentation des dépenses et de leurs attentes en matière de rémunération.",
+   "link": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T10:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "0e8ddacdcdff37c1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : \"Le gouvernement est à l'écoute\", assure Éléonore Caroit, ministre déléguée chargée de la Francophonie",
+   "summary": "Éléonore Caroit, ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l'étranger, est l'invitée politique de la matinale de franceinfo, samedi 7 novembre. L'occasion d'évoquer le rôle du gouvernement dans les mobilisations sociales actuelles.",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-samedi-07-novembre-2026_8244943.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-07T10:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "4f501b95330bb4fa",
@@ -7101,7 +7407,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "11cdd97a8397bc4a",
@@ -7155,7 +7461,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
+   "id": "afad03d021f09912",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "‘L’oro blu’ e le sfide di Tiviroli: \"Con noi valore e occupazione\"",
+   "summary": "di Negli ultimi \"diciassette anni abbiamo ridistribuito sul territorio circa un miliardo e mezzo di euro. L’azienda oggi vale circa l’1% del Pil della provincia. Tutto questo è stato realizzato con gli investimenti, il personale, l’acquisto di beni e servizi e il versamento di utili e canoni ai Com…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/loro-blu-e-le-sfide-0aa46b40",
+   "published": "2026-11-07T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T08:43",
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "0cd0e65e6d164cf1",
@@ -7173,7 +7497,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "5bd0409ba36e0561",
@@ -7186,24 +7510,6 @@
    "title": "Commercianti verso l’apertura: \"Chiediamo di essere tutelati. Speriamo che tutto fili liscio\"",
    "summary": "di Un sabato di pace: una speranza, per il momento. I commercianti sono rimasti alla finestra per giorni, e per tutta la giornata di ieri, in attesa di notizie sull’eventuale corteo in centro. Troppo fresche, ancora, le ferite del 17 e 24 ottobre, per tanti esercenti del centro: irruzioni nei negoz…",
    "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/commercianti-verso-lapertura-chiediamo-di-ebe236db",
-   "published": "2026-11-07T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
-   "id": "afad03d021f09912",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "‘L’oro blu’ e le sfide di Tiviroli: \"Con noi valore e occupazione\"",
-   "summary": "di Negli ultimi \"diciassette anni abbiamo ridistribuito sul territorio circa un miliardo e mezzo di euro. L’azienda oggi vale circa l’1% del Pil della provincia. Tutto questo è stato realizzato con gli investimenti, il personale, l’acquisto di beni e servizi e il versamento di utili e canoni ai Com…",
-   "link": "https://www.ilrestodelcarlino.it/pesaro/cronaca/loro-blu-e-le-sfide-0aa46b40",
    "published": "2026-11-07T06:12",
    "dates": "",
    "national": false,
@@ -7227,7 +7533,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "8317119661c3e228",
@@ -7302,6 +7608,24 @@
    "last_seen": "2026-11-07T02:06"
   },
   {
+   "id": "f9781d76df3675ec",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cortèges interdits, \"acte IV\", dispositif policier : à quoi s'attendre pour la mobilisation du 7 novembre ?",
+   "summary": "Après trois week-ends de mobilisation, les gilets jaunes, syndicats et lycéens appellent de nouveau à manifester ce samedi partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/corteges-interdits-acte-iv-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-4258630?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-06T23:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-06T17:40",
+   "last_seen": "2026-11-07T15:10"
+  },
+  {
    "id": "c71f7dd9de723f6d",
    "zone": "fr_national",
    "affects": [],
@@ -7320,24 +7644,6 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
-   "id": "f9781d76df3675ec",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges interdits, \"acte IV\", dispositif policier : à quoi s'attendre pour la mobilisation du 7 novembre ?",
-   "summary": "Après trois week-ends de mobilisation, les gilets jaunes, syndicats et lycéens appellent de nouveau à manifester ce samedi partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/corteges-interdits-acte-iv-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-4258630?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-06T23:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "b406e33e18e7a32e",
    "zone": "montpellier",
    "affects": [],
@@ -7353,7 +7659,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -7389,7 +7695,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -7407,7 +7713,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "ff872a884adee157",
@@ -7443,7 +7749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "9b001d1489f20387",
@@ -7623,7 +7929,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "aba4bca557a602e3",
@@ -7677,7 +7983,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "2102139433887567",
@@ -7767,7 +8073,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "7833344472d7ef36",
@@ -8073,7 +8379,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -8235,7 +8541,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T02:59",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "2d8e5fe6d8c114c8",
@@ -8379,7 +8685,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "190852b7dc559c57",
@@ -8487,7 +8793,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "76fab39861b8d761",
@@ -8505,7 +8811,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -9245,7 +9551,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "bf175e0e4ef90c8a",
@@ -10901,7 +11207,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "a770081a263ca694",
@@ -15151,7 +15457,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-07T15:10"
   },
   {
    "id": "dccdef5b54e8657d",
