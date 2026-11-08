@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:58",
+ "updated": "2026-11-08T08:38",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -63,7 +63,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "8dc3c637015d0229",
@@ -81,7 +81,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "4151e2940c079f09",
@@ -117,7 +117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "8c33626aa954ca62",
@@ -7104,6 +7104,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "929145f9f29f7d8d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
+   "summary": "À Paris, étudiants et lycéens ont dénoncé samedi la précarité, la vie chère et le manque de moyens dans l'Éducation nationale. Ils se disent prêts à manifester à nouveau mardi.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-08T09:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -7114,12 +7132,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-08T01:57",
+   "published": "2026-11-08T08:37",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -7132,12 +7150,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-08T01:57",
+   "published": "2026-11-08T08:37",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -7150,12 +7168,282 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-08T01:57",
+   "published": "2026-11-08T08:37",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "9f41110134898dbf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Addio a Marcello Forni, politico e anima del volontariato",
+   "summary": "Greve in Chianti (Firenze), 8 novembre 2026 – Dopo una lunga malattia è venuto a mancare all’età di 76 anni Marcello Forni . Nato a Greve in Chianti si trasferì a Mercatale Val di Pesa . Qui trovò anche quella che diventerà sua moglie, Antonella. Non ha mai dimenticato le sue origini grevigiane, ta…",
+   "link": "https://www.lanazione.it/firenze/cronaca/addio-a-marcello-forni-politico-e-anima-del-volontariato-r0fegbnm",
+   "published": "2026-11-08T08:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "2520b744d436abfe",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "VERSO IL MATCH. \"Contro Pineto voglio soffrire meno». Aglietti suona la carica ai biancorossi",
+   "summary": "\"Contro il Pineto voglio soffrire meno rispetto all’ultima a Gubbio anche se sappiamo che la partita sarà più insidiosa. Dovremo alzare il livello di prestazione risultando più incisivi e pericolosi\". Ieri un Aglietti influenzato è stato costretto a rinunciare alla conferenza stampa di presentazion…",
+   "link": "https://www.ilrestodelcarlino.it/pesaro/sport/verso-il-match-contro-pineto-144e239b",
+   "published": "2026-11-08T08:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "20e80679402a3151",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Decine di cinghiali a spasso vicino alle abitazioni in città: \"Nuove battute di caccia\"",
+   "summary": "\"In base alle segnalazioni e alla pericolosità, faremo altre battute di caccia in città per allontanare, ed eventualmente abbattere, i cinghiali\". Sono le parole dell’assessore alla sicurezza Paolo Renna. \"La loro presenza incontrollata può comportare contatti fortuiti e non voluti con cittadini e…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/decine-di-cinghiali-a-spasso-9d996366",
+   "published": "2026-11-08T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "727dd644b2f9682e",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il Piano non si arrende: \"Non abbattete gli alberi\". E abbracciano le piante",
+   "summary": "Una folla di cittadini, associazioni e comitati si è riunita ieri nello spazio esterno dello Speedy Bar in viale Cristoforo Colombo, al Piano, per una nuova e partecipata mobilitazione a tutela del verde urbano. Un appuntamento ad alto impatto visivo. Le persone accorse hanno indossato abiti e acce…",
+   "link": "https://www.ilrestodelcarlino.it/ancona/cronaca/il-piano-non-si-arrende-bb444d63",
+   "published": "2026-11-08T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "51ebc7b41b97f0ae",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le associazioni di categoria: \"Un sollievo per i negozianti\"",
+   "summary": "di \"Un sospiro di sollievo per la città\". Così Confcommercio Ascom e Confesercenti commentano la giornata trascorsa ieri, che si preannunciava ad alta tensione, ma che in realtà si è svolta in maniera pacifica e, come chiesto dalle associazioni di categoria nei giorni precedenti al serpentone, lont…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/le-associazioni-di-categoria-un-ad055a9f",
+   "published": "2026-11-08T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "44a1bf674bb21882",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "E ora il Campo di Marte ‘attraversa’ anche l’Arno: \"In marcia per Gavinana\"",
+   "summary": "Dal Campo di Marte a Gavinana la protesta dei fiorentini contro i cantieri della tramvia allarga i propri confini. Dopo la mobilitazione nel viale dei Mille contro il taglio degli alberi, accompagnata da una raccolta di quasi 7mila firme, i residenti di Campo di Marte scendono nuovamente in strada,…",
+   "link": "https://www.lanazione.it/firenze/cronaca/e-ora-il-campo-aaf3ac80",
+   "published": "2026-11-08T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "1ab3d3c80b9dbd6a",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Minghetti occupato, rabbia dei prof: \"Così solo ostacoli all’istruzione\"",
+   "summary": "Ora parlano i docenti del liceo Minghetti , occupato da venerdì, con una lunga lettera firmata da oltre 50 tra prof e personale Ata e con una mozione del Collegio dei docenti, voce ufficiale del liceo. Nella mozione il parlamentino degli insegnanti esprime \"preoccupazione\" per l’occupazione, \"una m…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/minghetti-occupato-rabbia-dei-prof-0fb3a85b",
+   "published": "2026-11-08T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "15566ee6e0b58915",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tram a Rovezzano. Comune in campo: \"In più 395 alberi. E saranno già alti\". FdI: \"Ci dissero no\"",
+   "summary": "Patti chiari e amicizia lunga: \"Più alberi e più erba\" tiene a ribadire Palazzo Vecchio presentando la variante verde da 2 milioni di euro al progetto della tramvia per Rovezzano a un mesetto dall’apertura dei cantieri per i lavori preliminari. \"Le ditte sono pronte a partire - assicura l’assessore…",
+   "link": "https://www.lanazione.it/firenze/cronaca/tram-a-rovezzano-comune-in-1de1bd61",
+   "published": "2026-11-08T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "67a912ed3b5208fb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Festa per la Mensa della solidarietà: \"Qui il Vangelo è gesto quotidiano\"",
+   "summary": "PONTEDERA Taglio del nastro ieri sera per la Mensa della Solidarietà in piazza del Duomo, ristrutturata e ampliata negli spazi. Dal 1999, 365 giorni all’anno, festività incluse, la mensa della Misericordia di Pontedera non ha mai chiuso le sue porte, nemmeno per un giorno. Adesso, con i lavori di a…",
+   "link": "https://www.lanazione.it/pontedera/cronaca/festa-per-la-mensa-della-6f423644",
+   "published": "2026-11-08T06:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "cf54f695c84214df",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 7 novembre : moins de monde, mais plus de calme pour ce samedi de l’Acte IV, avant une nouvelle journée d’action mardi",
+   "summary": "Entre 146 000 et 250 000 personnes ont manifesté contre la vie chère, avec des incidents qui sont restés limités avec les forces de l’ordre, avant les négociations prévues ce lundi.",
+   "link": "https://www.midilibre.fr/2026/11/08/manifestation-du-7-novembre-moins-de-monde-mais-plus-de-calme-pour-ce-samedi-de-lacte-iv-avant-une-nouvelle-journee-daction-mardi-13641866.php",
+   "published": "2026-11-08T06:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "b747791020de1822",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Les pépites de l'école maternelle",
+   "summary": "Les enfants ont des choses à nous dire. Écoutons les ! Quand les enfants racontent leurs vies, leurs préoccupations, leurs visions du monde. C'est la chronique À hauteur d'enfants de Ici Hérault.",
+   "link": "https://www.ici.fr/emissions/a-hauteur-d-enfant/les-pepites-de-l-ecole-maternelle-6040727?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-08T06:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "e0b855e47f612e3e",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Nuovi parcheggi interrati: \"Uno sì, tre è impossibile. Avanti con Porta S. Maria\"",
+   "summary": "di Un costo di 25 milioni di euro per meno di 400 nuovi posti auto: ecco i numeri del parcheggio sotterraneo che il Comune intende far realizzare in piazzale Martiri della Libertà – appena fuori Porta Santa Maria – attraverso un project financing, dunque un progetto che vede pubblico e privato comp…",
+   "link": "https://www.lanazione.it/lucca/cronaca/nuovi-parcheggi-interrati-uno-si-9824cc83",
+   "published": "2026-11-08T05:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "f26433865bef96bf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Ora lo vedete tutti. Anche grandi brand dietro i capannoni\"",
+   "summary": "Il commissariamento per un anno di Patrizia Pepe e Dixie riporta al centro della vertenza sulla filiera della moda pratese il ruolo dei grandi marchi. La decisione del tribunale riguarda i due brand che si sono avvalsi dei servizi della Stireria Alba di Montemurlo, gestita da una coppia di imprendi…",
+   "link": "https://www.lanazione.it/prato/cronaca/ora-lo-vedete-tutti-anche-2dcbfee3",
+   "published": "2026-11-08T05:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "20179c3a7b5822a0",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Nessuno si salva da solo. La lezione dell’alluvione imparata da bambino",
+   "summary": "Ero ancora piccino e non mi fu concesso di andare a Firenze, nei giorni immediatamente successivi all’alluvione. In quella città avevo anche amici e parenti che sapevo in grande difficoltà. Fu il babbo Lorenzo a imporsi sul mio desiderio. Una cosa rara per lui, uomo mite e remissivo, che difficilme…",
+   "link": "https://www.lanazione.it/arezzo/cronaca/nessuno-si-salva-da-solo-eb01ebfc",
+   "published": "2026-11-08T05:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "2df7ba0fb668668d",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La protesta dei sacchi verdi: \"Il Comune ha predisposto un servizio a pagamento\"",
+   "summary": "Dal 1° novembre Ersu ha sospeso, come si sa, il servizio del ritiro a domicilio di sfalci e potature. Servizio che riprenderà il primo di aprile del prossimo anno. Chi non può portarli ai centri di raccolta di Massarosa o Piano di Mommio dovrà pagare 5 euro ogni cinque sacchi per il ritiro a chiama…",
+   "link": "https://www.lanazione.it/viareggio/cronaca/la-protesta-dei-sacchi-verdi-8db6fdc0",
+   "published": "2026-11-08T05:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "0e557b6579431ab6",
@@ -7209,7 +7497,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "8acead04f333ab3a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
+   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-07T20:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "d398c35599d53913",
@@ -7230,24 +7536,6 @@
    "last_seen": "2026-11-08T01:57"
   },
   {
-   "id": "8acead04f333ab3a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 7 novembre : 146.000 manifestants selon le gouvernement, 250.000 selon l'intersyndicale",
-   "summary": "La coordination des gilets jaunes et les organisations de jeunesse ont appelé à de nouvelles actions ce samedi, pour \"l'acte IV\" du mouvement lancé le 17 octobre. 146.000 personnes ont défilé en France, selon le ministère de l'Intérieur, 250.000 selon l'intersyndicale de la jeunesse.",
-   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-07T20:48",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
-  },
-  {
    "id": "254f2523acfdfb11",
    "zone": "fr_national",
    "affects": [],
@@ -7263,7 +7551,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "e3278fe7e93e60b3",
@@ -7299,7 +7587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "3be93c4d0e5395fe",
@@ -7317,7 +7605,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "e11f19ce391ab2d3",
@@ -7335,7 +7623,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "dbdc958fde30c939",
@@ -7371,7 +7659,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "b0692f3b9299f00d",
@@ -7389,7 +7677,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "ef1caea381a310b6",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : malgré l'interdiction, des milliers de personnes dans les rues de Montpellier",
+   "summary": "Nouvelle manifestation ce samedi aprés-midi dans les rues de Montpellier. Malgré l'interdiction de la préfecture de l'Hérault, plusieurs milliers de personnes, surtout des jeunes, ont défilé dans le secteur de la place Albert 1er. La police a pour sa part empêché tout accès aux rues de l'Écusson.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/malgre-l-interdiction-de-la-prefecture-environ-2000-personnes-ont-manifeste-ce-samedi-dans-les-rues-de-montpellier-2354886?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-07T16:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -7443,7 +7749,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "afbccadd6e72c3ef",
@@ -7461,7 +7767,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "9824556c0966c1b4",
@@ -7500,24 +7806,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "968908086449bd8f",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Vannacci a Firenze, tensione manifestanti-polizia",
-   "summary": "",
-   "link": "https://www.lanazione.it/video/vannacci-a-firenze-tensione-manifestanti-polizia-ttnxat7d",
-   "published": "2026-11-07T15:56",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-08T01:57"
-  },
-  {
    "id": "7178384a1007f322",
    "zone": "it_national",
    "affects": [],
@@ -7533,6 +7821,24 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
+   "last_seen": "2026-11-08T08:37"
+  },
+  {
+   "id": "968908086449bd8f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Vannacci a Firenze, tensione manifestanti-polizia",
+   "summary": "",
+   "link": "https://www.lanazione.it/video/vannacci-a-firenze-tensione-manifestanti-polizia-ttnxat7d",
+   "published": "2026-11-07T15:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-07T19:24",
    "last_seen": "2026-11-08T01:57"
   },
   {
@@ -7695,7 +8001,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "be015aea8536d6f4",
@@ -8019,7 +8325,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "c71f7dd9de723f6d",
@@ -8037,7 +8343,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "b406e33e18e7a32e",
@@ -8055,7 +8361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -8091,7 +8397,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -8109,7 +8415,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "ff872a884adee157",
@@ -8128,6 +8434,24 @@
    "soon": false,
    "first_seen": "2026-11-06T22:23",
    "last_seen": "2026-11-07T08:43"
+  },
+  {
+   "id": "711831d093938304",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 7 novembre : dispositif policier, \"acte IV\", manifestations... à quoi s'attendre dans l'Hérault ?",
+   "summary": "La préfecture de l'Hérault annonce un dispositif de sécurité renforcé pour ce samedi 7 novembre, alors qu'une nouvelle journée de contestation a lieu dans tout le pays. Contrairement aux trois samedis précédents, aucune demande officielle pour manifester n'a été déposée à Montpellier.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/dispositif-policier-acte-iv-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-7-novembre-dans-l-herault-5911750?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-06T18:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T08:37",
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -8325,7 +8649,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "aba4bca557a602e3",
@@ -8469,7 +8793,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "7833344472d7ef36",
@@ -8775,7 +9099,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -9081,7 +9405,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "190852b7dc559c57",
@@ -9189,7 +9513,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "76fab39861b8d761",
@@ -9207,7 +9531,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -11603,7 +11927,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "a770081a263ca694",
@@ -15853,7 +16177,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-08T01:57"
+   "last_seen": "2026-11-08T08:37"
   },
   {
    "id": "dccdef5b54e8657d",
