@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 665,
+  "ms": 625,
   "error": ""
  },
  {
@@ -14,7 +14,7 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 810,
+  "ms": 735,
   "error": ""
  },
  {
@@ -23,16 +23,7 @@
   "ok": true,
   "items": 40,
   "kept": 8,
-  "ms": 632,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 1523,
+  "ms": 521,
   "error": ""
  },
  {
@@ -41,16 +32,7 @@
   "ok": true,
   "items": 15,
   "kept": 0,
-  "ms": 1613,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 10,
-  "kept": 0,
-  "ms": 1614,
+  "ms": 1158,
   "error": ""
  },
  {
@@ -59,34 +41,25 @@
   "ok": true,
   "items": 23,
   "kept": 1,
-  "ms": 1625,
+  "ms": 1162,
   "error": ""
  },
  {
-  "id": "franceinfo",
-  "name": "franceinfo",
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 28,
-  "kept": 2,
-  "ms": 119,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
+  "items": 10,
   "kept": 0,
-  "ms": 108,
+  "ms": 1172,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
-  "items": 44,
-  "kept": 4,
-  "ms": 233,
+  "items": 100,
+  "kept": 1,
+  "ms": 1251,
   "error": ""
  },
  {
@@ -95,25 +68,25 @@
   "ok": true,
   "items": 100,
   "kept": 7,
-  "ms": 2028,
+  "ms": 1322,
   "error": ""
  },
  {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
+  "id": "lemonde",
+  "name": "Le Monde",
   "ok": true,
-  "items": 25,
-  "kept": 0,
-  "ms": 396,
+  "items": 16,
+  "kept": 1,
+  "ms": 227,
   "error": ""
  },
  {
-  "id": "midilibre",
-  "name": "Midi Libre",
+  "id": "ici_nat",
+  "name": "ICI 全国",
   "ok": true,
-  "items": 100,
-  "kept": 7,
-  "ms": 1424,
+  "items": 44,
+  "kept": 4,
+  "ms": 427,
   "error": ""
  },
  {
@@ -122,7 +95,25 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 645,
+  "ms": 369,
+  "error": ""
+ },
+ {
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
+  "ok": true,
+  "items": 25,
+  "kept": 0,
+  "ms": 284,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 29,
+  "kept": 2,
+  "ms": 658,
   "error": ""
  },
  {
@@ -131,7 +122,16 @@
   "ok": true,
   "items": 124,
   "kept": 8,
-  "ms": 779,
+  "ms": 603,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 7,
+  "ms": 1357,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1755,
+  "ms": 1591,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83260,
+  "ms": 84247,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
