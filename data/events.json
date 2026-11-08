@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:53",
+ "updated": "2026-11-08T01:58",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -63,7 +63,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "8dc3c637015d0229",
@@ -81,7 +81,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "4151e2940c079f09",
@@ -117,7 +117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "8c33626aa954ca62",
@@ -135,7 +135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "7dd952beea0a4437",
@@ -7114,12 +7114,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-07T22:52",
+   "published": "2026-11-08T01:57",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -7132,12 +7132,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-07T22:52",
+   "published": "2026-11-08T01:57",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -7150,12 +7150,48 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-07T22:52",
+   "published": "2026-11-08T01:57",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
+  },
+  {
+   "id": "0e557b6579431ab6",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Calo dei dehors in centro, Raffini apre sugli sgravi: “Valutare costi e benefici”",
+   "summary": "Imola, 8 novembre 2026 – I dehors possono continuare a essere una risorsa per il commercio e la vitalità del centro storico, ma per capire come incentivarli occorre partire dai numeri e dalle condizioni in cui operano oggi bar e ristoranti. È la linea dell’assessore al Centro storico e al Commercio…",
+   "link": "https://www.ilrestodelcarlino.it/imola/economia/calo-dehors-centro-sgravi-tx474xek",
+   "published": "2026-11-08T01:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T01:57",
+   "last_seen": "2026-11-08T01:57"
+  },
+  {
+   "id": "b023c27576dc1bd6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La riforma sanitaria nel mirino. Il sindacato: “Anziani dimenticati”",
+   "summary": "La Spezia, 8 novembre 2026 – “Non si può governare la sanità regionale come se tutti i territori avessero gli stessi bisogni”. A ventiquattro ore dalla manifestazione contro la nuova riforma sanitaria regionale, è Laura Ruocco, segretaria provinciale di Spi Cgil, a mettere nel mirino il disegno del…",
+   "link": "https://www.lanazione.it/la-spezia/cronaca/la-riforma-sanitaria-nel-mirino-il-sindacato-anziani-dimenticati-pdlwbyhp",
+   "published": "2026-11-08T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T01:57",
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "891a7793167891fa",
@@ -7173,7 +7209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "d398c35599d53913",
@@ -7191,7 +7227,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "8acead04f333ab3a",
@@ -7209,7 +7245,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "254f2523acfdfb11",
@@ -7227,7 +7263,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "e3278fe7e93e60b3",
@@ -7263,7 +7299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "3be93c4d0e5395fe",
@@ -7281,7 +7317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "e11f19ce391ab2d3",
@@ -7299,7 +7335,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "dbdc958fde30c939",
@@ -7335,7 +7371,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "b0692f3b9299f00d",
@@ -7353,7 +7389,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -7371,7 +7407,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "b92325c1695a8c88",
@@ -7389,7 +7425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "c37e3940fb51c494",
@@ -7407,7 +7443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "afbccadd6e72c3ef",
@@ -7425,7 +7461,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "9824556c0966c1b4",
@@ -7479,7 +7515,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "7178384a1007f322",
@@ -7497,7 +7533,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "bfba62fa936392a0",
@@ -7551,7 +7587,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "6dffadfb56f01307",
@@ -7623,7 +7659,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "1dc1d02e5c9a9c78",
@@ -7659,7 +7695,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "be015aea8536d6f4",
@@ -7677,7 +7713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "ea8c69148883dec3",
@@ -7983,7 +8019,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "c71f7dd9de723f6d",
@@ -8019,7 +8055,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "875bc9908ea15b6b",
@@ -8055,7 +8091,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "9493f5f86f412c0d",
@@ -8073,7 +8109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "ff872a884adee157",
@@ -8109,7 +8145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "9b001d1489f20387",
@@ -8289,7 +8325,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "aba4bca557a602e3",
@@ -8433,7 +8469,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "7833344472d7ef36",
@@ -8739,7 +8775,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -9045,7 +9081,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "190852b7dc559c57",
@@ -9153,7 +9189,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "76fab39861b8d761",
@@ -9171,7 +9207,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "eb0c02daffbcef8c",
@@ -11567,7 +11603,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "a770081a263ca694",
@@ -15817,7 +15853,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-07T22:52"
+   "last_seen": "2026-11-08T01:57"
   },
   {
    "id": "dccdef5b54e8657d",
