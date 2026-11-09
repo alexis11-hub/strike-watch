@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:52",
+ "updated": "2026-11-09T10:42",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -99,7 +99,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "8dc3c637015d0229",
@@ -153,7 +153,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "8c33626aa954ca62",
@@ -7121,6 +7121,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "2fc56d3bf047d15d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens : Edouard Geffray redit son refus de modifier les dates du baccalauréat",
+   "summary": "Sébastien Lecornu recevra les représentants des lycéens et des étudiants dans la foulée de la conférence sociale avec les syndicats et le patronat.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T11:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "e272d355bc5a8b77",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Crise des carburants : vers une reconduction de l’aide aux gros rouleurs pour calmer la colère sociale ? La piste envisagée par le gouvernement",
+   "summary": "Au cœur de l’entrevue entre le Premier ministre Sébastien Lecornu et les syndicats ce lundi 9 novembre, le gouvernement prévoit la revalorisation du Smic au-delà de 1 500 euros nets dès le 1er décembre ainsi que la...",
+   "link": "https://www.midilibre.fr/2026/11/09/crise-des-carburants-vers-une-reconduction-de-laide-aux-gros-rouleurs-pour-calmer-la-colere-sociale-la-piste-envisagee-par-le-gouvernement-13643704.php",
+   "published": "2026-11-09T11:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "6d6a9288c336b17e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
+   "summary": "Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T10:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -7131,12 +7185,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-09T02:51",
+   "published": "2026-11-09T10:41",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -7149,12 +7203,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-09T02:51",
+   "published": "2026-11-09T10:41",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -7167,12 +7221,192 @@
    "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
    "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
    "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-09T02:51",
+   "published": "2026-11-09T10:41",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "83f471a7bc7023af",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L’ennesima protesta, 8 operai salgono su una gru per il mancato pagamento degli stipendi",
+   "summary": "Ussita, 9 novembre 2026 - Ancora una protesta sulla gru , per mancati pagamenti . Questa volta a salire a oltre trenta metri di altezza sono ben otto operai impiegati nei subappalti della ricostruzione. La trattativa è ancora in corso , attualmente in una fase di stallo, per cui le forze dell’ordin…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/operai-gru-protesta-84ba4626",
+   "published": "2026-11-09T10:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "0ba8bb861a6c96cd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : pour rattraper les heures perdues, le ministre de l’éducation propose des « cours de rattrapage » pendant les vacances",
+   "summary": "Edouard Geffray a de nouveau dénoncé, lundi sur France 2, les élèves qui « empêchent [leurs] camarades d’aller en cours », et a affirmé que ces pratiques, bien qu’elles ne « remettent pas en cause la légitimité des revendications », sont « illégales », rappelant le « droit à l’éducation » des élève…",
+   "link": "https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html",
+   "published": "2026-11-09T09:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "a8673666495231e9",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mouvement social : négociations à Matignon lundi, grève dans l’éducation mardi, à quoi s'attendre cette semaine ?",
+   "summary": "Après un quatrième samedi de mobilisation contre la vie chère, le gouvernement reçoit syndicats, patronat et jeunesse lundi à Matignon. L’intersyndicale décidera de la suite du mouvement. Voici ce à quoi s'attendre cette semaine.",
+   "link": "https://www.ici.fr/infos/economie-social/mouvement-social-negociations-a-matignon-lundi-greve-dans-l-education-mardi-a-quoi-s-attendre-cette-semaine-3749711?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-09T08:29",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-08T19:57",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "a389c32186da0aa2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mouvement social : négociations à Matignon lundi, grève dans l’éducation mardi, à quoi s'attendre cette semaine ?",
+   "summary": "Après un quatrième samedi de mobilisation contre la vie chère, le gouvernement reçoit syndicats, patronat et jeunesse lundi à Matignon. L’intersyndicale décidera de la suite du mouvement. Voici ce à quoi s'attendre cette semaine.",
+   "link": "https://www.ici.fr/infos/economie-social/mouvement-social-negociations-a-matignon-lundi-greve-dans-l-education-mardi-a-quoi-s-attendre-cette-semaine-3749711?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-09T08:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-08T19:57",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "15522a378135a201",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "VOTO DI SQUADRA. Solo Labriola, Mele e Lombardi sotto tono",
+   "summary": "GUACCI 6. Non è chiamato a compiere grandi interventi. Riesce, comunque, a districarsi bene quando il San Donato prova a venire in avanti. OLIVIERI 6,5 Spinge molto, sia nel primo che nel secondo tempo. Riesce a mettere al centro traversoni interessanti ed anche in fase difensiva non fa sconti. BIA…",
+   "link": "https://www.lanazione.it/lucca/sport/voto-di-squadra-solo-labriola-3f8aae6e",
+   "published": "2026-11-09T07:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "bdd8f97cacaaed38",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Certains commerces ont perdu 80% de chiffre d'affaires\", Laurent Roy président des commerçants du jeu de Paume",
+   "summary": "Quel est l'impact des manifestations sur les commerces du centre-ville de Montpellier ? Pour limiter la perte de chiffre d'affaires, la préfecture autorise l'ouverture les dimanches jusqu'à Noël.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/certains-commerces-ont-perdu-80-de-chiffre-d-affaire-laurent-roy-psdt-des-commercants-du-jeu-de-paume-1440418?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-09T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "103b668c8c628d4c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Jordan Bardella en superstar à la Grande Motte, la popularité du Président du RN y reste manifestement intacte",
+   "summary": "Jordan Bardella a passé l'après-midi de ce dimanche à La Grande Motte. Le président du Rassemblement national est venu y signer son troisième et dernier livre intitulé \"Gouverner\" aux éditions Fayard. Et il a fallu s'armer de patience avant de pouvoir l'approcher et obtenir ainsi sa signature.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/jordan-bardella-en-superstar-a-la-grande-motte-la-popularite-du-president-du-rn-y-reste-manifestement-intacte-4777139?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-09T07:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "0f942da10f9f0c19",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "I nostri giovani e i social: \"È un mare aperto, insegniamo a nuotare\"",
+   "summary": "di MONTEPULCIANO Un’impennata dell’ansia, della depressione e dei disturbi emotivi tra gli adolescenti a partire dal 2012, anno in cui la diffusione degli smartphone e delle piattaforme social è diventata capillare. E poi un’esplosione dell’azzardo telematico, per lo più illegale, che nel 2026 ha g…",
+   "link": "https://www.lanazione.it/siena/cronaca/i-nostri-giovani-e-i-e49b40bd",
+   "published": "2026-11-09T05:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "94510544515a1803",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Fotovoltaico, aree di tutela da preservare\"",
+   "summary": "↪Forum Ferrara partecipata e il coordinamento provinciale nobiogas/ nobiometano promuovono per oggi, alle 14,30, in piazzetta Municipale, in concomitanza con il consiglio comunale, un presidio per esprimere contrarietà al provvedimento approvato in Parlamento che elimina il divieto di installazione…",
+   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/fotovoltaico-aree-di-tutela-23bb58dc",
+   "published": "2026-11-09T05:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "069088a3c0ca90de",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Silent reading\" in biblioteca. Ospite. Adrian Bravi",
+   "summary": "Dopo il successo delle precedenti iniziative, il Sistema Bibliotecario dell’Università di Macerata annuncia una nuova edizione del \" Silenziando. Silent reading party in biblioteca \". L’appuntamento si terrà domani, dalle 17,30 alle 20, nella Sala Sbriccoli della Biblioteca Didattica d’Ateneo in pi…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/silent-reading-in-biblioteca-ospite-0f666aa6",
+   "published": "2026-11-09T04:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T10:41",
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "54e1bb4b6c5c3fcd",
@@ -7299,43 +7533,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-08T19:57",
-   "last_seen": "2026-11-09T02:51"
-  },
-  {
-   "id": "a8673666495231e9",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Mouvement social : négociations à Matignon lundi, grève dans l’éducation mardi, à quoi s'attendre cette semaine ?",
-   "summary": "Après un quatrième samedi de mobilisation contre la vie chère, le gouvernement reçoit syndicats, patronat et jeunesse lundi à Matignon. L’intersyndicale décidera de la suite du mouvement. Voici ce à quoi s'attendre cette semaine.",
-   "link": "https://www.ici.fr/infos/economie-social/mouvement-social-negociations-a-matignon-lundi-greve-dans-l-education-mardi-a-quoi-s-attendre-cette-semaine-3749711?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-08T18:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-08T19:57",
-   "last_seen": "2026-11-09T02:51"
-  },
-  {
-   "id": "a389c32186da0aa2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Mouvement social : négociations à Matignon lundi, grève dans l’éducation mardi, à quoi s'attendre cette semaine ?",
-   "summary": "Après un quatrième samedi de mobilisation contre la vie chère, le gouvernement reçoit syndicats, patronat et jeunesse lundi à Matignon. L’intersyndicale décidera de la suite du mouvement. Voici ce à quoi s'attendre cette semaine.",
-   "link": "https://www.ici.fr/infos/economie-social/mouvement-social-negociations-a-matignon-lundi-greve-dans-l-education-mardi-a-quoi-s-attendre-cette-semaine-3749711?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-08T18:36",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-08T19:57",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "efe170427d9ff8d9",
@@ -7353,7 +7551,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T19:57",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "983bad63090ae07b",
@@ -7443,7 +7641,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T15:35",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "9b41a3cf30473248",
@@ -7461,7 +7659,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-08T15:35",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "929145f9f29f7d8d",
@@ -7659,7 +7857,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "b747791020de1822",
@@ -7677,7 +7875,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -7893,7 +8091,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "3be93c4d0e5395fe",
@@ -7911,7 +8109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "e11f19ce391ab2d3",
@@ -7983,7 +8181,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "ef1caea381a310b6",
@@ -8001,7 +8199,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -8073,7 +8271,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "9824556c0966c1b4",
@@ -8127,7 +8325,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "968908086449bd8f",
@@ -8721,7 +8919,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "ff872a884adee157",
@@ -8757,7 +8955,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -9099,7 +9297,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "7833344472d7ef36",
@@ -9405,7 +9603,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -9711,7 +9909,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "190852b7dc559c57",
@@ -12233,7 +12431,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "a770081a263ca694",
@@ -16483,7 +16681,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-11-09T02:51"
+   "last_seen": "2026-11-09T10:41"
   },
   {
    "id": "dccdef5b54e8657d",
