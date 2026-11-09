@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:42",
+ "updated": "2026-11-09T21:07",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -99,7 +99,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "8dc3c637015d0229",
@@ -7121,6 +7121,402 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "956188d51d843f19",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+   "summary": "\"Nous sommes seuls\", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des \"jets de pavés, des poubelles brûlées, des tentatives d'intrusion\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T21:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "c4408e14a2526b12",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
+   "summary": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre et en présence d'élus.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T21:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "3ab3efe8d2be5610",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Éducation nationale : un nouvel appel à la grève et manifestations ce mardi",
+   "summary": "Une intersyndicale rassemblant organisations lycéennes, étudiantes et d'enseignants appelle à une nouvelle journée de grève et de manifestations ce mardi, selon un communiqué diffusé samedi par le Snes-FSU, premier syndicat des collèges et lycées.",
+   "link": "https://www.ici.fr/infos/economie-social/education-nationale-nouvel-appel-a-la-greve-pour-le-mardi-10-novembre-1641012?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-09T21:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-09T21:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-09T21:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "0bfc78180cd8b1a7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
+   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
+   "link": "https://www.cgt.fr/5nov",
+   "published": "2026-11-09T21:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-20T12:06",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "34630340472c844e",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
+   "summary": "'Non lavorare porta all'esclusione e frammenta la coesione del corpo sociale'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-papa-la-disoccupazione-e-un-dramma-ferisce-la-dignita_f616d609-be3d-481a-923f-9e2fc1611baa.html",
+   "published": "2026-11-09T21:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "9032184430f4633f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT, mobilisation lycéenne : les discussions avec Sébastien Lecornu tournent court, une grande partie des organisations lycéennes et étudiantes ont quitt…",
+   "summary": "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’UNI et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence France-Presse.",
+   "link": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
+   "published": "2026-11-09T20:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "be265e0cd3bbafd9",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Pregiudicato muore a Palermo, il corteo funebre diventa uno show",
+   "summary": "Il video fa il giro dei social. Il sindaco: 'Il cordoglio non diventi manifestazione'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/pregiudicato-muore-a-palermo-il-corteo-funebre-diventa-uno-show-_8f95c035-b1b4-4d92-aa26-8970ea71bff5.html",
+   "published": "2026-11-09T20:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "8307e105934474c5",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Presidio davanti al Comune di Trieste dopo incidenti in piazza",
+   "summary": "Un centinaio di manifestanti sotto la pioggia. Forte dispiegamento forze ordine",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/presidio-davanti-al-comune-di-trieste-dopo-incidenti-in-piazza_61531cf6-64ac-42e1-8307-8d380e8d10c0.html",
+   "published": "2026-11-09T18:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "245fb5f264b7f580",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Milano, venerdì 13 novembre sciopero di 24 ore del personale Atm. A rischio metro, bus e tram",
+   "summary": "È stato confermato lo sciopero di 24 ore del trasporto pubblico locale a Milano per venerdì 13 novembre . L’agitazione, proclamata dal sindacato Al Cobas e alla quale ha aderito anche Confial Trasporti , coinvolgerà il personale del Gruppo Atm e potrebbe provocare disagi per chi utilizza metropolit…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/09/milano-sciopero-atm-venerdi-13-novembre-metro-bus-tram-notizie/8566111/",
+   "published": "2026-11-09T17:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "3cf622d71d7e5a5c",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "In Consiglio a Milano Lega protesta con palloncini contro regolamento del verde",
+   "summary": "I consiglieri contro il divieto introdotto nei parchi pubblici",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/09/in-consiglio-a-milano-lega-protesta-con-palloncini-contro-regolamento-del-verde_61f21027-f2cf-4231-bbc3-fdcd83bad6a1.html",
+   "published": "2026-11-09T17:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "92dcbc7000177832",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Auto sportive e il clacson dei trattori: l'ultimo commovente addio ad Andrea Bartarelli, il pilota morto nel rally",
+   "summary": "Montespertoli, 9 novembre 2026 - Due macchine da rally parcheggiate in piazza, a certificare la passione sportiva di una vita. E poi il clacson dei trattori arrivati in parata, a ricordare quello che fino a qualche anno fa era stato il suo lavoro. Si è concretizzato così, nel piazzale della chiesa…",
+   "link": "https://www.lanazione.it/empoli/cronaca/funerali-andrea-bartarelli-pilota-morto-ac189bda",
+   "published": "2026-11-09T17:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "97fcf2c8fabe02de",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Palermo, il corteo funebre per il mafioso invade il mercato di Ballarò con moto e petardi. Il sindaco: “Inaccettabile”",
+   "summary": "Un affollato e rumoroso corteo funebre ha invaso lunedì mattina l’area pedonale di via Maqueda , a Palermo , per celebrare i funerali del 36enne pregiudicato di mafia Emanuele Rubino . Rubino ha subito varie condanne, tra cui una in primo grado a 12 anni per il tentato omicidio di un cittadino gamb…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/09/corteo-funebre-mafioso-ballaro-palermo-notizie/8566046/",
+   "published": "2026-11-09T17:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "285abc942de5e112",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Operaio morto in A11, sciopero in Toscana addetti settore autostrade",
+   "summary": "Sindacati: 'Da chiarire dinamica ma basta all'agente solo sulla rete'",
+   "link": "https://www.ansa.it/toscana/notizie/2026/11/09/operaio-morto-in-a11-sciopero-in-toscana-addetti-settore-autostrade_f15a3121-dc1e-44ff-b2c0-82a5749fbaf7.html",
+   "published": "2026-11-09T16:19",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "d6ba62074b11171c",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Alla Fiera Toscana del lavoro 8mila candidature per 800 offerte",
+   "summary": "Firenze, 9 novembre 2026 – Da domani, 10 novembre, al 12 novembre alla Fortezza da Basso si terrà la quarta edizione della Fiera Toscana del lavoro, promossa da Regione e Arti: sono oltre 100 le aziende presenti, con oltre 800 offerte e 8.000 candidature. I settori coinvolti All'iniziativa hanno ad…",
+   "link": "https://www.lanazione.it/firenze/cronaca/fiera-toscana-lavoro-8mila-candidature-ottocento-offerte-ad3e33a9",
+   "published": "2026-11-09T16:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "71d0587483861d36",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Termina dopo 14 giorni l'occupazione al Campus Einaudi a Torino",
+   "summary": "Studenti in corteo verso il rettorato, assemblea a Palazzo Nuovo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/a-torino-dopo-14-giorni-termina-loccupazione-al-campus-einaudi_c7d7b1b8-fd82-4e3e-8330-94ac009d89de.html",
+   "published": "2026-11-09T15:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "ea3e90446bf88193",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Une intersyndicale de la fonction publique annonce une grève le 17 novembre, la CGT appelle \"l'ensemble des salariés, des retraités, des jeunes\" à se mobiliser",
+   "summary": "La deuxième force syndicale dans la fonction publique, Force ouvrière, ainsi que la troisième, la CFDT, ne figurent pas, pour l'heure, parmi les organisations signataires de cet appel.",
+   "link": "https://www.franceinfo.fr/economie/greve/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_8274494.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T15:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "cd45c586d558d076",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation sociale : une intersyndicale appelle à la grève dans la fonction publique le 17 novembre",
+   "summary": "Plusieurs syndicats de la fonction publique appellent à la grève mardi 17 novembre dans un communiqué diffusé lundi. Ils réclament notamment des augmentations de salaires.",
+   "link": "https://www.ici.fr/infos/economie-social/mobilisation-sociale-une-intersyndicale-appelle-a-la-greve-dans-la-fonction-publique-le-17-novembre-3108517?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-09T14:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "60ea5066b47f3747",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Augmentation du Smic, prime carburant, heures supplémentaires… Les annonces du gouvernement avant une nouvelle journée de grève le 17 novembre",
+   "summary": "Le ministre du Travail, Jean-Pierre Farandou, a annoncé lundi l’anticipation au 1er décembre de la revalorisation du Smic. Le salaire minimum augmentera de 1,6 %, soit 23,65 euros mensuels supplémentaires pour...",
+   "link": "https://www.midilibre.fr/2026/11/09/cest-officiel-le-smic-augmente-de-2365-euros-le-salaire-minimum-atteindra-les-1-502-euros-des-le-1er-decembre-prochain-13643916.php",
+   "published": "2026-11-09T13:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "98112e0be4133d89",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Crise des carburants : vers une reconduction de la prime carburant pour calmer la colère sociale ? La piste envisagée par le gouvernement",
+   "summary": "Au cœur de l’entrevue entre le Premier ministre Sébastien Lecornu et les syndicats ce lundi 9 novembre, le gouvernement prévoit la revalorisation du Smic au-delà de 1 500 euros nets dès le 1er décembre ainsi que la...",
+   "link": "https://www.midilibre.fr/2026/11/09/crise-des-carburants-vers-une-reconduction-de-laide-aux-gros-rouleurs-pour-calmer-la-colere-sociale-la-piste-envisagee-par-le-gouvernement-13643704.php",
+   "published": "2026-11-09T12:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "3614a9556f69529b",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Milano più donne al lavoro che nel resto d'Italia, ma pesa il divario di reddito",
+   "summary": "Il bilancio di genere del Comune, in città tasso di occupazione femmnile al 71,9%",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/09/a-milano-piu-donne-al-lavoro-che-nel-resto-ditalia-ma-pesa-il-divario_94cada60-4ea0-4f8a-9653-b5e1b81dd7e2.html",
+   "published": "2026-11-09T12:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
    "id": "2fc56d3bf047d15d",
    "zone": "fr_national",
    "affects": [],
@@ -7175,60 +7571,6 @@
    "last_seen": "2026-11-09T10:41"
   },
   {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-09T10:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-09T10:41"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-09T10:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-09T10:41"
-  },
-  {
-   "id": "0bfc78180cd8b1a7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 5 novembre, grandes grèves intersyndicales dans tout le pays !",
-   "summary": "Leur facture, c'est pour nous ! Le projet de budget tourne le dos à la jeunesse et à ses revendications légitimes. Les choix du gouvernement vont encore peser sur nos vies et nos droits. : se soigner correctement, vivre dignement de son salaire ou de sa pension, compter sur des services publics acc…",
-   "link": "https://www.cgt.fr/5nov",
-   "published": "2026-11-09T10:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-11-09T10:41"
-  },
-  {
    "id": "83f471a7bc7023af",
    "zone": "rimini",
    "affects": [],
@@ -7237,14 +7579,32 @@
    "kind": "protest",
    "severity": "medium",
    "title": "L’ennesima protesta, 8 operai salgono su una gru per il mancato pagamento degli stipendi",
-   "summary": "Ussita, 9 novembre 2026 - Ancora una protesta sulla gru , per mancati pagamenti . Questa volta a salire a oltre trenta metri di altezza sono ben otto operai impiegati nei subappalti della ricostruzione. La trattativa è ancora in corso , attualmente in una fase di stallo, per cui le forze dell’ordin…",
+   "summary": "Ussita, 9 novembre 2026 - Ancora una protesta sulla gru , per mancati pagamenti . Questa volta a salire a oltre trenta metri di altezza sono stati ben otto operai egiziani impiegati nei subappalti della ricostruzione. Dopo qualche ora le forze dell’ordine hanno sbloccato la situazione, convincendo…",
    "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/operai-gru-protesta-84ba4626",
    "published": "2026-11-09T10:34",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
+  },
+  {
+   "id": "25852cc816b75e66",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 7 novembre à Montpellier : scène improbable, une Ferrari noire se retrouve au milieu des manifestants",
+   "summary": "Une Ferrari noire s’est retrouvée au milieu de la foule, cours Gambetta, ce samedi 7 novembre, alors que Montpellier connaissait une nouvelle journée de tensions. Une scène aussi inattendue que spectaculaire.",
+   "link": "https://www.midilibre.fr/2026/11/09/manifestation-du-7-novembre-a-montpellier-scene-improbable-une-ferrari-noire-se-retrouve-au-milieu-des-manifestants-13643599.php",
+   "published": "2026-11-09T09:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "0ba8bb861a6c96cd",
@@ -7263,6 +7623,24 @@
    "soon": false,
    "first_seen": "2026-11-09T10:41",
    "last_seen": "2026-11-09T10:41"
+  },
+  {
+   "id": "4d8f6dd867bcb4fb",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Tragedia sull’A11, operaio di Autostrade travolto e ucciso da un’auto in transito: aveva 48 anni. Proclamato lo sciopero",
+   "summary": "Firenze, 9 novembre 2026 – Incidente mortale nella notte sull’autostrada A11, all’altezza di Prato Est direzione mare . A perdere la vita è stato un lavoratore di Autostrade di 48 anni, Daouda Ndoye , di origine senegalese, investito da un’auto in transito. L'impatto e le indagini L’impatto è stato…",
+   "link": "https://www.lanazione.it/firenze/cronaca/operaio-morto-autostrada-eje43fvk",
+   "published": "2026-11-09T08:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-09T21:05",
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "a8673666495231e9",
@@ -7316,7 +7694,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "bdd8f97cacaaed38",
@@ -7334,7 +7712,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "103b668c8c628d4c",
@@ -7352,7 +7730,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -7551,7 +7929,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T19:57",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "983bad63090ae07b",
@@ -7659,7 +8037,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-08T15:35",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "929145f9f29f7d8d",
@@ -7875,7 +8253,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -8181,7 +8559,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "ef1caea381a310b6",
@@ -8199,7 +8577,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -8271,7 +8649,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "9824556c0966c1b4",
@@ -8325,7 +8703,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "968908086449bd8f",
@@ -8955,7 +9333,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -9297,7 +9675,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "7833344472d7ef36",
@@ -9603,7 +9981,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -9909,7 +10287,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "190852b7dc559c57",
@@ -12431,7 +12809,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-09T10:41"
+   "last_seen": "2026-11-09T21:05"
   },
   {
    "id": "a770081a263ca694",
