@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:32",
+ "updated": "2026-11-10T11:47",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -99,7 +99,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T22:52",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "8dc3c637015d0229",
@@ -7121,6 +7121,60 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "f38eeb00ebca7c02",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 10 novembre : \"On n'est plus sur des revendications lycéennes, on est sur des comportements criminels\", réagit Edouard Geffray, après l'agres…",
+   "summary": "Cette conseillère régionale se trouvait alors devant un lycée à Chelles (Seine-et-Marne) \"aux côtés de parents d'élèves qui se battent pour que les cours reprennent\", selon la présidente de la région Ile-de-France, Valérie Pécresse.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-10T12:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "3917f21dc090cafd",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "EN DIRECT Manifestation du 10 novembre : un cortège à Montpellier, des milliers de personnes attendues dans les rues de France… Les dernières infos",
+   "summary": "Ce mardi 10 novembre 2026, la crise sociale se poursuit en France. Plusieurs rassemblements sont attendus sur l’ensemble du pays, et notamment dans la région. Suivez l’évolution du mouvement avec Midi Libre.",
+   "link": "https://www.midilibre.fr/2026/11/10/en-direct-manifestation-du-10-novembre-un-cortege-a-montpellier-des-milliers-de-personnes-attendues-dans-les-rues-de-france-les-dernieres-infos-13645205.php",
+   "published": "2026-11-10T12:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "34e656d83e530325",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Éducation nationale : grève, manifestations, blocages, une nouvelle journée de mobilisation ce mardi",
+   "summary": "Une intersyndicale rassemblant des organisations de jeunesse et d'enseignants a appelé à une nouvelle journée de grève et de manifestations ce mardi, au lendemain d'une réunion sur Parcoursup à Matignon boycottée par les représentants de jeunesse. Plusieurs lycées restent également bloqués.",
+   "link": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-10T11:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
    "id": "0d8dcfbe3c4fa70d",
    "zone": "fr_national",
    "affects": [],
@@ -7131,12 +7185,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-10T03:31",
+   "published": "2026-11-10T11:45",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -7149,12 +7203,246 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-10T03:31",
+   "published": "2026-11-10T11:45",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "0751015b406ad4e5",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il 5 dicembre studenti e medici insieme in piazza per la sanità",
+   "summary": "Manifestazione unitaria con professionisti, ricercatori e infermieri: 'Un fronte unico per il diritto alle cure'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/il-5-dicembre-studenti-e-medici-insieme-in-piazza-per-la-sanita_f0ee4eeb-dc12-4f70-91da-79dace74b2bb.html",
+   "published": "2026-11-10T10:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "34c9e789eccdb628",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Une cinquantaine\" de chefs d'établissement \"traumatisés\" ont demandé leur mutation après la mobilisation des lycéens, selon un syndicat",
+   "summary": "Le principal syndicat des chefs d'établissement parle de \"collègues très découragés\" voire \"traumatisés\". Certains partent en collège ou \"changent de métier\". Le syndicat relate aussi \"une multiplication d'arrêts maladie\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-de-chefs-d-etablissement-traumatises-ont-demande-leur-mutation-apres-la-mobilisation-des-lyceens-selon-un-syndicat_8276060.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-10T10:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "fcae8a0a6d1b4dae",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corteo per funerali pregiudicato: arcivescovo Palermo, 'aprire riflessione'",
+   "summary": "\"Chiedere di abbassare saracinesche ci riporta al passato\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/corteo-per-funerali-pregiudicato-arcivescovo-palermo-aprire-riflessione_f9f8df74-2c9b-41f5-baa4-9619776ff97e.html",
+   "published": "2026-11-10T09:38",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "02b1ae15da339498",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Ucraina, al via i negoziati ad Abu Dhabi. Lavrov accusa l'Occidente: \"Logica dei blocchi\"",
+   "summary": "Riprendono dopo otto mesi i colloqui tra Kiev e Mosca con la mediazione degli Stati Uniti. Il ministro degli Esteri russo denuncia le politiche \"neocolonialiste\" occidentali. Mosca riferisce di aver abbattuto 155 droni ucraini",
+   "link": "https://www.sanmarinortv.sm/news/mondo-c8/ucraina-al-via-i-negoziati-ad-abu-dhabi-lavrov-accusa-l-occidente-logica-dei-blocchi-a298321",
+   "published": "2026-11-10T09:06",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "584d0a82e77deef9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Nous sommes devenus des cibles\" : le syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+   "summary": "Après l'agression de plusieurs proviseurs en marge des blocus et manifestations lycéennes ces dernières semaines, le Syndicat national des personnels de direction de l’Éducation nationale appelle les proviseurs à se rassembler devant leur établissement ce vendredi 13 novembre à 15h.",
+   "link": "https://www.ici.fr/infos/societe/nous-sommes-devenus-des-cibles-le-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre-6810349?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-10T08:28",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "bcb33f27b5732ba3",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "\"Un mouvement historique\" : à Montpellier, un nouvel appel à la grève dans le secteur de l’Éducation nationale et de la recherche",
+   "summary": "Une nouvelle journée de grève est attendue ce mardi 10 novembre à Montpellier dans les secteurs de l’Éducation nationale, de l’enseignement supérieur et de la recherche. Un cortège doit partir à 13 heures depuis la...",
+   "link": "https://www.midilibre.fr/2026/11/10/un-mouvement-historique-a-montpellier-un-nouvel-appel-a-la-greve-dans-le-secteur-de-leducation-nationale-et-de-la-recherche-13644556.php",
+   "published": "2026-11-10T08:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "28982190c8fec2b3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+   "summary": "Malgré le retard pris dans l'apprentissage des programmes, le gouvernement ferme pour l'instant la porte à un report des épreuves. Il plaide plutôt pour l'instauration de cours supplémentaires.",
+   "link": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-10T07:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "7bec64c8a59963c7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "À Marseille, une vidéo montre un manifestant blessé se faire frapper par plusieurs CRS en marge d'une manifestation",
+   "summary": "Dans une vidéo consultée par France Inter, on peut voir Rémi Aubert en train de courir pour échapper à une charge policière avant de tomber au sol, lors de la manifestation du 31 octobre. L'homme de 39 ans souffre de lourdes séquelles physiques et psychologiques.",
+   "link": "https://www.franceinfo.fr/faits-divers/info-radio-france-a-marseille-une-video-montre-un-manifestant-blesse-se-faire-frapper-par-plusieurs-crs-en-marge-d-une-manifestation_8275730.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-10T06:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "d1c69f1e50dfb2e5",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La solidarietà agli attivisti per il sit-in al porto: \"Sempre al loro fianco\". Intanto c’è un nuovo rinvio",
+   "summary": "Sette ore davanti ai cancelli del porto per dire no al transito di armi verso Israele. Una protesta che, a distanza di mesi, approda nelle aule del tribunale, con 37 manifestanti chiamati a rispondere dell’accusa di aver bloccato la circolazione stradale. Ma il processo non è entrato nel vivo: alcu…",
+   "link": "https://www.lanazione.it/massa-carrara/cronaca/la-solidarieta-agli-attivisti-per-5a1841e2",
+   "published": "2026-11-10T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "6ebbb885dfb4aa67",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Niente stipendi da mesi, altri otto operai protestano a 30 metri in cima a una gru",
+   "summary": "Un’altra protesta sulla gru, a Ussita . Ieri, verso le 8.15, ben otto operai della ricostruzione sono saliti a oltre trenta metri d’altezza -in un cantiere di case private in piazza dei Cavallari - per lamentare il mancato pagamento dello stipendio. Si tratterebbe, in base a quanto da loro dichiara…",
+   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/niente-stipendi-da-mesi-altri-0b55c2af",
+   "published": "2026-11-10T06:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "74e0b239157a8b5f",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Anche l’ospedale Versilia avrà la sua Family Room. Un’idea di \"Piccole Stelle\"",
+   "summary": "Anche l’ospedale Versilia, come altre strutture all’avanguardia in Italia, avrà la sua Family Room . L’idea è di Piccole Stelle, l’associazione che si occupa del sostegno ai neonati prematuri e alle loro famiglie da più di vent’anni. Osservando la preoccupazione di molte famiglie di neonati prematu…",
+   "link": "https://www.lanazione.it/viareggio/cronaca/anche-lospedale-versilia-avra-la-7bb54b22",
+   "published": "2026-11-10T05:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "25095a166489bec2",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cas, al via la raccolta firme. Mobilitazione e polemiche",
+   "summary": "A Chianciano Terme è partita, presso gli uffici dell’associazione albergatori, la raccolta firme per chiedere una riduzione delle presenze nei Cas . A Federalberghi Valdichiana-Chianciano Terme è affidato il compito di trasmettere la petizione e ricevere la risposta della Prefettura. Si accende int…",
+   "link": "https://www.lanazione.it/siena/cronaca/cas-al-via-la-raccolta-1c376c51",
+   "published": "2026-11-10T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
+  },
+  {
+   "id": "cb97bd488868451b",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Ottomila candidature per ottocento posti, parte la Fiera del Lavoro",
+   "summary": "di firenze Dieci candidati per ogni posto disponibile. È il rapporto che fotografa la domanda e l’offerta nel mercato regionale alla vigilia della quarta edizione della Fiera Toscana del Lavoro , che comincia oggi e si conclude giovedì 12 alla Fortezza da Basso. Sono oltre 8mila le candidature arri…",
+   "link": "https://www.lanazione.it/firenze/cronaca/ottomila-candidature-per-ottocento-60493ea2",
+   "published": "2026-11-10T05:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-10T11:45",
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "0bfc78180cd8b1a7",
@@ -7316,7 +7604,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "8307e105934474c5",
@@ -7334,7 +7622,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "245fb5f264b7f580",
@@ -7370,7 +7658,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "92dcbc7000177832",
@@ -7424,7 +7712,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "d6ba62074b11171c",
@@ -7460,7 +7748,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "ea3e90446bf88193",
@@ -7514,7 +7802,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "98112e0be4133d89",
@@ -7532,7 +7820,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "3614a9556f69529b",
@@ -7550,7 +7838,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "2fc56d3bf047d15d",
@@ -7640,7 +7928,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "0ba8bb861a6c96cd",
@@ -7748,7 +8036,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "103b668c8c628d4c",
@@ -7766,7 +8054,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8073,7 +8361,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-08T15:35",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "929145f9f29f7d8d",
@@ -8289,7 +8577,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -8595,7 +8883,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "ef1caea381a310b6",
@@ -8613,7 +8901,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -8685,7 +8973,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T19:24",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "9824556c0966c1b4",
@@ -8739,7 +9027,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-07T15:10",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "968908086449bd8f",
@@ -9369,7 +9657,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -9711,7 +9999,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "7833344472d7ef36",
@@ -10017,7 +10305,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -12845,7 +13133,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-10T03:31"
+   "last_seen": "2026-11-10T11:45"
   },
   {
    "id": "a770081a263ca694",
