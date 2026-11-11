@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:07",
+ "updated": "2026-11-11T00:01",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -48,6 +48,42 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "5b87c15e7b199ebc",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+   "summary": "Dans toute la France, 49 lycées, soit 1,3 % des 3 700 que compte le pays, étaient bloqués mardi matin, a rapporté le ministère de l'Education.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-10T21:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "aed08cdd07888266",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "high",
+   "title": "« En Espagne, l’accès au logement, au cœur d’un appel à la grève générale, concentre les colères »",
+   "summary": "L’appel à la grève, le 11 novembre, pour l’encadrement des loyers et la création de logements sociaux s’inspire des grands mouvements et des conquêtes sociales obtenues dans le pays par la rue, analyse le géographe Diego Miralles Buil, dans une tribune au « Monde ».",
+   "link": "https://www.lemonde.fr/idees/article/2026/11/10/en-espagne-l-acces-au-logement-au-c-ur-d-un-appel-a-la-greve-generale-concentre-les-coleres_6808898_3232.html",
+   "published": "2026-11-10T20:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
    "id": "acaa366d9a74034b",
    "zone": "fr_national",
    "affects": [],
@@ -81,7 +117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "ae1aee8e40a2319e",
@@ -6634,24 +6670,6 @@
    "last_seen": "2026-10-21T01:32"
   },
   {
-   "id": "5e4a43fc9741f6c3",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "high",
-   "title": "“Mobilitazione permanente contro il governo dei padroni. Così sfuggiamo alla repressione dello Stato”",
-   "summary": "Milano, 20 ottobre 2026 – Un carro, una falce, utensili del lavoro manuale. Simboli tutt’altro che moderni, che forse rimandano a rivoluzioni più antiche, da quella industriale a quella francese. Sono le “locandine ufficiali” che circolano questa mattina nelle chat di Movimento 17 ottobre , il grup…",
-   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/mobilitazione-permanente-contro-il-governo-dei-padroni-upppng9y",
-   "published": "2026-10-20T09:21",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-20T23:10"
-  },
-  {
    "id": "94b90b7f45d55c92",
    "zone": "montpellier",
    "affects": [],
@@ -6760,24 +6778,6 @@
    "last_seen": "2026-10-21T12:24"
   },
   {
-   "id": "347b339822522b9b",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "La protesta per il carovita diventa guerriglia, Milano un campo di battaglia",
-   "summary": "Scontri anche a Torino e Bologna. Meloni: 'Ogni reticenza sulle violenze è una giustificazione'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-   "published": "2026-10-18T10:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T20:04"
-  },
-  {
    "id": "636655518eea86aa",
    "zone": "montpellier",
    "affects": [],
@@ -6815,6 +6815,114 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-11T00:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-11T00:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-11T00:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "fcfcb0173e3394e2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "REPLAY Manifestation du 10 novembre : 3 000 manifestants à Montpellier, jusqu’à 10 000 à Paris… ce qu’il faut retenir de la mobilisation",
+   "summary": "Ce mardi 10 novembre 2026, la crise sociale se poursuit en France. Plusieurs rassemblements sont attendus sur l’ensemble du pays, et notamment dans la région. Suivez l’évolution du mouvement avec Midi Libre.",
+   "link": "https://www.midilibre.fr/2026/11/10/en-direct-manifestation-du-10-novembre-un-cortege-a-montpellier-des-milliers-de-personnes-attendues-dans-les-rues-de-france-les-dernieres-infos-13645205.php",
+   "published": "2026-11-10T22:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "f2226c417ea4e300",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Marseille : Manuel Bompard saisit la justice pour des messages d'un groupe WhatsApp contre les blocages de lycées",
+   "summary": "Manuel Bompard, député LFI des Bouches-du-Rhône, a saisi ce mardi le procureur de la République de Marseille après la découverte de messages de menaces, racistes et antisémites dans un groupe WhatsApp opposé aux blocages de lycées, notamment celui de la Cité scolaire internationale Jacques-Chirac.",
+   "link": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/injures-menaces-a-marseille-lfi-denonce-les-messages-d-un-groupe-whatsapp-contre-les-blocages-de-lycees-7057621?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-10T20:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "8a0a989c7d94269e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation étudiante : la tension monte d’un cran entre bloqueurs et présidents d’université",
+   "summary": "Plusieurs milliers d’étudiants et de lycéens ont manifesté, mardi 10 novembre, alors que la mobilisation ne faiblit pas dans les universités. Les présidents d’établissement appellent à stopper les blocages et dénoncent l’« irresponsabilité de certains occupants ».",
+   "link": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-etudiante-la-tension-monte-d-un-cran-entre-bloqueurs-et-presidents-d-universite_6808900_4401467.html",
+   "published": "2026-11-10T20:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
    "id": "375df9df399e816d",
    "zone": "montpellier",
    "affects": [],
@@ -6830,7 +6938,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
+  },
+  {
+   "id": "8696590ade7c7f97",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+   "summary": "Une intersyndicale rassemblant des organisations de jeunesse et d'enseignants a appelé à une nouvelle journée de grève et de manifestations ce mardi, au lendemain d'une réunion sur Parcoursup à Matignon boycottée par les représentants de jeunesse. Plusieurs lycées ont été également bloqués.",
+   "link": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-10T19:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T00:00",
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "b179875ff0e366b6",
@@ -6887,60 +7013,6 @@
    "last_seen": "2026-11-10T19:06"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-10T19:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-10T19:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-10T19:06"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-10T19:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-10T19:06"
-  },
-  {
    "id": "eb7e96d2924d8563",
    "zone": "it_national",
    "affects": [],
@@ -6956,7 +7028,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "69cad24f6f90d374",
@@ -6992,7 +7064,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "366ff23e1992c701",
@@ -7010,7 +7082,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -7028,7 +7100,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "54acb4658a2b6f2d",
@@ -7064,7 +7136,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "f38eeb00ebca7c02",
@@ -7154,7 +7226,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "02b1ae15da339498",
@@ -7208,7 +7280,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "28982190c8fec2b3",
@@ -7262,7 +7334,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "6ebbb885dfb4aa67",
@@ -7496,7 +7568,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "8307e105934474c5",
@@ -7514,7 +7586,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "245fb5f264b7f580",
@@ -7550,7 +7622,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "92dcbc7000177832",
@@ -7604,7 +7676,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "d6ba62074b11171c",
@@ -7640,7 +7712,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "ea3e90446bf88193",
@@ -7730,7 +7802,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "2fc56d3bf047d15d",
@@ -7928,7 +8000,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "103b668c8c628d4c",
@@ -7946,7 +8018,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8253,7 +8325,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-08T15:35",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "929145f9f29f7d8d",
@@ -8469,7 +8541,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -8793,7 +8865,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -9549,7 +9621,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -9891,7 +9963,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "7833344472d7ef36",
@@ -10197,7 +10269,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "b68f4f3c4a500f37",
@@ -13025,7 +13097,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-10T19:06"
+   "last_seen": "2026-11-11T00:00"
   },
   {
    "id": "a770081a263ca694",
@@ -26670,24 +26742,6 @@
    "last_seen": "2026-10-21T01:32"
   },
   {
-   "id": "70b5a5f537cdc88f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon",
-   "summary": "À Paris, Lyon, Bordeaux et Nice, des couvre-feux ont été annoncés dans certains quartiers. Six communes martiniquaises sont également concernées. Dans la capitale, l’interdiction de manifester dans certains secteurs a également été reconduite jusqu’à 6 heures mercredi.",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-les-partis-se-positionnent-avant-la-reunion-de-jeudi-a-matignon_6795855_3224.html",
-   "published": "2026-10-21T00:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T23:10",
-   "last_seen": "2026-10-20T23:10"
-  },
-  {
    "id": "306ffa3ba753b075",
    "zone": "firenze",
    "affects": [],
@@ -26812,24 +26866,6 @@
    "soon": false,
    "first_seen": "2026-10-20T20:04",
    "last_seen": "2026-10-21T12:24"
-  },
-  {
-   "id": "3a7fc7b1cea4445d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; Sébastien Lecornu recevra les syndicats mercredi et les partis politiques jeudi",
-   "summary": "A Paris, Lyon, Bordeaux et Nice, des couvre-feux ont été annoncés dans certains quartiers. Le premier secrétaire du Parti socialiste, Olivier Faure, participera jeudi après-midi à la réunion organisée à Matignon par le premier ministre.",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-sebastien-lecornu-recevra-les-syndicats-mercredi-et-les-partis-politiques-jeudi_6795855_3224.html",
-   "published": "2026-10-20T19:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-20T20:04",
-   "last_seen": "2026-10-20T20:04"
   },
   {
    "id": "5fd82e9b52f4cb00",
@@ -27208,24 +27244,6 @@
    "soon": false,
    "first_seen": "2026-10-20T12:06",
    "last_seen": "2026-10-21T01:32"
-  },
-  {
-   "id": "c337f301fa147dc2",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La protesta nelle scuole fiorentine: sedi occupate al Galileo-Miche e al Da Vinci, blitz sventato all’artistico di Porta Romana",
-   "summary": "Firenze, 20 ottobre 2026 – La protesta degli studenti arriva anche nelle scuole di Firenze. Dopo l’occupazione di ieri al Gramsci e l’autogestione al Galilei di via di Scandicci, nella notte ignoti hanno tentato di occupare anche il Liceo Artistico di Porta Romana. Un messaggio apparso sulla home p…",
-   "link": "https://www.lanazione.it/firenze/cronaca/la-protesta-nelle-scuole-fiorentine-tentativo-di-occupazione-allartistico-di-porta-romana-studenti-in-strada-al-galileo-ew78wped",
-   "published": "2026-10-20T06:32",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-20T12:06",
-   "last_seen": "2026-10-20T23:10"
   },
   {
    "id": "6d1f99821acac679",
