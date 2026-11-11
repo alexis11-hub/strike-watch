@@ -5,34 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 498,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 751,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 8,
-  "ms": 404,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 1013,
+  "ms": 523,
   "error": ""
  },
  {
@@ -41,7 +14,34 @@
   "ok": true,
   "items": 38,
   "kept": 0,
-  "ms": 1020,
+  "ms": 717,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 9,
+  "ms": 815,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 827,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 16,
+  "kept": 1,
+  "ms": 854,
   "error": ""
  },
  {
@@ -50,7 +50,16 @@
   "ok": true,
   "items": 60,
   "kept": 2,
-  "ms": 1034,
+  "ms": 878,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 8,
+  "ms": 483,
   "error": ""
  },
  {
@@ -59,7 +68,7 @@
   "ok": true,
   "items": 43,
   "kept": 2,
-  "ms": 44,
+  "ms": 219,
   "error": ""
  },
  {
@@ -67,17 +76,8 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 2,
-  "ms": 103,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 30,
   "kept": 1,
-  "ms": 222,
+  "ms": 255,
   "error": ""
  },
  {
@@ -85,26 +85,17 @@
   "name": "La Nazione · 佛罗伦萨",
   "ok": true,
   "items": 100,
-  "kept": 2,
-  "ms": 1372,
+  "kept": 4,
+  "ms": 1225,
   "error": ""
  },
  {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
+  "id": "franceinfo",
+  "name": "franceinfo",
   "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 1476,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
+  "items": 31,
   "kept": 0,
-  "ms": 399,
+  "ms": 491,
   "error": ""
  },
  {
@@ -113,7 +104,7 @@
   "ok": true,
   "items": 122,
   "kept": 8,
-  "ms": 469,
+  "ms": 254,
   "error": ""
  },
  {
@@ -122,16 +113,16 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 432,
+  "ms": 305,
   "error": ""
  },
  {
-  "id": "midilibre",
-  "name": "Midi Libre",
+  "id": "ansa_top",
+  "name": "ANSA 头条",
   "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1014,
+  "items": 10,
+  "kept": 0,
+  "ms": 440,
   "error": ""
  },
  {
@@ -140,7 +131,16 @@
   "ok": true,
   "items": 10,
   "kept": 3,
-  "ms": 1520,
+  "ms": 1260,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 1540,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83486,
+  "ms": 84727,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
