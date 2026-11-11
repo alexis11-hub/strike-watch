@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:13",
+ "updated": "2026-11-11T21:26",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -23,6 +23,60 @@
    "soon": false,
    "first_seen": "2026-10-21T01:32",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "d3864c5911d4724a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scontri a Barcellona dopo il corteo per la casa, vetrine in frantumi",
+   "summary": "Gli incidenti sono iniziati solo alla conclusione della marcia",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/scontri-a-barcellona-dopo-il-corteo-per-la-casa-vetrine-in-frantumi_821cd9b5-76e8-40c4-8b51-e9875efacb45.html",
+   "published": "2026-11-11T21:04",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "edaeda397e15100d",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "high",
+   "title": "“Qualcuno sta cercando di generare tensione per giustificare la guerra e il riarmo”, il presidio degli studenti di Osa e sindacato Usb dopo gli allarmi bomba n…",
+   "summary": "Dopo l’allarme bomba, che ha interessato circa 6mila scuole in tutta Italia , una delegazione formata da studenti di Osa (Opposizione studentesca d’Alternativa) e rappresentanti sindacali di Usb Scuola è stata ricevuta intorno alle 17 in Prefettura a Roma . In contemporanea, all’esterno dell’edific…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/11/qualcuno-sta-cercando-di-generare-tensione-per-giustificare-la-guerra-e-il-riarmo-il-presidio-degli-studenti-di-osa-e-sindacato-usb-dopo-gli-allarmi-bomba-nella-scuole/8568688/",
+   "published": "2026-11-11T19:41",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "2258ca60dcadaed2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "high",
+   "title": "L’Espagne n’avait pas connu ça depuis 2012 : pourquoi une grève générale paralyse le pays à l’approche des élections",
+   "summary": "Les salariés espagnols ont lancé une grève générale ce mercredi 11 novembre, soutenue par les principaux syndicats, pour protester contre la crise du logement. Avec une participation de 90 % dans les ports et...",
+   "link": "https://www.midilibre.fr/2026/11/11/lespagne-navait-pas-connu-ca-depuis-2012-pourquoi-une-greve-generale-paralyse-le-pays-a-lapproche-des-elections-13647431.php",
+   "published": "2026-11-11T16:19",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "715f4a4c6a79000d",
@@ -94,7 +148,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "a4716c129e4f706e",
@@ -112,7 +166,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "5caba8a54e63c6de",
@@ -6067,24 +6121,6 @@
    "last_seen": "2026-10-21T23:49"
   },
   {
-   "id": "36709bab5a264b92",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mercredi soir ; Sébastien Lecornu recevra jeudi les maires de Paris, Marseille et Lyon",
-   "summary": "Interrogé au Sénat sur la gestion des violences survenues lors de la mobilisation du 17 octobre, le ministre de l’intérieur, Laurent Nuñez, a défendu l’action des forces de l’ordre, assurant que leur mobilisation avait permis de garantir la liberté de manifester.",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mercredi-soir-sebastien-lecornu-recevra-jeudi-les-maires-de-paris-marseille-et-lyon_6795855_3224.html",
-   "published": "2026-10-21T18:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T17:28"
-  },
-  {
    "id": "d6964eb77c14cfee",
    "zone": "it_national",
    "affects": [],
@@ -6303,42 +6339,6 @@
    "last_seen": "2026-10-22T02:38"
   },
   {
-   "id": "bef2918839351b4a",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Alta tensione nelle scuole. La protesta corre in chat. E ’spuntano’ le divise",
-   "summary": "di Luca Ravaglia L’allarme è stato immediato, perché mentre a livello nazionale dilaga la rabbia distruttiva di chi per far sentire la sua voce sceglie di mettere a ferro e fuoco strade e negozi, il raid degli studenti dell’istituto professionale Comandini che lunedì mattina avevano rubato fumogeni…",
-   "link": "https://www.ilrestodelcarlino.it/cesena/cronaca/alta-tensione-nelle-scuole-la-b5fd7447",
-   "published": "2026-10-21T05:13",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T17:28"
-  },
-  {
-   "id": "488e4df67bc80254",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Occupazioni effetto domino. Blitz nella notte al liceo artistico. Aule devastate, lezioni sospese",
-   "summary": "La porta che non può non aprirsi per la prima campanella, una cinquantina di ragazzi con il volto coperto che si riversano nell’edificio e che stroncano sul nascere ogni possibilità di trattativa. È scattata così l’ occupazione della sede di piazza Frescobaldi dell’Iis Machiavelli. È l’immagine for…",
-   "link": "https://www.lanazione.it/firenze/cronaca/occupazioni-effetto-domino-blitz-nella-e5ec141d",
-   "published": "2026-10-21T05:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T20:48"
-  },
-  {
    "id": "fd985372e7b6b62b",
    "zone": "montpellier",
    "affects": [],
@@ -6476,12 +6476,12 @@
    "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
    "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
    "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-11T14:12",
+   "published": "2026-11-11T21:25",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "0d8dcfbe3c4fa70d",
@@ -6494,12 +6494,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-11T14:12",
+   "published": "2026-11-11T21:25",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -6512,12 +6512,120 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-11T14:12",
+   "published": "2026-11-11T21:25",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "65b3f2636816f89a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
+   "summary": "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires.",
+   "link": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
+   "published": "2026-11-11T21:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "c0ac78040a1c0852",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des étudiants : Sébastien Lecornu officialise la création de 5.000 places supplémentaires en licence",
+   "summary": "Alors que les étudiants ont rejoint le mouvement de contestation des lycéens depuis plusieurs semaines, le Premier ministre Sébastien Lecornu a formalisé la création de 5.000 places supplémentaires en licence, dans un courrier adressé aux présidents d'universités, consulté ce mercredi par l'AFP.",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-etudiants-sebastien-lecornu-officialise-la-creation-de-5-000-places-supplementaires-en-licence-9503276?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-11T20:24",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "96dc39ddef855913",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation des étudiants : Sébastien Lecornu officialise la création de 5.000 places supplémentaires en licence",
+   "summary": "Alors que les étudiants ont rejoint le mouvement de contestation des lycéens depuis plusieurs semaines, le Premier ministre Sébastien Lecornu a formalisé la création de 5.000 places supplémentaires en licence, dans un courrier adressé aux présidents d'universités, consulté ce mercredi par l'AFP.",
+   "link": "https://www.ici.fr/infos/education/mobilisation-des-etudiants-sebastien-lecornu-officialise-la-creation-de-5-000-places-supplementaires-en-licence-9503276?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-11T20:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "0684bd000db664f0",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "I giovani di Barcellona in piazza per l’emergenza casa: “Avere un tetto sopra la testa è un diritto, ma a impedirlo sono banche e fondi speculativi. Lo scioper…",
+   "summary": "Barcellona scende in piazza In Catalogna si sciopera per 24 ore per la casa e per i salari, dopo settimane di manifestazioni e di accampamenti di protesta in diverse città spagnole. A pochi giorni dalle elezioni anticipate del 29 novembre, il movimento per il diritto all’abitare ha scelto di farsi…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/11/sciopero-casa-barcellona-catalogna-notizie/8568713/",
+   "published": "2026-11-11T20:13",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "8934406b37b6ac4c",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "“Sánchez vicino agli speculatori, perderà le elezioni perché sulla casa ha sbagliato tutto”: intervista a Javier Gil, leader delle proteste contro l’emergenza…",
+   "summary": "“Sono sempre stato convinto – prima degli ultimi eventi (l’incidente del treno, ndr ) che il governo Sánchez avrebbe perso le prossime elezioni per la crisi della casa . Questo nonostante i dati macroeconomici siano molto buoni, così come quelli sul lavoro , le battaglie del governo, da quelle cult…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/11/sanchez-vicino-agli-speculatori-perdera-le-elezioni-perche-sulla-casa-ha-sbagliato-tutto-intervista-a-javier-gil-leader-delle-proteste-nate-dopo-il-caso-di-maricarmen/8568557/",
+   "published": "2026-11-11T19:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
+  },
+  {
+   "id": "2ea8e18a1b403547",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Kemet Electronics, allarme per il futuro della storica industria di condensatori. Paglia: \"La situazione desta forte preoccupazione”",
+   "summary": "Bologna, 11 novembre 2026 – Preoccupazione per il futuro dello stabilimento Kemet Electronics Italia di Pontecchio , nel territorio di Sasso Marconi , e per le ricadute occupazionali annunciate dalla direzione aziendale, che ha manifestato la volontà di concludere la propria esperienza produttiva n…",
+   "link": "https://www.ilrestodelcarlino.it/bologna/economia/kemet-electronics-allarme-posti-lavoro-60b40097",
+   "published": "2026-11-11T15:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-11T21:24",
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "b2f353307318c959",
@@ -6535,7 +6643,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "dfbb678667000b1d",
@@ -6571,7 +6679,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "8eade35ee6c3a280",
@@ -6823,7 +6931,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T00:00",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "f2226c417ea4e300",
@@ -6877,7 +6985,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "375df9df399e816d",
@@ -6985,7 +7093,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "69cad24f6f90d374",
@@ -7039,7 +7147,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -7057,7 +7165,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "54acb4658a2b6f2d",
@@ -7093,7 +7201,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "f38eeb00ebca7c02",
@@ -7183,7 +7291,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "02b1ae15da339498",
@@ -7525,7 +7633,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "8307e105934474c5",
@@ -7543,7 +7651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "245fb5f264b7f580",
@@ -7669,7 +7777,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "ea3e90446bf88193",
@@ -7957,7 +8065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "103b668c8c628d4c",
@@ -7975,7 +8083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8498,7 +8606,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -8822,7 +8930,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -9578,7 +9686,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -13054,7 +13162,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-11T14:12"
+   "last_seen": "2026-11-11T21:24"
   },
   {
    "id": "a770081a263ca694",
@@ -25851,42 +25959,6 @@
    "last_seen": "2026-10-24T21:35"
   },
   {
-   "id": "445c473bcc96fd30",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 17 octobre : Emmanuel Macron présidera un conseil de sécurité jeudi matin pour \"faire un point\" sur les \"dispositifs de renseignement\", annonce…",
-   "summary": "Le Premier ministre Sébastien Lecornu et les services de renseignement sont conviés à ce rendez-vous qui démarre à 10 heures.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-21T22:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-21T20:48"
-  },
-  {
-   "id": "892d4670ef7d1e9a",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Blocchi dei tir: riunione a Palazzo Chigi con Meloni, il Viminale garantirà i rifornimenti di prima necessità",
-   "summary": "Sarà assicurata la distribuzione di generi alimentari e la consegna farmaci, forze dell'ordine pronte a scortare chiunque ne faccia richiesta. Fedralog sospende il fermo dell'autotrasporto in Calabria",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/riunione-a-palazzo-chigi-con-meloni-il-viminale-garantira-i-rifornimenti-di-prima-necessita_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
-   "published": "2026-10-21T21:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T20:48",
-   "last_seen": "2026-10-21T20:48"
-  },
-  {
    "id": "b3e635297093dddc",
    "zone": "fr_national",
    "affects": [],
@@ -25923,24 +25995,6 @@
    "last_seen": "2026-10-22T02:38"
   },
   {
-   "id": "d9b92bc707067e07",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 17 octobre : le préfet du Rhône interdit à son tour une manifestation étudiante prévue jeudi à Lyon, \"face aux risques sérieux de troubles à l'…",
-   "summary": "Un peu plus tôt dans la journée, la préfecture de police de Paris avait interdit la manifestation des lycéens et étudiants programmés à Paris.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-21T19:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T17:28"
-  },
-  {
    "id": "454d88b7316ed9a6",
    "zone": "it_national",
    "affects": [],
@@ -25957,60 +26011,6 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-24T16:46"
-  },
-  {
-   "id": "caedc067982b36dd",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Protesta autotrasporto, Viminale: '1.339 identificati e 71 denunciati per i blocchi'. I sindaci di Bari e Napoli: 'Rischio paralisi'",
-   "summary": "Leccese e Manfredi: 'Difficoltà nei servizi rifiuti e trasporti'. Gli industriali di Campania e Puglia: 'Imprese al collasso'. Gli aeroporti di Crotone e Reggio Calabria senza carburante, code e chiusure su autostrade A1 e A30",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/viminale-1.339-identificati-e-71-denunciati-per-i-blocchi.-i-sindaci-di-bari-e-napoli-rischio_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
-   "published": "2026-10-21T18:45",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T17:28"
-  },
-  {
-   "id": "3b6da12bccf3700d",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Viminale, 1.339 identificati e 71 denunciati per i blocchi stradali",
-   "summary": "Piantedosi a prefetti e questori, 'attenti alle infiltrazioni criminali'",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/viminale-1.339-identificati-e-71-denunciati-per-i-blocchi-stradali_353e5dc1-23fc-4815-a6a3-67272b6b3b90.html",
-   "published": "2026-10-21T18:21",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T17:28"
-  },
-  {
-   "id": "dd126f6321a1d7ce",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La préfecture de police interdit la manifestation des lycéens et étudiants franciliens prévue jeudi à Paris",
-   "summary": "Elle pointe \"l'incapacité de l’organisateur à éviter des exactions lors des rassemblements de voies publiques des 13 et 17 octobre\".",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-de-police-interdit-la-manifestation-des-lyceens-et-etudiants-franciliens-prevue-jeudi-a-paris_8247574.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-21T17:48",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T17:28"
   },
   {
    "id": "00463ffcde054ba4",
@@ -26083,24 +26083,6 @@
    "soon": false,
    "first_seen": "2026-10-21T17:28",
    "last_seen": "2026-10-22T02:38"
-  },
-  {
-   "id": "9d2c251151d49df4",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Mobilisation sociale : la CGT appelle à la grève à partir du 5 novembre",
-   "summary": "La secrétaire générale de la CGT Sophie Binet a estimé mercredi, à l'issue d'une réunion à Matignon, que le Premier ministre n'avait annoncé \"aucune mesure\" pour répondre aux revendications des travailleurs et lycéens et elle a appelé à un \"nouveau cap\" dans la mobilisation.",
-   "link": "https://www.ici.fr/infos/societe/mobilisation-sociale-la-cgt-appelle-a-la-greve-a-partir-du-5-novembre-8412444?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-21T14:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-21T17:28"
   },
   {
    "id": "e694d4c4adb1f7ad",
@@ -26195,24 +26177,6 @@
    "last_seen": "2026-10-26T01:42"
   },
   {
-   "id": "fca23955eda8859c",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "A quoi s'attendre pour la nouvelle journée de mobilisation du samedi 24 octobre ?",
-   "summary": "Une semaine après les manifestations du 17 octobre, les gilets jaunes veulent se remobiliser. Leur coordination a annoncé lundi 19 octobre un \"acte II\" pour le samedi 24 octobre. Plusieurs dizaines d'actions sont déjà prévues en France. #JT13H (ne pas oublier le hashtag pour les stats) merci !",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-quoi-s-attendre-pour-la-journee-du-samedi-24-octobre_8245924.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-21T10:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T20:48"
-  },
-  {
    "id": "69211b48f05b7dcd",
    "zone": "firenze",
    "affects": [],
@@ -26283,24 +26247,6 @@
    "soon": false,
    "first_seen": "2026-10-21T12:24",
    "last_seen": "2026-10-21T23:49"
-  },
-  {
-   "id": "37f92affd9fe3625",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Sos alloggi, Unibo incontra gli studenti",
-   "summary": "Emergenza abitativa, carovita e diritto allo studio. Per questi motivi Cambiare Rotta, collettivo universitario, da giorni ha piantato le tende in Rettorato per protestare contro \"la situazione gravissima\" che studenti e studentesse devono affrontare, \"con più di quattromila studenti in tutta la re…",
-   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/sos-alloggi-unibo-incontra-gli-44edf832",
-   "published": "2026-10-21T05:14",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-21T06:34",
-   "last_seen": "2026-10-21T17:28"
   },
   {
    "id": "208a52ff23ad172e",
@@ -26409,24 +26355,6 @@
    "soon": false,
    "first_seen": "2026-10-20T16:26",
    "last_seen": "2026-10-23T09:36"
-  },
-  {
-   "id": "7a1f83ada05c7a15",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Impossible de vous connecter à Revolut ce mardi : faut-il vous inquiéter pour votre argent et vos données ?",
-   "summary": "Une panne affecte Revolut depuis ce mardi 20 octobre au matin. De nombreux utilisateurs du service bancaire en ligne ont déploré des blocages au moment du paiement voire une impossibilité pure et simple de se...",
-   "link": "https://www.midilibre.fr/2026/10/20/impossible-de-vous-connecter-a-revolut-ce-mardi-faut-il-vous-inquieter-pour-votre-argent-et-vos-donnees-13611699.php",
-   "published": "2026-10-20T14:51",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-20T16:26",
-   "last_seen": "2026-10-21T17:28"
   },
   {
    "id": "2534764e03c6f073",
