@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:15",
+ "updated": "2026-11-12T23:41",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -25,6 +25,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "74ca42b86040a79a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "\"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation",
+   "summary": "Les syndicats et des directions de médias dénoncent depuis plusieurs jours des violences policières à l'encontre de journalistes. Plusieurs plaintes ont été déposées.",
+   "link": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/rappelez-a-l-ordre-vos-forces-de-l-ordre-les-journalistes-demandent-a-laurent-nunez-le-respect-du-droit-d-informer-en-manifestation_8280080.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-12T22:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-12T23:40",
+   "last_seen": "2026-11-12T23:40"
+  },
+  {
    "id": "097fa347e38b5a1c",
    "zone": "fr_national",
    "affects": [],
@@ -33,14 +51,14 @@
    "kind": "protest",
    "severity": "high",
    "title": "Après l’éborgnement d’une adolescente lors des manifestations du 17 octobre, le parquet de Mulhouse saisit le juge d’instruction",
-   "summary": "La qualification retenue pour l’information judiciaire ouverte jeudi fait part d’une « violence ayant entraîné une infirmité ou mutilation permanente par une personne dépositaire de l’autorité publique dans l’exercice de ses missions et lors d’une manifestation publique ».",
+   "summary": "La victime, Maïssa, a déposé plainte avec sa mère. Selon des témoins, elle aurait été blessée par une grenade lacrymogène lors des manifestations du 17 octobre.",
    "link": "https://www.lemonde.fr/societe/article/2026/11/12/apres-l-eborgnement-d-une-adolescente-lors-des-manifestations-du-17-octobre-le-parquet-de-mulhouse-saisit-le-juge-d-instruction_6809131_3224.html",
    "published": "2026-11-12T17:39",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "dd3c58597fc1f6ba",
@@ -58,7 +76,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -76,7 +94,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "e1e6d24f6dbacd55",
@@ -148,7 +166,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "d3864c5911d4724a",
@@ -202,7 +220,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "715f4a4c6a79000d",
@@ -6068,6 +6086,78 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-12T23:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-12T23:40"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-12T23:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-12T23:40"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-12T23:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-12T23:40"
+  },
+  {
+   "id": "a5ddab24565b3076",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Nous sommes devenus des cibles\" : le syndicat des proviseurs appelle au rassemblement ce vendredi",
+   "summary": "Après l'agression de plusieurs proviseurs en marge des blocus et manifestations lycéennes ces dernières semaines, le Syndicat national des personnels de direction de l’Éducation nationale appelle les proviseurs à se rassembler devant leur établissement ce vendredi 13 novembre à 15h.",
+   "link": "https://www.ici.fr/infos/societe/nous-sommes-devenus-des-cibles-le-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre-6810349?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-12T21:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-12T23:40",
+   "last_seen": "2026-11-12T23:40"
+  },
+  {
    "id": "234d2daeb1b592be",
    "zone": "fr_national",
    "affects": [],
@@ -6083,7 +6173,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "f2290f9e1ba37a2e",
@@ -6104,60 +6194,6 @@
    "last_seen": "2026-11-12T18:14"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-12T18:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T18:14"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-12T18:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-12T18:14"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-12T18:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-12T18:14"
-  },
-  {
    "id": "5ef6fac482d75641",
    "zone": "it_national",
    "affects": [],
@@ -6173,7 +6209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "d5516bd7fa7c4786",
@@ -6209,7 +6245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "9d6d80199aa06453",
@@ -6227,7 +6263,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6245,7 +6281,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "5fd6c68360915ded",
@@ -6263,7 +6299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "1d25cb7e623e7390",
@@ -6281,7 +6317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "3399b692786fec36",
@@ -6317,7 +6353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6335,7 +6371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "b86678b9d70de2ed",
@@ -6911,7 +6947,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "375df9df399e816d",
@@ -7019,7 +7055,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "69cad24f6f90d374",
@@ -7073,7 +7109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -7091,7 +7127,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "54acb4658a2b6f2d",
@@ -7127,7 +7163,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "f38eeb00ebca7c02",
@@ -7217,7 +7253,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "02b1ae15da339498",
@@ -7991,7 +8027,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "103b668c8c628d4c",
@@ -8009,7 +8045,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8532,7 +8568,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-12T18:14"
+   "last_seen": "2026-11-12T23:40"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -24461,24 +24497,6 @@
    "soon": false,
    "first_seen": "2026-10-22T21:32",
    "last_seen": "2026-10-23T04:43"
-  },
-  {
-   "id": "3915f402a3e50ca4",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : à Paris, les forces de l'ordre évacuent à nouveau l'université Sorbonne Nouvelle",
-   "summary": "\"Le recours à la force publique n'est jamais une décision anodine\", a estimé l'établissement, jeudi, dans un communiqué.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-les-partis-politiques-recus-a-matignon-dans-la-journee-le-renseignement-convoque-a-l-elysee-pour-un-conseil-de-securite_8248414.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-22T22:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-22T21:32"
   },
   {
    "id": "477bff99873a6102",
