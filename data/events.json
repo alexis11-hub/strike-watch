@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:26",
+ "updated": "2026-11-12T02:22",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -23,6 +23,60 @@
    "soon": false,
    "first_seen": "2026-10-21T01:32",
    "last_seen": "2026-10-23T09:36"
+  },
+  {
+   "id": "06cde18959a0f302",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Caso manganelli, verranno processati anche i 12 manifestanti. Le accuse di resistenza e oltraggio a pubblico ufficiale",
+   "summary": "Pisa, 12 novembre 2026 – Si incontreranno di nuovo in Tribunale in estate. È arrivata, a poche ore di distanza rispetto a quella per i poliziotti, anche la citazione diretta a giudizio per 12 manifestanti maggiorenni (i minorenni sono già usciti dal caso) che avevano partecipato al corteo Propal di…",
+   "link": "https://www.lanazione.it/pisa/cronaca/manifestazione-violenza-processo-caso-manganelli-cjijwz96",
+   "published": "2026-11-12T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-12T02:21",
+   "last_seen": "2026-11-12T02:21"
+  },
+  {
+   "id": "d444b8255aff6f7a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations",
+   "summary": "Plusieurs journalistes avaient auparavant porté plainte, notamment à Paris, pour dénoncer des \"violences et entraves commises à leur encontre\" lors de la couverture de la mobilisation sociale.",
+   "link": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/quatre-organisations-syndicales-de-journalistes-deposent-plainte-contre-x-apres-plusieurs-entraves-par-des-forces-de-l-ordre-lors-de-manifestations_8278373.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-11T22:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-12T02:21",
+   "last_seen": "2026-11-12T02:21"
+  },
+  {
+   "id": "f902a544b3aaec3e",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "libertas",
+   "source": "Libertas.sm",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane",
+   "summary": "SAN MARINO – Momenti di apprensione nelle prime ore di mercoledì 11 novembre in piazza Marino Capicchioni, dove un furgone L'articolo Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane proviene da libertas .",
+   "link": "https://www.libertas.sm/incendio-allalba-a-santa-mustiola-a-fuoco-un-mezzo-per-il-trasporto-del-pane/",
+   "published": "2026-11-11T22:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-12T02:21",
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "d3864c5911d4724a",
@@ -58,7 +112,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "2258ca60dcadaed2",
@@ -76,7 +130,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "715f4a4c6a79000d",
@@ -148,7 +202,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "a4716c129e4f706e",
@@ -166,7 +220,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "5caba8a54e63c6de",
@@ -6103,24 +6157,6 @@
    "last_seen": "2026-10-23T14:27"
   },
   {
-   "id": "9e1e0f483b547552",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Quand l’Iran dénonce les violences policières en France et appelle Paris à garantir « la liberté de manifestation »",
-   "summary": "Au lendemain de la journée de protestation émaillée de violences, le 17 octobre, en France, les autorités iraniennes ont dénoncé un « deux poids, deux mesures », et appelé, sans ironie, Paris à écouter les manifestants.",
-   "link": "https://www.lemonde.fr/international/article/2026/10/21/quand-l-iran-denonce-les-violences-policieres-en-france-et-appelle-paris-a-garantir-la-liberte-de-manifestation_6798289_3210.html",
-   "published": "2026-10-21T18:33",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T17:28",
-   "last_seen": "2026-10-21T23:49"
-  },
-  {
    "id": "d6964eb77c14cfee",
    "zone": "it_national",
    "affects": [],
@@ -6476,12 +6512,12 @@
    "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
    "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
    "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-11T21:25",
+   "published": "2026-11-12T02:21",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "0d8dcfbe3c4fa70d",
@@ -6494,12 +6530,12 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-11T21:25",
+   "published": "2026-11-12T02:21",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "73eeafaf5dd5abd9",
@@ -6512,12 +6548,12 @@
    "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
    "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-11T21:25",
+   "published": "2026-11-12T02:21",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "65b3f2636816f89a",
@@ -6535,7 +6571,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "c0ac78040a1c0852",
@@ -6553,7 +6589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "96dc39ddef855913",
@@ -6571,7 +6607,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "0684bd000db664f0",
@@ -6589,7 +6625,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "8934406b37b6ac4c",
@@ -6607,7 +6643,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "2ea8e18a1b403547",
@@ -6625,7 +6661,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "b2f353307318c959",
@@ -6643,7 +6679,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "dfbb678667000b1d",
@@ -6679,7 +6715,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "8eade35ee6c3a280",
@@ -6985,7 +7021,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "375df9df399e816d",
@@ -7093,7 +7129,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "69cad24f6f90d374",
@@ -7147,7 +7183,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -7165,7 +7201,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "54acb4658a2b6f2d",
@@ -7201,7 +7237,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "f38eeb00ebca7c02",
@@ -7291,7 +7327,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "02b1ae15da339498",
@@ -7633,7 +7669,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "8307e105934474c5",
@@ -7651,7 +7687,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "245fb5f264b7f580",
@@ -7777,7 +7813,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-09T21:05",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "ea3e90446bf88193",
@@ -8065,7 +8101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "103b668c8c628d4c",
@@ -8083,7 +8119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8606,7 +8642,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -8930,7 +8966,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "13ab53ad81fdc83c",
@@ -9686,7 +9722,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-11T21:24"
+   "last_seen": "2026-11-12T02:21"
   },
   {
    "id": "6cf8fa5603fc5562",
@@ -26229,24 +26265,6 @@
    "soon": false,
    "first_seen": "2026-10-21T12:24",
    "last_seen": "2026-10-22T02:38"
-  },
-  {
-   "id": "f868ad0d8051b455",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Carcere, sopralluogo del Garante regionale con gli assessori Boni e Nardini, «Subito lo sblocco dei lavori. Inaccettabile un’area incompiuta mentre le carceri…",
-   "summary": "Arezzo, 21 ottobre 2026 – Si è tenuta martedì 20 ottobre, la visita istituzionale presso la Casa Circondariale di Arezzo, guidata dal Garante regionale dei diritti dei detenuti della Toscana, Giuseppe Fanfani , insieme al Garante comunale Sandra Rogialli e agli assessori regionali Filippo Boni e Al…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/carcere-arezzo-sopralluogo-del-garante-regionale-con-gli-assessori-boni-e-nardini-subito-lo-sblocco-dei-lavori-inaccettabile-unarea-incompiuta-mentre-le-carceri-scoppiano-lj9g8gxt",
-   "published": "2026-10-21T06:25",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-21T12:24",
-   "last_seen": "2026-10-21T23:49"
   },
   {
    "id": "208a52ff23ad172e",
