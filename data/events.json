@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:46",
+ "updated": "2026-11-13T23:56",
  "events": [
   {
    "id": "20a3edb38c2039ed",
@@ -17,7 +17,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "d336b164f87e73dd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+   "summary": "La coordination des gilets jaunes et des organisations de jeunesse appellent à défiler samedi \"contre la vie chère\". D'autres manifestations – pour le climat, contre les violences policières ou les violences faites aux mineurs – sont aussi prévues. A Paris, un cortège unique défilera entre les plac…",
+   "link": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-13T18:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "04204933c4d312f6",
@@ -35,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "202f0a88ce3ff308",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "b7400a1540346944",
@@ -89,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "9b1017a0795789dd",
@@ -107,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "d3d6d41574ed78aa",
@@ -197,7 +215,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -269,7 +287,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -359,7 +377,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "d3864c5911d4724a",
@@ -5580,24 +5598,6 @@
    "last_seen": "2026-10-24T00:01"
   },
   {
-   "id": "d714e590f1c88cf7",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
-   "summary": "Une semaine après les violences et pillages observés dans plusieurs villes de France, le ministre de l'Intérieur promet la plus grande fermeté face aux risques de nouveaux débordements.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-23T15:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-23T21:40"
-  },
-  {
    "id": "c02ccf69d264a64b",
    "zone": "montpellier",
    "affects": [],
@@ -5688,6 +5688,222 @@
    "last_seen": "2026-10-24T16:46"
   },
   {
+   "id": "7aa8362c1019fa4a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le gouvernement veut systématiser les sanctions disciplinaires contre les élèves impliqués dans les blocages de lycées",
+   "summary": "Les ministres de l'Intérieur et de l'Education nationale souhaitent, dans les cas les plus graves, interdire l'accès à l'établissement, le temps de la procédure.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-contre-les-eleves-impliques-dans-les-blocages-de-lycees_8281724.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-13T23:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-13T23:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-13T23:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "ada0b323370de2e9",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fbi, 'blocco aereo Usa non è dovuto ad attacco informatico o crimine'",
+   "summary": "Disagi nei vari aeroporti del Paese",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/fbi-blocco-aereo-usa-non-e-dovuto-ad-attacco-informatico-o-crimine_07ebdc7a-d2a8-4356-897f-e5e3c6baacb0.html",
+   "published": "2026-11-13T23:48",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "cf0a52baed1c3034",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Microsoft: 'nessuna indicazione su blocco voli Usa legato a disservizi Outlook'",
+   "summary": "Il gruppo di Redmond sta ancora lavorando al ripristino dei suoi servizi",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/microsoft-nessuna-indicazione-su-blocco-voli-usa-legato-a-disservizi-outlook_ab16f27a-ef15-4758-ac50-b47401d66e44.html",
+   "published": "2026-11-13T23:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "2500cd526deecfbb",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "'Blocco aereo Usa per stop temporaneo sistemi tlc. Non è nuovo 11/9'",
+   "summary": "Il segretario agli Interni Mullin: 'Sulle cause non si può escludere nulla'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/blocco-aereo-usa-per-stop-temporaneo-sistemi-tlc.-non-e-nuovo_cb947f35-49a2-4eb0-a57a-98af22933a7e.html",
+   "published": "2026-11-13T23:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "7a44fdae59e22554",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
+   "summary": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_c6fde2a2-fb3e-4ee0-8c85-40d12bb69160.html",
+   "published": "2026-11-13T22:27",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "d33f804af8002107",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 14 novembre : une cinquantaine de rassemblements prévue pour l’acte V de la mobilisation",
+   "summary": "Plus d’une cinquantaine de manifestations sont attendues ce samedi. Laurent Nunez, ministre de l’Intérieur, a reconduit le même dispositif sécuritaire qu’il y a une semaine.",
+   "link": "https://www.midilibre.fr/2026/11/13/manifestation-du-14-novembre-une-cinquantaine-de-rassemblements-prevue-pour-lacte-v-de-la-mobilisation-13651543.php",
+   "published": "2026-11-13T22:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "48aeea7612e103e2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 14 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
+   "summary": "Un cinquième week-end de mobilisation réunira ce samedi 14 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/revendications-communes-acte-v-contre-la-vie-chere-a-quoi-s-attendre-pour-la-mobilisation-du-14-novembre-3411431?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-13T22:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T18:44",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "acd8dd4a45f6c208",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 14 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
+   "summary": "Un cinquième week-end de mobilisation réunira ce samedi 14 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/revendications-communes-acte-v-contre-la-vie-chere-a-quoi-s-attendre-pour-la-mobilisation-du-14-novembre-3411431?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-13T22:15",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "5caedbdb52d422f6",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero trasporti: dalle 18 metrò M1, M2 e M3 chiuse a Milano",
+   "summary": "Atm: 'Tram, bus e filobus sono in servizio ma potrebbero esserci rallentamenti'",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/13/sciopero-trasporti-dalle-18-metro-m1-m2-e-m3-chiuse-a-milano_16b3452d-ad12-45be-96f8-de5ec0398284.html",
+   "published": "2026-11-13T20:49",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "9345ed35e3f00b49",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Atp Finals, dal cappotto in pelle di Cobolli al total black di Alcaraz: le foto della sfilata. Ovazione per l’azzurro: “Anche noi nonne tifiamo per te”",
+   "summary": "Stile molto “rock” , cappotto in pelle sulle spalle e camminata spavalda . Si è presentato così Flavio Cobolli in una festosa Piazza San Carlo a Torino , per il Blue Carpet delle Atp Finals , che questa sera ha accolto nel salotto buono del capoluogo piemontese gli otto migliori tennisti al mondo c…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/13/atp-finals-torino-blu-carpet-cobolli-sfilata-foto/8571441/",
+   "published": "2026-11-13T19:11",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T23:54",
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
    "id": "4f864913821cc8d9",
    "zone": "fr_national",
    "affects": [],
@@ -5703,7 +5919,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "412dde5597b2bbef",
@@ -5719,60 +5935,6 @@
    "published": "2026-11-13T18:57",
    "dates": "",
    "national": false,
-   "soon": false,
-   "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-13T18:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-13T18:44"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-13T18:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-13T18:44"
-  },
-  {
-   "id": "48aeea7612e103e2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 14 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
-   "summary": "Un cinquième week-end de mobilisation réunira ce samedi 14 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/revendications-communes-acte-v-contre-la-vie-chere-a-quoi-s-attendre-pour-la-mobilisation-du-14-novembre-3411431?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-13T18:22",
-   "dates": "",
-   "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
    "last_seen": "2026-11-13T18:44"
@@ -5811,7 +5973,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "1f09bb33ed5251db",
@@ -5829,7 +5991,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "3a29fe9bf7978de5",
@@ -5847,7 +6009,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "4ac2568dd44b001e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lycées : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocages",
+   "summary": "Le gouvernement veut renforcer et systématiser les sanctions disciplinaires à l'encontre des élèves et des personnels de l'Éducation nationale participant à des blocages de lycées, selon un télégramme envoyé ce vendredi aux recteurs et préfets et consulté par franceinfo et France Inter.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/lycees-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocages-2264214?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-13T17:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T18:44",
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "b0515e19fe1d0aab",
@@ -5868,24 +6048,6 @@
    "last_seen": "2026-11-13T18:44"
   },
   {
-   "id": "4ac2568dd44b001e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Lycées : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocages",
-   "summary": "Le gouvernement veut renforcer et systématiser les sanctions disciplinaires à l'encontre des élèves et des personnels de l'Éducation nationale participant à des blocages de lycées, selon un télégramme envoyé ce vendredi aux recteurs et préfets et consulté par franceinfo et France Inter.",
-   "link": "https://www.ici.fr/infos/faits-divers-justice/lycees-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocages-2264214?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-13T17:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
-  },
-  {
    "id": "1a1d8b64ead0ddbb",
    "zone": "it_national",
    "affects": [],
@@ -5901,7 +6063,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "4c6b6e8b96a83fae",
@@ -5991,7 +6153,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "7b432ec0134cf38b",
@@ -6063,7 +6225,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "4551abb2329fcd70",
@@ -6081,25 +6243,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
-  },
-  {
-   "id": "0cb05fba5c157eb1",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Notte di tensione in città. Il Serchio esonda a Borgo. Frane e strade chiuse",
-   "summary": "Una notte e un giorno vissute con il fiato sospeso. E oggi si replica. Già perché le allerte meteo si susseguono, una via l’altra, contribuendo a fomentare la preoccupazione, ma anche i danni. Con quest’ultimi in continuo aggiornamento. Criticità crescenti non soltanto sulla viabilità generale e ne…",
-   "link": "https://www.lanazione.it/lucca/cronaca/notte-di-tensione-in-citta-fcb91db3",
-   "published": "2026-11-13T10:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "1c3d24431860bd06",
@@ -6117,7 +6261,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
+  },
+  {
+   "id": "0cb05fba5c157eb1",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Notte di tensione in città. Il Serchio esonda a Borgo. Frane e strade chiuse",
+   "summary": "Una notte e un giorno vissute con il fiato sospeso. E oggi si replica. Già perché le allerte meteo si susseguono, una via l’altra, contribuendo a fomentare la preoccupazione, ma anche i danni. Con quest’ultimi in continuo aggiornamento. Criticità crescenti non soltanto sulla viabilità generale e ne…",
+   "link": "https://www.lanazione.it/lucca/cronaca/notte-di-tensione-in-citta-fcb91db3",
+   "published": "2026-11-13T10:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-13T11:32",
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "5a8923a7a2a010ab",
@@ -6135,7 +6297,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "b47d366801f96eee",
@@ -6189,7 +6351,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "72b047d96c783dd4",
@@ -6405,7 +6567,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6495,7 +6657,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "f5f7911082cd2196",
@@ -7089,7 +7251,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "375df9df399e816d",
@@ -7251,7 +7413,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8691,7 +8853,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-13T23:54"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -22992,24 +23154,6 @@
    "soon": false,
    "first_seen": "2026-10-24T00:01",
    "last_seen": "2026-10-24T04:30"
-  },
-  {
-   "id": "58e4d7d48ef5c09d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisations du 24 octobre : \"le niveau de menace reste élevé\", affirme Sébastien Lecornu, ciblant \"l'ultragauche\" et \"la délinquance\"",
-   "summary": "Il a assuré que le \"retour d'expérience\" du 17 octobre permettait au dispositif de sécurité d'être ajusté, notamment dans \"la manière dont les forces vont être utilisées\".",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-23T22:47",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-23T21:40"
   },
   {
    "id": "239df9aea52dc4e6",
