@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:41",
+ "updated": "2026-11-13T03:36",
  "events": [
   {
    "id": "1a320fc0dbe5e605",
@@ -25,6 +25,24 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
+   "id": "5d08cf5c33d31c3b",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer",
+   "summary": "Plusieurs plaintes pénales ont été déposées par des reporters blessés lors des récentes manifestations en France. Le ministre de l’intérieur, qui a rencontré une intersyndicale de la profession, a promis que le rappel des règles du maintien de l’ordre sera adressé à toutes les forces de police dès…",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/13/violences-policieres-lors-des-manifestations-laurent-nunez-s-engage-a-proteger-les-journalistes-et-faire-respecter-le-droit-d-informer_6809257_3224.html",
+   "published": "2026-11-13T01:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T03:35",
+   "last_seen": "2026-11-13T03:35"
+  },
+  {
    "id": "74ca42b86040a79a",
    "zone": "fr_national",
    "affects": [],
@@ -40,7 +58,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T23:40",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "097fa347e38b5a1c",
@@ -58,7 +76,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "dd3c58597fc1f6ba",
@@ -76,7 +94,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -94,7 +112,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "e1e6d24f6dbacd55",
@@ -166,7 +184,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "d3864c5911d4724a",
@@ -220,7 +238,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T21:24",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "715f4a4c6a79000d",
@@ -5777,44 +5795,6 @@
    "last_seen": "2026-10-23T14:27"
   },
   {
-   "id": "f4c0bb5fce195f13",
-   "zone": "milano",
-   "affects": [
-    "firenze"
-   ],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Psicosi devastazioni e stupri: “Chat nei cellulari dei giovani. Ho subito fatto denuncia”",
-   "summary": "Siena, 23 ottobre 2026 – Una ‘chiamata’ alla protesta , quella che spunta nella chat. La rabbia contro il carovita, addirittura la preparazione di presunte violenze con tanto di lista di nomi. L’invito a fare una sorta di copia-incolla rispetto ai disordini che hanno devastato Milano. Tutto nelle c…",
-   "link": "https://www.lanazione.it/siena/cronaca/psicosi-devastazioni-e-stupri-chat-nei-cellulari-dei-giovani-ho-subito-fatto-denuncia-g2b3x07i",
-   "published": "2026-10-23T00:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T00:09",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
-   "id": "fbbdf7b484e783f3",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "\"On n'est pas écoutés, et en plus on est maltraités\" : dans un rassemblement à Paris, des étudiants remontés contre les interdictions de manifester",
-   "summary": "Une manifestation du collectif Interfac IDF, d'abord interdite par la préfecture, a finalement pu se tenir jeudi après une décision de justice. Sur place, les jeunes participants déplorent les violences et pillages du 17 octobre, mais s'inquiètent du durcissement sécuritaire qui a suivi.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reportage-on-n-est-pas-ecoutes-et-en-plus-on-est-maltraites-a-paris-les-etudiants-remontes-par-les-interdictions-de-manifester-et-la-reponse-securitaire-apres-les-violences-du-17-octobre_8249320.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-22T21:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "f99dec1e92aa63f1",
    "zone": "montpellier",
    "affects": [],
@@ -5905,24 +5885,6 @@
    "last_seen": "2026-10-23T04:43"
   },
   {
-   "id": "54f5e8bdb8761d9e",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "high",
-   "title": "24 ottobre e ‘Gen Z protesta’, più controlli e negozi aperti: sì al presidio di Forza Nuova. Il sindaco di Forlì: “No alle psicosi”",
-   "summary": "Forlì, 22 ottobre 2026 – La Prefettura di Forlì-Cesena ha riunito le forze dell’ordine e il Comune di Forlì per decidere le misure di sicurezza dedicate alla giornata di sabato 24 ottobre , quando era stata convocata la prima delle manifestazioni intitolate ‘la Gen Z protesta’ , in realtà non autor…",
-   "link": "https://www.ilrestodelcarlino.it/forli/cronaca/24-ottobre-gen-z-protesta-controlli-presidio-forza-nuova-e25l37h1",
-   "published": "2026-10-22T14:44",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "ef9e889bf6c5ed78",
    "zone": "montpellier",
    "affects": [],
@@ -5941,24 +5903,6 @@
    "last_seen": "2026-10-23T14:27"
   },
   {
-   "id": "ec0e91677fd16bca",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Il Sassetti Peruzzi dopo l’occupazione: idranti usati in tutto l’edificio e mobili rivoltati. In corso la conta dei danni",
-   "summary": "Firenze, 22 ottobre 2026 – I pavimenti sono diventati bianchi , qualche studente o qualche esterno che ha occupato si è divertito a utilizzare gli idranti in tutta la scuola, nelle classi e nei corridoi, perfino nei bagni. E la scuola è devastata . Il preside, Osvaldo Di Cuffa, aveva tentato di dia…",
-   "link": "https://www.lanazione.it/firenze/cronaca/sassetti-peruzzi-occupazione-idranti-mobili-conta-danni-bf9ubey2",
-   "published": "2026-10-22T11:07",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "51098c57aca072c3",
    "zone": "montpellier",
    "affects": [],
@@ -5975,24 +5919,6 @@
    "soon": false,
    "first_seen": "2026-10-22T07:57",
    "last_seen": "2026-10-23T14:27"
-  },
-  {
-   "id": "cbf105596568bfec",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Dal Papa ai cortei degli studenti, il Carlino entra nelle scuole",
-   "summary": "Rovigo, 22 ottobre 2026 – L’annuncio durante l’Angelus di Papa Leone, la malattia svelata in diretta, l’intervento e di nuovo il suo volto sorridente al balcone. Gli scontri a Milano e Bologna, con le vetrine infrante, i volti coperti dai cappucci. E ancora, le guerre. In Ucraina e Iran e gli effet…",
-   "link": "https://www.ilrestodelcarlino.it/veneto/cultura/dal-papa-ai-cortei-degli-studenti-il-carlino-entra-nelle-scuole-iulsy3p4",
-   "published": "2026-10-22T08:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T00:09"
   },
   {
    "id": "dc38e2eb5a4f321f",
@@ -6067,6 +5993,78 @@
    "last_seen": "2026-10-23T18:36"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-13T03:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-13T03:35"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-13T03:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-13T03:35"
+  },
+  {
+   "id": "73eeafaf5dd5abd9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
+   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
+   "published": "2026-11-13T03:35",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-10-30T15:01",
+   "last_seen": "2026-11-13T03:35"
+  },
+  {
+   "id": "6b0b5974afde77ff",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La catena della solidarietà. In Valdera prende il via la maxi colletta alimentare",
+   "summary": "Pontedera, 13 novembre 2026 – A poco più di un mese dal Natale, la solidarietà torna protagonista tra le corsie dei supermercati. Sabato prossimo Pontedera e tutta la Valdera risponderanno all’appello della Giornata Nazionale della Colletta Alimentare che quest’anno tocca lo straordinario risultato…",
+   "link": "https://www.lanazione.it/pontedera/la-catena-della-solidarieta-mfb3r9ft",
+   "published": "2026-11-13T01:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-13T03:35",
+   "last_seen": "2026-11-13T03:35"
+  },
+  {
    "id": "c6c33c1132d5c959",
    "zone": "milano",
    "affects": [],
@@ -6086,60 +6084,6 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-12T23:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T23:40"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-12T23:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-12T23:40"
-  },
-  {
-   "id": "73eeafaf5dd5abd9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "5 novembre : retrouvez les mobilisations près de chez vous !",
-   "summary": "Jeudi 5 novembre : grève généralisée Face à la vie chère, aux salaires qui stagnent, à la précarité et à la dégradation des services publics, il est urgent de faire entendre les revendications du monde du travail. Augmentation des salaires et des pensions, moyens pour les services publics, financem…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous",
-   "published": "2026-11-12T23:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-11-12T23:40"
-  },
-  {
    "id": "a5ddab24565b3076",
    "zone": "fr_national",
    "affects": [],
@@ -6155,7 +6099,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T23:40",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "234d2daeb1b592be",
@@ -6173,7 +6117,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "f2290f9e1ba37a2e",
@@ -6209,7 +6153,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "d5516bd7fa7c4786",
@@ -6245,7 +6189,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "9d6d80199aa06453",
@@ -6263,7 +6207,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6281,7 +6225,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "5fd6c68360915ded",
@@ -6299,7 +6243,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "1d25cb7e623e7390",
@@ -6317,7 +6261,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "3399b692786fec36",
@@ -6353,7 +6297,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6371,7 +6315,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "b86678b9d70de2ed",
@@ -6947,7 +6891,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "375df9df399e816d",
@@ -7055,7 +6999,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "69cad24f6f90d374",
@@ -7109,7 +7053,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -7127,7 +7071,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "54acb4658a2b6f2d",
@@ -7163,7 +7107,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "f38eeb00ebca7c02",
@@ -7253,7 +7197,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T11:45",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "02b1ae15da339498",
@@ -8027,7 +7971,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "103b668c8c628d4c",
@@ -8045,7 +7989,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-09T10:41",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "0f942da10f9f0c19",
@@ -8568,7 +8512,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-12T23:40"
+   "last_seen": "2026-11-13T03:35"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -24409,42 +24353,6 @@
    "last_seen": "2026-10-23T09:36"
   },
   {
-   "id": "67763791239ca495",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
-   "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-17-octobre-a-paris-un-couvre-feu-annonce-dans-certains-secteurs-toutes-les-nuits-jusqu-a-lundi-matin_6795855_3224.html",
-   "published": "2026-10-23T00:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
-   "id": "18db7a1a86b10be9",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Proteste autotrasportatori, la disperazione di Diego e Valentina: “Non arriva la merce, così perdo i clienti e rinuncio alle fiere”",
-   "summary": "Firenze, 23 ottobre 2026 – Le consegne saltano , gli appuntamenti in calendario vengono cancellati e l’attività si ferma. La protesta dei trasporti presenta il conto anche a Diego Valentino di Mizzeca.it , che porta le specialità siciliane nelle fiere e nelle manifestazioni. Vive a Firenze e si tro…",
-   "link": "https://www.lanazione.it/firenze/cronaca/proteste-autotrasportatori-scaffali-vuoti-f18b0wk9",
-   "published": "2026-10-23T00:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T00:09",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "af1bebdc2034027a",
    "zone": "it_national",
    "affects": [],
@@ -24715,24 +24623,6 @@
    "last_seen": "2026-10-23T04:43"
   },
   {
-   "id": "65ca91fe409d3e6a",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tramvia a Campo di Marte, più di 3.000 firme in tre giorni contro l'abbattimento degli alberi",
-   "summary": "Firenze, 22 ottobre 2026 - Due file, una lungo viale Fanti e l’altra che gira l’angolo in via Carnesecchi. E persone disposte ad aspettare anche mezz’ora pur di firmare. Continua nel Quartiere 2 la mobilitazione contro il taglio degli alberi previsto per la nuova linea 3.2.2 della tramvia Libertà-R…",
-   "link": "https://www.lanazione.it/firenze/cosa-fare/tramvia-a-campo-di-marte-piu-di-3000-firme-in-tre-giorni-contro-labbattimento-degli-alberi-375e380c",
-   "published": "2026-10-22T18:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "bd907651bc4c083f",
    "zone": "rimini",
    "affects": [],
@@ -24805,24 +24695,6 @@
    "last_seen": "2026-10-23T04:43"
   },
   {
-   "id": "9adb0569f3b97310",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Occupazioni, oltre 100 docenti si schierano a fianco degli studenti: “La scuola sta cambiando in peggio, dobbiamo lottare”",
-   "summary": "Firenze, 22 ottobre 2026 – “Come lavoratrici e lavoratori delle scuole occupate fiorentine ci riconosciamo nelle ragioni che hanno spinto le studentesse e gli studenti alla mobilitazione ”. Inizia così un documento firmato da oltre 100 docenti provenienti da diverse scuole fiorentine, come il Liceo…",
-   "link": "https://www.lanazione.it/firenze/cronaca/scuole-occupate-docenti-si-schierano-a-fianco-dei-ragazzi-cgil-cqsk4pky",
-   "published": "2026-10-22T17:09",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "292303495db4bb87",
    "zone": "it_national",
    "affects": [],
@@ -24839,24 +24711,6 @@
    "soon": false,
    "first_seen": "2026-10-22T18:06",
    "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "f822b7ab164fdc37",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Lo sciopero dei pescatori: “Uscire in mare oggi diventa un debito”. Da Cesenatico a Goro e Comacchio reti ferme",
-   "summary": "Bologna, 22 ottobre 2026 – Uscire per mare oggi diventa un debito\". I pescatori dell'Emilia-Romagna aderiscono alle proteste nazionali con scioperi iniziati questa mattina in diverse località marittime da Cesenatico (Forlì-Cesena) a Goro e Comacchio (Ferrara). “Il caro gasolio sta mettendo in ginoc…",
-   "link": "https://www.ilrestodelcarlino.it/emilia-romagna/economia/sciopero-pescatori-caro-gasolio-cesenatico-goro-comacchio-p4s6t6sl",
-   "published": "2026-10-22T13:45",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-23T00:09"
   },
   {
    "id": "bf47ba4f522df9f4",
@@ -24931,24 +24785,6 @@
    "last_seen": "2026-10-25T06:50"
   },
   {
-   "id": "6971e72dbb08ba17",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Inclusione e opportunità: due corsi per la lingua italiana e la ricerca del lavoro",
-   "summary": "Cascina (PI), 22 ottobre 2026 - La Biblioteca Comunale di Cascina (viale Comaschi, 67) si conferma presidio attivo per la formazione, l'integrazione e il supporto alla cittadinanza. Nel mese di novembre prenderanno infatti il via due percorsi formativi a partecipazione completamente gratuita, promo…",
-   "link": "https://www.lanazione.it/pisa/cronaca/inclusione-e-opportunita-due-corsi-per-la-lingua-italiana-e-la-ricerca-del-lavoro-e5d67618",
-   "published": "2026-10-22T11:20",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "8280d85975c0f49b",
    "zone": "it_national",
    "affects": [],
@@ -25003,24 +24839,6 @@
    "last_seen": "2026-10-24T21:35"
   },
   {
-   "id": "80a621fa344dd06c",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La protesta degli studenti. \"Ecco perché occupiamo\"",
-   "summary": "",
-   "link": "https://www.lanazione.it/video/la-protesta-degli-studenti-ecco-perche-occupiamo-pxjd32xx",
-   "published": "2026-10-22T08:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T00:09"
-  },
-  {
    "id": "67690b2a67cddc0b",
    "zone": "montpellier",
    "affects": [],
@@ -25055,24 +24873,6 @@
    "soon": false,
    "first_seen": "2026-10-22T07:57",
    "last_seen": "2026-10-26T01:42"
-  },
-  {
-   "id": "4e1f8868c66a005f",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Occupazioni nelle scuole a Firenze: al Sassetti Peruzzi usano gli estintori nelle classi. Assedio fuori dall’Itis Leonardo Da Vinci. Si aggiunge il Marco Polo",
-   "summary": "Firenze, 22 ottobre 2026 – Nuove occupazioni in città dopo l’ondata degli scorsi giorni e qualche situazione preoccupante, soprattutto all’ Itis Leonardo Da Vinci . Ad aggiungersi alla lista degli istituti adesso c’è anche l’ Itt Marco Polo . Gli studenti sono all’esterno, mentre il collettivo si è…",
-   "link": "https://www.lanazione.it/firenze/cronaca/occupazioni-nelle-scuole-a-firenze-si-aggiunge-il-marco-polo-assedio-fuori-dallitis-leonardo-da-vinci-sale-la-preoccupazione-per-il-24-ottobre-k2xn6paq",
-   "published": "2026-10-22T07:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-23T00:09"
   },
   {
    "id": "b0d3f00b0e427d32",
