@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-13T23:56",
+ "updated": "2026-11-14T04:17",
  "events": [
+  {
+   "id": "5762e2e8d47538d9",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Una storia di solidarietà lunga 30 anni: la Colletta Alimentare nasceva oggi nel 1996. E la spesa diventa un regalo",
+   "summary": "Firenze, 14 novembre 2026 – Torna oggi la Giornata nazionale della colletta alimentare , giunta alla sua 30esima edizione . Questa sarà un’edizione particolarmente significativa: in tutta Italia saranno impegnati oltre 160.000 volontari. In Toscana saranno circa 6.000, presenti in 454 punti vendita…",
+   "link": "https://www.lanazione.it/cronaca/spesa-solidale-dove-donare-colletta-alimentare-f96b5194",
+   "published": "2026-11-14T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-14T04:15",
+   "last_seen": "2026-11-14T04:15"
+  },
   {
    "id": "20a3edb38c2039ed",
    "zone": "it_national",
@@ -17,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "d336b164f87e73dd",
@@ -35,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "04204933c4d312f6",
@@ -53,7 +71,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "202f0a88ce3ff308",
@@ -71,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "b7400a1540346944",
@@ -107,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "9b1017a0795789dd",
@@ -215,7 +233,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -287,7 +305,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -377,7 +395,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "d3864c5911d4724a",
@@ -5578,26 +5596,6 @@
    "last_seen": "2026-10-24T13:18"
   },
   {
-   "id": "0d730a6236108e40",
-   "zone": "milano",
-   "affects": [
-    "firenze"
-   ],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Ponte Vecchio si blinda per la manifestazione, gioiellerie chiuse e saracinesche pronte ad abbassarsi",
-   "summary": "Firenze, 23 ottobre 2026 – C'è chi ha già deciso di non aprire, chi abbasserà le saracinesche nel primo pomeriggio e chi aspetterà di capire come si evolverà la situazione. Ponte Vecchio , il salotto delle gioiellerie di Firenze , si prepara alla manifestazione annunciata per sabato pomeriggio con…",
-   "link": "https://www.lanazione.it/firenze/cronaca/manifestazione-protesta-ponte-vecchio-tx2vqrc2",
-   "published": "2026-10-23T16:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "c02ccf69d264a64b",
    "zone": "montpellier",
    "affects": [],
@@ -5688,6 +5686,42 @@
    "last_seen": "2026-10-24T16:46"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-14T04:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-14T04:15"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-14T04:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-14T04:15"
+  },
+  {
    "id": "7aa8362c1019fa4a",
    "zone": "fr_national",
    "affects": [],
@@ -5703,43 +5737,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-13T23:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-13T23:54"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-13T23:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "ada0b323370de2e9",
@@ -5757,7 +5755,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "cf0a52baed1c3034",
@@ -5775,7 +5773,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "2500cd526deecfbb",
@@ -5793,7 +5791,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "7a44fdae59e22554",
@@ -5811,7 +5809,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "d33f804af8002107",
@@ -5829,25 +5827,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
-  },
-  {
-   "id": "48aeea7612e103e2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 14 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
-   "summary": "Un cinquième week-end de mobilisation réunira ce samedi 14 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
-   "link": "https://www.ici.fr/infos/societe/revendications-communes-acte-v-contre-la-vie-chere-a-quoi-s-attendre-pour-la-mobilisation-du-14-novembre-3411431?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-13T22:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "acd8dd4a45f6c208",
@@ -5865,7 +5845,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
+  },
+  {
+   "id": "48aeea7612e103e2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 14 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
+   "summary": "Un cinquième week-end de mobilisation réunira ce samedi 14 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
+   "link": "https://www.ici.fr/infos/societe/revendications-communes-acte-v-contre-la-vie-chere-a-quoi-s-attendre-pour-la-mobilisation-du-14-novembre-3411431?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-13T22:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-13T18:44",
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "5caedbdb52d422f6",
@@ -5883,7 +5881,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "9345ed35e3f00b49",
@@ -5901,7 +5899,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5919,7 +5917,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "412dde5597b2bbef",
@@ -5973,7 +5971,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "1f09bb33ed5251db",
@@ -5991,7 +5989,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "3a29fe9bf7978de5",
@@ -6009,7 +6007,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6027,7 +6025,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "b0515e19fe1d0aab",
@@ -6063,7 +6061,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "4c6b6e8b96a83fae",
@@ -6153,7 +6151,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "7b432ec0134cf38b",
@@ -6225,7 +6223,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "4551abb2329fcd70",
@@ -6243,7 +6241,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "1c3d24431860bd06",
@@ -6261,7 +6259,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "0cb05fba5c157eb1",
@@ -6351,7 +6349,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "72b047d96c783dd4",
@@ -6549,7 +6547,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-13T18:44"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "9d6d80199aa06453",
@@ -6567,7 +6565,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6657,7 +6655,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "f5f7911082cd2196",
@@ -7251,7 +7249,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-11T14:12",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "375df9df399e816d",
@@ -7413,7 +7411,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8853,7 +8851,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-13T23:54"
+   "last_seen": "2026-11-14T04:15"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -23300,24 +23298,6 @@
    "last_seen": "2026-10-25T12:14"
   },
   {
-   "id": "9c500aa45b1ee8a2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : un dispositif policier conséquent, mais pas hors du commun",
-   "summary": "Le ministre de l’intérieur, Laurent Nuñez, a indiqué que 70 000 policiers et gendarmes seront mobilisés sur le terrain, samedi, sans compter les unités susceptibles d’être sollicitées, comme le RAID ou le GIGN. C’est 10 000 effectifs de plus que le 17 octobre.",
-   "link": "https://www.lemonde.fr/societe/article/2026/10/23/mobilisation-du-24-octobre-un-dispositif-policier-consequent-mais-pas-hors-du-commun_6799125_3224.html",
-   "published": "2026-10-23T18:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "ba335aba59b13681",
    "zone": "fr_national",
    "affects": [],
@@ -23408,24 +23388,6 @@
    "last_seen": "2026-10-26T06:59"
   },
   {
-   "id": "6c8e31ddf050fb1b",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Proteste studentesche, i docenti a fianco degli alunni nella lezione aperta al liceo Machiavelli: “La nostra scuola non si tocca”",
-   "summary": "Firenze, 23 ottobre 2026 – Una professoressa arriva con un cestino di vimini. Dentro ci sono dei bigliettini da pescare. Una studentessa ne tira su uno ed esce la frase di Kurt Vonnegut : «Cosa dovrebbero fare i giovani della loro vita, oggi? Molte cose, ovviamente. Ma la cosa più audace è quella d…",
-   "link": "https://www.lanazione.it/firenze/cronaca/proteste-scuola-lezione-aperta-dkj3fmzk",
-   "published": "2026-10-23T16:59",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "b6cee6b8ad60e1df",
    "zone": "montpellier",
    "affects": [],
@@ -23498,80 +23460,6 @@
    "last_seen": "2026-10-24T09:06"
   },
   {
-   "id": "cc918d2a9a8409eb",
-   "zone": "milano",
-   "affects": [
-    "firenze"
-   ],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Vanoli: “De Gea è il mio capitano, non si discute. Contro l’Inter non dobbiamo essere presuntuosi”",
-   "summary": "Firenze, 23 ottobre 2026 – Antivigilia di campionato, con la Fiorentina di scena domenica a Milano alle 12.30 per la sfida contro l’ Inter . Paolo Vanoli ha commentato l’avvicinamento al match tornando anche alla partita contro il Como. \"L'ho detto dopo la sconfitta, si deve vedere come arrivano ce…",
-   "link": "https://www.lanazione.it/firenze/sport/fiorentina/vanoli-conferenza-inter-uunaftth",
-   "published": "2026-10-23T14:58",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "7728ffa0b44b44c2",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Corsi di formazione per cittadini stranieri. Due percorsi gratuiti alla Biblioteca comunale",
-   "summary": "La biblioteca comunale di Cascina (viale Comaschi, 67) si conferma presidio attivo per la formazione, l’integrazione e il supporto alla cittadinanza. In novembre prenderanno infatti il via due percorsi formativi a partecipazione gratuita, promossi all’interno del progetto FSE+ 2021-2027 \" Bibliolan…",
-   "link": "https://www.lanazione.it/pisa/cronaca/corsi-di-formazione-per-cittadini-stranieri-due-percorsi-gratuiti-alla-biblioteca-comunale-8647484f",
-   "published": "2026-10-23T14:52",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "7793a99c1e8525f6",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Nasce il Centro dell’identità toscana. Giani: \"La porta d'ingresso per coloro che arrivano a Firenze\"",
-   "summary": "Firenze, 23 ottobre 2026 - Una nuova vetrina per raccontare la Toscana a chi arriva a Firenze , tra informazioni turistiche, cultura e iniziative dedicate al territorio. Ha aperto oggi, venerdì 23 ottobre, in piazza della Stazione ai civici 42 e 43, il Centro dell’identità toscana , uno spazio che…",
-   "link": "https://www.lanazione.it/firenze/cronaca/nasce-il-centro-dellidentita-toscana-giani-la-porta-dingresso-per-coloro-che-arrivano-a-firenze-09e02e17",
-   "published": "2026-10-23T14:52",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "d473979eb9f800dc",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestazioni, il movimento cambia strategia: “Diremo solo mezz’ora prima il ritrovo”. E Firenze si blinda",
-   "summary": "Firenze, 23 ottobre 2026 – Effetto a sorpresa. E' quello che il Movimento 17 ottobre (se veramente esiste) ha scelto di mettere in atto per domani, sabato 24 ottobre. \"Diremo solo alle 14,30 dove ci incontreremo. Quando lo diremo noi, dove lo diremo noi\". Annullata quindi la convocazione in piazza…",
-   "link": "https://www.lanazione.it/firenze/cronaca/manifestazioni-sabato-24-ottobre-hp1qec7i",
-   "published": "2026-10-23T14:47",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "7b76eecedff96774",
    "zone": "fr_national",
    "affects": [],
@@ -23590,24 +23478,6 @@
    "last_seen": "2026-10-24T04:30"
   },
   {
-   "id": "4d71797f7a6b0d24",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Blocco dei tir sulla FiPiLi, le voci corrono sui social. Ma gli autotrasportatori smentiscono: “Nessuna intenzione di fermarci”",
-   "summary": "Firenze, 23 ottobre 2026 – “Non c'è bisogno di blocchi, si blocca da sola”. Ironizzano così i toscani sul gruppo Facebook dei Dannati della FiPiLi , che conta oltre 87mila iscritti. Da Firenze a Pisa, fino a Livorno, da giorni rimbalza la voce che, come accaduto nel Sud Italia, gli autotrasportator…",
-   "link": "https://www.lanazione.it/economia/fipili-le-voci-sul-blocco-dei-camion-corrono-sui-social-ma-gli-autotrasportatori-smentiscono-ebx6tdc5",
-   "published": "2026-10-23T14:37",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "7d1ca63952abab49",
    "zone": "montpellier",
    "affects": [],
@@ -23624,60 +23494,6 @@
    "soon": false,
    "first_seen": "2026-10-23T14:27",
    "last_seen": "2026-10-25T01:39"
-  },
-  {
-   "id": "789688cdd7bdff7d",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "“Serre” in piazza Duomo e in Santa Croce, ecco cosa sono (e a cosa servono) quelle strutture trasparenti",
-   "summary": "Firenze, 23 ottobre 2026 – Serre, cupole, tendoni, questo sembrano a un primo colpo d’occhio. Ma il nome tecnico è cupole geodetiche . Strutture rapide da montare utilizzate, tra le altre cose, nei campeggi di lusso, sfruttate proprio come serre per proteggere alcuni tipi di coltivazioni oppure, ed…",
-   "link": "https://www.lanazione.it/firenze/cronaca/serre-in-piazza-duomo-e-in-santa-croce-ecco-cosa-sono-quelle-strutture-trasparenti-thlgiuxx",
-   "published": "2026-10-23T13:17",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "025657eca699a597",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei e manifestazioni, sono dodici le persone perquisite in Toscana: cinque sono minorenni",
-   "summary": "Firenze, 23 ottobre 2026 – Mentre cresce l’apprensione per la manifestazione in programma domani, sono dodici in Toscana le persone sottoposte a perquisizione personale e domiciliare dalla polizia di Stato, su delega dell'autorità giudiziaria, a seguito delle manifestazioni del 17 e del 18 ottobre…",
-   "link": "https://www.lanazione.it/firenze/cronaca/cortei-e-manifestazioni-perquisizioni-sdo8qe8q",
-   "published": "2026-10-23T11:33",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
-   "id": "001a7df6a54f826e",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Gli ambulanti di Forte dei Marmi arrivano in piazza Saffi a Forlì",
-   "summary": "Forlì, 23 ottobre 2026 - Domenica 1° novembre il centro storico di Forlì ospiterà gli Ambulanti di Forte dei Marmi, il mercato itinerante dedicato all'abbigliamento, agli accessori e ai prodotti per la casa. Le bancarelle saranno presenti in piazza Saffi dalle 8 alle 19, con orario continuato anche…",
-   "link": "https://www.ilrestodelcarlino.it/forli/cosa-fare/ambulanti-forte-marmi-piazza-saffi-3f8b9ba4",
-   "published": "2026-10-23T10:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "ea874e7891f97e57",
@@ -23734,24 +23550,6 @@
    "last_seen": "2026-10-24T09:06"
   },
   {
-   "id": "c0ab45c54715410f",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Firenze, in Piazza dei Ciompi due giorni tra fumetti, dischi e abbigliamento d’epoca",
-   "summary": "Firenze, 23 ottobre 2026 - Firenze riscopre, ogni fine settimana del mese, il fascino del vintage. Sabato 24 e domenica 25 ottobre, piazza dei Ciompi ospita due giornate dedicate agli appassionati di abbigliamento d’epoca, fumetti, dischi e collezionismo . Tra le bancarelle della piazza, i visitato…",
-   "link": "https://www.lanazione.it/firenze/cosa-fare/firenze-mercatino-piazza-ciompi-ceb3da02",
-   "published": "2026-10-23T09:09",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "000aa27c2a42cc87",
    "zone": "montpellier",
    "affects": [],
@@ -23788,24 +23586,6 @@
    "last_seen": "2026-10-24T09:06"
   },
   {
-   "id": "dfaf9810891fbb26",
-   "zone": "sanmarino",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Serie B femminile. Per la San Marino Academy una sconfitta tra le proteste",
-   "summary": "La mini-striscia positiva delle titane si spezza tra le mura amiche. L’Hellas Verona s’impone per 2-0 ad Acquaviva, lasciando la San Marino Academy con un pugno di mosche, qualche rammarico e tanta rabbia per una direzione di gara finita nel mirino delle proteste biancazzurre. Una sconfitta pesante…",
-   "link": "https://www.ilrestodelcarlino.it/rimini/sport/serie-b-femminile-per-la-a0dd6e66",
-   "published": "2026-10-23T06:21",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T09:36",
-   "last_seen": "2026-10-24T00:01"
-  },
-  {
    "id": "af1bebdc2034027a",
    "zone": "it_national",
    "affects": [],
@@ -23840,24 +23620,6 @@
    "soon": false,
    "first_seen": "2026-10-22T21:32",
    "last_seen": "2026-10-24T09:06"
-  },
-  {
-   "id": "66dc0260a84f9817",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "REPLAY Mobilisation du 24 octobre : représentants de partis déçus, mesures chocs annoncées par les préfets pour samedi... Ce qu'il faut retenir ce jeudi",
-   "summary": "À deux jours d’une nouvelle mobilisation, Emmanuel Macron et Sébastien Lecornu multiplient les réunions ce jeudi 22 octobre, entre conseil de sécurité à l’Élysée et rencontre avec les partis politiques à Matignon,...",
-   "link": "https://www.midilibre.fr/2026/10/22/en-direct-mobilisation-du-24-octobre-reunions-de-crise-a-lelysee-et-a-matignon-suivez-la-situation-a-deux-jours-des-manifestations-13614824.php",
-   "published": "2026-10-22T21:51",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-24T00:01"
   },
   {
    "id": "758ef9e158ff450c",
