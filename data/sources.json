@@ -4,8 +4,44 @@
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
+  "kept": 0,
+  "ms": 626,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 23,
   "kept": 1,
-  "ms": 677,
+  "ms": 801,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 813,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 63,
+  "kept": 4,
+  "ms": 828,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 36,
+  "kept": 0,
+  "ms": 920,
   "error": ""
  },
  {
@@ -13,53 +49,8 @@
   "name": "ICI / France Bleu 埃罗省",
   "ok": true,
   "items": 40,
-  "kept": 7,
-  "ms": 255,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 72,
-  "kept": 3,
-  "ms": 1368,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 22,
-  "kept": 0,
-  "ms": 1374,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 37,
-  "kept": 0,
-  "ms": 1378,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 44,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1539,
+  "kept": 6,
+  "ms": 325,
   "error": ""
  },
  {
@@ -68,15 +59,33 @@
   "ok": true,
   "items": 100,
   "kept": 0,
-  "ms": 1630,
+  "ms": 1003,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 4,
+  "ms": 1040,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 2,
+  "ms": 171,
   "error": ""
  },
  {
   "id": "ici_nat",
   "name": "ICI 全国",
   "ok": true,
-  "items": 44,
-  "kept": 5,
+  "items": 43,
+  "kept": 4,
   "ms": 218,
   "error": ""
  },
@@ -84,18 +93,9 @@
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 31,
-  "kept": 3,
-  "ms": 309,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 6,
-  "ms": 1177,
+  "items": 29,
+  "kept": 4,
+  "ms": 495,
   "error": ""
  },
  {
@@ -104,7 +104,16 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 651,
+  "ms": 259,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 118,
+  "kept": 5,
+  "ms": 439,
   "error": ""
  },
  {
@@ -113,16 +122,16 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 1013,
+  "ms": 477,
   "error": ""
  },
  {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
+  "id": "midilibre",
+  "name": "Midi Libre",
   "ok": true,
-  "items": 134,
-  "kept": 3,
-  "ms": 1044,
+  "items": 100,
+  "kept": 6,
+  "ms": 1072,
   "error": ""
  },
  {
@@ -131,17 +140,8 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1827,
+  "ms": 1331,
   "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": false,
-  "items": 0,
-  "kept": 0,
-  "ms": 9002,
-  "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  {
   "id": "mit",
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83256,
+  "ms": 84315,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
