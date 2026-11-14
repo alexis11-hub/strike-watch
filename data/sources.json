@@ -4,35 +4,8 @@
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
-  "kept": 0,
-  "ms": 457,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 529,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 73,
-  "kept": 2,
-  "ms": 570,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 39,
-  "kept": 0,
-  "ms": 652,
+  "kept": 1,
+  "ms": 677,
   "error": ""
  },
  {
@@ -41,25 +14,34 @@
   "ok": true,
   "items": 40,
   "kept": 7,
-  "ms": 206,
+  "ms": 255,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 72,
+  "kept": 3,
+  "ms": 1368,
   "error": ""
  },
  {
   "id": "ansa_tos",
   "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 25,
+  "items": 22,
   "kept": 0,
-  "ms": 671,
+  "ms": 1374,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
   "ok": true,
-  "items": 42,
-  "kept": 4,
-  "ms": 119,
+  "items": 37,
+  "kept": 0,
+  "ms": 1378,
   "error": ""
  },
  {
@@ -67,17 +49,8 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 0,
-  "ms": 164,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 29,
-  "kept": 4,
-  "ms": 221,
+  "kept": 1,
+  "ms": 44,
   "error": ""
  },
  {
@@ -86,16 +59,7 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 998,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 143,
-  "kept": 2,
-  "ms": 203,
+  "ms": 1539,
   "error": ""
  },
  {
@@ -103,26 +67,26 @@
   "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
   "items": 100,
+  "kept": 0,
+  "ms": 1630,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 44,
+  "kept": 5,
+  "ms": 218,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
   "kept": 3,
-  "ms": 1083,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 4,
-  "ms": 326,
-  "error": ""
- },
- {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
-  "ok": true,
-  "items": 25,
-  "kept": 2,
-  "ms": 264,
+  "ms": 309,
   "error": ""
  },
  {
@@ -130,8 +94,35 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 4,
-  "ms": 876,
+  "kept": 6,
+  "ms": 1177,
+  "error": ""
+ },
+ {
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
+  "ok": true,
+  "items": 25,
+  "kept": 0,
+  "ms": 651,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 1013,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 134,
+  "kept": 3,
+  "ms": 1044,
   "error": ""
  },
  {
@@ -140,8 +131,17 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 1091,
+  "ms": 1827,
   "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": false,
+  "items": 0,
+  "kept": 0,
+  "ms": 9002,
+  "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  {
   "id": "mit",
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83007,
+  "ms": 83256,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
