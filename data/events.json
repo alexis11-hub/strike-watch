@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-14T17:19",
+ "updated": "2026-11-14T21:38",
  "events": [
+  {
+   "id": "ab2f6b3f37ea5521",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "REPLAY Manifestations du 14 novembre : affluence en baisse mais tensions certaines… ce qu’il faut retenir à Montpellier et dans le reste du pays",
+   "summary": "Une nouvelle journée de mobilisations \"contre la vie chère\" s’est déroulée ce samedi 14 novembre dans toute la France, à l’appel des gilets jaunes et de plusieurs organisations de la jeunesse. Retour, au fil des...",
+   "link": "https://www.midilibre.fr/2026/11/14/direct-manifestations-du-14-novembre-suivez-avec-nous-la-journee-de-mobilisation-a-lappel-des-gilets-jaunes-et-dorganisation-de-la-jeunesse-13652337.php",
+   "published": "2026-11-14T21:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "320eb37b46717b1e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Entre musique et affrontements avec les forces de l'ordre : retour sur l'acte V des manifestations à Montpellier",
+   "summary": "La manifestation du 14 novembre a démarré en musique sous les Arceaux à Montpellier et s'est terminée avec des affrontements dans le centre-ville malgré l'arrêté préfectoral interdisant les manifestations revendicatives dans l'Écusson.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/entre-musique-et-affrontements-avec-les-forces-de-l-ordre-retour-sur-l-acte-v-des-manifestations-a-montpellier-4254121?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-14T20:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "fa9bf8fefe0a1440",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Perquisizioni in 13 città per le violenze durante i cortei, anche a minorenni",
+   "summary": "Controlli della Digos nei confronti di 50 giovani",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/perquisizioni-in-13-citta-per-violenze-in-cortei-anche-a-minorenni_5916b95b-3017-4a53-8a4b-ea4d7c985d8e.html",
+   "published": "2026-11-14T19:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T11:39",
+   "last_seen": "2026-11-14T21:37"
+  },
   {
    "id": "471330871f082967",
    "zone": "montpellier",
@@ -28,14 +82,14 @@
    "kind": "protest",
    "severity": "high",
    "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale d…",
-   "summary": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est arrivé, en majeure partie, place de la Nation, peu avant 17 heures.",
+   "summary": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore en faveur de moyens supplémentaires d…",
    "link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
    "published": "2026-11-14T17:29",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "ef4cda408a7bdbc1",
@@ -53,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "8d6ce0df723b34ef",
@@ -71,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "d0e13342aa0a297e",
@@ -91,7 +145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "71293921bc9671c5",
@@ -110,24 +164,6 @@
    "soon": false,
    "first_seen": "2026-11-14T11:39",
    "last_seen": "2026-11-14T11:39"
-  },
-  {
-   "id": "fa9bf8fefe0a1440",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Perquisizioni in 13 città per le violenze durante i cortei, anche a minorenni",
-   "summary": "Controlli della Digos nei confronti di 50 giovani",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/perquisizioni-in-13-citta-per-violenze-in-cortei-anche-a-minorenni_5916b95b-3017-4a53-8a4b-ea4d7c985d8e.html",
-   "published": "2026-11-14T11:20",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
   },
   {
    "id": "5762e2e8d47538d9",
@@ -163,7 +199,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "d336b164f87e73dd",
@@ -253,7 +289,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "9b1017a0795789dd",
@@ -361,7 +397,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -433,7 +469,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -523,7 +559,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "d3864c5911d4724a",
@@ -4854,24 +4890,6 @@
    "last_seen": "2026-10-25T01:39"
   },
   {
-   "id": "345a0567a02aeae1",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Città blindate, cortei in tutta Italia. Alta tensione a Torino",
-   "summary": "Indagata la 'mente' del Movimento 17 ottobre. Piantedosi: 'Fermezza contro i violenti'. A Roma manifestanti al Colosseo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/citta-blindate-cortei-in-tutta-italia.-tensioni-a-torino-milano-firenze.-a-roma_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-   "published": "2026-10-24T22:27",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T21:35"
-  },
-  {
    "id": "e680199ddaa30384",
    "zone": "fr_national",
    "affects": [],
@@ -4998,24 +5016,6 @@
    "last_seen": "2026-10-25T06:50"
   },
   {
-   "id": "04b2b45763981e95",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
-   "summary": "In fiamme il ministero dell'Ambiente. Fallito il tentato assalto alla sede del Comune",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_8770847f-89ed-4f1a-8eb5-d1c9a39d3845.html",
-   "published": "2026-10-24T20:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T21:35"
-  },
-  {
    "id": "8c263b79222cedbb",
    "zone": "it_national",
    "affects": [],
@@ -5070,24 +5070,6 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
-   "id": "6b56102ecd28b08e",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Scontri al centro di Roma, cariche e idranti sui manifestanti",
-   "summary": "Dopo lancio di bottiglie verso le forze dell'ordine",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-al-centro-di-roma-cariche-e-idranti-sui-manifestanti_d522e443-6d62-4f63-bae2-e36b951ad646.html",
-   "published": "2026-10-24T19:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
    "id": "2e012c2a10c962ad",
    "zone": "it_national",
    "affects": [],
@@ -5140,24 +5122,6 @@
    "soon": false,
    "first_seen": "2026-10-24T16:46",
    "last_seen": "2026-10-25T06:50"
-  },
-  {
-   "id": "ae90b16cd38d8fb9",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Scontri alla fine del corteo di Parigi, polizia con lacrimogeni e idranti",
-   "summary": "Alla Porte de Vincennes, giovani con il volto coperto contro gli agenti",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-alla-fine-del-corteo-di-parigi-polizia-con-lacrimogeni-e-idranti_db06c252-91ee-45e7-a969-061eff625bbb.html",
-   "published": "2026-10-24T17:56",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
   },
   {
    "id": "354ea88b4c1d2cd0",
@@ -5380,6 +5344,150 @@
    "last_seen": "2026-10-25T19:09"
   },
   {
+   "id": "48d163e3be3abde8",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+   "summary": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de 60,8 % sur cette période.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+   "published": "2026-11-14T22:17",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-14T21:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-14T21:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "acfc0255fb146644",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Quand j'ai tout payé, il ne me reste plus grand chose\" : pour le cinquième samedi de mobilisation contre la vie chère, des manifestants toujours déterminés",
+   "summary": "Des milliers de personnes ont manifesté en France contre la vie chère et pour défendre le pouvoir d'achat.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/cinquieme-samedi-de-mobilisation-contre-la-vie-chere-des-manifestants-toujours-determines_8282834.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-14T21:10",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "7ba5789fa1541d8f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 14 novembre : 200.000 manifestants selon les syndicats, 106.000 selon le ministère",
+   "summary": "De nouvelles manifestations, avec un peu moins d'affluence que les précédentes, ont eu lieu pour le cinquième samedi consécutif de mobilisation contre la \"vie chère\", à l'appel de la coordination des gilets jaunes et des organisations de jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-du-14-novembre-suivez-l-acte-v-des-manifestations-contre-la-vie-chere-et-pour-la-jeunesse-5378889?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-14T21:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "abb6adfb04cb0bd0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 14 novembre : 200.000 manifestants selon les syndicats, 106.000 selon le ministère",
+   "summary": "De nouvelles manifestations, avec un peu moins d'affluence que les précédentes, ont eu lieu pour le cinquième samedi consécutif de mobilisation contre la \"vie chère\", à l'appel de la coordination des gilets jaunes et des organisations de jeunesse.",
+   "link": "https://www.ici.fr/infos/societe/mobilisation-du-14-novembre-suivez-l-acte-v-des-manifestations-contre-la-vie-chere-et-pour-la-jeunesse-5378889?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-14T21:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "7e191b6dfe7b3ca3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 14 novembre : une équipe de BFMTV agressée en marge de la mobilisation à Lyon",
+   "summary": "Le préfet a condamné \"avec la plus grande fermeté les agressions commises aujourd'hui à l'encontre de journalistes\", rappelant que \"la liberté de la presse et le droit d'informer sont des piliers fondamentaux de notre démocratie\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-14T20:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
+   "id": "4ec27bb0756a1f6e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent…",
+   "summary": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »",
+   "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
+   "published": "2026-11-14T20:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-14T21:37"
+  },
+  {
    "id": "a74272f3f89da153",
    "zone": "montpellier",
    "affects": [],
@@ -5449,43 +5557,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-14T17:18",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-14T17:18"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-14T17:18",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "25cc06b7afe94ae6",
@@ -5503,7 +5575,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "58f122884bc111c4",
@@ -5539,7 +5611,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "f6a8a0cb5c69c58a",
@@ -5557,7 +5629,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "826b52bb3d55f8f8",
@@ -5575,7 +5647,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5593,7 +5665,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "987f6456ea855130",
@@ -5611,7 +5683,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "938cc206a2fcd891",
@@ -5683,7 +5755,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5701,7 +5773,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "7c510ce54c2bdcac",
@@ -5719,7 +5791,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "b6ed15dc5c6c4a79",
@@ -5737,7 +5809,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "f7f9c324f374c143",
@@ -5755,7 +5827,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "0cda8ec4afef11ab",
@@ -5989,7 +6061,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "9345ed35e3f00b49",
@@ -6079,7 +6151,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "3a29fe9bf7978de5",
@@ -6097,7 +6169,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6439,7 +6511,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "72b047d96c783dd4",
@@ -6655,7 +6727,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6745,7 +6817,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "f5f7911082cd2196",
@@ -7501,7 +7573,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8941,7 +9013,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-14T17:18"
+   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -21026,24 +21098,6 @@
    "last_seen": "2026-10-25T01:39"
   },
   {
-   "id": "02bf0aa4d1fbb00d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée... Revivez la jou…",
-   "summary": "Des centaines de milliers de personnes ont à nouveau manifesté samedi pour défendre le pouvoir d’achat et réclamer de meilleurs services publics. Le ministre de l’intérieur, Laurent Nuñez, estimant que « les cortèges se sont bien passés » malgré « près de 1 000 » interpellations .Des heurts ont lie…",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html",
-   "published": "2026-10-24T23:05",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-24T21:35"
-  },
-  {
    "id": "20bf6f109da042d7",
    "zone": "montpellier",
    "affects": [],
@@ -21188,24 +21242,6 @@
    "last_seen": "2026-10-25T12:14"
   },
   {
-   "id": "7ea133ba12cfc7c9",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT Mobilisation du 24 octobre : Laurent Nuñez confirme la présence de militants d’ultra-droite à Montpellier",
-   "summary": "Entre 400 000 et 500 000 sont attendues à l’occasion des manifestations partout en France, ce samedi 24 octobre. Cet \"acte II\" des Gilets jaunes sera marqué par un dispositif de sécurité accru malgré la série...",
-   "link": "https://www.midilibre.fr/2026/10/24/en-direct-mobilisation-du-24-octobre-jusqua-500-000-personnes-attendues-par-le-gouvernement-suivez-les-manifestations-13617618.php",
-   "published": "2026-10-24T21:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
    "id": "5a0b3a9359870d27",
    "zone": "fr_national",
    "affects": [],
@@ -21240,24 +21276,6 @@
    "soon": false,
    "first_seen": "2026-10-24T19:10",
    "last_seen": "2026-10-25T06:50"
-  },
-  {
-   "id": "ce022f96bc2a56e6",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Migliaia in piazza a Tel Aviv contro Netanyahu prima delle elezioni",
-   "summary": "Secondo i sondaggi lo schieramento di Netanyahu è testa a testa con quello di Eisenkot",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/migliaia-in-piazza-a-tel-aviv-contro-netanyahu-prima-delle-elezioni_4469d036-7822-44ec-9b96-70b9090063fd.html",
-   "published": "2026-10-24T19:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
   },
   {
    "id": "9e9fa1a6cf0bcd35",
@@ -21348,42 +21366,6 @@
    "soon": false,
    "first_seen": "2026-10-24T19:10",
    "last_seen": "2026-10-25T06:50"
-  },
-  {
-   "id": "59908c646ac120cc",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, manifestations du 24 octobre : « Les cortèges se sont bien passés », affirme Laurent Nuñez, qui recense pour l’heure « 1 000 interpellations »",
-   "summary": "« Le 17 octobre, à la même heure, nous étions à 385 interpellations », a précisé le ministre de l’intérieur. Près de 410 000 personnes ont manifesté en France, selon le ministère, plus de 800 000, selon la CGT. Des heurts ont lieu en fin de parcours, notamment à Paris, Marseille ou Strasbourg.",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
-   "published": "2026-10-24T18:20",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-24T19:10"
-  },
-  {
-   "id": "ab180182a2096846",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Sindacati, '800.000 in piazza in Francia, 250.000 a Parigi'",
-   "summary": "Per il ministero dell'Interno i manifestanti in tutto il Paese sono stati 410mila",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/sindacati-800.000-in-piazza-in-francia-250.000-a-parigi_c63280d0-7f66-4596-a2a8-864fd7fef109.html",
-   "published": "2026-10-24T18:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
   },
   {
    "id": "1ca7cf5efa66d4fb",
@@ -21728,24 +21710,6 @@
    "soon": false,
    "first_seen": "2026-10-24T21:35",
    "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "75b3aae7e6e34706",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : plus de 4000 personnes dans la manifestation à Montpellier, 700 à Béziers",
-   "summary": "Ce samedi 24 octobre, l'acte II de la mobilisation \"contre la vie chère\" a réuni 700 personnes à Béziers et plus de 4000 à Montpellier, malgré l'interdiction de la préfecture. Un mouvement bien moins suivi que celui de la semaine dernière, et beaucoup plus calme.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-novembre-les-manifestants-toujours-en-attente-du-tribunal-administratif-de-montpellier-2540969?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-24T15:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-24T19:10"
   },
   {
    "id": "f76fc8c3358830fc",
@@ -22196,24 +22160,6 @@
    "soon": false,
    "first_seen": "2026-10-24T09:06",
    "last_seen": "2026-10-25T01:39"
-  },
-  {
-   "id": "a1f6cd8a6f50066f",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tolti i blocchi, i tir ripartono . Arrivano le cisterne di benzina: \"Così non resteremo a secco\"",
-   "summary": "Sono 140 i distributori nella nostra provincia, 45 solo nel capoluogo. Un numero in costante calo. Ferrara ha anche un primato non proprio bello, solo il 18% dei distributori offre un prezzo del gasolio inferiore ai 2,20 euro al litro. Siamo in fondo alla classifica stilata da Facile.it sulla rete…",
-   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/tolti-i-blocchi-i-tir-b1b8029d",
-   "published": "2026-10-24T05:13",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T19:10"
   },
   {
    "id": "e3a330b9137edfbb",
@@ -22684,24 +22630,6 @@
    "last_seen": "2026-10-25T06:50"
   },
   {
-   "id": "acd587d796cf346a",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Il Governo sceglie la linea dura, sospesi i blocchi dei tir in Sicilia e Calabria",
-   "summary": "Denunce e scorte ai camion, ma arriva il decreto sugli aiuti. Mercati vuoti e imprese pronte a fermarsi, chiuso uno snodo autostradale. I sindaci di Napoli e Bari lanciano l'allarme: 'Città a rischio paralisi'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/il-governo-sceglie-la-linea-dura-sospesi-i-blocchi-in-sicilia-e-calabria_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
-   "published": "2026-10-22T09:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T21:35"
-  },
-  {
    "id": "67690b2a67cddc0b",
    "zone": "montpellier",
    "affects": [],
@@ -22736,24 +22664,6 @@
    "soon": false,
    "first_seen": "2026-10-22T07:57",
    "last_seen": "2026-10-26T01:42"
-  },
-  {
-   "id": "dba5e61959b802db",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Trasportatori siciliani, sospendiamo protesta e rimuoviamo blocchi",
-   "summary": "Richichi: \"Anche noi parteciperemo ai tavoli sull'autotrasporto\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/trasportatori-siciliani-sospendiamo-protesta-e-rimuoviamo-blocchi_14de699e-cfbc-4ace-a4fa-6d2554cf1b67.html",
-   "published": "2026-10-21T23:22",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-21T23:49",
-   "last_seen": "2026-10-24T21:35"
   },
   {
    "id": "724ad21b67c90a84",
