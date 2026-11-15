@@ -5,7 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 684,
+  "ms": 747,
   "error": ""
  },
  {
@@ -14,25 +14,16 @@
   "ok": true,
   "items": 100,
   "kept": 2,
-  "ms": 832,
+  "ms": 885,
   "error": ""
  },
  {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 40,
-  "kept": 7,
-  "ms": 309,
-  "error": ""
- },
- {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
-  "ok": true,
-  "items": 100,
-  "kept": 3,
-  "ms": 1188,
+  "items": 50,
+  "kept": 4,
+  "ms": 995,
   "error": ""
  },
  {
@@ -41,7 +32,7 @@
   "ok": true,
   "items": 34,
   "kept": 0,
-  "ms": 1288,
+  "ms": 998,
   "error": ""
  },
  {
@@ -50,25 +41,7 @@
   "ok": true,
   "items": 21,
   "kept": 1,
-  "ms": 1290,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 59,
-  "kept": 4,
-  "ms": 1296,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 100,
-  "kept": 0,
-  "ms": 1453,
+  "ms": 1002,
   "error": ""
  },
  {
@@ -76,26 +49,53 @@
   "name": "Le Monde",
   "ok": true,
   "items": 16,
-  "kept": 3,
-  "ms": 212,
+  "kept": 2,
+  "ms": 182,
   "error": ""
  },
  {
-  "id": "ici_nat",
-  "name": "ICI 全国",
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
   "ok": true,
-  "items": 42,
-  "kept": 3,
-  "ms": 217,
+  "items": 100,
+  "kept": 1,
+  "ms": 1247,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 28,
+  "items": 30,
   "kept": 6,
-  "ms": 539,
+  "ms": 379,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 43,
+  "kept": 1,
+  "ms": 214,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 7,
+  "ms": 721,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 100,
+  "kept": 4,
+  "ms": 1547,
   "error": ""
  },
  {
@@ -104,7 +104,7 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 511,
+  "ms": 325,
   "error": ""
  },
  {
@@ -113,7 +113,7 @@
   "ok": true,
   "items": 106,
   "kept": 5,
-  "ms": 354,
+  "ms": 365,
   "error": ""
  },
  {
@@ -122,7 +122,7 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 420,
+  "ms": 390,
   "error": ""
  },
  {
@@ -131,7 +131,7 @@
   "ok": true,
   "items": 100,
   "kept": 6,
-  "ms": 1753,
+  "ms": 1510,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 2,
-  "ms": 2097,
+  "ms": 1917,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83418,
+  "ms": 83729,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
