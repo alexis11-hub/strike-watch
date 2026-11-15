@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:38",
+ "updated": "2026-11-15T01:20",
  "events": [
   {
    "id": "ab2f6b3f37ea5521",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "320eb37b46717b1e",
@@ -35,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -53,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "471330871f082967",
@@ -107,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "8d6ce0df723b34ef",
@@ -125,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "d0e13342aa0a297e",
@@ -145,7 +145,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "71293921bc9671c5",
@@ -199,7 +199,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "d336b164f87e73dd",
@@ -289,7 +289,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "9b1017a0795789dd",
@@ -397,7 +397,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -469,7 +469,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -542,24 +542,6 @@
    "soon": false,
    "first_seen": "2026-11-12T02:21",
    "last_seen": "2026-11-12T02:21"
-  },
-  {
-   "id": "f902a544b3aaec3e",
-   "zone": "sanmarino",
-   "affects": [],
-   "source_id": "libertas",
-   "source": "Libertas.sm",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane",
-   "summary": "SAN MARINO – Momenti di apprensione nelle prime ore di mercoledì 11 novembre in piazza Marino Capicchioni, dove un furgone L'articolo Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane proviene da libertas .",
-   "link": "https://www.libertas.sm/incendio-allalba-a-santa-mustiola-a-fuoco-un-mezzo-per-il-trasporto-del-pane/",
-   "published": "2026-11-11T22:07",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-14T21:37"
   },
   {
    "id": "d3864c5911d4724a",
@@ -5344,6 +5326,60 @@
    "last_seen": "2026-10-25T19:09"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-15T01:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-15T01:18"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-15T01:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-15T01:18"
+  },
+  {
+   "id": "9eea892a6fe2a464",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+   "summary": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la présomption de légitime défense pour les policiers et gendarmes.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
+   "published": "2026-11-15T00:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T01:18",
+   "last_seen": "2026-11-15T01:18"
+  },
+  {
    "id": "48d163e3be3abde8",
    "zone": "fr_national",
    "affects": [],
@@ -5359,43 +5395,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-14T21:37",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-14T21:37"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-14T21:37",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "acfc0255fb146644",
@@ -5413,7 +5413,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "7ba5789fa1541d8f",
@@ -5431,7 +5431,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "abb6adfb04cb0bd0",
@@ -5449,7 +5449,25 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
+  },
+  {
+   "id": "b954c1ab0c436d38",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 14 novembre : 106 000 personnes ont défilé en France selon l'Intérieur, 200 000 d'après les organisateurs",
+   "summary": "\"La situation sur le territoire national est demeurée globalement maîtrisée\", a noté le ministère de l'Intérieur.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-106-000-personnes-ont-defile-en-france-selon-l-interieur-200-000-d-apres-les-organisateurs_8282837.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-14T20:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T01:18",
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "7e191b6dfe7b3ca3",
@@ -5467,7 +5485,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "4ec27bb0756a1f6e",
@@ -5485,7 +5503,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "a74272f3f89da153",
@@ -5557,7 +5575,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "25cc06b7afe94ae6",
@@ -5575,7 +5593,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "58f122884bc111c4",
@@ -5611,7 +5629,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "f6a8a0cb5c69c58a",
@@ -5629,7 +5647,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "826b52bb3d55f8f8",
@@ -5647,7 +5665,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5665,7 +5683,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "987f6456ea855130",
@@ -5683,7 +5701,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "938cc206a2fcd891",
@@ -5755,7 +5773,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5773,7 +5791,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "7c510ce54c2bdcac",
@@ -5791,7 +5809,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "b6ed15dc5c6c4a79",
@@ -5809,7 +5827,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "f7f9c324f374c143",
@@ -5827,7 +5845,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "0cda8ec4afef11ab",
@@ -6061,7 +6079,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "9345ed35e3f00b49",
@@ -6151,7 +6169,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "3a29fe9bf7978de5",
@@ -6169,7 +6187,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6511,7 +6529,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "72b047d96c783dd4",
@@ -6727,7 +6745,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "be7e7e56cc07c7f5",
@@ -6817,7 +6835,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6944,6 +6962,24 @@
    "soon": false,
    "first_seen": "2026-11-12T10:00",
    "last_seen": "2026-11-12T10:00"
+  },
+  {
+   "id": "f902a544b3aaec3e",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "libertas",
+   "source": "Libertas.sm",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane",
+   "summary": "SAN MARINO – Momenti di apprensione nelle prime ore di mercoledì 11 novembre in piazza Marino Capicchioni, dove un furgone L'articolo Incendio all’alba a Santa Mustiola, a fuoco un mezzo per il trasporto del pane proviene da libertas .",
+   "link": "https://www.libertas.sm/incendio-allalba-a-santa-mustiola-a-fuoco-un-mezzo-per-il-trasporto-del-pane/",
+   "published": "2026-11-11T22:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-12T02:21",
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7573,7 +7609,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -9013,7 +9049,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-14T21:37"
+   "last_seen": "2026-11-15T01:18"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -22214,24 +22250,6 @@
    "soon": false,
    "first_seen": "2026-10-24T09:06",
    "last_seen": "2026-10-25T01:39"
-  },
-  {
-   "id": "9ff0d882d6e9e1e8",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Le criticità delle scuole: \"Spazi inadeguati e poca manutenzione\"",
-   "summary": "Una scuola demolita, una nuova struttura che tarda ad arrivare e studenti costretti a fare lezione in una sede provvisoria da anni. È la situazione del Barsanti , dove ieri mattina è tornata la protesta degli studenti, preoccupati per l’incertezza sui tempi di realizzazione della nuova scuola. Dopo…",
-   "link": "https://www.lanazione.it/massa-carrara/cronaca/le-criticita-delle-scuole-spazi-27e7fd83",
-   "published": "2026-10-24T05:02",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-24T23:42"
   },
   {
    "id": "239df9aea52dc4e6",
