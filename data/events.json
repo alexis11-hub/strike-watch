@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:03",
+ "updated": "2026-11-15T15:39",
  "events": [
   {
    "id": "939771e721dd2045",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -40,6 +40,24 @@
    "last_seen": "2026-11-15T08:02"
   },
   {
+   "id": "098d1c8c4631ea17",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Centro socio-culturale. Associazione e Comune: è scontro per il bando",
+   "summary": "Lo slogan: \"Salviamo Mentre Vivevo\". È questo lo striscione esposto ieri mattina davanti alla Provincia di Rimini, in via Dario Campana, dove il collettivo Mentre Vivevo si è ritrovato per difendere la rassegna teatrale di Poggio Torriana . Da dodici anni Quotidianacom anima la sala teatro del Cent…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/centro-socio-culturale-associazione-e-comune-164ad1f7",
+   "published": "2026-11-15T04:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
    "id": "ab2f6b3f37ea5521",
    "zone": "montpellier",
    "affects": [],
@@ -55,7 +73,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "320eb37b46717b1e",
@@ -73,7 +91,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -91,7 +109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "471330871f082967",
@@ -163,7 +181,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "d0e13342aa0a297e",
@@ -183,7 +201,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T01:18"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "71293921bc9671c5",
@@ -237,7 +255,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "d336b164f87e73dd",
@@ -435,7 +453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -507,7 +525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -4640,24 +4658,6 @@
    "last_seen": "2026-10-25T16:23"
   },
   {
-   "id": "58912aea6147ab40",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT Mobilisation du 24 octobre : violences d’une \"milice d’extrême droite\" à Montpellier, 1 314 interpellations en France… Les dernières infos",
-   "summary": "Au lendemain de l’acte II des manifestations du 24 octobre contre la vie chère, qui ont rassemblé plusieurs centaines de milliers de personnes dans toute la France, les autorités font état de près de 1 000...",
-   "link": "https://www.midilibre.fr/2026/10/25/en-direct-mobilisation-du-24-octobre-pres-de-1-000-interpellations-plusieurs-blesses-graves-les-dernieres-infos-au-lendemain-des-manifestations-13619511.php",
-   "published": "2026-10-25T13:02",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "e0f877aacc9eb454",
    "zone": "firenze",
    "affects": [],
@@ -4712,60 +4712,6 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "c1dcebaabe41c8c2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
-   "summary": "Une semaine après les scènes d'émeutes et de chaos qui avaient marqué la première journée de mobilisation, la manifestation de samedi à Paris s'est déroulée dans \"des conditions de sécurité absolument remarquables\", estime Hélène Denéchère.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/pour-la-mobilisation-samedi-a-paris-les-enseignements-du-17-octobre-ont-ete-tires-se-felicite-la-porte-parole-de-la-prefecture-de-police-de-paris_8252836.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-25T09:49",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "9b27b5399e86691b",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Scontri e tensioni a Roma durante il corteo con migliaia di persone: la polizia usa gli idranti",
-   "summary": "A Roma al termine del percorso previsto ed autorizzato da Piazza della Repubblica fino ai Fori imperiali, un nutrito gruppo di manifestanti ha chiesto di poter proseguire il corteo. Circa 7 mila persone , con l’ok delle autorità hanno continuato a manifestare per le vie della Capitale. Prima su via…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/25/scontri-corteo-roma-idranti-video-notizie/8549137/",
-   "published": "2026-10-25T09:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "2749d04f9783f8e9",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "\"Quelles issues au chaos ?\" : deux élus nîmois disent leurs quatre vérités et leurs messages au pouvoir",
-   "summary": "Le feu a pris sur la mobilisation lycéenne, rejointe par des griefs agglomérés contre un exécutif aux abois. Depuis, difficile d’y voir clair dans ce brouillard de violences. Dans son espace Lignes ouvertes, Midi...",
-   "link": "https://www.midilibre.fr/2026/10/25/quelles-issues-au-chaos-deux-elus-nimois-disent-leurs-quatre-verites-et-leurs-messages-au-pouvoir-13613627.php",
-   "published": "2026-10-25T08:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "cc4ab07506b8987b",
    "zone": "montpellier",
    "affects": [],
@@ -4802,24 +4748,6 @@
    "last_seen": "2026-10-26T01:42"
   },
   {
-   "id": "a134f84c3bab0052",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Luci spente e sipari giù. Teatro, martedì sciopero: \"Paghe rimaste al 2018\"",
-   "summary": "Luci spente in sala, palcoscenici deserti e cartelloni a rischio sospensione. Martedì il teatro italiano si ferma: i dipendenti dei teatri di prosa, insieme al personale artistico e tecnico scritturato, incrociano le braccia per una giornata di sciopero generale proclamata unitariamente da Slc Cgil…",
-   "link": "https://www.lanazione.it/firenze/cronaca/luci-spente-e-sipari-giu-cc7aa302",
-   "published": "2026-10-25T06:17",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "7c489dcf9bd5cc3f",
    "zone": "it_national",
    "affects": [],
@@ -4836,24 +4764,6 @@
    "soon": false,
    "first_seen": "2026-10-24T19:10",
    "last_seen": "2026-10-27T19:31"
-  },
-  {
-   "id": "8b4251fbd601fe67",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 24 octobre : 410.000 manifestants en France selon le gouvernement, 800.000 d'après la CGT",
-   "summary": "De nombreux manifestants, 410.000 selon le ministère de l'Intérieur, 800.000 selon la CGT, ont défilé ce samedi pour l'acte II de la mobilisation contre la vie chère. Quelques heurts et affrontements ont éclaté à Paris, Lyon, Toulouse ou Bordeaux. Revivez cette journée avec ICI.",
-   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-24T20:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "ce24362c462b24b6",
@@ -4946,24 +4856,6 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
-   "id": "c4d3256f991df513",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 24 octobre : \"Manifester est un droit, mais il y a un problème de casseurs\", en Occitanie, des habitants désabusés",
-   "summary": "Lycéens, étudiants, infirmières, travailleurs sociaux, retraités… que pensent-ils de l’interdiction de manifester ce samedi 24 octobre à Nîmes, Montpellier, et de nombreuses grandes villes en France ? Des habitants...",
-   "link": "https://www.midilibre.fr/2026/10/23/mobilisation-du-24-octobre-manifester-est-un-droit-mais-il-y-a-un-probleme-de-casseurs-en-occitanie-des-habitants-desabuses-13617194.php",
-   "published": "2026-10-23T20:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "da6656e430cb8848",
    "zone": "it_national",
    "affects": [],
@@ -4980,6 +4872,114 @@
    "soon": false,
    "first_seen": "2026-10-22T18:06",
    "last_seen": "2026-10-25T19:09"
+  },
+  {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-15T15:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-15T15:37",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "e398b0e3606e376f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Manifestation du 14 novembre : plus de 400 interpellations en France, dont 126 à Paris",
+   "summary": "Quatre cent quatre personnes, dont 126 à Paris, ont été interpellées en France samedi en marge des manifestations de l'acte V du mouvement social, a indiqué dimanche le ministère de l'Intérieur.",
+   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-14-novembre-a-paris-108-gardes-a-vue-dont-38-mineurs-en-marge-du-cortege-contre-la-vie-chere-9184649?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-15T15:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "0f62b79afd19ec17",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "« Ces putains d’Ukrainiens » : la Bélarusse Aryna Sabalenka présente ses excuses après avoir dérapé lors de sa défaite au Masters WTA",
+   "summary": "La Bélarusse Aryna Sabalenka a présenté ses excuses samedi 14 novembre, après un coup de colère vendredi lors de sa défaite contre l’Ukrainienne Elina Svitolina au Masters WTA d’Indian Wells (Californie). La quadruple...",
+   "link": "https://www.midilibre.fr/2026/11/15/ces-putains-dukrainiens-la-belarusse-aryna-sabalenka-presente-ses-excuses-apres-avoir-derape-lors-de-sa-defaite-au-masters-wta-13653814.php",
+   "published": "2026-11-15T14:33",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "30ba16401c106896",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dans les Deux-Sèvres, le collectif Bassines Non Merci appelle à un nouveau rassemblement pour rejoindre le site de Sainte-Soline le 29 novembre",
+   "summary": "Le rassemblement doit se dérouler au départ d'Azay-le-Brûlé, dans les Deux-Sèvres, pour rejoindre le site de Sainte-Soline à vélo ou en tracteur.",
+   "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/megabassine/megabassine-de-sainte-soline/dans-les-deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-pour-rejoindre-le-site-de-sainte-soline-le-29-novembre_8283479.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-15T14:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "0da3a7ffa491b88f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Deux-Sèvres : le collectif Bassines non merci appelle à un nouveau rassemblement",
+   "summary": "Le collectif Bassines non merci appelle à un nouveau rassemblement, dimanche 29 novembre, au départ d'Azay-le-Brûlé, dans les Deux-Sèvres, pour rejoindre le site de Sainte-Soline à vélo ou en tracteur.",
+   "link": "https://www.ici.fr/infos/environnement/deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-3114879?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-15T14:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "abb6adfb04cb0bd0",
@@ -5018,42 +5018,6 @@
    "last_seen": "2026-11-15T08:02"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-15T08:02",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T08:02"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-15T08:02",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-15T08:02"
-  },
-  {
    "id": "197da08acd08d904",
    "zone": "montpellier",
    "affects": [],
@@ -5069,7 +5033,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "282d7c5ac11b26f1",
@@ -5087,7 +5051,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -5123,7 +5087,79 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "e715e88533e48c7b",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "In bicicletta contro il cemento: \"Basta sacrificare le aree verdi\"",
+   "summary": "Per decine di cittadini riminesi, grandi e piccoli, quello di ieri pomeriggio è stato un momento all’insegna dell’aria aperta e della bicicletta , con lo scopo di \"osservare e raccontare i luoghi del delirio edilizio e delle vertenze ambientali che attraversano il nostro territorio\". Quattro tappe…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/in-bicicletta-contro-il-cemento-2d21004c",
+   "published": "2026-11-15T05:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "44bf7d2e95997b55",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tendopoli abusiva nel viale Aldo Moro: \"Va sgomberata\"",
+   "summary": "Tornano gli accampamenti dei senza fissa dimora in viale Aldo Moro. E con loro le preoccupazioni dei residenti, che segnalano la ricomparsa di un insediamento di fortuna nell’area dove, negli anni scorsi, si era già sviluppata una situazione di forte degrado. A riportare l’attenzione sulla vicenda…",
+   "link": "https://www.lanazione.it/firenze/cronaca/tendopoli-abusiva-nel-viale-aldo-6e8d3f8d",
+   "published": "2026-11-15T05:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "e8327e0df688deed",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Borgo San Lorenzo senza medici di famiglia: \"Sistema in cortocircuito\"",
+   "summary": "dall’inviata BORGO SAN LORENZO Come piove. Alzando lo sguardo il cielo non promette altro. Non è proprio un buongiorno. Come non è un benvenuto la sfilata di sacchi dell’immondizia che ci accoglie all’ingresso della casa di comunità , a Borgo San Lorenzo. Il grande edificio che dovrebbe essere il f…",
+   "link": "https://www.lanazione.it/firenze/cronaca/a-borgo-san-lorenzo-senza-1b0b99bf",
+   "published": "2026-11-15T04:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "c1c54bef3d6f93ad",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La vente des mortiers d’artifice, utilisés dans les manifestations et dans certains lycées, interdite jusqu’au 27 novembre",
+   "summary": "Face à une utilisation dangereuse de ces engins lors des manifestations, et parfois même dans les lycées, l’interdiction vise les artifices de catégories F2 et F3.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/15/la-vente-des-mortiers-d-artifice-interdite-jusqu-au-27-novembre-par-le-gouvernement_6810775_3224.html",
+   "published": "2026-11-15T01:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "9eea892a6fe2a464",
@@ -5321,7 +5357,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "58f122884bc111c4",
@@ -5357,7 +5393,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "f6a8a0cb5c69c58a",
@@ -5393,7 +5429,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5411,7 +5447,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T01:18"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "987f6456ea855130",
@@ -5501,7 +5537,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5555,7 +5591,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "f7f9c324f374c143",
@@ -5573,7 +5609,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "0cda8ec4afef11ab",
@@ -5612,6 +5648,24 @@
    "last_seen": "2026-11-14T17:18"
   },
   {
+   "id": "5dd503bb833c164c",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il turismo traina le assunzioni. Quasi 8mila posti in tre mesi",
+   "summary": "Il motore economico della riviera riminese resta il turismo , anche se l’estate è ormai lontana e il vento freddo soffia sulla costa. L’ultimo focus occupazionale della Camera di Commercio è stato elaborato dalle analisi di Excelsior Informa, il Bollettino mensile con orizzonte trimestrale sui fabb…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/il-turismo-traina-le-assunzioni-38cef20b",
+   "published": "2026-11-14T05:56",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
    "id": "72d6cfd400a08b8d",
    "zone": "firenze",
    "affects": [],
@@ -5628,6 +5682,42 @@
    "soon": false,
    "first_seen": "2026-11-14T11:39",
    "last_seen": "2026-11-14T11:39"
+  },
+  {
+   "id": "83c7b8d2d464f659",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mercatino di Natale in Santa Croce, su il sipario. Il 18 taglio del nastro. Poi un mese di sorprese",
+   "summary": "Si alza stamani alle 10 il sipario in piazza Santa Croce sullo spettacolare palcoscenico offerto dal Weihnachtsmarkt , il tradizionale mercatino di Natale. La presentazione ufficiale è in programma mercoledì 18 novembre alle 16 alla presenza della sindaca Sara Funaro e dell’assessore Jacopo Vicini.…",
+   "link": "https://www.lanazione.it/firenze/cronaca/mercatino-di-natale-in-santa-a3f6bb0e",
+   "published": "2026-11-14T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
+  },
+  {
+   "id": "1ed13c477a7891f3",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Farmacisti in piazza sotto la pioggia: \"Ora rinnovateci il contratto\"",
+   "summary": "Sotto la pioggia a manifestare in piazza. Ieri era il giorno dei dipendenti delle farmacie private , scesi in piazza Tre Martiri per denunciare la condizione in cui continuano a lavorare. Un messaggio diretto a Federfarma, per dire basta alla condizione attuale, spingendo per il rinnovo del contrat…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/farmacisti-in-piazza-sotto-la-c10ab797",
+   "published": "2026-11-14T05:43",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T15:37",
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "2b287c6f7b6b1453",
@@ -5807,7 +5897,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T23:54",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "9345ed35e3f00b49",
@@ -5915,7 +6005,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6167,7 +6257,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-14T04:15"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "0cb05fba5c157eb1",
@@ -6563,7 +6653,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6707,7 +6797,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7337,7 +7427,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8777,7 +8867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -20250,24 +20340,6 @@
    "last_seen": "2026-10-26T01:42"
   },
   {
-   "id": "3fa2098cc363eae6",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tel Aviv, in migliaia in piazza contro Netanyahu a tre giorni dalle elezioni",
-   "summary": "Migliaia di persone si sono radunate a Tel Aviv per una grande manifestazione antigovernativa, a tre giorni da elezioni generali considerate da molti come un referendum sul primo ministro israeliano Benjamin Netanyahu. “Abbiamo bisogno di un governo che abbia a cuore i propri cittadini. Dobbiamo sa…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/25/manifestazione-tel-aviv-netanyahu-elezioni-notizie/8549344/",
-   "published": "2026-10-25T10:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "f8ef111223522560",
    "zone": "fr_national",
    "affects": [],
@@ -20302,24 +20374,6 @@
    "soon": false,
    "first_seen": "2026-10-25T12:14",
    "last_seen": "2026-10-26T14:00"
-  },
-  {
-   "id": "2b2c79c7c01190f9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations du 24 octobre : plus de 1 300 interpellations en France, et 53 membres des forces de l'ordre blessés, annonce le ministère de l'Intérieur",
-   "summary": "Les autorités ont dénombré 410 000 manifestants dans le pays samedi, contre 550 000 une semaine plus tôt. De son côté, la CGT a comptabilisé 800 000 manifestants, soit autant que le 17 octobre.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-25T08:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "ecae593d70f16c3b",
@@ -20484,78 +20538,6 @@
    "last_seen": "2026-10-25T16:23"
   },
   {
-   "id": "ab9e781162a22047",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tremila firme per la viabilità. La protesta parte da Brozzi. E si allarga in via Pistoiese",
-   "summary": "La dorsale della Pistoiese non regge il traffico dopo il riassetto e si formano serpentoni di auto. Così tanti passano da via di Brozzi , che diventa un’autostrada. Muoversi a piedi? Peggio: i marciapiedi sono tutti una buca. Perciò 3mila cittadini hanno firmato per chiedere una riqualificazione de…",
-   "link": "https://www.lanazione.it/firenze/cronaca/tremila-firme-per-la-viabilita-912bed86",
-   "published": "2026-10-25T06:18",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "0e44d92af23518a3",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Festival delle Regioni, Firenze accoglie il presidente Mattarella. Blindato l’incontro con il ministro Valditara",
-   "summary": "Firenze, 25 ottobre 2026 – Due mondi che s’incrociano senza toccarsi, a poche centinaia di metri l’uno dall’altro, nel cuore blindato di Firenze. Da un lato il vertice solenne delle Regioni, che porta nel Salone dei Cinquecento il Capo dello Stato Sergio Mattarella e i vertici del governo per ridis…",
-   "link": "https://www.lanazione.it/firenze/cronaca/festival-delle-regioni-firenze-accoglie-8122961f",
-   "published": "2026-10-25T06:17",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "2215631ecd60c2e1",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "A Orléans, une manifestation antifasciste empreinte de gravité et marquée par la division des gauches",
-   "summary": "L’attentat raciste de Trappes et l’urgence de s’unir contre l’extrême droite étaient dans tous les esprits à la manifestation de samedi contre le congrès du RN, dans la ville du Loiret. Mais les dissensions restent fortes entre les gauches.",
-   "link": "https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html",
-   "published": "2026-10-25T05:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "f3b830380e172468",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Une journée de forte mobilisation sans incidents majeurs : « Le droit de manifester est aussi important que le droit de vote »",
-   "summary": "Malgré des autorisations et des parcours souvent décidés à la dernière minute, près de 410 000 personnes – 800 000 selon la CGT – ont défilé dans le calme, samedi en France, contre la vie chère, en soutien aux lycéens ou pour les libertés publiques. Des heurts ont éclaté à Nantes, à Rennes et à Mar…",
-   "link": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html",
-   "published": "2026-10-25T04:45",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "d16c7c014412bc53",
    "zone": "it_national",
    "affects": [],
@@ -20626,24 +20608,6 @@
    "soon": false,
    "first_seen": "2026-10-24T19:10",
    "last_seen": "2026-10-27T08:06"
-  },
-  {
-   "id": "2b67bf750f7b0b03",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Orléans : entre 13.000 et 26.000 personnes ont manifesté samedi contre le Rassemblement national réuni en congrès",
-   "summary": "Des milliers de personnes ont manifesté dans le calme samedi à Orléans contre le Rassemblement national réuni en congrès dans cette ville placée sous haute protection policière. Le défilé a rassemblé 13.000 personnes, selon la préfecture, 26.000 selon les organisateurs.",
-   "link": "https://www.ici.fr/centre-val-de-loire/loiret-45/orleans/congres-du-rn-a-orleans-couvre-feu-pour-les-moins-de-15-ans-manifestation-sous-surveillance-5362500?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-24T21:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "9e9fa1a6cf0bcd35",
@@ -20788,24 +20752,6 @@
    "soon": false,
    "first_seen": "2026-10-24T16:46",
    "last_seen": "2026-10-26T14:00"
-  },
-  {
-   "id": "c560e5dbe287ee7d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Au congrès du Rassemblement national, l'unique candidat Jordan Bardella est réélu sans surprise à la présidence du parti avec 98,98% des voix",
-   "summary": "Le chef du parti d'extrême droite a recueilli 75 497 suffrages, contre à peine 779 bulletins blancs.",
-   "link": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-24T17:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "ddeb1b7e05066254",
@@ -21186,24 +21132,6 @@
    "last_seen": "2026-10-25T16:23"
   },
   {
-   "id": "239df9aea52dc4e6",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : l’arrêté d’interdiction de manifester à Montpellier contesté, le tribunal administratif n’a pas rendu sa décision ce vendredi",
-   "summary": "Ce vendredi soir, le tribunal administratif de Montpellier n’a pas encore rendu sa décision concernant l’arrêté préfectoral interdisant la manifestation prévue ce samedi 24 octobre par le syndicat FO ESR. La...",
-   "link": "https://www.midilibre.fr/2026/10/23/le-tribunal-administratif-valide-larrete-prefectoral-interdisant-la-manifestation-du-24-octobre-a-montpellier-13617514.php",
-   "published": "2026-10-23T22:01",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "602dbcf7931a96a7",
    "zone": "montpellier",
    "affects": [],
@@ -21274,42 +21202,6 @@
    "soon": false,
    "first_seen": "2026-10-23T18:36",
    "last_seen": "2026-10-26T14:00"
-  },
-  {
-   "id": "a213e4a4b75558c1",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : à Nîmes, Montpellier, Béziers, les acteurs économiques face à la crainte d’une persistance de la grogne sociale",
-   "summary": "Patrons et commerçants font part de leurs préoccupations face à une possible reproduction des incidents autour des manifestations, ce samedi et éventuellement les samedis suivants.",
-   "link": "https://www.midilibre.fr/2026/10/23/mobilisation-du-24-octobre-a-nimes-montpellier-beziers-les-acteurs-economiques-face-a-la-crainte-dune-persistance-de-la-grogne-sociale-13617188.php",
-   "published": "2026-10-23T19:01",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T18:36",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "1fdab3bebdef8678",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Domani a Milano due presidi autorizzati, preoccupazione per piazza Duomo",
-   "summary": "Nei luoghi 'caldi' della città Forze dell'ordine e parà. Il Movimento 17 ottobre: \"tre concentramenti, ma non in Duomo'",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/10/23/domani-a-milano-due-presidi-autorizzati-preoccupazione-per-piazza-duomo_7c201705-3da8-49c5-a688-e8b047aa7b80.html",
-   "published": "2026-10-23T18:09",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "f1ea7604b8d942b1",
@@ -21384,24 +21276,6 @@
    "last_seen": "2026-10-26T14:00"
   },
   {
-   "id": "af1bebdc2034027a",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Blocchi dei tir: il governo corre ai ripari, 175 milioni contro il caro carburante",
-   "summary": "Meloni ai camionisti: \"Non tolleriamo intimidazioni\". Slitta la tassa sui minipacchi",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti-105-milioni-per-i-tir-e-70-per_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
-   "published": "2026-10-22T23:22",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T21:32",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
    "id": "ef96f5a0b2dc6cd2",
    "zone": "it_national",
    "affects": [],
@@ -21436,60 +21310,6 @@
    "soon": false,
    "first_seen": "2026-10-22T18:06",
    "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "ec02a005255ebf59",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Riesplode la protesta dei lavoratori Eurallumina, in 4 a 60 metri d'altezza",
-   "summary": "'Basta rinvii, ognuno si assuma le proprie responsabilità'. Domani vertice al Mimit",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/vertenza-eurallumina-quattro-operai-asserragliati-a-60-metri-daltezza_a7ed2915-4285-4713-8c3d-8f07e1be40f8.html",
-   "published": "2026-10-22T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "292303495db4bb87",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "'Torino contro il riarmo', sabato cortei di antagonisti e studenti",
-   "summary": "La mobilitazione al momento non ha un percorso",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/torino-contro-il-riarmo-sabato-cortei-di-antagonisti-e-studenti_7f76524e-9dab-4468-9b48-843a0906212b.html",
-   "published": "2026-10-22T16:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T12:14"
-  },
-  {
-   "id": "bf47ba4f522df9f4",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Preside si 'infiltra' nella chat degli studenti per evitare l'occupazione",
-   "summary": "Le famiglie ricevono i numeri di telefono dei presunti organizzatori",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/preside-si-infiltra-nella-chat-degli-studenti-per-evitare-loccupazione_a712c01b-010d-479f-a23d-0a54b448cd99.html",
-   "published": "2026-10-22T13:08",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-10-25T12:14"
   },
   {
    "id": "67690b2a67cddc0b",
