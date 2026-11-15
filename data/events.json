@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:39",
+ "updated": "2026-11-15T20:35",
  "events": [
   {
    "id": "939771e721dd2045",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -55,7 +55,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "ab2f6b3f37ea5521",
@@ -73,7 +73,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "320eb37b46717b1e",
@@ -91,7 +91,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -109,7 +109,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "471330871f082967",
@@ -201,7 +201,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "71293921bc9671c5",
@@ -255,7 +255,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "d336b164f87e73dd",
@@ -453,7 +453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -508,24 +508,6 @@
    "soon": false,
    "first_seen": "2026-11-12T18:14",
    "last_seen": "2026-11-13T03:35"
-  },
-  {
-   "id": "dd3c58597fc1f6ba",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation lycéenne : des départs de feux dans deux établissements de Montpellier",
-   "summary": "Les pompiers ont été appelés ce jeudi 12 novembre pour éteindre deux incendies qui se sont déclarés dans la matinée dans l'enceinte du lycée Mermoz à Montpellier, ainsi qu'au lycée Pierre-Mendès France. Les feux sont circonscrits, les policiers se sont rendus sur place.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-lyceenne-deux-departs-de-feu-dans-l-enceinte-du-lycee-jean-mermoz-a-montpellier-4998874?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-12T16:02",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-15T15:37"
   },
   {
    "id": "58c5fadfdcb8575b",
@@ -4514,96 +4496,6 @@
    "last_seen": "2026-10-26T01:42"
   },
   {
-   "id": "24699f2333676398",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT Mobilisation du 24 octobre : la présence d’une milice d’ultradroite à Montpellier confirmée, nouveau couvre-feu à Lyon… les dernières infos",
-   "summary": "Au lendemain de l’acte II des manifestations du 24 octobre contre la vie chère, qui ont rassemblé plusieurs centaines de milliers de personnes dans toute la France, les autorités font état de près de 1 000...",
-   "link": "https://www.midilibre.fr/2026/10/25/en-direct-mobilisation-du-24-octobre-pres-de-1-000-interpellations-plusieurs-blesses-graves-les-dernieres-infos-au-lendemain-des-manifestations-13619511.php",
-   "published": "2026-10-25T19:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-25T19:09"
-  },
-  {
-   "id": "a0f01bb94c3af85a",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 24 octobre : des militants d'ultradroite accusés de violences lors des manifestations",
-   "summary": "Des militants d'ultradroite qui s'étaient \"donné pour mission de protéger les commerces\" sont accusés d'avoir commis des violences lors des manifestations de samedi dans une quinzaine de villes, dont Nice, Montpellier ou encore Nancy. Laurent Nuñez a demandé aux préfets de saisir la justice.",
-   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-24-octobre-des-militants-d-ultradroite-accuses-de-violences-lors-des-manifestations-8674665?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-25T18:03",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-25T19:09"
-  },
-  {
-   "id": "be7c006656ede760",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT Mobilisation du 24 octobre : les Gilets jaunes appellent à des \"casserolades\", violences d’une \"milice d’extrême droite\" à Montpellier… les dernières…",
-   "summary": "Au lendemain de l’acte II des manifestations du 24 octobre contre la vie chère, qui ont rassemblé plusieurs centaines de milliers de personnes dans toute la France, les autorités font état de près de 1 000...",
-   "link": "https://www.midilibre.fr/2026/10/25/en-direct-mobilisation-du-24-octobre-pres-de-1-000-interpellations-plusieurs-blesses-graves-les-dernieres-infos-au-lendemain-des-manifestations-13619511.php",
-   "published": "2026-10-25T16:29",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "e76842d2ba41b557",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "En Albanie, le premier ministre veut durcir la gestion des foules après de violentes manifestations",
-   "summary": "« Quiconque choisit de rester dans une foule » commettant des violences et pillages au sein de l’espace public ou « dissimulant son identité » devra payer une amende de plus de 500 euros, dispose le nouveau texte législatif, selon Edi Rama.",
-   "link": "https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html",
-   "published": "2026-10-25T15:23",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "018893963c88339e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 24 octobre : à Nice, la justice ouvre une enquête sur les violences de la mouvance d'ultradroite",
-   "summary": "La justice cherche à \"identifier et interpeller les membres de cette mouvance impliqués dans les violences\", déclare le parquet.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-25T15:11",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
    "id": "28288852f406b815",
    "zone": "fr_national",
    "affects": [],
@@ -4638,24 +4530,6 @@
    "soon": false,
    "first_seen": "2026-10-25T16:23",
    "last_seen": "2026-10-26T06:59"
-  },
-  {
-   "id": "d21a4368895f9f26",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Sabato di proteste, 5 arresti a Milano. 5mila identificati in tutto. Interviene Putin: “Accuse alla Russia? Evidenziano la debolezza dell’Europa”",
-   "summary": "Il giorno dopo le proteste che hanno portato migliaia di persone in piazza in tutta Italia contro il governo e il carovita, con scontri e tensioni ma nessun saccheggio, scende l’allerta nelle grandi città. Anche se restano comunque presidiati alcuni punti, in particolare a Milano dove alle 15 è pre…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/25/proteste-italia-arrestati-identificati-notizie/8549442/",
-   "published": "2026-10-25T13:44",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T16:23",
-   "last_seen": "2026-10-25T16:23"
   },
   {
    "id": "e0f877aacc9eb454",
@@ -4856,22 +4730,40 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
-   "id": "da6656e430cb8848",
-   "zone": "it_national",
+   "id": "488ebfe3af89167e",
+   "zone": "fr_national",
    "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifesti Blocco studentesco cancella volto segretaria Pd Trieste con una X",
-   "summary": "Iniziativa intimidatoria. Conti, gesto violenza di marchio neofascista",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/manifesti-blocco-studentesco-cancella-volto-segretaria-pd-trieste-con-una-x_311c5c89-3361-4c6f-8dd0-579202f58ca4.html",
-   "published": "2026-10-22T19:59",
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation sociale : grève mardi à l'appel des syndicats, \"acte VI\" samedi, à quoi faut-il s'attendre cette semaine ?",
+   "summary": "La mobilisation sociale se poursuit cette semaine après des manifestations samedi qui se sont déroulées majoritairement dans le calme. Si la mobilisation était inférieure aux précédentes, une nouvelle journée de grève a lieu mardi. L'\"acte VI\" des manifestations est attendu pour samedi.",
+   "link": "https://www.ici.fr/infos/economie-social/mobilisation-sociale-greve-mardi-a-l-appel-des-syndicats-acte-vi-samedi-a-quoi-faut-il-s-attendre-cette-semaine-4282869?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-15T21:31",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T19:09"
+   "first_seen": "2026-11-15T20:33",
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
+   "id": "34ba9f5a611f2f76",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+   "summary": "Lors de la réunion avec l'intersyndicale de la fonction publique vendredi, le Premier ministre a annoncé l'ouverture d'une discussion d'un mois pour revaloriser les bas salaires, des mesures \"qui ne répondent pas à l'urgence\" de la situation, rappellent les syndicats.",
+   "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-15T20:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T20:33",
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "8c2e8065254f4157",
@@ -4884,12 +4776,12 @@
    "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
    "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
    "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-15T15:37",
+   "published": "2026-11-15T20:34",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "0d8dcfbe3c4fa70d",
@@ -4902,12 +4794,66 @@
    "title": "Droit de grève, mode d'emploi",
    "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
    "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-15T15:37",
+   "published": "2026-11-15T20:34",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
+   "id": "804dbe461eeb5291",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Une jeune fille de 12 ans interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance par la police",
+   "summary": "Selon le parquet de Paris, la jeune fille se \"maintenait\" avec 300 autres personnes place de la Nation \"après réitération des sommations appelant à la dispersion\", cette dernière sera \"reconvoquée à une date ultérieure pour son audition en raison de son jeune âge\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/une-jeune-fille-de-12-ans-interpellee-a-paris-lors-de-la-mobilisation-du-14-novembre-et-remise-a-son-educateur-de-l-aide-sociale-a-l-enfance-par-la-police_8283875.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-15T20:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T20:33",
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
+   "id": "f69ac86d7887f521",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "« L’organisme, en état d’alerte, se prépare à s’opposer » : ce que la colère produit dans le corps",
+   "summary": "« Nos émotions : la colère ». Réponse de notre système nerveux face à une menace, une injustice, une frustration, la colère est une émotion complexe, car profondément subjective. Variant de la simple irritation à la fureur. Des études montrent que, mal régulée, elle augmente les risques d’infarctus…",
+   "link": "https://www.lemonde.fr/intimites/article/2026/11/15/l-organisme-en-etat-d-alerte-se-prepare-a-s-opposer-ce-que-la-colere-produit-dans-le-corps_6811044_6190330.html",
+   "published": "2026-11-15T19:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-15T20:33",
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
+   "id": "197da08acd08d904",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Après le 17 octobre, il y a une prise de conscience de l’état d’urgence du commerce à Montpellier\" : entre détresse et solutions, Laurent Roy fait l’état des…",
+   "summary": "Président de l’association des commerçants du boulevard Jeu-de-Paume, Laurent Roy dresse un état des lieux des commerces en centre-ville éreintés par les manifestations à répétition.",
+   "link": "https://www.midilibre.fr/2026/11/15/apres-le-17-octobre-il-y-a-une-prise-de-conscience-de-letat-durgence-du-commerce-a-montpellier-entre-detresse-et-solutions-laurent-roy-fait-letat-des-13651112.php",
+   "published": "2026-11-15T16:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T08:02",
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "e398b0e3606e376f",
@@ -4925,7 +4871,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "0f62b79afd19ec17",
@@ -4943,7 +4889,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "30ba16401c106896",
@@ -4979,7 +4925,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "abb6adfb04cb0bd0",
@@ -5018,24 +4964,6 @@
    "last_seen": "2026-11-15T08:02"
   },
   {
-   "id": "197da08acd08d904",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Après le 17 octobre, il y a une prise de conscience de l’état d’urgence du commerce à Montpellier\" : entre détresse et solutions, Laurent Roy fait l’état des…",
-   "summary": "Président de l’association des commerçants du boulevard Jeu-de-Paume, Laurent Roy dresse un état des lieux des commerces en centre-ville éreintés par les manifestations à répétition.",
-   "link": "https://www.midilibre.fr/2026/11/15/apres-le-17-octobre-il-y-a-une-prise-de-conscience-de-letat-durgence-du-commerce-a-montpellier-entre-detresse-et-solutions-laurent-roy-fait-letat-des-13651112.php",
-   "published": "2026-11-15T06:16",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T15:37"
-  },
-  {
    "id": "282d7c5ac11b26f1",
    "zone": "rimini",
    "affects": [],
@@ -5051,7 +4979,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -5087,7 +5015,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "e715e88533e48c7b",
@@ -5105,7 +5033,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
+   "id": "9e66ab7eb53af6f9",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Caos voli negli Stati Uniti, Trump attacca Biden: \"Sua la colpa\". Altre 1.400 cancellazioni",
+   "summary": "Proseguono i disagi dopo il blocco nazionale del traffico aereo causato da un guasto durante un intervento di manutenzione. Il presidente americano punta il dito contro il predecessore, mentre si riaccende il dibattito sulle infrastrutture obsolete",
+   "link": "https://www.sanmarinortv.sm/news/mondo-c8/caos-voli-negli-stati-uniti-trump-attacca-biden-sua-la-colpa-altre-1-400-cancellazioni-a298548",
+   "published": "2026-11-15T05:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-15T20:33",
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "44bf7d2e95997b55",
@@ -5123,7 +5069,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "e8327e0df688deed",
@@ -5141,7 +5087,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "c1c54bef3d6f93ad",
@@ -5357,7 +5303,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "58f122884bc111c4",
@@ -5393,7 +5339,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "f6a8a0cb5c69c58a",
@@ -5429,7 +5375,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5447,7 +5393,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "987f6456ea855130",
@@ -5537,7 +5483,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5663,7 +5609,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "72d6cfd400a08b8d",
@@ -5699,7 +5645,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "1ed13c477a7891f3",
@@ -5717,7 +5663,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "2b287c6f7b6b1453",
@@ -6005,7 +5951,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6257,7 +6203,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "0cb05fba5c157eb1",
@@ -6512,6 +6458,24 @@
    "last_seen": "2026-11-13T03:35"
   },
   {
+   "id": "dd3c58597fc1f6ba",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : des départs de feux dans deux établissements de Montpellier",
+   "summary": "Les pompiers ont été appelés ce jeudi 12 novembre pour éteindre deux incendies qui se sont déclarés dans la matinée dans l'enceinte du lycée Mermoz à Montpellier, ainsi qu'au lycée Pierre-Mendès France. Les feux sont circonscrits, les policiers se sont rendus sur place.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-lyceenne-deux-departs-de-feu-dans-l-enceinte-du-lycee-jean-mermoz-a-montpellier-4998874?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-12T16:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-12T18:14",
+   "last_seen": "2026-11-15T20:33"
+  },
+  {
    "id": "d5516bd7fa7c4786",
    "zone": "fr_national",
    "affects": [],
@@ -6653,7 +6617,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6797,7 +6761,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7427,7 +7391,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8867,7 +8831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-15T15:37"
+   "last_seen": "2026-11-15T20:33"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -19960,24 +19924,6 @@
    "last_seen": "2026-10-26T06:59"
   },
   {
-   "id": "461a3a1de622d3df",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Après les manifestations du 24 octobre, le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hyper-centre de Lyon",
-   "summary": "Afin d'\"assurer l'ordre public et la sécurité\", le couvre-feu est accompagné d'une interdiction de manifestations et d'attroupements sur la partie de la presqu'île concernée, annonce la préfecture du Rhône.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-25T18:36",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T19:09",
-   "last_seen": "2026-10-25T19:09"
-  },
-  {
    "id": "e9988214ec1a73d0",
    "zone": "sanmarino",
    "affects": [],
@@ -20340,24 +20286,6 @@
    "last_seen": "2026-10-26T01:42"
   },
   {
-   "id": "f8ef111223522560",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
-   "summary": "Les autorités font état d'une manifestation plutôt calme dans la capitale, après le cortège du 24 octobre 2026. Toutefois, 142 personnes ont été interpellées dont 126 qui ont été placées en garde à vue indique la préfecture de police de Paris.",
-   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-25T09:45",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T12:14",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
    "id": "c7ce26fa5373e346",
    "zone": "montpellier",
    "affects": [],
@@ -20374,24 +20302,6 @@
    "soon": false,
    "first_seen": "2026-10-25T12:14",
    "last_seen": "2026-10-26T14:00"
-  },
-  {
-   "id": "ecae593d70f16c3b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortèges \"bon enfant\", heurts dans certaines villes, interpellations : que retenir de la mobilisation du 24 octobre ?",
-   "summary": "La journée de mobilisation pour le pouvoir d'achat et la défense des services publics avait lieu ce samedi. À l'appel d'anciens gilets jaunes, de syndicats et de lycéens, plusieurs centaines de milliers de personnes sont descendues dans la rue, malgré l'interdiction de nombreux cortèges.",
-   "link": "https://www.ici.fr/infos/societe/corteges-bon-enfant-debordements-a-paris-1-000-interpellations-que-retenir-de-la-mobilisation-du-24-octobre-5674059?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-25T08:02",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-25T16:23"
   },
   {
    "id": "a1fa92ba8469cf68",
@@ -20500,42 +20410,6 @@
    "soon": false,
    "first_seen": "2026-10-25T06:50",
    "last_seen": "2026-10-25T21:44"
-  },
-  {
-   "id": "5e22b35930cb2428",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La guerra dei Due Ponti. FdI spinge su via Aretina. Arci: \"Non ci sgomberano\"",
-   "summary": "Sta andando in scena una nuova battaglia della “guerra dei Due Ponti”. Mentre venerdì fuori dai cancelli delle Sperandie il sindacato di polizia Fps scendeva in piazza, a dare manforte dai palazzi c’era anche Fratelli d’Italia . Il coordinamento provinciale del partito ha infatti ribadito l’urgenza…",
-   "link": "https://www.lanazione.it/siena/cronaca/la-guerra-dei-due-ponti-922dc74d",
-   "published": "2026-10-25T06:26",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "9e96b8bb6e6bb54b",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Allarme cortei, centro sotto scorta. Rete di protezione nei luoghi simbolo ma il tam tam sui social non attacca",
-   "summary": "Alle 15, in piazza Grande, un gruppo di boy scout ascoltava distratto la storia delle origini del Palazzo delle Logge. Accanto a loro, alcuni turisti scattavano selfie compiaciuti davanti alla fontana. Degli studenti pronti alla protesta, nessuna traccia. Il tam tam social che aveva preceduto la gi…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/allarme-cortei-centro-sotto-scorta-7d239e4a",
-   "published": "2026-10-25T06:22",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T16:23"
   },
   {
    "id": "d16c7c014412bc53",
@@ -20716,24 +20590,6 @@
    "soon": false,
    "first_seen": "2026-10-24T13:18",
    "last_seen": "2026-10-26T06:59"
-  },
-  {
-   "id": "c06fda4560dfbb4b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
-   "summary": "Alors que le Rassemblement national tient son congrès ce week-end à Orléans, 13 000 personnes selon la préfecture, le double selon les organisateurs, ont défilé dans la ville samedi en milieu de journée.",
-   "link": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-24T17:22",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T16:46",
-   "last_seen": "2026-10-25T16:23"
   },
   {
    "id": "46ce81ce7327e846",
@@ -21114,42 +20970,6 @@
    "last_seen": "2026-10-27T08:06"
   },
   {
-   "id": "8adb664c05c36010",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : \"C’est grave quand un Président en arrive à cette difficulté de compréhension\" : le regard du politologue Emmanuel Négrier",
-   "summary": "Pour le politologue montpelliérain Emmanuel Négrier, le chef de l’État se retrouve \"dans une impasse\", incapable de \"comprendre par en haut ce qui se passe dans la société d’en bas\".",
-   "link": "https://www.midilibre.fr/2026/10/24/mobilisation-du-24-octobre-cest-grave-quand-un-president-en-arrive-a-cette-difficulte-de-comprehension-le-regard-du-politologue-emmanuel-negrier-13617164.php",
-   "published": "2026-10-24T06:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T09:06",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "602dbcf7931a96a7",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations interdites, centres-villes sous haute surveillance, retour des Gilets jaunes : à quoi s’attendre ce samedi 24 octobre en Occitanie ?",
-   "summary": "Ce samedi 24 octobre, plusieurs manifestations sont interdites. À Montpellier, un dispositif de sécurité empêche tout rassemblement en centre-ville, tandis qu’à Nîmes, la préfète du Gard a annulé une manifestation...",
-   "link": "https://www.midilibre.fr/2026/10/23/manifestations-interdites-centres-villes-sous-haute-surveillance-retour-des-gilets-jaunes-a-quoi-sattendre-ce-samedi-24-octobre-en-occitanie-13617247.php",
-   "published": "2026-10-23T21:50",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
    "id": "1be76a2b1fbbb1be",
    "zone": "milano",
    "affects": [],
@@ -21274,42 +21094,6 @@
    "soon": false,
    "first_seen": "2026-10-23T09:36",
    "last_seen": "2026-10-26T14:00"
-  },
-  {
-   "id": "ef96f5a0b2dc6cd2",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Allarme infiltrazioni nei blocchi tir, si muovono i pm",
-   "summary": "'Evidenze' sulla presenza di appartenenti a sodalizi criminali. La commissione Antimafia al lavoro",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/allarme-infiltrazioni-nei-blocchi-tir-si-muovono-i-pm_0a6e521f-e09c-4ad8-bad1-be58fb738cfa.html",
-   "published": "2026-10-22T19:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T16:23"
-  },
-  {
-   "id": "9ccc90b62349a93f",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Saluti romani al corteo per Ramelli, condanne definitive per 13 militanti",
-   "summary": "La Cassazione rigetta ricorsi. Quattro mesi di pena",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/saluti-romani-al-corteo-per-ramelli-condanne-definitive-per-13-militanti_29139267-3d1f-469b-bd1f-e6be7bf18aef.html",
-   "published": "2026-10-22T18:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T18:06",
-   "last_seen": "2026-10-25T16:23"
   },
   {
    "id": "67690b2a67cddc0b",
