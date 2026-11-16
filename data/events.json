@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-15T20:35",
+ "updated": "2026-11-16T00:22",
  "events": [
+  {
+   "id": "ba746fa108d1d781",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Incendi lungo i binari nel cantiere della tramvia: Firenze, le fiamme causano un black out",
+   "summary": "Firenze, 15 novembre 2026 – Principio di incendio lungo le rotaie della tramvia in piazza a Gavinana che ha causato un black out elettrico. A segnalare la situazione sono stati diversi residenti che si sono riversati in piazza per capire cosa stesse succedendo. Gli incendi, dovuti forse a un corto…",
+   "link": "https://www.lanazione.it/firenze/cronaca/incendio-binari-tramvia-lwmskxk2",
+   "published": "2026-11-15T21:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-16T00:21",
+   "last_seen": "2026-11-16T00:21"
+  },
   {
    "id": "939771e721dd2045",
    "zone": "rimini",
@@ -17,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -55,7 +73,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "ab2f6b3f37ea5521",
@@ -73,7 +91,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "320eb37b46717b1e",
@@ -91,7 +109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -109,7 +127,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "471330871f082967",
@@ -201,7 +219,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "71293921bc9671c5",
@@ -255,7 +273,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "d336b164f87e73dd",
@@ -453,7 +471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "5d08cf5c33d31c3b",
@@ -4730,6 +4748,78 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-16T00:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-16T00:21"
+  },
+  {
+   "id": "0d8dcfbe3c4fa70d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Droit de grève, mode d'emploi",
+   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
+   "link": "https://www.cgt.fr/greve",
+   "published": "2026-11-16T00:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-04T16:41",
+   "last_seen": "2026-11-16T00:21"
+  },
+  {
+   "id": "5a2b4d9efcfb5ba6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités",
+   "summary": "Le préfet de police estime que les blocages sont « le plus souvent » le fait d’une minorité d’élèves, mais « entravent pour tous les autres le droit fondamental à recevoir des enseignements » et attisent la colère de certains parents d’élèves.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html",
+   "published": "2026-11-15T21:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-16T00:21",
+   "last_seen": "2026-11-16T00:21"
+  },
+  {
+   "id": "cd8a10f13a6b533d",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+   "summary": "Il premier Babis: 'I canoni saranno aboliti'",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/oltre-400-mila-in-piazza-a-praga-a-sostegno-dei-media-pubblici_28fcb369-fa4d-4391-ae6d-eef76a71c969.html",
+   "published": "2026-11-15T21:40",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-16T00:21",
+   "last_seen": "2026-11-16T00:21"
+  },
+  {
    "id": "488ebfe3af89167e",
    "zone": "fr_national",
    "affects": [],
@@ -4745,7 +4835,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T20:33",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "34ba9f5a611f2f76",
@@ -4763,43 +4853,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T20:33",
-   "last_seen": "2026-11-15T20:33"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-15T20:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T20:33"
-  },
-  {
-   "id": "0d8dcfbe3c4fa70d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Droit de grève, mode d'emploi",
-   "summary": "Le droit de grève est l’un des principaux contre-pouvoirs à la disposition des salarié·es. Il est régulièrement remis en cause par le patronat qui cherche sans cesse à le restreindre voire l'interdire. Ce droit est souvent l’ultime recours pour obliger un employeur ou un gouvernement à s’asseoir à…",
-   "link": "https://www.cgt.fr/greve",
-   "published": "2026-11-15T20:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "804dbe461eeb5291",
@@ -4817,7 +4871,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T20:33",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "f69ac86d7887f521",
@@ -4835,7 +4889,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T20:33",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "197da08acd08d904",
@@ -4853,7 +4907,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "e398b0e3606e376f",
@@ -4871,7 +4925,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "0f62b79afd19ec17",
@@ -4889,7 +4943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "30ba16401c106896",
@@ -4925,7 +4979,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "abb6adfb04cb0bd0",
@@ -4979,7 +5033,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -5015,7 +5069,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "e715e88533e48c7b",
@@ -5033,7 +5087,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "9e66ab7eb53af6f9",
@@ -5051,7 +5105,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T20:33",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "44bf7d2e95997b55",
@@ -5069,7 +5123,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "e8327e0df688deed",
@@ -5087,7 +5141,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "c1c54bef3d6f93ad",
@@ -5303,7 +5357,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "58f122884bc111c4",
@@ -5339,7 +5393,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "f6a8a0cb5c69c58a",
@@ -5375,7 +5429,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5393,7 +5447,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "987f6456ea855130",
@@ -5483,7 +5537,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "4f864913821cc8d9",
@@ -5609,7 +5663,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "72d6cfd400a08b8d",
@@ -5645,7 +5699,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "1ed13c477a7891f3",
@@ -5663,7 +5717,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "2b287c6f7b6b1453",
@@ -5951,7 +6005,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6203,7 +6257,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "0cb05fba5c157eb1",
@@ -6473,7 +6527,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T18:14",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "d5516bd7fa7c4786",
@@ -6617,7 +6671,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T10:00",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "f5f7911082cd2196",
@@ -6761,7 +6815,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7391,7 +7445,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8831,7 +8885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-15T20:33"
+   "last_seen": "2026-11-16T00:21"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -20338,78 +20392,6 @@
    "soon": false,
    "first_seen": "2026-10-25T06:50",
    "last_seen": "2026-10-26T01:42"
-  },
-  {
-   "id": "a58218dd1c6eebfe",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cori e striscioni per le vie del centro: \"Ora vogliamo risposte concrete\"",
-   "summary": "di Maria Vittoria Gaviano \"Che facciamo partiamo?\" Con il megafono in mano, dopo un breve cenno e richiamo alla piccola, ma volenterosa folla riunita, il corteo studentesco è partito. Al grido di uno dei rappresentati dei giovani ragazzi radunati dalle 8 di ieri mattina alla Cittadella dello Studen…",
-   "link": "https://www.lanazione.it/grosseto/cronaca/cori-e-striscioni-per-le-09974a55",
-   "published": "2026-10-25T06:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T23:34"
-  },
-  {
-   "id": "a2905f69f9d1aad7",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Il presidio non violento di Piazza Dante: \"Qui spazio politico con nuovi protagonisti\"",
-   "summary": "Un presidio pacifico delle \"nuove generazioni\" , con circa 200 persone, per lo più studenti dei licei, che si sono ritrovate ieri pomeriggio in piazza Dante contro il carovita e le difficoltà dei giovani. Sotto il motto \"Le monde est à nous\", celebre frase del film di culto francese \"L’Odio\", la ma…",
-   "link": "https://www.lanazione.it/pisa/cronaca/il-presidio-non-violento-di-249d5c72",
-   "published": "2026-10-25T06:28",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T23:34"
-  },
-  {
-   "id": "2a244b6061dc5746",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Le provocazioni accendono gli animi. È un pomeriggio dai due volti",
-   "summary": "Un pomeriggio partito bene e finito nel peggiore dei modi. Nessuno, infatti, si aspettava che in serata una manifestazione pacifica si sarebbe trasformata in una guerriglia urbana . Un sabato dai due volti con un avvio soft e pacifico e un finale (lungo) concitatissimo. I momenti di tensione più in…",
-   "link": "https://www.lanazione.it/firenze/cronaca/le-provocazioni-accendono-gli-animi-6cd0e0ac",
-   "published": "2026-10-25T06:28",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T23:34"
-  },
-  {
-   "id": "a35c2bd34bcd29de",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Futuro Nazionale, presidio a Campo di Marte",
-   "summary": "Un gazebo a Campo di Marte . È l’iniziativa di Futuro Nazionale che con il suo leader provinciale Cristiano Romani e il coordinatore comunale Luca Bufalini ieri ha rilanciato la campagna tesseramento e puntato il faro su tre temi, cavalli di battaglia del programma elettorale di Vannacci: sicurezza…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/futuro-nazionale-presidio-a-campo-cbfb2957",
-   "published": "2026-10-25T06:27",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-25T21:44"
   },
   {
    "id": "d16c7c014412bc53",
