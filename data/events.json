@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-16T16:44",
+ "updated": "2026-11-17T00:31",
  "events": [
+  {
+   "id": "95d212a60043f6d6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
+   "summary": "A la veille d’une nouvelle journée de mobilisation nationale, le gouvernement durcit le ton face à la contestation, en interdisant notamment la vente de mortiers d’artifice et les rassemblements autour de certains établissements parisiens.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
+   "published": "2026-11-16T20:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
   {
    "id": "9f34916af9a99c71",
    "zone": "fr_national",
@@ -17,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "b0bc0ce3c290a30e",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "53f27bcf48d7b73d",
@@ -89,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T00:21",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "939771e721dd2045",
@@ -107,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -145,7 +163,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "ab2f6b3f37ea5521",
@@ -181,7 +199,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -199,7 +217,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T11:39",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "471330871f082967",
@@ -291,7 +309,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "71293921bc9671c5",
@@ -4514,6 +4532,204 @@
    "last_seen": "2026-10-27T14:25"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-17T00:30",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "c66828db32e540ba",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Programmes perturbés en raison d'un mouvement de grève le 17 novembre 2026",
+   "summary": "Nous ne sommes pas en mesure de diffuser tous les programmes de ICI.",
+   "link": "https://www.ici.fr/emissions/les-infos-d-ici/programmes-perturbes-en-raison-d-un-mouvement-de-greve-le-17-novembre-2026-7815781?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-17T00:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "cbad20c65213d021",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+   "summary": "La proposition de loi doit désormais faire l'objet d'un compromis entre députés et sénateurs lors d'une prochaine commission mixte paritaire.",
+   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-16T22:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "bd7b333b0b8f49b2",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Les agents des services publics \"ont vraiment besoin d'être reconnus et revalorisés\", souligne la CFDT Education avant la mobilisation du 17 novembre",
+   "summary": "Face à la hausse du coût de la vie, Laetitia Aresu, secrétaire générale de la CFDT Education, demande \"une revalorisation du point d'indice\" et \"une revalorisation de leur rémunération\".",
+   "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/les-agents-des-services-publics-ont-vraiment-besoin-d-etre-reconnus-et-revalorises-souligne-la-cfdt-education-avant-la-mobilisation-du-17-novembre_8285489.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-16T22:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "6ea790084edda5fb",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation du 17 novembre : des trains et des ports seront perturbés en raison d’un appel à la grève",
+   "summary": "Certaines lignes des réseaux TER en Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, Hauts-de-France, Nouvelle-Aquitaine, Occitanie et Pays de la Loire seront concernées par les perturbations, mardi, selon la SNCF.",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html",
+   "published": "2026-11-16T21:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "ff3f86e10e78d0b6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
+   "summary": "Les syndicats appellent les agents de la fonction publique, de l'Education nationale ou encore des transports à faire grève mardi. Des dizaines de manifestations sont annoncées, auxquelles doivent se joindre lycéens, étudiants et gilets jaunes.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-16T20:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "145ca9750abf66df",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Éducation nationale, transports, manifestations : à quoi s'attendre lors de la journée de grève du 17 novembre ?",
+   "summary": "Une nouvelle grande journée de grève et de manifestations se tient ce mardi 17 novembre, à l'appel des organisations syndicales, pour demander des revalorisations salariales pour les agents publics. À quoi faut-il s'attendre ?",
+   "link": "https://www.ici.fr/infos/societe/education-nationale-transports-manifestations-a-quoi-s-attendre-lors-de-la-journee-de-greve-de-17-novembre-1346810?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-16T20:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-16T16:43",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "850dbdc8749afa4b",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Près de 400 légionnaires du 1er Reg attendus dans le centre-ville de Bagnols-sur-Cèze pour honorer la Sainte-Barbe",
+   "summary": "Le 1er régiment étranger de génie va honorer la Sainte-Barbe vendredi 20 novembre au centre-ville de Bagnols-sur-Cèze. Outre la cérémonie présidée par le général Passerat de la Chapelle, un défilé est prévu dans les...",
+   "link": "https://www.midilibre.fr/2026/11/16/pres-de-400-legionnaires-du-1er-reg-attendus-dans-le-centre-ville-de-bagnols-sur-ceze-pour-honorer-la-sainte-barbe-13655639.php",
+   "published": "2026-11-16T19:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "a2460afd23fbc30d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "« J’ai piqué ma fourchette dans la nappe, j’ai senti mon visage se déformer et je lui ai déblatéré toute ma haine » : le jour où la colère les a submergés",
+   "summary": "« Nos émotions : la colère ». Qui n’a jamais hurlé d’exaspération sur ses enfants ou jeté un objet au milieu d’une dispute ? Si la société est dans un état de « colère endémique », chaque individu a aussi en lui une part de fureur qui s’exprime parfois de manière incontrôlable. Des moments qui marq…",
+   "link": "https://www.lemonde.fr/intimites/article/2026/11/16/j-ai-pique-ma-fourchette-dans-la-nappe-j-ai-senti-mon-visage-se-deformer-et-je-lui-ai-deblatere-toute-ma-haine-le-jour-ou-la-colere-les-a-submerges_6812233_6190330.html",
+   "published": "2026-11-16T19:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "69bb5d6c914c73c1",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du mardi 17 novembre à Montpellier : la préfète interdit un périmètre autour de l’Écusson",
+   "summary": "Un itinéraire évitant l’Écusson a été arrêté d’un commun accord, informe la préfecture de l’Hérault ce lundi 16 novembre. Le dispositif de sécurité a été renforcé et plusieurs mesures de police administrative ont été...",
+   "link": "https://www.midilibre.fr/2026/11/16/manifestation-du-mardi-17-novembre-a-montpellier-la-prefete-interdit-un-perimetre-autour-de-lecusson-13655697.php",
+   "published": "2026-11-16T18:22",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "bc227d9c15ba630f",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_lom",
+   "source": "ANSA 伦巴第",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Comune Milano e Confcommercio insieme contro la desertificazione dei quartieri",
+   "summary": "Accordo in cinque punti per mantenere presidio sociale ed economia in città",
+   "link": "https://www.ansa.it/lombardia/notizie/2026/11/16/comune-milano-e-confcommercio-insieme-contro-la-desertificazione-dei-quartieri_88dc301a-32dd-4a60-9c52-afcebdb298ab.html",
+   "published": "2026-11-16T18:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-16T16:43",
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
    "id": "e1b551f872f3ca05",
    "zone": "fr_national",
    "affects": [],
@@ -4529,25 +4745,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
-  },
-  {
-   "id": "bc227d9c15ba630f",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Comune Milano e Confcommercio insieme contro la desertificazione dei quartieri",
-   "summary": "Accordo in cinque punti per mantenere presidio sociale ed economia in città",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/11/16/comune-milano-e-confcommercio-insieme-contro-la-desertificazione-dei-quartieri_88dc301a-32dd-4a60-9c52-afcebdb298ab.html",
-   "published": "2026-11-16T17:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "e90305d090dbbd84",
@@ -4565,25 +4763,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
-  },
-  {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-16T16:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "9685889efd560574",
@@ -4597,24 +4777,6 @@
    "summary": "Des rassemblements et cortèges non déclarés sont interdits \"dans un rayon de 100 mètres autour de certains lycées et établissements d'enseignement supérieur\" de la région, a annoncé la préfecture de police de Paris dimanche.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
    "published": "2026-11-16T15:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
-  },
-  {
-   "id": "145ca9750abf66df",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Éducation nationale, transports, manifestations : à quoi s'attendre lors de la journée de grève du 17 novembre ?",
-   "summary": "Une nouvelle grande journée de grève et de manifestations se tient ce mardi 17 novembre, à l'appel des organisations syndicales, pour demander des revalorisations salariales pour les agents publics. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/societe/education-nationale-transports-manifestations-a-quoi-s-attendre-lors-de-la-journee-de-greve-de-17-novembre-1346810?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-16T15:31",
    "dates": "",
    "national": true,
    "soon": false,
@@ -4655,7 +4817,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "dc9bffaff0ac6664",
@@ -4673,7 +4835,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "4ab92d09896e67c8",
@@ -4709,7 +4871,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -4727,7 +4889,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "1514d74afab13e7a",
@@ -4745,7 +4907,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
+  },
+  {
+   "id": "fab58bd29f655d49",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Prima udienza a carico di Giorgio Cellarosi, un partecipato sit-in per chiedere giustizia per i cani vittime degli avvelenamenti",
+   "summary": "",
+   "link": "https://www.sanmarinortv.sm/news/comunicati-c9/prima-udienza-a-carico-di-giorgio-cellarosi-un-partecipato-sit-in-per-chiedere-giustizia-per-i-cani-vittime-degli-avvelenamenti-a298599",
+   "published": "2026-11-16T07:47",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "6349d2f7c2045a2b",
@@ -4763,7 +4943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "488ebfe3af89167e",
@@ -4782,6 +4962,24 @@
    "soon": false,
    "first_seen": "2026-11-15T20:33",
    "last_seen": "2026-11-16T06:56"
+  },
+  {
+   "id": "6ea5c82d7e6dc6cb",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Processo \"killer dei cani\" al via: ammesse le parti civili, sit-in Apas fuori dal Tribunale",
+   "summary": "Giorgio Cellarosi, 85enne sammarinese, è accusato di aver avvelenato 13 animali in due episodi nel 2022 e 2025. Tramite il suo legale, si professa estraneo ai fatti. La sentenza prima di fine anno",
+   "link": "https://www.sanmarinortv.sm/news/cronaca-c3/processo-killer-dei-cani-al-via-ammesse-le-parti-civili-sit-in-apas-fuori-dal-tribunale-a298597",
+   "published": "2026-11-16T07:10",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T00:30",
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "0891e8a8ac196e17",
@@ -5069,7 +5267,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -5105,7 +5303,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "e715e88533e48c7b",
@@ -5123,7 +5321,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "9e66ab7eb53af6f9",
@@ -5159,7 +5357,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "e8327e0df688deed",
@@ -5177,7 +5375,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "c1c54bef3d6f93ad",
@@ -5393,7 +5591,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "58f122884bc111c4",
@@ -5465,7 +5663,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "febf21a39f6017d7",
@@ -5483,7 +5681,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "987f6456ea855130",
@@ -5699,7 +5897,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "72d6cfd400a08b8d",
@@ -5735,7 +5933,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "1ed13c477a7891f3",
@@ -5753,7 +5951,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "2b287c6f7b6b1453",
@@ -6041,7 +6239,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T18:44",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "4ac2568dd44b001e",
@@ -6419,7 +6617,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-13T11:32",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "60274f8fc85f4fc4",
@@ -6869,7 +7067,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7499,7 +7697,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -8939,7 +9137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-16T16:43"
+   "last_seen": "2026-11-17T00:30"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -18862,24 +19060,6 @@
    "last_seen": "2026-10-27T02:20"
   },
   {
-   "id": "628e1f0891be1816",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, mouvement lycéen et étudiant : l’intersyndicale jeunesse appelle à poursuivre la mobilisation malgré les annonces du gouvernement",
-   "summary": "La FAGE, l’Union étudiante, l’Unef et l’Union syndicale lycéenne veulent continuer à « se mobiliser » après leur entrevue avec Sébastien Lecornu et l’annonce de mesures pour faire face à la crise lycéenne, comme le remplacement progressif de Parcoursup et la création de places supplémentaires dans…",
-   "link": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html",
-   "published": "2026-10-26T20:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-26T19:54"
-  },
-  {
    "id": "1cd546974ef78139",
    "zone": "fr_national",
    "affects": [],
@@ -19976,42 +20156,6 @@
    "soon": false,
    "first_seen": "2026-10-24T09:06",
    "last_seen": "2026-10-27T08:06"
-  },
-  {
-   "id": "1be76a2b1fbbb1be",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Milano città blindata, in chat la guida ai cortei: 'Sfondare gli sbarramenti'",
-   "summary": "Nuove istruzioni dal Movimento 17 ottobre, 'portare occhiali protettivi e kefiah'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/milano-citta-blindata-in-chat-la-guida-ai-cortei-sfondare-gli-sbarramenti_78729dcd-4796-4ad7-baa8-c22626c351c2.html",
-   "published": "2026-10-23T21:40",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-26T19:54"
-  },
-  {
-   "id": "95923c265f489635",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Boutique del lusso proteggono vetrine a Napoli, timori per proteste di domani",
-   "summary": "In via dei Mille iniziativa di alcune griffe",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/boutique-del-lusso-proteggono-vetrine-a-napoli-timori-per-proteste-di-domani_b58468be-9aa3-47c8-a101-000e3d8bbd4e.html",
-   "published": "2026-10-23T20:57",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-23T21:40",
-   "last_seen": "2026-10-26T19:54"
   },
   {
    "id": "b6cee6b8ad60e1df",
