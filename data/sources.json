@@ -1,29 +1,29 @@
 [
  {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 3,
-  "ms": 632,
-  "error": ""
- },
- {
   "id": "smrtv",
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
   "kept": 2,
-  "ms": 638,
+  "ms": 456,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 3,
+  "ms": 521,
   "error": ""
  },
  {
   "id": "carlino_rimini",
   "name": "Il Resto del Carlino · 里米尼",
   "ok": true,
-  "items": 67,
-  "kept": 6,
-  "ms": 769,
+  "items": 68,
+  "kept": 7,
+  "ms": 557,
   "error": ""
  },
  {
@@ -32,7 +32,7 @@
   "ok": true,
   "items": 37,
   "kept": 1,
-  "ms": 787,
+  "ms": 585,
   "error": ""
  },
  {
@@ -41,7 +41,7 @@
   "ok": true,
   "items": 23,
   "kept": 0,
-  "ms": 789,
+  "ms": 587,
   "error": ""
  },
  {
@@ -50,16 +50,16 @@
   "ok": true,
   "items": 19,
   "kept": 0,
-  "ms": 811,
+  "ms": 588,
   "error": ""
  },
  {
-  "id": "lemonde",
-  "name": "Le Monde",
+  "id": "ici_nat",
+  "name": "ICI 全国",
   "ok": true,
-  "items": 16,
-  "kept": 3,
-  "ms": 102,
+  "items": 43,
+  "kept": 2,
+  "ms": 58,
   "error": ""
  },
  {
@@ -68,7 +68,25 @@
   "ok": true,
   "items": 40,
   "kept": 6,
-  "ms": 399,
+  "ms": 251,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 0,
+  "ms": 161,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
+  "kept": 4,
+  "ms": 176,
   "error": ""
  },
  {
@@ -77,16 +95,7 @@
   "ok": true,
   "items": 84,
   "kept": 3,
-  "ms": 129,
-  "error": ""
- },
- {
-  "id": "ilfatto",
-  "name": "Il Fatto Quotidiano",
-  "ok": true,
-  "items": 25,
-  "kept": 0,
-  "ms": 94,
+  "ms": 179,
   "error": ""
  },
  {
@@ -95,16 +104,16 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 383,
+  "ms": 327,
   "error": ""
  },
  {
-  "id": "franceinfo",
-  "name": "franceinfo",
+  "id": "ilfatto",
+  "name": "Il Fatto Quotidiano",
   "ok": true,
-  "items": 30,
-  "kept": 5,
-  "ms": 584,
+  "items": 25,
+  "kept": 1,
+  "ms": 243,
   "error": ""
  },
  {
@@ -112,17 +121,8 @@
   "name": "La Nazione · 佛罗伦萨",
   "ok": true,
   "items": 100,
-  "kept": 10,
-  "ms": 1575,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 42,
-  "kept": 3,
-  "ms": 877,
+  "kept": 11,
+  "ms": 1039,
   "error": ""
  },
  {
@@ -130,8 +130,8 @@
   "name": "Midi Libre",
   "ok": true,
   "items": 100,
-  "kept": 3,
-  "ms": 1074,
+  "kept": 6,
+  "ms": 822,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 2271,
+  "ms": 923,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 83883,
+  "ms": 82908,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
