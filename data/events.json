@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:45",
+ "updated": "2026-11-17T23:59",
  "events": [
   {
    "id": "687f132db27c629e",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "95d212a60043f6d6",
@@ -143,7 +143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -181,7 +181,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "ab2f6b3f37ea5521",
@@ -200,24 +200,6 @@
    "soon": false,
    "first_seen": "2026-11-14T21:37",
    "last_seen": "2026-11-16T00:21"
-  },
-  {
-   "id": "320eb37b46717b1e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Entre musique et affrontements avec les forces de l'ordre : retour sur l'acte V des manifestations à Montpellier",
-   "summary": "La manifestation du 14 novembre a démarré en musique sous les Arceaux à Montpellier et s'est terminée avec des affrontements dans le centre-ville malgré l'arrêté préfectoral interdisant les manifestations revendicatives dans l'Écusson.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/entre-musique-et-affrontements-avec-les-forces-de-l-ordre-retour-sur-l-acte-v-des-manifestations-a-montpellier-4254121?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-14T20:16",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-14T21:37",
-   "last_seen": "2026-11-17T17:43"
   },
   {
    "id": "fa9bf8fefe0a1440",
@@ -3992,42 +3974,6 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "e3257d7b382c15a2",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero 30 ottobre, trasporti precettati da Salvini: “In quei giorni si va al cimitero per commemorare i defunti”",
-   "summary": "Può esserci un’ agitazione sindacale nel comparto dei trasporti due giorni prima della Commemorazione dei defunti , oppure si rischia di comprimere il diritto di andare nei cimiteri nei giorni di massimo afflusso nel corso dell’anno? È vietato, dice la Commissione Garanzia Sciopero sulla base della…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-trasporti-precettazione-commemorazione-defunti/8551542/",
-   "published": "2026-10-27T16:33",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
-   "id": "afcd01ffae910c07",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale 30 ottobre, 22mila persone preparano le proteste su 3 chat Telegram: “Vietato incitare alla violenza”",
-   "summary": "Su Telegram procede l’organizzazione delle proteste, mentre Youssef Siher è agli arresti con l’accusa di terrorismo e il gruppo Movimento 17 ottobre ha chiuso i battenti . Prossimo appuntamento: lo sciopero generale del 30 ottobre contro il carovita . La linea emersa dalla chat Italia in piazza è c…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-telegram-proteste-notizie/8551570/",
-   "published": "2026-10-27T16:20",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
    "id": "78b6b6bff1130749",
    "zone": "firenze",
    "affects": [],
@@ -4080,42 +4026,6 @@
    "soon": false,
    "first_seen": "2026-10-27T14:25",
    "last_seen": "2026-10-28T08:30"
-  },
-  {
-   "id": "0428d868e3c67c0e",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Tende ai Giardini del Rettorato. Mobilitazione degli studenti: \"Ci sono tante criticità\"",
-   "summary": "di Matilde Mencuccini Protestano contro il caro-vita, il caro-studio e la guerra gli studenti universitari che da ieri (e fino al 30 ottobre, giornata di sciopero generale nazionale), hanno piazzato le loro tende ai Giardini del Rettorato. Nella piccola area verde che si erge sopra al polo universi…",
-   "link": "https://www.lanazione.it/umbria/cronaca/tende-ai-giardini-del-rettorato-8aa64028",
-   "published": "2026-10-27T06:14",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
-   "id": "3611002a9cb0a091",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "La rivolta di tir e trattori. Casello in tilt con i girotondi: \"Ascoltateci o sbarriamo\". Cibi e bevande a chi protesta",
-   "summary": "\"Così non riusciamo ad andare avanti\". È un grido di aiuto quello lanciato da autotrasportatori e agricoltori , uniti nella mobilitazione contro il caro-carburante e il caro-vita. Tir e trattori agricoli si sono ritrovati ieri alle 8 alla rotatoria delle Farniole, poco prima del casello Valdichiana…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/la-rivolta-di-tir-e-3932deff",
-   "published": "2026-10-27T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
   },
   {
    "id": "e2cb6f30be6367c6",
@@ -4208,22 +4118,166 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "7c489dcf9bd5cc3f",
-   "zone": "it_national",
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
    "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Sciolto il corteo a Torino dopo un fitto lancio di lacrimogeni",
-   "summary": "Fermati per accertamenti dei manifestanti, bloccato il furgone degli organizzatori",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/sciolto-il-corteo-a-torino-dopo-un-fitto-lancio-di-lacrimogeni_fb56d59d-479f-4377-9fd3-356110ee9534.html",
-   "published": "2026-10-24T20:57",
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-17T23:58",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-24T19:10",
-   "last_seen": "2026-10-27T19:31"
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "6f7b921a88f95f53",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
+   "summary": "Selon la CGT, la manifestation à Paris, mardi, a mobilisé 175 000 personnes. Le rassemblement a réuni 28 000 participants, d'après la préfecture de police de Paris.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-17T23:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T17:43",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "6d4187299dc7c8f0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Mobilisation du 17 novembre : plus de 500.000 manifestants selon la CGT, 146.000 selon le gouvernement",
+   "summary": "À l'appel des organisations syndicales, une nouvelle journée de grève et de manifestations a eu lieu ce mardi pour demander des revalorisations salariales pour les agents publics, malgré les annonces du gouvernement vendredi en faveur des bas salaires.",
+   "link": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-17-novembre-suivez-la-nouvelle-journee-de-greve-et-de-manifestations-3379678?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-17T22:38",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "8289fd50c1ea3bb0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+   "summary": "Mardi, les cortèges ont rassemblé 146 000 personnes dans différentes villes de France, selon le ministère de l’intérieur, plus de 500 000 selon la CGT. Alors que la mobilisation semble s’essouffler, les regards se tournent peu à peu vers le scrutin présidentiel d’avril 2027.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html",
+   "published": "2026-11-17T21:29",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "5b5d73164b73abd5",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "REPLAY Manifestations du 17 novembre : près de 4 000 personnes à Montpellier, une mobilisation en baisse… retour sur cette journée de grève",
+   "summary": "Une nouvelle journée de mobilisation se tient, ce mardi 17 novembre, à l’appel des syndicats de la fonction publique, qui réclament toujours des hausses de salaires. De Montpellier à Nîmes, plusieurs mobilisations...",
+   "link": "https://www.midilibre.fr/2026/11/17/en-direct-manifestations-du-17-novembre-premiers-corteges-des-10-h-30-en-region-parcours-interdit-dans-le-centre-de-montpellier-les-dernieres-infos-13655895.php",
+   "published": "2026-11-17T21:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "9a75268c3d0848c3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"C'est grâce à ce jour que ça continue aujourd'hui\" : un mois après le 17 octobre, le cortège parisien se souvient d'une journée de mobilisation imparfaite mai…",
+   "summary": "Les Français étaient de nouveau appelés à manifester mardi, notamment à l'appel de l'intersyndicale de la fonction publique. L'occasion de s'interroger, alors que les cortèges ne font plus le plein depuis le 7 novembre, sur l'héritage du 17 octobre.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-c-est-grace-a-ce-jour-que-ca-continue-aujourd-hui-un-mois-apres-le-17-octobre-le-cortege-parisien-se-souvient-d-une-journee-de-mobilisation-imparfaite-mais-determinante_8286404.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-17T20:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "521fbbb5dc60c838",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un mannequin en papier mâché du ministre de l'Intérieur confisqué avant la manifestation du 17 novembre",
+   "summary": "Un nouveau mannequin des étudiants en arts, à l'effigie du ministre de l'Intérieur, a été confisqué par des policiers avant la manifestation de ce mardi 17 novembre à Strasbourg, où plusieurs milliers de personnes se sont réunies pour défendre les salaires, notamment dans la fonction publique.",
+   "link": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/un-mannequin-en-papier-mache-du-ministre-de-l-interieur-confisque-avant-la-manifestation-du-17-novembre-2233261?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-17T19:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "06c4b06c8d16c0d1",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La justice suspend l'interdiction de rassemblements autour de certains lycées et universités en région parisienne",
+   "summary": "\"C'est une victoire pour la jeunesse et un camouflet pour le gouvernement\", a réagi l'Unef, qui a contesté la mesure devant la justice.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-justice-suspend-l-interdiction-de-rassemblements-autour-de-certains-lycees-et-universites-en-region-parisienne_8286860.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-17T18:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-17T17:43",
+   "last_seen": "2026-11-17T23:58"
+  },
+  {
+   "id": "63a42bfe8a57fc11",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Présidentielle 2027 : quelle réforme des retraites si Marine Le Pen est élue ? La candidate RN dévoile son projet",
+   "summary": "Marine Le Pen, candidate Rassemblement national à la prochaine élection présidentiel, entend réformer le système des retraites à son arrivée au pouvoir. Ambitions, modalités, échéance : voici ce qu’a annoncé la...",
+   "link": "https://www.midilibre.fr/2026/11/17/presidentielle-2027-quelle-reforme-des-retraites-si-marine-le-pen-est-elue-la-candidate-rn-devoile-son-projet-13656870.php",
+   "published": "2026-11-17T18:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T17:43",
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "ba8da1a3d426807e",
@@ -4244,40 +4298,22 @@
    "last_seen": "2026-11-17T17:43"
   },
   {
-   "id": "6f7b921a88f95f53",
-   "zone": "fr_national",
+   "id": "4e80c85c93e72bdf",
+   "zone": "it_national",
    "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
    "kind": "protest",
    "severity": "medium",
-   "title": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
-   "summary": "Selon la CGT, la manifestation à Paris, mardi, a mobilisé 175 000 personnes. Le rassemblement a réuni 28 000 participants, d'après la préfecture de police de Paris.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-17T18:33",
+   "title": "Continuano le proteste in Francia, a Parigi sfilano migliaia di persone per i salari: “I soldi dell’evasione fiscale agli ospedali”",
+   "summary": "Sono 146.000, di cui 28mila a Parigi , le persone che hanno manifestato oggi in Francia nel quadro della giornata di mobilitazione per i salari nel pubblico impiego , secondo i dati del ministero dell’Interno. Il sindacato CGT annuncia invece mezzo milione di manifestanti in tutto il Paese, di cui…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/17/francia-proteste-parigi-salari-video/8575250/",
+   "published": "2026-11-17T17:56",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
-  },
-  {
-   "id": "06c4b06c8d16c0d1",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La justice suspend l'interdiction de rassemblements autour de certains lycées et universités en région parisienne",
-   "summary": "\"C'est une victoire pour la jeunesse et un camouflet pour le gouvernement\", a réagi Alice de Brito de l'Unef, qui a contesté la mesure devant la justice.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-justice-suspend-l-interdiction-de-rassemblements-autour-de-certains-lycees-et-universites-en-region-parisienne_8286860.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-17T17:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "first_seen": "2026-11-17T23:58",
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "81ab212f8045f850",
@@ -4298,24 +4334,6 @@
    "last_seen": "2026-11-17T17:43"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-17T17:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-17T17:43"
-  },
-  {
    "id": "1f4083445259f3a5",
    "zone": "milano",
    "affects": [],
@@ -4331,7 +4349,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "632aa5630d32ce1c",
@@ -4349,7 +4367,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "3661ecf139a8336e",
@@ -4385,7 +4403,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "eb7dce65040a31e9",
@@ -4403,7 +4421,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "c66828db32e540ba",
@@ -4475,7 +4493,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "afd804bd022ce4dd",
@@ -4493,25 +4511,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
-  },
-  {
-   "id": "63a42bfe8a57fc11",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Présidentielle 2027 : quelle réforme des retraites si Marine Le Pen est élue ? La candidate RN dévoile son projet",
-   "summary": "Marine Le Pen, candidate Rassemblement national à la prochaine élection présidentiel, entend réformer le système des retraites à son arrivée au pouvoir. Ambitions, modalités, échéance : voici ce qu’a annoncé la...",
-   "link": "https://www.midilibre.fr/2026/11/17/presidentielle-2027-quelle-reforme-des-retraites-si-marine-le-pen-est-elue-la-candidate-rn-devoile-son-projet-13656870.php",
-   "published": "2026-11-17T13:02",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "1649e0e6b2a97506",
@@ -4529,7 +4529,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "97a6dc1429b95408",
@@ -4565,7 +4565,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T00:30",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "f4652f68f025d7fc",
@@ -4637,7 +4637,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "beb774e71ff32652",
@@ -4655,7 +4655,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "fa253d35813d5098",
@@ -4673,7 +4673,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "c1a9aca71835c7bf",
@@ -4691,7 +4691,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "57ac28f2f69c119b",
@@ -4709,7 +4709,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "5221f60b75c118ad",
@@ -4727,7 +4727,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "992d882d196e7446",
@@ -4745,7 +4745,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "69e033a731699834",
@@ -4763,7 +4763,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "e724799f59ea3965",
@@ -4781,7 +4781,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "3560a291c1672287",
@@ -4799,7 +4799,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "cbad20c65213d021",
@@ -4907,7 +4907,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T00:30",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "a2460afd23fbc30d",
@@ -4943,7 +4943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "e1b551f872f3ca05",
@@ -4979,7 +4979,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "9685889efd560574",
@@ -5033,7 +5033,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T00:30"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "dc9bffaff0ac6664",
@@ -5051,7 +5051,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "4ab92d09896e67c8",
@@ -5087,7 +5087,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -5105,7 +5105,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "1514d74afab13e7a",
@@ -5123,7 +5123,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "fab58bd29f655d49",
@@ -5159,7 +5159,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "488ebfe3af89167e",
@@ -5483,7 +5483,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -5537,7 +5537,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T15:37",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "9e66ab7eb53af6f9",
@@ -5718,6 +5718,24 @@
    "soon": false,
    "first_seen": "2026-11-14T21:37",
    "last_seen": "2026-11-15T08:02"
+  },
+  {
+   "id": "320eb37b46717b1e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Entre musique et affrontements avec les forces de l'ordre : retour sur l'acte V des manifestations à Montpellier",
+   "summary": "La manifestation du 14 novembre a démarré en musique sous les Arceaux à Montpellier et s'est terminée avec des affrontements dans le centre-ville malgré l'arrêté préfectoral interdisant les manifestations revendicatives dans l'Écusson.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/entre-musique-et-affrontements-avec-les-forces-de-l-ordre-retour-sur-l-acte-v-des-manifestations-a-montpellier-4254121?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-14T20:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-14T21:37",
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "a74272f3f89da153",
@@ -7283,7 +7301,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7913,7 +7931,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -9353,7 +9371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-17T17:43"
+   "last_seen": "2026-11-17T23:58"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -18646,24 +18664,6 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "dfaa6bae22f1606d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : \"Le compte n'y est pas\", déplore la secrétaire générale du Snes-FSU après sa réunion avec Edouard Geffray",
-   "summary": "Le syndicat maintient son appel à manifester le 5 novembre.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-27T13:35",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T14:25",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
    "id": "9deba98920fc8536",
    "zone": "montpellier",
    "affects": [],
@@ -18754,96 +18754,6 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "8adfd26b6da95d04",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Ecco la stretta sui dehors. Placche e multe",
-   "summary": "Dalle ‘placchette’ per delimitare gli spazi esterni dei locali ai contributi per sostenere le attività più longeve. L’Arengo stringe sul rispetto delle regole per l’occupazione del suolo pubblico e mette in campo nuove risorse per accompagnare l’evoluzione del commercio cittadino. Per i dehors si e…",
-   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/ecco-la-stretta-sui-dehors-38334234",
-   "published": "2026-10-27T06:14",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
-   "id": "363bf7c01f84686e",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Gli alunni si prendono il Chierici: \"Ascoltate le nostre richieste. O l’occupazione sarà a oltranza\"",
-   "summary": "di Giulia Beneventi \"Entrate per partecipare all’assemblea studentesca\". Non è la campanella, bensì l’appello del collettivo studentesco Goat a scandire l’inizio della giornata di ieri al liceo artistico Chierici di via Nobili. All’apertura delle porte, gli studenti hanno preso possesso della scuol…",
-   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/gli-alunni-si-prendono-il-b11bb58d",
-   "published": "2026-10-27T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T19:31"
-  },
-  {
-   "id": "194f2bb4417fc828",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La giornata del Ministro. Camionetta con idrante e ’cintura’ di agenti",
-   "summary": "Una ’cintura’ di agenti per evitare l’avvicinamento degli studenti in corteo. Un Iveco Trakker della polizia allestito da idrante – e utilizzato per la dispersione delle folle durante manifestazioni di particolare criticità – è parcheggiato davanti alla Prefettura. Spostamenti programmati nei minim…",
-   "link": "https://www.lanazione.it/firenze/cronaca/la-giornata-del-ministro-camionetta-60a13b10",
-   "published": "2026-10-27T06:11",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
-   "id": "caabf96eb21d6268",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Fari sul ’Fedi-Fermi’. Con un po’ di goliardia",
-   "summary": "Un dinosauro, un cammello e centinaia di voci all’unisono per fare sentire la propria protesta: ieri mattina il piazzale dell’istituto Fedi-Fermi di via Panconi ha visto la protesta di molti studenti, alcuni mascherati. Nessuna occupazione o blocco delle attività ma una mobilitazione per riaccender…",
-   "link": "https://www.lanazione.it/pistoia/cronaca/fari-sul-fedi-fermi-con-un-2e404351",
-   "published": "2026-10-27T06:11",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
-   "id": "3d0f254b04e4f701",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Il fronte delle occupazioni. Sfregiati due affreschi . Ma c’è chi imbianca le aule",
-   "summary": "Due affreschi sfregiati e un danno al patrimonio artistico che pesa più di tutto il resto. Al liceo Machiavelli, la dirigente Sara Lazzaro è amareggiata per quanto accaduto durante l’occupazione: \"Sono rimasta male, i ragazzi in questo mi hanno deluso. Sfregiare un’opera d’arte significa fare un da…",
-   "link": "https://www.lanazione.it/firenze/cronaca/il-fronte-delle-occupazioni-sfregiati-8d910957",
-   "published": "2026-10-27T06:05",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
    "id": "f0c4a8b1e0f3a0a1",
    "zone": "montpellier",
    "affects": [],
@@ -18916,24 +18826,6 @@
    "last_seen": "2026-10-28T02:12"
   },
   {
-   "id": "11c76dd78fe28bd6",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne : Parcoursup remplacé, 920 recrutements de professeurs supplémentaires… les annonces du gouvernement",
-   "summary": "Alors que le Premier ministre reçoit les organisations lycéennes ce lundi, les annonces du gouvernement ont d’ores et déjà fuité. Entre un remplacement de Parcoursup en 2028, un plafonnement des classes de 2de à 28...",
-   "link": "https://www.midilibre.fr/2026/10/26/mobilisation-lyceenne-parcoursup-remplace-920-recrutements-de-professeurs-supplementaires-les-annonces-du-gouvernement-13621049.php",
-   "published": "2026-10-26T16:28",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-27T23:10"
-  },
-  {
    "id": "99aac432a010a43e",
    "zone": "firenze",
    "affects": [],
@@ -18968,24 +18860,6 @@
    "soon": false,
    "first_seen": "2026-10-26T14:00",
    "last_seen": "2026-10-30T01:58"
-  },
-  {
-   "id": "47f132d64882e97e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Brau-Boirie, Gazzotti et Hastoy sont forfaits pour le début du rassemblement du XV de France",
-   "summary": "La FFR a annoncé ce lundi le forfait de Brau-Broirie, Gazotti et Hastoy pour le premier rassemblement du XV de France. Le sélectionneur Fabien Galthié a remanié son effectif.",
-   "link": "https://www.midilibre.fr/2026/10/26/brau-boirie-gazzotti-et-hastoy-sont-forfaits-pour-le-debut-du-rassemblement-du-xv-de-france-13621014.php",
-   "published": "2026-10-26T14:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-26T14:00",
-   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "e9e98f692aaba9da",
@@ -19166,24 +19040,6 @@
    "soon": false,
    "first_seen": "2026-10-24T23:42",
    "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "047b758220e92963",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
-   "summary": "9 arresti, 87 le persone denunciate",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_e0122321-4d8b-4b24-8cc8-22fc17f0f290.html",
-   "published": "2026-10-24T21:25",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-25T06:50",
-   "last_seen": "2026-10-27T19:31"
   },
   {
    "id": "4f7abc57c7d91c9c",
