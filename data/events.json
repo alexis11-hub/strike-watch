@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:59",
+ "updated": "2026-11-18T06:07",
  "events": [
   {
    "id": "687f132db27c629e",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "95d212a60043f6d6",
@@ -143,7 +143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "93a13b6fc3fc217a",
@@ -3826,24 +3826,6 @@
    "last_seen": "2026-10-28T08:30"
   },
   {
-   "id": "179c35a39ce8185a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisations sociales : le projet de loi « casseurs-payeurs » approuvé et élargi par le Sénat après les violences du 17 octobre",
-   "summary": "Le texte, très critiqué à gauche, a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.",
-   "link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
-   "published": "2026-10-28T01:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T02:12",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "1a3ee112ae1e0312",
    "zone": "milano",
    "affects": [
@@ -3864,26 +3846,6 @@
    "last_seen": "2026-10-30T15:01"
   },
   {
-   "id": "df53307c4e174295",
-   "zone": "milano",
-   "affects": [
-    "firenze"
-   ],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Proclamato lo sciopero nazionale dei taxi il 15 di dicembre con manifestazione a Roma: “Immobilismo del governo”",
-   "summary": "I tassisti tornano a incrociare le braccia. “A causa della totale inerzia del governo , le organizzazioni sindacali e associazioni di categoria del settore taxi, riunitesi oggi a Firenze, proclamano lo sciopero nazionale per l’intera giornata del 15 dicembre 2026 con manifestazione a Roma “. Non so…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-taxi-15-dicembre-roma-notizie/8551821/",
-   "published": "2026-10-27T17:57",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "41b19e123d8744af",
    "zone": "it_national",
    "affects": [],
@@ -3900,78 +3862,6 @@
    "soon": false,
    "first_seen": "2026-10-27T14:25",
    "last_seen": "2026-10-30T08:08"
-  },
-  {
-   "id": "c7c8c500bcb34661",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 17 octobre : la famille de l'homme décédé porte plainte pour \"violences volontaires\"",
-   "summary": "Une plainte pour \"violences volontaires ayant entrainé la mort sans intention de la donner\" a été déposée lundi soir, dix jours après la mort de Christophe M. Ce manifestant est décédé pendant la mobilisation du 17 octobre à Paris. Les circonstances de sa mort sont toujours inconnues.",
-   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-17-octobre-la-famille-de-l-homme-decede-porte-plainte-pour-violences-volontaires-3488020?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-27T17:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "169b228001ccf396",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "ENQUETE VIDEO Manifestations du 24 octobre : qu’a fait la police face à l’extrême droite ?",
-   "summary": "De Nice à Rouen et de Montpellier à Nancy, des militants d’extrême droite se sont mobilisés dans de nombreuses villes, samedi. Entre protection des commerces, violences contre les manifestants, et appui aux forces de l’ordre.",
-   "link": "https://www.lemonde.fr/videos/video/2026/10/27/manifestations-du-24-octobre-qu-a-fait-la-police-face-a-l-extreme-droite_6801308_1669088.html",
-   "published": "2026-10-27T16:53",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "4091b767b966e2bf",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Plus de 2 500 magasins touchés par des dégradations en marge des manifestations des 17 et 24 octobre, selon les chambres de commerce",
-   "summary": "Selon ce bilan, \"1 161 commerces ont été fortement dégradés\", c'est-à-dire pillés, saccagés ou incendiés. Avec 527 commerces concernés, la ville de Marseille et sa métropole ont été encore plus touchées que Paris et l'Ile-de-France.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-2-500-magasins-touches-par-les-violences-en-marge-des-manifestations-des-17-et-24-octobre-selon-les-chambres-de-commerce_8256049.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-27T16:49",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "00d96a5910f5c0a8",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero 30 ottobre, trasporti precettati da Salvini: “In quei giorni si va al cimitero per commemorare i defunti”. Usb: “Disobbediremo”",
-   "summary": "Può esserci un’ agitazione sindacale nel comparto dei trasporti due giorni prima della Commemorazione dei defunti , oppure si rischia di comprimere il diritto di andare nei cimiteri nei giorni di massimo afflusso nel corso dell’anno? È vietato, dice la Commissione Garanzia Sciopero sulla base della…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/sciopero-generale-30-ottobre-trasporti-precettazione-commemorazione-defunti/8551542/",
-   "published": "2026-10-27T16:33",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "78b6b6bff1130749",
@@ -4064,24 +3954,6 @@
    "last_seen": "2026-10-29T11:45"
   },
   {
-   "id": "40c826c5a426445a",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestation du 24 octobre : après les violences filmées, le parquet ouvre une enquête pour identifier les membres d’ultradroite présents à Montpellier",
-   "summary": "Le procureur de la République de Montpellier a indiqué, ce lundi en début d’après-midi, qu’une enquête était ouverte pour identifier les membres du groupe d’ultradroite dont la présence, ce samedi 24 octobre, a...",
-   "link": "https://www.midilibre.fr/2026/10/26/manifestation-du-24-octobre-apres-les-violences-filmees-le-parquet-ouvre-une-enquete-pour-identifier-les-membres-dultradroite-presents-a-montpellier-13621061.php",
-   "published": "2026-10-26T15:58",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "2a595caf594167f3",
    "zone": "it_national",
    "affects": [],
@@ -4100,24 +3972,6 @@
    "last_seen": "2026-10-28T08:30"
   },
   {
-   "id": "799e0fad9a7849de",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Cortei e tensioni, scontri a Torino. Incursione al Colosseo. Meloni: 'Sicurezza garantita'",
-   "summary": "Piantedosi: 'Isolati i violenti, non c'è spazio per chi agisce nell'impunità. Il bilancio: quasi cinquemila identificati e 371 fermati, 110 sono minori TUTTI I VIDEO",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-e-tensioni-scontri-a-torino.-incursione-al-colosseo.-meloni-sicurezza-garantita_a5328565-eeb0-4566-bf29-d289f2b330a3.html",
-   "published": "2026-10-25T10:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "8c2e8065254f4157",
    "zone": "fr_national",
    "affects": [],
@@ -4128,12 +3982,106 @@
    "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
    "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
    "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-17T23:58",
+   "published": "2026-11-18T06:06",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "ceaa3d2ec0baf68d",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Piazza Guafredotto sotto l’assedio del traffico: \"Troppe multe alle auto, serve più buonsenso\"",
+   "summary": "\"Oltre al danno, la beffa. Questo è ciò che sento dire da residenti e frequentatori di piazza Gualfredotto da Milano e vie limitrofe a Gavinana, dove da qualche giorno la Polizia municipale sta effettuando decine e decine di multe con il sistema Cerbero alle auto in divieto di sosta\". La denuncia a…",
+   "link": "https://www.lanazione.it/firenze/cronaca/piazza-guafredotto-sotto-lassedio-del-3a0defd5",
+   "published": "2026-11-18T06:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T06:06",
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "52de501f1e9aefd4",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gavinana respira: 70 nuovi parcheggi: \"È una risposta concreta ai residenti\"",
+   "summary": "Sessantasette nuovi posti auto per i residenti di Gavinana, un investimento da un milione di euro e un’area cani di 3.700 metri quadrati. A tre giorni dalla manifestazione che ha portato in strada oltre 700 persone per protestare contro i disagi dei cantieri del tram, Palazzo Vecchio dà l’ok al nuo…",
+   "link": "https://www.lanazione.it/firenze/cronaca/gavinana-respira-70-nuovi-parcheggi-b96ff83f",
+   "published": "2026-11-18T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T06:06",
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "b3d818b77f9ffef3",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Eseguito un intervento in diretta internazionale. Quindici paesi collegati per un caso di ernia: \"Così ci confrontiamo con le migliori scuole\"",
+   "summary": "BAGNO A RIPOLI Quindici Paesi collegati, tra cui Cina, Stati Uniti e Italia e un intervento chirurgico eseguito nelle sale operatorie dell’ospedale Santa Maria Annunziata seguito in diretta da chirurghi e specialisti internazionali. Per il nono anno consecutivo il presidio di Ponte a Niccheri è sta…",
+   "link": "https://www.lanazione.it/firenze/cronaca/eseguito-un-intervento-in-diretta-01f43a8f",
+   "published": "2026-11-18T04:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T06:06",
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "da3a5a4022b8087f",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Cambio al vertice della Gendarmeria, il timone a Zuccarelli",
+   "summary": "Cambia la mano al timone della Gendarmeria sammarinese , nel segno di una continuità che guarda insieme alle radici del territorio e alle nuove frontiere della sicurezza. A Palazzo Pubblico si è consumato il passaggio di consegne tra il generale Maurizio Faraone , rimasto al vertice del Corpo per u…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/cambio-al-vertice-della-gendarmeria-3a6efa32",
+   "published": "2026-11-18T04:16",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T06:06",
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "98313c234909299a",
+   "zone": "milano",
+   "affects": [
+    "firenze"
+   ],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tentano di rapinarlo in centro a Firenze. Poi le coltellate al petto, 41enne in ospedale",
+   "summary": "Firenze, 18 novembre 2026 – Gli ha chiesto una sigaretta e dei soldi . Quando l’uomo ha risposto di no, lo ha colpito al petto con una lama. È successo intorno alle 22 di lunedì sera alla fermata dell’autobus in piazza San Marco . Il ferito è scappato ed è riuscito a seminarlo prima che l’aggressio…",
+   "link": "https://www.lanazione.it/firenze/cronaca/tentano-di-rapinarlo-in-centro-a-firenze-poi-le-coltellate-al-petto-41enne-in-ospedale-i4m22nlw",
+   "published": "2026-11-18T02:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T06:06",
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "6f7b921a88f95f53",
@@ -4169,7 +4117,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "8289fd50c1ea3bb0",
@@ -4187,7 +4135,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "5b5d73164b73abd5",
@@ -4205,7 +4153,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "9a75268c3d0848c3",
@@ -4223,7 +4171,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "521fbbb5dc60c838",
@@ -4241,7 +4189,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "06c4b06c8d16c0d1",
@@ -4277,7 +4225,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "ba8da1a3d426807e",
@@ -4313,7 +4261,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T23:58",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "81ab212f8045f850",
@@ -4349,7 +4297,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "632aa5630d32ce1c",
@@ -4367,7 +4315,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "3661ecf139a8336e",
@@ -4403,7 +4351,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "eb7dce65040a31e9",
@@ -4421,7 +4369,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "c66828db32e540ba",
@@ -4493,7 +4441,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "afd804bd022ce4dd",
@@ -4511,7 +4459,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "1649e0e6b2a97506",
@@ -4529,7 +4477,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "97a6dc1429b95408",
@@ -4565,7 +4513,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T00:30",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "f4652f68f025d7fc",
@@ -4637,7 +4585,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "beb774e71ff32652",
@@ -4655,25 +4603,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
-  },
-  {
-   "id": "fa253d35813d5098",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations du 17 novembre : Montpellier, Béziers, Nîmes… À quoi s’attendre dans la région ce mardi ?",
-   "summary": "Nouvelle journée de mobilisation, ce mardi 17 novembre. À Montpellier, la préfète a interdit les rassemblements au centre-ville, redirigeant le parcours. D’autres manifestations sont prévues dans l’Hérault et le Gard,...",
-   "link": "https://www.midilibre.fr/2026/11/17/manifestations-du-17-novembre-montpellier-beziers-nimes-a-quoi-sattendre-dans-la-region-ce-mardi-13655339.php",
-   "published": "2026-11-17T06:01",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "c1a9aca71835c7bf",
@@ -4691,7 +4621,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
+  },
+  {
+   "id": "fa253d35813d5098",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 17 novembre : Montpellier, Béziers, Nîmes… À quoi s’attendre dans la région ce mardi ?",
+   "summary": "Nouvelle journée de mobilisation, ce mardi 17 novembre. À Montpellier, la préfète a interdit les rassemblements au centre-ville, redirigeant le parcours. D’autres manifestations sont prévues dans l’Hérault et le Gard,...",
+   "link": "https://www.midilibre.fr/2026/11/17/manifestations-du-17-novembre-montpellier-beziers-nimes-a-quoi-sattendre-dans-la-region-ce-mardi-13655339.php",
+   "published": "2026-11-17T06:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-17T08:20",
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "57ac28f2f69c119b",
@@ -4709,7 +4657,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "5221f60b75c118ad",
@@ -4727,7 +4675,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "992d882d196e7446",
@@ -4745,7 +4693,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "69e033a731699834",
@@ -4763,7 +4711,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "e724799f59ea3965",
@@ -4781,7 +4729,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "3560a291c1672287",
@@ -4799,7 +4747,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "cbad20c65213d021",
@@ -4907,7 +4855,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T00:30",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "a2460afd23fbc30d",
@@ -4943,7 +4891,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "e1b551f872f3ca05",
@@ -4979,7 +4927,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "9685889efd560574",
@@ -5087,7 +5035,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -5159,7 +5107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "488ebfe3af89167e",
@@ -5483,7 +5431,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-15T08:02",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "9ef2929f2b255d4a",
@@ -7301,7 +7249,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7931,7 +7879,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -9371,7 +9319,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-17T23:58"
+   "last_seen": "2026-11-18T06:06"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -18466,42 +18414,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "1e77c6c507e08105",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Exit poll Israele, blocco Eisenkot a 52 seggi, blocco Netanyahu a 50",
-   "summary": "I primi dati di Channel 12",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-blocco-eisenkot-a-52-seggi-blocco-netanyahu-a-50_63fe9e71-471a-4e91-a829-efeca06a828c.html",
-   "published": "2026-10-27T21:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "8c599f4c31811095",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Mit precetta sciopero trasporti del 30. Usb, 'lo confermiamo",
-   "summary": "Salvini firma l'ordinanza sullo stop, 'franchigia del 2 novembre'",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/mit-precetta-sciopero-trasporti-del-30.-usb-lo-confermiamo_a5821a56-2cff-47a5-92b0-773f154cf7bf.html",
-   "published": "2026-10-27T21:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T23:10",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "3e01a18a347c9d4d",
    "zone": "milano",
    "affects": [],
@@ -18536,132 +18448,6 @@
    "soon": false,
    "first_seen": "2026-10-27T19:31",
    "last_seen": "2026-10-30T15:01"
-  },
-  {
-   "id": "4f1fad859efc86f7",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Agricoltori in piazza Montecitorio: “Meloni e Salvini? Qui li abbiamo votati tutti, i video sulle accise ce li ricordiamo. Ma trovano 13 miliardi per le armi e…",
-   "summary": "“Con tutto il rispetto dell’opposizione noi vogliamo parlare con qualcuno del governo ”. Resterà delusa la richiesta degli agricoltori crotonesi che oggi hanno manifestato davanti alla Camera dei Deputati . “Ci hanno ignorato totalmente”. Uno degli imprenditori agricoli che ha preso la parola duran…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/protesta-agricoltori-montecitorio-meloni-salvini-notizie/8551794/",
-   "published": "2026-10-27T18:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "a6f7feb22ff08eaa",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne : pourquoi le gouvernement a-t-il annoncé ses mesures à des créateurs de contenu en avant-première ?",
-   "summary": "Sébastien Lecornu et plusieurs ministres ont reçu des influenceurs et des médias en ligne spécialisés sur les sujets de scolarité. Ils ont été informés en premier des mesures envisagées par le gouvernement pour répondre au mouvement, au grand dam des syndicats lycéens.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-pourquoi-le-gouvernement-a-t-il-annonce-ses-mesures-a-des-createurs-de-contenu-en-avant-premiere_8253583.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-27T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "d1d243e207ca1e11",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "I giovani scendono in piazza perché hanno capito che il sistema attuale dev’essere abbattuto e ricostruito",
-   "summary": "di Alessia Manera* In queste settimane si stanno riempiendo le piazze di tutta Italia e le modalità, le parole d’ordine che le stanno attraversando, meritano una riflessione attenta , soprattutto da parte di quella società adulta che rischia di utilizzare etichette stantie e di bollare come già vis…",
-   "link": "https://www.ilfattoquotidiano.it/2026/10/27/disordini-giovani-nuove-generazioni-repressione-notizie/8551701/",
-   "published": "2026-10-27T17:26",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "71797d6a2ee6826d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La famille de Christophe M., manifestant mort à Paris aux abords du cortège du 17 octobre, a déposé plainte",
-   "summary": "\"Face à l'impossibilité d'obtenir les conclusions de l'autopsie, effectuée vendredi, nous avons déposé plainte avec constitution de partie civile\", a précisé l'avocat de la famille.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-famille-de-christophe-m-manifestant-mort-a-paris-aux-abords-du-cortege-du-17-octobre-a-depose-plainte_8256034.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-27T16:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "d2c8ed9ca3d8f217",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation étudiante : pas de rentrée pour près de 20 000 étudiants de l'Université de Bordeaux",
-   "summary": "Le président de l'Université de Bordeaux annonce que les campus Montesquieu, de la Victoire ainsi que ceux de Peixotto et de Bordes resteront fermés du lundi 2 novembre au dimanche 8 novembre, après les vacances. Les conditions pour une réouverture ne sont pas réunies selon la présidence.",
-   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/bordeaux/mobilisation-etudiante-pas-de-rentree-pour-pres-de-20-000-etudiants-de-l-universite-de-bordeaux-4807023?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-27T16:41",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "e0ae8db1672b85d3",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : le ministre appelle à \"reprendre le travail lundi\", les syndicats à poursuivre le mouvement",
-   "summary": "\"Le travail doit reprendre lundi\", a enjoint ce mardi le ministre de l'Enseignement supérieur Philippe Baptiste, au lendemain d'annonces du gouvernement qui n'ont pas convaincu les organisations lycéennes et étudiantes. Ces dernières ont appelé à poursuivre la mobilisation.",
-   "link": "https://www.ici.fr/infos/education/crise-dans-l-education-le-ministre-appelle-a-reprendre-le-travail-lundi-les-syndicats-a-poursuivre-le-mouvement-5085380?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-27T15:29",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "ec044175f240224f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : le ministre appelle à \"reprendre le travail lundi\", les syndicats à poursuivre le mouvement",
-   "summary": "\"Le travail doit reprendre lundi\", a enjoint ce mardi le ministre de l'Enseignement supérieur Philippe Baptiste, au lendemain d'annonces du gouvernement qui n'ont pas convaincu les organisations lycéennes et étudiantes. Ces dernières ont appelé à poursuivre la mobilisation.",
-   "link": "https://www.ici.fr/infos/education/crise-dans-l-education-le-ministre-appelle-a-reprendre-le-travail-lundi-les-syndicats-a-poursuivre-le-mouvement-5085380?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-27T15:29",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-27T19:31",
-   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "9deba98920fc8536",
@@ -18736,24 +18522,6 @@
    "last_seen": "2026-10-28T08:30"
   },
   {
-   "id": "89340dfa34899285",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Banca Mps a 48 ore dal verdetto. Ultimi posizionamenti prima del voto",
-   "summary": "Il conto alla rovescia segno meno 48 ore all’appuntamento che segnerà, in ogni caso, il futuro di Banca Mps. Giovedì mattina, accompagnato da un presidio dei sindacati all’esterno della sede di viale Mazzini, l’assemblea dei soci sarà chiamata a votare sul corposo ordine del giorno, ma soprattutto…",
-   "link": "https://www.lanazione.it/siena/cronaca/banca-mps-a-48-ore-12412f69",
-   "published": "2026-10-27T06:15",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-27T08:06",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "f0c4a8b1e0f3a0a1",
    "zone": "montpellier",
    "affects": [],
@@ -18806,24 +18574,6 @@
    "soon": false,
    "first_seen": "2026-10-26T19:54",
    "last_seen": "2026-10-28T08:30"
-  },
-  {
-   "id": "c4e994e572de4505",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne : augmentation des bourses, rénovation des facs, des places en plus… les annonces du gouvernement pour les étudiants",
-   "summary": "Les annonces du gouvernement en marge de la rencontre avec les organisations lycéennes ont d’ores et déjà fuité. Après une série de mesures pour les lycéens, place aux étudiants. Explications.",
-   "link": "https://www.midilibre.fr/2026/10/26/mobilisation-lyceenne-augmentation-des-bourses-renovation-des-facs-des-places-en-plus-les-annonces-du-gouvernement-pour-les-etudiants-13621109.php",
-   "published": "2026-10-26T16:32",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-26T19:54",
-   "last_seen": "2026-10-28T02:12"
   },
   {
    "id": "99aac432a010a43e",
@@ -19006,42 +18756,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "5865c5b32fa58230",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei di protesta da Roma a Milano TUTTI I VIDEO",
-   "summary": "Città blindate e tensioni nelle piazze, presa la 'mente' del M1710",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
-   "published": "2026-10-25T12:48",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
-   "id": "d16c7c014412bc53",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei in tutta Italia. Alta tensione a Torino - IL RACCONTO DELLA GIORNATA",
-   "summary": "Indagata la 'mente' del Movimento 17 ottobre. Piantedosi: 'Fermezza contro i violenti'. A Roma manifestanti al Colosseo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-in-tutta-italia.-alta-tensione-a-torino-il-racconto-della-giornata_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-   "published": "2026-10-25T00:24",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-24T23:42",
-   "last_seen": "2026-10-28T02:12"
-  },
-  {
    "id": "4f7abc57c7d91c9c",
    "zone": "montpellier",
    "affects": [],
@@ -19058,24 +18772,6 @@
    "soon": false,
    "first_seen": "2026-10-24T21:35",
    "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "b6cee6b8ad60e1df",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : à quoi s'attendre à Montpellier ?",
-   "summary": "À Montpellier, les commerçants se barricadent, à la veille du 24 octobre, journée de manifestation interdite par la préfecture de l'Hérault. Samedi dernier, 55 commerces ont été dégradés, dont 15 pillés. Le tribunal administratif examine ce vendredi l'arrêté d'interdiction de la préfète.",
-   "link": "https://www.ici.fr/occitanie/herault-34/mobilisation-du-24-octobre-a-quoi-s-attendre-a-montpellier-1290607?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-23T16:05",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-23T14:27",
-   "last_seen": "2026-10-28T02:12"
   }
  ]
 }

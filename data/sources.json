@@ -1,29 +1,20 @@
 [
  {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 3,
-  "ms": 559,
-  "error": ""
- },
- {
   "id": "smrtv",
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 578,
+  "ms": 670,
   "error": ""
  },
  {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
+  "id": "libertas",
+  "name": "Libertas.sm",
   "ok": true,
-  "items": 25,
-  "kept": 0,
-  "ms": 657,
+  "items": 100,
+  "kept": 3,
+  "ms": 823,
   "error": ""
  },
  {
@@ -32,7 +23,7 @@
   "ok": true,
   "items": 34,
   "kept": 0,
-  "ms": 659,
+  "ms": 1044,
   "error": ""
  },
  {
@@ -41,25 +32,25 @@
   "ok": true,
   "items": 73,
   "kept": 2,
-  "ms": 665,
+  "ms": 1058,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
   "ok": true,
-  "items": 100,
-  "kept": 8,
-  "ms": 800,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 29,
+  "items": 40,
   "kept": 5,
-  "ms": 177,
+  "ms": 385,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 25,
+  "kept": 0,
+  "ms": 1067,
   "error": ""
  },
  {
@@ -68,34 +59,7 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 186,
-  "error": ""
- },
- {
-  "id": "ansa_top",
-  "name": "ANSA 头条",
-  "ok": true,
-  "items": 10,
-  "kept": 0,
-  "ms": 36,
-  "error": ""
- },
- {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
-  "ok": true,
-  "items": 69,
-  "kept": 7,
-  "ms": 915,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 6,
-  "ms": 369,
+  "ms": 215,
   "error": ""
  },
  {
@@ -104,7 +68,34 @@
   "ok": true,
   "items": 43,
   "kept": 4,
-  "ms": 205,
+  "ms": 248,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 31,
+  "kept": 2,
+  "ms": 262,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 67,
+  "kept": 6,
+  "ms": 1380,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 9,
+  "ms": 1622,
   "error": ""
  },
  {
@@ -113,7 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 1,
-  "ms": 293,
+  "ms": 325,
   "error": ""
  },
  {
@@ -122,7 +113,16 @@
   "ok": true,
   "items": 122,
   "kept": 1,
-  "ms": 358,
+  "ms": 505,
+  "error": ""
+ },
+ {
+  "id": "ansa_top",
+  "name": "ANSA 头条",
+  "ok": true,
+  "items": 10,
+  "kept": 0,
+  "ms": 556,
   "error": ""
  },
  {
@@ -131,7 +131,7 @@
   "ok": true,
   "items": 100,
   "kept": 7,
-  "ms": 926,
+  "ms": 1111,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 1189,
+  "ms": 1682,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 84301,
+  "ms": 84110,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
