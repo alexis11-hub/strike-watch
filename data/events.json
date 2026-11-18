@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:35",
+ "updated": "2026-11-18T22:43",
  "events": [
   {
    "id": "5b2e6577e2ecf2aa",
@@ -35,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "a458a1de5e38656a",
@@ -53,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "27c3d28c106182dd",
@@ -71,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "ccd94c84cff81569",
@@ -107,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "95d212a60043f6d6",
@@ -3772,24 +3772,6 @@
    "last_seen": "2026-10-29T11:45"
   },
   {
-   "id": "f2e31e4da24334c5",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "L'État va mettre en place une taxe \"émeutes\" pour payer les dégâts liés aux violences lors des mobilisations sociales",
-   "summary": "À travers cette mesure imagée dès 2023 et qui concerne particuliers, entreprises et collectivités, l'exécutif espère réunir 400 millions d'euros. La somme permettra d'aider les assureurs et l'État à payer les dégradations des 17 et 24 octobre, estimées à plus d'un milliard d'euros.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-etat-va-mettre-en-place-une-taxe-emeutes-pour-payer-les-degats-lies-aux-violences-lors-des-mobilisations-sociales_8236306.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-28T08:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-28T20:26"
-  },
-  {
    "id": "c234daca69da8c1e",
    "zone": "firenze",
    "affects": [],
@@ -3864,6 +3846,42 @@
    "last_seen": "2026-10-29T11:45"
   },
   {
+   "id": "8c2e8065254f4157",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
+   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
+   "link": "https://www.cgt.fr/17-novembre",
+   "published": "2026-11-18T22:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-10T19:06",
+   "last_seen": "2026-11-18T22:42"
+  },
+  {
+   "id": "5b90245f3b7d8336",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Un sujet de grave préoccupation\" : la Corée du Nord aurait agrandit en secret l’usine d’enrichissement d’uranium au cœur de son arsenal nucléaire",
+   "summary": "La Corée du Nord a étendu son usine d’enrichissement d’uranium à Yongbyon, a annoncé Rafael Grossi, directeur de l’AIEA, le 18 novembre. Cette extension, achevée fin octobre, témoigne de l’augmentation de la...",
+   "link": "https://www.midilibre.fr/2026/11/18/un-sujet-de-grave-preoccupation-la-coree-du-nord-aurait-agrandit-en-secret-lusine-denrichissement-duranium-au-coeur-de-son-arsenal-nucleaire-13659607.php",
+   "published": "2026-11-18T21:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T22:42",
+   "last_seen": "2026-11-18T22:42"
+  },
+  {
    "id": "daa806d35592bd02",
    "zone": "fr_national",
    "affects": [],
@@ -3900,24 +3918,6 @@
    "last_seen": "2026-11-18T15:34"
   },
   {
-   "id": "8c2e8065254f4157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
-   "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
-   "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-18T15:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-18T15:34"
-  },
-  {
    "id": "0a33d282bac522fd",
    "zone": "it_national",
    "affects": [],
@@ -3933,7 +3933,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "cf09a105292b5f2b",
@@ -3969,7 +3969,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "a10934288e7ab041",
@@ -3987,7 +3987,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "5f00ec7bb39002da",
@@ -4005,7 +4005,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "ceaa3d2ec0baf68d",
@@ -4025,7 +4025,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "52de501f1e9aefd4",
@@ -4043,7 +4043,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "b3d818b77f9ffef3",
@@ -4061,7 +4061,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
+  },
+  {
+   "id": "b88b9bb6689a988f",
+   "zone": "sanmarino",
+   "affects": [],
+   "source_id": "smrtv",
+   "source": "San Marino RTV",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Lavoro a San Marino: i dipendenti privati superano quota 19.000",
+   "summary": "Lieve calo per l'occupazione interna. I frontalieri crescono di 300 unita passando da 8.680 a 8.938",
+   "link": "https://www.sanmarinortv.sm/news/attualita-c4/lavoro-a-san-marino-i-dipendenti-privati-superano-quota-19-000-a298675",
+   "published": "2026-11-18T04:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-18T22:42",
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "da3a5a4022b8087f",
@@ -4079,7 +4097,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "98313c234909299a",
@@ -4099,7 +4117,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "6f7b921a88f95f53",
@@ -4315,7 +4333,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "632aa5630d32ce1c",
@@ -4387,7 +4405,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "c66828db32e540ba",
@@ -4495,7 +4513,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "97a6dc1429b95408",
@@ -4603,7 +4621,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "beb774e71ff32652",
@@ -4621,7 +4639,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "c1a9aca71835c7bf",
@@ -4675,7 +4693,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "5221f60b75c118ad",
@@ -4693,7 +4711,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "992d882d196e7446",
@@ -4711,7 +4729,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "69e033a731699834",
@@ -4729,7 +4747,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "e724799f59ea3965",
@@ -4747,7 +4765,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "3560a291c1672287",
@@ -4765,7 +4783,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "cbad20c65213d021",
@@ -4945,7 +4963,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "9685889efd560574",
@@ -5053,7 +5071,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -5125,7 +5143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "488ebfe3af89167e",
@@ -7267,7 +7285,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7897,7 +7915,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -9337,7 +9355,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-18T15:34"
+   "last_seen": "2026-11-18T22:42"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -17962,24 +17980,6 @@
    "soon": false,
    "first_seen": "2026-10-28T20:26",
    "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "fce162630cfa776c",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : Sébastien Lecornu appelle les députés à permettre \"une voie de passage\" pour le remplacement de Parcoursup",
-   "summary": "Le Premier ministre a pris la parole à l'Assemblée nationale, mercredi, en ouverture d'un débat sans vote qu'il a lui-même sollicité pour discuter de l'avenir de la plateforme d'orientation vers l'enseignement supérieur.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-28T19:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-28T20:26"
   },
   {
    "id": "9e3467da96b728d6",
