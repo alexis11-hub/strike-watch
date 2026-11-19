@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:43",
+ "updated": "2026-11-19T03:53",
  "events": [
   {
    "id": "5b2e6577e2ecf2aa",
@@ -35,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "a458a1de5e38656a",
@@ -53,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "27c3d28c106182dd",
@@ -71,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "ccd94c84cff81569",
@@ -107,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "95d212a60043f6d6",
@@ -3646,42 +3646,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "f4757c2a6483e75f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestation du 17 octobre : une adolescente de 17 ans a déposé plainte après avoir été éborgnée",
-   "summary": "L’étudiante en langues étrangères sortait d’un restaurant et « ne participait pas à la manifestation », selon son avocat, qui estime qu’elle a été touchée au visage par « un tir tendu de grenade lacrymogène ». L’IGPN a été saisie.",
-   "link": "https://www.lemonde.fr/societe/article/2026/10/28/manifestation-du-17-octobre-une-adolescente-de-17-ans-a-depose-plainte-apres-avoir-ete-eborgnee_6801639_3224.html",
-   "published": "2026-10-28T20:46",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
-   "id": "104fa8e7122c6630",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Des experts de l'ONU se disent \"consternés\" par la \"répression\" des manifestations lycéennes et étudiantes",
-   "summary": "Le \"recours excessif à la force\", les \"violences\" et les \"interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un Etat de droit\", écrivent ces experts.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-28T19:18",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
    "id": "2109c6d44bb4f621",
    "zone": "fr_national",
    "affects": [],
@@ -3772,24 +3736,6 @@
    "last_seen": "2026-10-29T11:45"
   },
   {
-   "id": "c234daca69da8c1e",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Assemblea aretina per lo sciopero, manifestazione venerdì 30 ottobre in occasione dello sciopero generale",
-   "summary": "Arezzo, 28 ottobre 2026 – Non si ferma la stagione delle proteste in città. Assemblea aretina per lo sciopero convoca una manifestazione venerdì 30 ottobre in occasione dello sciopero generale, indetto dai sindacati di base, contro guerra e carovita. La convocazione è per le ore 9:00 ai giardini di…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/assemblea-aretina-per-lo-sciopero-manifestazione-venerdi-30-ottobre-in-occasione-dello-sciopero-generale-rxiyy1bo",
-   "published": "2026-10-28T07:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T08:30",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
    "id": "1a3ee112ae1e0312",
    "zone": "milano",
    "affects": [
@@ -3856,12 +3802,12 @@
    "title": "Le 17 novembre : partout la grève, dans le public et dans le privé, pour transformer l’essai et gagner de vraies avancées !",
    "summary": "La mobilisation, ça fonctionne ! Grâce à la mobilisation , plus personne ne remet en cause que les salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation , avec 1,6 million de manifestant·es le 5 novembre, alors que le gouvernement ne souhaitait rien lâcher…",
    "link": "https://www.cgt.fr/17-novembre",
-   "published": "2026-11-18T22:42",
+   "published": "2026-11-19T03:51",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "5b90245f3b7d8336",
@@ -3879,7 +3825,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T22:42",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "daa806d35592bd02",
@@ -3933,7 +3879,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "cf09a105292b5f2b",
@@ -3969,7 +3915,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "a10934288e7ab041",
@@ -3987,7 +3933,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "5f00ec7bb39002da",
@@ -4005,7 +3951,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "ceaa3d2ec0baf68d",
@@ -4025,7 +3971,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "52de501f1e9aefd4",
@@ -4043,7 +3989,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "b3d818b77f9ffef3",
@@ -4061,7 +4007,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "b88b9bb6689a988f",
@@ -4079,7 +4025,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T22:42",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "da3a5a4022b8087f",
@@ -4097,7 +4043,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "98313c234909299a",
@@ -4117,7 +4063,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "6f7b921a88f95f53",
@@ -4333,7 +4279,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "632aa5630d32ce1c",
@@ -4405,7 +4351,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "c66828db32e540ba",
@@ -4513,7 +4459,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-17T17:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "97a6dc1429b95408",
@@ -4621,7 +4567,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "beb774e71ff32652",
@@ -4639,7 +4585,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "c1a9aca71835c7bf",
@@ -4693,7 +4639,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "5221f60b75c118ad",
@@ -4711,7 +4657,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "992d882d196e7446",
@@ -4729,7 +4675,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "69e033a731699834",
@@ -4747,7 +4693,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "e724799f59ea3965",
@@ -4765,7 +4711,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "3560a291c1672287",
@@ -4783,7 +4729,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-17T08:20",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "cbad20c65213d021",
@@ -4963,7 +4909,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "9685889efd560574",
@@ -5071,7 +5017,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -5143,7 +5089,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "488ebfe3af89167e",
@@ -7285,7 +7231,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "65b3f2636816f89a",
@@ -7915,7 +7861,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-10T19:06",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "0ba1891151ac9f17",
@@ -9355,7 +9301,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-08T08:37",
-   "last_seen": "2026-11-18T22:42"
+   "last_seen": "2026-11-19T03:51"
   },
   {
    "id": "e0b855e47f612e3e",
@@ -17964,24 +17910,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "a2246b97f746dc85",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "À Rouen et au Havre, la préfecture propose aux commerçants d'ouvrir deux dimanches en novembre, en compensation des manifestations",
-   "summary": "Cette mesure est issue d'une demande à l'échelle nationale de Yohann Petiot, directeur général de l'Alliance du commerce.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-rouen-et-au-havre-la-prefecture-propose-aux-commercants-d-ouvrir-deux-dimanches-en-novembre-en-compensation-des-manifestations_8257838.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-28T19:39",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
    "id": "9e3467da96b728d6",
    "zone": "montpellier",
    "affects": [],
@@ -18072,24 +18000,6 @@
    "last_seen": "2026-10-29T05:41"
   },
   {
-   "id": "a80f33b37cb5f2f7",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Firenze, ancora una spaccata in via Baccio da Montelupo. Il negozio di moda ha aperto questa estate",
-   "summary": "Firenze, 28 ottobre 2026 – Ancora una spaccata a una bottega in via Baccio da Montelupo in zona Ponte a Greve a Firenze . Stavolta nel mirino dei delinquenti è finito FashionLab Store , un negozio di moda che ha aperto appena quest’estate. Il racconto dei fatti Il fatto è avvenuto pochi minuti dopo…",
-   "link": "https://www.lanazione.it/firenze/cronaca/ennesima-spaccata-via-baccio-montelupo-firenze-389b09a4",
-   "published": "2026-10-28T16:43",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-29T00:09"
-  },
-  {
    "id": "51d41084e4b87a37",
    "zone": "sanmarino",
    "affects": [],
@@ -18106,24 +18016,6 @@
    "soon": false,
    "first_seen": "2026-10-28T20:26",
    "last_seen": "2026-11-09T10:41"
-  },
-  {
-   "id": "382affd289bde8a6",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Caro affitti, 450 euro per un posto letto. Gli studenti in tenda davanti a Palazzo Vecchio",
-   "summary": "Firenze, 28 ottobre 2026 – Pamela paga 450 euro al mese per un posto letto, spese escluse. Thomas ne spende 520 per una stanza singola. Tommaso, invece, viaggia ogni giorno per più di tre ore tra treni e autobus: parte da Vernio, in provincia di Prato, per raggiungere l'università a Firenze, dove s…",
-   "link": "https://www.lanazione.it/firenze/caro-affitti-450-euro-per-un-posto-letto-gli-studenti-in-tenda-davanti-a-palazzo-vecchio-7e7a71bd",
-   "published": "2026-10-28T13:35",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T15:26",
-   "last_seen": "2026-10-29T00:09"
   },
   {
    "id": "5fd4581fa612b2e3",
@@ -18412,24 +18304,6 @@
    "soon": false,
    "first_seen": "2026-10-26T14:00",
    "last_seen": "2026-10-29T05:41"
-  },
-  {
-   "id": "4f7abc57c7d91c9c",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 24 octobre : plus de 6.000 personnes dans la manifestation à Montpellier, 700 à Béziers",
-   "summary": "Ce samedi 24 octobre, l'acte II de la mobilisation \"contre la vie chère\" a réuni 700 personnes à Béziers et plus de 6.300 à Montpellier, malgré l'interdiction de la préfecture. Un mouvement bien moins suivi que celui de la semaine dernière, et beaucoup plus calme.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-24-novembre-les-manifestants-toujours-en-attente-du-tribunal-administratif-de-montpellier-2540969?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-24T15:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-24T21:35",
-   "last_seen": "2026-10-29T00:09"
   }
  ]
 }
