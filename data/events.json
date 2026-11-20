@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-20T18:02",
+ "updated": "2026-11-20T23:59",
  "events": [
+  {
+   "id": "1c78688900450153",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
+   "summary": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
+   "published": "2026-11-20T21:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "fa78728ae649a907",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Idranti e lacrimogeni sul corteo a Torino davanti alla Gran Madre",
+   "summary": "Manifestanti lanciano bottiglie poi cercano di tornare in piazza Vittorio Veneto",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/idranti-e-lacrimogeni-sul-corteo-a-torino-davanti-alla-gran-madre_e02568e6-29d9-4ad9-8e93-d35f43b6b7ab.html",
+   "published": "2026-11-20T21:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "9a83a5c3028eb497",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale, anche gli insegnanti in piazza con gli studenti: “Vediamo i loro sogni spezzarsi. Non sappiamo come dirgli che andrà meglio”",
+   "summary": "Non soltanto studenti. Nelle piazze di tutta Italia, accanto ai giovani che da settimane animano le mobilitazioni, sono scesi anche lavoratori e lavoratrici. Una partecipazione favorita dallo sciopero generale indetto dalla Cgil , ma anche dalla scelta di diverse categorie di continuare a sostenere…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-insegnanti-studenti-piazza-notizie/8579108/",
+   "published": "2026-11-20T21:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "1de68d76cc39f79a",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero a Torino, idranti e lacrimogeni contro i manifestanti su Ponte Vittorio Emanuele – Video",
+   "summary": "Ancora momenti di tensione a Torino. La polizia ha usato idranti e lacrimogeni contro il corteo. I manifestanti si trovavano su Ponte Vittorio Emanuele, nel tentativo di attraversare il Po e raggiungere il centro città. Il corteo contro guerra e carovita, composto da qualche centinaio di persone, s…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-torino-idranti-lacrimogeni-notizie/8579062/",
+   "published": "2026-11-20T20:02",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "6633a60c4d5a965d",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "high",
+   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
+   "summary": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
+   "published": "2026-11-20T19:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-20T23:58"
+  },
   {
    "id": "ac025c4a2bbe8265",
    "zone": "firenze",
@@ -17,43 +107,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
-   "id": "6633a60c4d5a965d",
+   "id": "d1631903d3e5ac7e",
    "zone": "it_national",
    "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
    "kind": "strike",
    "severity": "high",
-   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
-   "summary": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
-   "published": "2026-11-20T17:54",
+   "title": "“Nessuno ci rappresenta, vogliamo un’alternativa radicale a questo sistema”. Le voci dei giovani dal corteo di Roma per lo sciopero generale",
+   "summary": "Migliaia i manifestanti scesi in piazza a Roma nella giornata internazionale di sciopero studentesco che ha interessato 25 Paesi in Europa . La protesta arriva dopo settimane di occupazioni nelle scuole di tutta Italia. Al centro delle richieste lo stop al riarmo e ai finanziamenti alla guerra. Poc…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-studentesco-corteo-roma-notizie/8578982/",
+   "published": "2026-11-20T18:08",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
-  },
-  {
-   "id": "1c78688900450153",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
-   "summary": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
-   "published": "2026-11-20T17:47",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "b07455a279d4363d",
@@ -71,7 +143,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "eb39dbed1ebec6ef",
@@ -89,7 +161,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "faded7b407bbb3fd",
@@ -107,7 +179,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "649664e0608f6a5b",
@@ -179,7 +251,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "4bf4c4e8c44368a1",
@@ -197,7 +269,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "9c2c17277be299cc",
@@ -269,7 +341,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "6f203dbf9447b53d",
@@ -289,7 +361,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "d5ad820abb405745",
@@ -307,7 +379,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "13d355f8bfa1e613",
@@ -361,7 +433,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "3bfe2e6ddf571323",
@@ -397,7 +469,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "5b2e6577e2ecf2aa",
@@ -433,7 +505,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "a458a1de5e38656a",
@@ -2980,24 +3052,6 @@
    "last_seen": "2026-11-02T19:26"
   },
   {
-   "id": "bfbaafbc4efb48b1",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT Manifestation du 31 octobre : mobilisation interdite à Montpellier, journée \"à très gros risque\"… Les dernières infos",
-   "summary": "À la veille d’une nouvelle journée de mobilisation dans de nombreuses villes françaises, le ministre de l’Intérieur Laurent Nuñez met en garde contre \"un risque de violences urbaines très élevé\" et a annoncé un...",
-   "link": "https://www.midilibre.fr/2026/10/30/en-direct-manifestations-du-31-octobre-70-000-policiers-et-gendarmes-mobilises-les-mesures-de-securite-prevues-a-montpellier-les-dernieres-infos-13627529.php",
-   "published": "2026-10-30T20:15",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-30T19:56"
-  },
-  {
    "id": "925ff44181cafb56",
    "zone": "montpellier",
    "affects": [],
@@ -3342,42 +3396,6 @@
    "last_seen": "2026-10-31T02:36"
   },
   {
-   "id": "0d82e64bf9be221e",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale, i cortei in Toscana. Migliaia in strada, a Livorno c’è Fancesca Albanese. La diretta",
-   "summary": "Firenze, 30 ottobre 2026 – Lo sciopero generale contro il carovita e il riarmo indetto dalla sigla sindacale Usb (Unione sindacale di base) con numerosi cortei in varie città della Toscana . Si manifesta a Firenze e Livorno, anche al porto, a Massa e Carrara, a Pisa, Arezzo Siena, Piombino e Grosse…",
-   "link": "https://www.lanazione.it/cronaca/sciopero-generale-30-ottobre-c81e5tuy",
-   "published": "2026-10-30T09:04",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-30T23:25"
-  },
-  {
-   "id": "cc9499b327feeebb",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Firenze, il vicario Aldo Genova Baldassare va in pensione: il saluto dei vigili del fuoco",
-   "summary": "Firenze, 30 ottobre 2026 – Dai progetti per i mezzi di soccorso alla sicurezza antincendio, fino al coordinamento delle attività del Comando di Firenze. Si conclude con la pensione il percorso professionale di Aldo Genova Baldassare, comandante vicario dei vigili del fuoco, salutato ieri mattina da…",
-   "link": "https://www.lanazione.it/firenze/firenze-il-vicario-aldo-genova-baldassare-va-in-pensione-il-saluto-dei-vigili-del-fuoco-ec649cc1",
-   "published": "2026-10-30T08:59",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-30T15:01",
-   "last_seen": "2026-10-30T23:25"
-  },
-  {
    "id": "88e03248b4e6fe76",
    "zone": "montpellier",
    "affects": [],
@@ -3414,6 +3432,78 @@
    "last_seen": "2026-10-31T14:55"
   },
   {
+   "id": "0485dfea76e7ecd7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Programmes perturbés en raison d'un mouvement de grève le 21 novembre 2026",
+   "summary": "Nous ne sommes pas en mesure de diffuser tous les programmes de ICI.",
+   "link": "https://www.ici.fr/emissions/les-infos-d-ici/programmes-perturbes-en-raison-d-un-mouvement-de-greve-le-21-novembre-2026-4943159?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-21T00:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-20T23:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "455343e5478e0abb",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations du 21 novembre : Montpellier, Nîmes… À quoi s’attendre dans la région ce samedi ?",
+   "summary": "Les mobilisations étudiantes et contre la vie chère se poursuivent ce 21 novembre 2026, en Occitanie. Restrictions, parcours… Voici à quoi s’attendre dans la région",
+   "link": "https://www.midilibre.fr/2026/11/20/manifestations-du-21-novembre-montpellier-nimes-a-quoi-sattendre-dans-la-region-ce-samedi-13663487.php",
+   "published": "2026-11-20T22:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "93b0ad1b982dc1ea",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Milano le manifestazioni proseguono anche di notte: dj set, balli e occupazione dell’ex Macello che diventa l’ennesimo complesso edilizio",
+   "summary": "La protesta a Milano continua anche dopo i cortei del mattino di venerdì. In serata i manifestanti sono tornati in strada con una street parade che, dopo aver attraversato le vie di Milano Est , ha continuando il proprio percorso in via Molise , davanti all’ ex Macello sono entrati occupandone l’ar…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/proteste-milano-ex-macello-street-parade-notizie/8579234/",
+   "published": "2026-11-20T22:07",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
    "id": "0510a3e14020fc6f",
    "zone": "fr_national",
    "affects": [],
@@ -3424,12 +3514,30 @@
    "title": "Mobilisation du 21 novembre : manifestations, revendications, dispositif de sécurité, à quoi s'attendre pour ce samedi ?",
    "summary": "Un sixième week-end de mobilisation réunira ce samedi 21 novembre des gilets jaunes, syndicats, organisations de jeunesse et associations dans la rue partout en France contre la vie chère. Voici à quoi il faut s'attendre.",
    "link": "https://www.ici.fr/infos/societe/mobilisation-du-21-novembre-manifestations-revendications-dispositif-de-securite-a-quoi-s-attendre-pour-ce-samedi-2383686?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-20T18:51",
+   "published": "2026-11-20T21:06",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "e729779c5058fa3e",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero giovanile, anche Bruxelles in piazza contro austerità e riarmo: “Vogliamo un futuro di pace, non andare in guerra”",
+   "summary": "Bruxelles è in piazza. Nella giornata dello sciopero giovanile che attraversa l’Europa , anche nella capitale belga circa duecento persone si sono radunate in place de la Monnaie per dire no all’austerità e alla guerra . Non sono i numeri delle grandi manifestazioni, ma la protesta non è isolata: s…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-giovanile-bruxelles-austerita-riarmo-notizie/8579093/",
+   "published": "2026-11-20T20:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "183fb52aef534c2c",
@@ -3442,12 +3550,84 @@
    "title": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
    "summary": "Le ministre de l'Intérieur a demandé aux préfets d'être \"particulièrement vigilants\" samedi, nouvelle journée de mobilisation sociale en France qui coïncide avec le huitième anniversaire du mouvement des gilets jaunes.",
    "link": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-20T18:25",
+   "published": "2026-11-20T20:11",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "83d92c22d6e33d89",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tensioni in centro a Torino con il corteo contro guerra e carovita",
+   "summary": "I manifestanti hanno cercato di deviare da via Po, poco dopo la partenza",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/tensioni-in-centro-a-torino-con-il-corteo-contro-guerra-e-carovita_80940078-13b7-4f9e-bac7-18a62a9ec130.html",
+   "published": "2026-11-20T20:11",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "ce2937f18da4b71e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Débat à Midi Libre sur le mouvement lycéen : \"nous devons dialoguer directement avec vous\"... le nouveau regard du monde éducatif sur les élèves",
+   "summary": "Deux mois après le début des blocages lycéens, toujours très actifs à Montpellier, Midi Libre a réuni les principaux acteurs éducatifs régionaux pour un débat autour des sources et des conséquences de ce mouvement....",
+   "link": "https://www.midilibre.fr/2026/11/20/debat-a-midi-libre-sur-le-mouvement-lyceen-nous-devons-dialoguer-directement-avec-vous-le-nouveau-regard-du-monde-educatif-sur-les-eleves-13662973.php",
+   "published": "2026-11-20T20:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "a0a4cc45fbebbf63",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corteo a Torino, bandiera israeliana con scritta 'Nazi'",
+   "summary": "Il vessillo imbrattato di nero in testa alla manifestazione",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/corteo-a-torino-bandiera-israeliana-con-scritta-nazi_f88af852-13fb-409e-b97a-3d320fb3673b.html",
+   "published": "2026-11-20T19:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "75746cb81a76f8a4",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Sciopero a Torino, la polizia respinge i manifestanti con una carica di alleggerimento – Video",
+   "summary": "Breve momento di tensione in via Accademia Albertina, a Torino, appena il corteo contro guerra e carovita ha cercato di deviare da via Po. I manifestanti, che da piazza Castello stavano andando in direzione di piazza Vittorio Veneto, hanno improvvisamente svoltato in direzione di corso Vittorio Ema…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-torino-carica-alleggerimento-notizie/8579044/",
+   "published": "2026-11-20T18:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T23:58",
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "709055f62745fd4f",
@@ -3465,25 +3645,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
-  },
-  {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-20T18:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "8169659f4d8cbee5",
@@ -3501,7 +3663,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "47a5a2adc6fcfcce",
@@ -3519,7 +3681,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "56e4cdb8ccf9ce71",
@@ -3555,7 +3717,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "f156c1dabd9f3e94",
@@ -3573,7 +3735,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "2a3dba43a766d918",
@@ -3591,7 +3753,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "c041d604a9ca53e1",
@@ -3609,7 +3771,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "007a8a4554c638cb",
@@ -3627,7 +3789,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "5584870b4a01627e",
@@ -3645,7 +3807,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "cfce7f27c8d47db5",
@@ -3663,25 +3825,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
-  },
-  {
-   "id": "eb4dd1805b438ee8",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Corteo a Torino, bruciata una gigantografia di Bernini e di Crosetto",
-   "summary": "Davanti ai cordoni delle forze dell'ordine sulla tangenziale",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/corteo-a-torino-bruciata-una-gigantografia-di-bernini-e-di-crosetto_3bffb311-fe52-409c-a816-7030bd7f0f07.html",
-   "published": "2026-11-20T15:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "67fdef3089ec4485",
@@ -3699,7 +3843,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "eb4dd1805b438ee8",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Corteo a Torino, bruciata una gigantografia di Bernini e di Crosetto",
+   "summary": "Davanti ai cordoni delle forze dell'ordine sulla tangenziale",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/corteo-a-torino-bruciata-una-gigantografia-di-bernini-e-di-crosetto_3bffb311-fe52-409c-a816-7030bd7f0f07.html",
+   "published": "2026-11-20T15:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "5dad6fe11de92fca",
@@ -3717,7 +3879,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "0f8b3db55cdbfaf8",
@@ -3735,7 +3897,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "88e304562bbeb634",
@@ -3753,7 +3915,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "e8d299016c1c4c4a",
@@ -3771,7 +3933,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "8aa26f97c4ea2e94",
@@ -3789,7 +3951,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "cd42b3208bb945a0",
@@ -3825,7 +3987,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "393431759116f55f",
@@ -3843,7 +4005,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "fda43f3cd5ecb916",
@@ -3861,7 +4023,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "43c0ff01fc231209",
@@ -3897,7 +4059,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "72a263962e726c20",
@@ -3915,7 +4077,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "65f3b5f04ac1f6e5",
@@ -3933,7 +4095,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "a6d682b4666fe9a1",
@@ -3951,7 +4113,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "47a8d7772b70627a",
@@ -3969,7 +4131,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "0b336561c1edd71d",
@@ -3987,7 +4149,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "d307430ccf0f02c9",
@@ -4005,7 +4167,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "8f12c43f8c690d28",
@@ -4041,7 +4203,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "4aac99c825bd922a",
@@ -4059,7 +4221,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "a2c645f4eb7a9ef8",
@@ -4077,7 +4239,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T01:57",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "80231c395f8fb19a",
@@ -4095,7 +4257,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T01:57",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "f3d3d6c7d194268d",
@@ -4113,7 +4275,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "5a5fbe342a41bf3f",
@@ -4149,7 +4311,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "92cda252c7f900c6",
@@ -4167,7 +4329,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "5be257a6899dd23b",
@@ -4311,7 +4473,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "7074f0f00138fa37",
@@ -4383,7 +4545,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "ec46d612f55328b4",
@@ -4401,7 +4563,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "cb0f8475039b5662",
@@ -4419,7 +4581,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "8601c04261f458f1",
@@ -4437,7 +4599,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "1ebf5a9c45df343b",
@@ -4455,7 +4617,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "c575ae5b40817a50",
@@ -4473,25 +4635,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
-  },
-  {
-   "id": "c2230570d8e9e464",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Il diktat di Avs sulle primarie: \"Senza programma sono divisive\"",
-   "summary": "\"Dicono che le primarie sono una ‘festa di popolo’, ma io le ho sempre vissute come una personalizzazione del confronto, forse dovremmo stare attenti\". Non nasconde la propria preoccupazione Dario Danti , assessore alla Formazione a Palazzo Vecchio e segretario regionale di Sinistra Italiana, per l…",
-   "link": "https://www.lanazione.it/firenze/cronaca/il-diktat-di-avs-sulle-ea9b3c5a",
-   "published": "2026-11-19T04:39",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "04b058ac0353e560",
@@ -4509,7 +4653,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
+  },
+  {
+   "id": "c2230570d8e9e464",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il diktat di Avs sulle primarie: \"Senza programma sono divisive\"",
+   "summary": "\"Dicono che le primarie sono una ‘festa di popolo’, ma io le ho sempre vissute come una personalizzazione del confronto, forse dovremmo stare attenti\". Non nasconde la propria preoccupazione Dario Danti , assessore alla Formazione a Palazzo Vecchio e segretario regionale di Sinistra Italiana, per l…",
+   "link": "https://www.lanazione.it/firenze/cronaca/il-diktat-di-avs-sulle-ea9b3c5a",
+   "published": "2026-11-19T04:39",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-19T12:21",
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "4816f58090a83bf2",
@@ -4527,7 +4689,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "8c2e8065254f4157",
@@ -4617,7 +4779,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "cf09a105292b5f2b",
@@ -4653,7 +4815,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "a10934288e7ab041",
@@ -4689,7 +4851,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T15:34",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "ceaa3d2ec0baf68d",
@@ -4709,7 +4871,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "52de501f1e9aefd4",
@@ -4781,7 +4943,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-18T06:06",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "98313c234909299a",
@@ -5755,7 +5917,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -6475,7 +6637,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-14T17:18",
-   "last_seen": "2026-11-15T08:02"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "25cc06b7afe94ae6",
@@ -7969,7 +8131,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-12T02:21",
-   "last_seen": "2026-11-20T18:01"
+   "last_seen": "2026-11-20T23:58"
   },
   {
    "id": "65b3f2636816f89a",
@@ -16128,24 +16290,6 @@
    "last_seen": "2026-11-02T09:00"
   },
   {
-   "id": "d07ab8f7bec8faad",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT, midterms 2026 : Ted Cruz s’inquiète de la mobilisation démocrate et redoute une défaite au Texas",
-   "summary": "« Nous pourrions perdre toutes les élections à l’échelle de l’Etat » a averti le sénateur républicain, à quelques jours des élections de mi-mandat du 3 novembre.",
-   "link": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-ted-cruz-s-inquiete-de-la-mobilisation-democrate-et-redoute-une-defaite-au-texas_6801590_3210.html",
-   "published": "2026-10-30T20:13",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-30T23:25"
-  },
-  {
    "id": "d887c9a6c2dc43c3",
    "zone": "fr_national",
    "affects": [],
@@ -16432,24 +16576,6 @@
    "soon": false,
    "first_seen": "2026-10-30T19:56",
    "last_seen": "2026-10-31T02:36"
-  },
-  {
-   "id": "edfc72c7661e7640",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "« Les Disparus des Argonnes », sur France.tv : la colère d’une mère contre la Grande Muette",
-   "summary": "Dans une fiction inspirée par l’affaire des disparus de Mourmelon, survenue dans les années 1980, Alix Poisson incarne Jocelyne à la recherche de son fils, un jeune militaire qui s’est volatilisé de sa caserne.",
-   "link": "https://www.lemonde.fr/culture/article/2026/10/30/les-disparus-des-argonnes-sur-france-tv-la-colere-d-une-mere-contre-la-grande-muette_6803115_3246.html",
-   "published": "2026-10-30T17:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-10-30T19:56"
   },
   {
    "id": "e7da0fd623a6a203",
@@ -17368,24 +17494,6 @@
    "soon": false,
    "first_seen": "2026-10-29T11:45",
    "last_seen": "2026-10-31T08:52"
-  },
-  {
-   "id": "2eefb779d8d6de0b",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "ansa_lom",
-   "source": "ANSA 伦巴第",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Studenti occupano aula della Statale a Milano",
-   "summary": "Protesta per posti letti, pochi docenti e sovraffollamento strutture",
-   "link": "https://www.ansa.it/lombardia/notizie/2026/10/28/studenti-occupano-l-aula-magna-della-statale-a-milano_2af75c5b-bd92-49db-bbf2-3c70fa5dc19f.html",
-   "published": "2026-10-29T16:54",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-28T20:26",
-   "last_seen": "2026-10-30T19:56"
   },
   {
    "id": "e18d28b4dcc8f8a7",
