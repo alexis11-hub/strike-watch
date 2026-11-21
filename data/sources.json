@@ -4,26 +4,35 @@
   "name": "San Marino RTV",
   "ok": true,
   "items": 20,
-  "kept": 1,
-  "ms": 550,
+  "kept": 0,
+  "ms": 670,
   "error": ""
  },
  {
-  "id": "carlino_rimini",
-  "name": "Il Resto del Carlino · 里米尼",
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
   "ok": true,
-  "items": 89,
+  "items": 46,
   "kept": 6,
-  "ms": 868,
+  "ms": 861,
   "error": ""
  },
  {
-  "id": "nazione_fi",
-  "name": "La Nazione · 佛罗伦萨",
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
   "ok": true,
-  "items": 100,
-  "kept": 19,
-  "ms": 973,
+  "items": 18,
+  "kept": 1,
+  "ms": 869,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 36,
+  "kept": 0,
+  "ms": 872,
   "error": ""
  },
  {
@@ -31,44 +40,8 @@
   "name": "ICI / France Bleu 埃罗省",
   "ok": true,
   "items": 40,
-  "kept": 4,
-  "ms": 425,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 2,
-  "ms": 1062,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 35,
-  "kept": 0,
-  "ms": 1277,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 60,
-  "kept": 6,
-  "ms": 1282,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 21,
-  "kept": 1,
-  "ms": 1298,
+  "kept": 5,
+  "ms": 242,
   "error": ""
  },
  {
@@ -77,25 +50,52 @@
   "ok": true,
   "items": 16,
   "kept": 1,
-  "ms": 260,
+  "ms": 102,
   "error": ""
  },
  {
   "id": "ici_nat",
   "name": "ICI 全国",
   "ok": true,
-  "items": 42,
+  "items": 44,
   "kept": 2,
   "ms": 203,
+  "error": ""
+ },
+ {
+  "id": "carlino_rimini",
+  "name": "Il Resto del Carlino · 里米尼",
+  "ok": true,
+  "items": 95,
+  "kept": 7,
+  "ms": 1285,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 2,
+  "ms": 1330,
   "error": ""
  },
  {
   "id": "franceinfo",
   "name": "franceinfo",
   "ok": true,
-  "items": 29,
-  "kept": 3,
-  "ms": 521,
+  "items": 28,
+  "kept": 4,
+  "ms": 492,
+  "error": ""
+ },
+ {
+  "id": "nazione_fi",
+  "name": "La Nazione · 佛罗伦萨",
+  "ok": true,
+  "items": 100,
+  "kept": 16,
+  "ms": 1375,
   "error": ""
  },
  {
@@ -103,26 +103,17 @@
   "name": "Il Fatto Quotidiano",
   "ok": true,
   "items": 25,
-  "kept": 8,
-  "ms": 549,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 13,
-  "ms": 1099,
+  "kept": 1,
+  "ms": 441,
   "error": ""
  },
  {
   "id": "ansa_cron",
   "name": "ANSA 全国新闻",
   "ok": true,
-  "items": 165,
-  "kept": 16,
-  "ms": 1091,
+  "items": 147,
+  "kept": 14,
+  "ms": 594,
   "error": ""
  },
  {
@@ -131,7 +122,16 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 1108,
+  "ms": 659,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 13,
+  "ms": 1045,
   "error": ""
  },
  {
@@ -140,7 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 1490,
+  "ms": 1766,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 84407,
+  "ms": 85937,
   "error": "URLError: <urlopen error timed out>"
  }
 ]
