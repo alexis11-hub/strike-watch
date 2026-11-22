@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T00:33",
+ "updated": "2026-11-22T07:28",
  "events": [
+  {
+   "id": "ef0bb2f107a9b4d3",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Il silenzio si rompe in strada con centinaia di passi insieme per dire basta alla violenza",
+   "summary": "Passi concreti contro il silenzio. Capaci di fare molto rumore. Ieri pomeriggio centinaia di riminesi hanno attraversato il centro partecipando a ‘È per te. Rimini in cammino contro la violenza sulle donne’, la manifestazione promossa dal Comune insieme al Centro antiviolenza Rompi il Silenzio Aps,…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/il-silenzio-si-rompe-in-074f288a",
+   "published": "2026-11-22T06:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "5f33250dc91d2f2e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisations lycéennes : des parents déchirés entre inquiétude, fierté, soutien et colère",
+   "summary": "« Le Monde » a recueilli les témoignages de dizaines de parents d’élèves de lycées mobilisés depuis deux mois. Pro ou antiblocage racontent leurs inquiétudes pour la scolarité de leurs enfants ou face aux risques de violences, mais aussi leur fierté de voir une génération se mobiliser pour son aven…",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/22/mouvement-lyceen-inquiets-fiers-en-soutien-ou-en-colere-les-dechirements-des-parents-d-eleves-touches-par-la-mobilisation_6814146_3224.html",
+   "published": "2026-11-22T05:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
   {
    "id": "a4951d72b73e7c62",
    "zone": "it_national",
@@ -17,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "783dd247fd0ed0a6",
@@ -35,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "5d88dd60acda7adf",
@@ -53,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "f494192246f28e2a",
@@ -89,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "1c78688900450153",
@@ -107,7 +143,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "fa78728ae649a907",
@@ -125,7 +161,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "9a83a5c3028eb497",
@@ -179,7 +215,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "ac025c4a2bbe8265",
@@ -197,7 +233,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "d1631903d3e5ac7e",
@@ -251,7 +287,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "faded7b407bbb3fd",
@@ -341,7 +377,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "4bf4c4e8c44368a1",
@@ -359,7 +395,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "9c2c17277be299cc",
@@ -431,7 +467,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "6f203dbf9447b53d",
@@ -2638,60 +2674,6 @@
    "last_seen": "2026-11-01T07:29"
   },
   {
-   "id": "f8127b2b78f58010",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévu…",
-   "summary": "Les manifestations de samedi se sont « bien déroulées », a estimé Laurent Nuñez en début de soirée. Plus de 40 000 contrôles ont été menés par les forces de l’ordre samedi, et plus de 500 personnes ont été interpellées. Le ministre de l’intérieur a dénoncé la « violence inouïe » de « groupes de cas…",
-   "link": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
-   "published": "2026-10-31T22:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "971d4eb185e80822",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "REPLAY Manifestation du 31 octobre : Entre un demi-million et 320 000 manifestants, plus de 520 interpellations… Revivez les moments forts de cette journée",
-   "summary": "La France à vécu une nouvelle journée de mobilisation, ce samedi 31 octobre. Le ministre de l’Intérieur a mis en garde contre \"des épisodes de violences comparables à ceux du 17 octobre\".",
-   "link": "https://www.midilibre.fr/2026/10/31/en-direct-manifestation-du-31-octobre-vers-un-samedi-noir-plus-de-70-000-policiers-et-gendarmes-mobilises-a-travers-la-france-pour-prevenir-les-heurts-13628569.php",
-   "published": "2026-10-31T21:57",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "274d1b98ac81d975",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 31 octobre : \"Les cortèges se sont bien déroulés\", malgré la \"violence inouïe\" de \"casseurs\", constate Laurent Nuñez",
-   "summary": "Le ministre de l'Intérieur a mis en cause, à nouveau, des groupes \"d'ultragauche\" qui ont pris à partie les forces de l'ordre et qualifié \"de tentative de meurtre\" le lancement à Paris d'un cocktail molotov contre un gendarme mobile.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/video-mobilisation-du-31-octobre-les-corteges-se-sont-bien-deroules-malgre-la-violence-inouie-de-casseurs-constate-laurent-nunez_8262167.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T20:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
    "id": "27460c550edb768c",
    "zone": "montpellier",
    "affects": [],
@@ -2798,42 +2780,6 @@
    "soon": false,
    "first_seen": "2026-10-31T08:52",
    "last_seen": "2026-11-01T14:26"
-  },
-  {
-   "id": "6af97c9ab883faba",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "«Contro la guerra e il carovita, servono pace, diritti e più investimenti sociali»",
-   "summary": "Arezzo, 31 ottobre 2026 – Europa Verde/Avs Arezzo : «Contro la guerra e il carovita, servono pace, diritti e più investimenti sociali». Europa Verde/AVS Arezzo ha sostenuto e partecipato ieri mattina alla manifestazione promossa dall’Assemblea aretina per lo sciopero, in occasione dello sciopero ge…",
-   "link": "https://www.lanazione.it/arezzo/cronaca/contro-la-guerra-e-il-carovita-servono-pace-diritti-e-piu-investimenti-sociali-kpdgtcxc",
-   "published": "2026-10-31T08:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "ff94f5581ef4f8cb",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Viali e piazza Libertà in tilt. La sfilata ’occupa’ le strade. E tutta la città si paralizza",
-   "summary": "Firenze, 31 ottobre 2026 – \"Che bello, tutte le auto bloccate\". \"È dalle 10 di mattina che c’è questo caos\". Due punti di vista, due facce di una stessa città, Firenze, che ieri ha vissuto il venerdì nero dello sciopero generale , con inevitabili e pesanti conseguenze su viabilità e trasporto local…",
-   "link": "https://www.lanazione.it/firenze/cronaca/viali-e-piazza-liberta-in-05609ab7",
-   "published": "2026-10-31T06:13",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T08:52",
-   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "a9d9fdee663f276a",
@@ -3008,12 +2954,192 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-22T00:32",
+   "published": "2026-11-22T07:26",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "a7204c8949c7aafb",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 21 novembre : rangs clairsemés et détermination… Une mobilisation en baisse pour l'\"Acte VI\"",
+   "summary": "La mobilisation a reculé samedi en France, avec 82 500 manifestants selon le ministère de l’Intérieur et 150 000 selon les organisateurs. Les cortèges ont réclamé de meilleurs revenus, services publics et conditions...",
+   "link": "https://www.midilibre.fr/2026/11/22/manifestation-du-21-novembre-rangs-clairsemes-et-determination-une-mobilisation-en-baisse-pour-lacte-vi-13664974.php",
+   "published": "2026-11-22T07:01",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "f1ddc5c0aff3b932",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Legge antisemitismo: buone intenzioni, molti motivi di preoccupazione",
+   "summary": "La Camera ha approvato in via definitiva, il 17 novembre, la legge contro l’antisemitismo già votata dal Senato (A.S. 1004). A dispetto delle intenzioni che do per “buone”, pur nutrendo qualche dubbio, ci sono non pochi motivi di preoccupazione. Gli articoli e i rischi L’articolo 1 recepisce, «ivi…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/22/legge-antisemitismo-rischi-liberta-opinione-analisi/8578948/",
+   "published": "2026-11-22T05:57",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "3697ee0f423975c2",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Futuro Nazionale al presidente dell’Anpi: \"Il vero fascista è lui\"",
+   "summary": "\"Il metodo fascista di Caputo\". Non c’è da sorprendersi se in Futuro nazionale non hanno digerito le frasi pronunciate dal presidente della sezione riminese dell’Anpi, Andrea Caputo , davanti a migliaia di persone in piazza durante lo sciopero indetto dalla Cgil. \"Caputo, il metodo fascista è voler…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/futuro-nazionale-al-presidente-4ddbd998",
+   "published": "2026-11-22T05:52",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "dd8c45339fab7ca4",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Si accende il Natale. Cento chilometri di luci illuminano la città",
+   "summary": "Cento chilometri di luci illuminano il Natale di Rimini. Ieri pomeriggio, verso le 18, si è acceso ‘Il sogno del Natale di Rimini’ , come recitavano le parole che si sono illuminate in piazza Cavour, nel tetto di stelle che sovrasta la piazza. È da qui che è partito il conto alla rovescia che, una…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/si-accende-il-natale-cento-64194811",
+   "published": "2026-11-22T05:51",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "f36d92cf9fc891d5",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Overtourism, Atene ci copia : \"Anche noi blocchiamo Airbnb\"",
+   "summary": "FIRENZE Vasileios Bokos, presidente società di sviluppo tecnologico e informatico del Comune di Atene (che, tra le altre cose si occupa di turismo), racconta flussi vicini ai dieci milioni di visitatori nel 2025, la nascita del ‘cruscotto di monitoraggio’ sulla capacità ricettiva, il blocco degli a…",
+   "link": "https://www.lanazione.it/firenze/cronaca/overtourism-atene-ci-copia-a8885c7f",
+   "published": "2026-11-22T05:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "4d19cca9488038d9",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il ministro Valditara di nuovo a Firenze. Evento nella sede della Lega, massima allerta",
+   "summary": "FIRENZE \"La vera integrazione si costruisce a scuola: volto scoperto, classi equilibrate e italiano per tutti\". Recita così il volantino firmato Lega che annuncia la presenza del ministro dell’Istruzione e del Merito, Giuseppe Valditara , martedì 24 novembre a Firenze. Appuntamento per la conferenz…",
+   "link": "https://www.lanazione.it/firenze/cronaca/il-ministro-valditara-di-67c8fd1d",
+   "published": "2026-11-22T05:32",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "6483f9f6e7d6b1c1",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Spaccio in piazza dei Ciompi. Preso mentre vende hashish",
+   "summary": "Proseguono i servizi mirati della Polizia Municipale contro lo spaccio di droga . Gli agenti del Reparto antidegrado hanno messo sotto osservazione l’area di piazza dei Ciompi. In borghese hanno individuato alcuni movimenti sospetti nei pressi della Loggia del Pesce e quindi hanno avviato un’attent…",
+   "link": "https://www.lanazione.it/firenze/cronaca/spaccio-in-piazza-dei-ciompi-704794c8",
+   "published": "2026-11-22T05:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "5a6edfd9ec30f516",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Protezione civile e giovani. Incontro in Comune",
+   "summary": "Allerta gialla per vento a Firenze dalle 15 alla mezzanotte di oggi. È quanto prevede il nuovo bollettino del Centro funzionale regionale della Toscana per la zona A3 che comprende, oltre al capoluogo, i Comuni di Bagno a Ripoli, Fiesole, Greve in Chianti, Impruneta, Lastra a Signa, Pontassieve, Sa…",
+   "link": "https://www.lanazione.it/firenze/cronaca/protezione-civile-e-giovani-10451be8",
+   "published": "2026-11-22T05:23",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "bbd6a1b715650a7d",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La pista scalda i motori. Spunta un’isola in mezzo al ghiaccio",
+   "summary": "La pista di pattinaggio su ghiaccio sul lungomare della Libertà, tra villa Mussolini e piazzale Roma, ha già preso forma. Ancora alcuni dettagli, poi dal prossimo weekend che segna l’inizio dell’Avvento e dell’apertura ufficiale delle attrazioni riccionesi , sarà pronta ad accogliere i primi pattin…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/la-pista-scalda-i-motori-0115d6fc",
+   "published": "2026-11-22T05:21",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "93f747bcb320335a",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sui pattini con vista sul mare. Biglietto a cinque euro per i primi ingressi",
+   "summary": "Il ghiaccio è arrivato in piazza e da venerdì a Cattolica si lavora per trasformarlo nella pista che accompagnerà le feste. La prima pattinata è in programma sabato prossimo, quando l’inaugurazione dell’impianto coinciderà con l’accensione delle luminarie e l’avvio del Natale della Regina , anche q…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/sui-pattini-con-vista-sul-b90c3506",
+   "published": "2026-11-22T05:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T07:26",
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3031,7 +3157,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T00:32",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "7379a344225cd4ae",
@@ -3067,7 +3193,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "2cac59b6e29bc935",
@@ -3085,7 +3211,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "d4f4a26eb29765f8",
@@ -3103,7 +3229,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "71d4511c1a3c2e1d",
@@ -3121,7 +3247,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "8e209222f6e55e27",
@@ -3157,7 +3283,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "4bb5955bc63e22ef",
@@ -3175,7 +3301,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "fe1eb706cb40da55",
@@ -3193,7 +3319,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "5b9ea91563eb6b82",
@@ -3211,7 +3337,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "b9bf35d5501f38c1",
@@ -3229,7 +3355,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "428562bf30b68fcd",
@@ -3391,7 +3517,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "f6a14d84578213c2",
@@ -3427,7 +3553,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "7fbb294a82227aea",
@@ -3463,7 +3589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "85f87b7c425d4ad2",
@@ -3481,7 +3607,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "290e525cfcf9b85a",
@@ -3499,7 +3625,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "62da54cc58a1fa83",
@@ -3517,7 +3643,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "0485dfea76e7ecd7",
@@ -3553,7 +3679,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "93b0ad1b982dc1ea",
@@ -3607,7 +3733,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "183fb52aef534c2c",
@@ -3643,7 +3769,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "a0a4cc45fbebbf63",
@@ -3661,7 +3787,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "75746cb81a76f8a4",
@@ -3697,7 +3823,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "8169659f4d8cbee5",
@@ -3715,7 +3841,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "47a5a2adc6fcfcce",
@@ -3733,7 +3859,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "56e4cdb8ccf9ce71",
@@ -3769,7 +3895,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "f156c1dabd9f3e94",
@@ -3787,7 +3913,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "2a3dba43a766d918",
@@ -3805,7 +3931,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "c041d604a9ca53e1",
@@ -3823,7 +3949,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "007a8a4554c638cb",
@@ -3841,7 +3967,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "5584870b4a01627e",
@@ -3877,7 +4003,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "67fdef3089ec4485",
@@ -3895,7 +4021,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "eb4dd1805b438ee8",
@@ -3913,7 +4039,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "5dad6fe11de92fca",
@@ -3931,7 +4057,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "0f8b3db55cdbfaf8",
@@ -3949,7 +4075,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "88e304562bbeb634",
@@ -3985,7 +4111,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "8aa26f97c4ea2e94",
@@ -4039,7 +4165,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "393431759116f55f",
@@ -4111,7 +4237,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "72a263962e726c20",
@@ -4165,7 +4291,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "47a8d7772b70627a",
@@ -4183,7 +4309,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "0b336561c1edd71d",
@@ -4201,7 +4327,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "d307430ccf0f02c9",
@@ -4219,7 +4345,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "8f12c43f8c690d28",
@@ -4291,7 +4417,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T01:57",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "80231c395f8fb19a",
@@ -4363,7 +4489,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-19T20:51",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "92cda252c7f900c6",
@@ -4525,7 +4651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-19T12:21",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "7074f0f00138fa37",
@@ -5969,7 +6095,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-22T00:32"
+   "last_seen": "2026-11-22T07:26"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -15136,42 +15262,6 @@
    "last_seen": "2026-11-01T07:29"
   },
   {
-   "id": "0e3cb4a9b4134855",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
-   "summary": "A Paris, la manifestation s'est globalement déroulée dans le calme, de la porte de Bagnolet à la porte de Charenton. Puis des tensions ont eu lieu au moment de la dispersion.",
-   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T22:59",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "120e9f2df85e1d76",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "REPLAY Manifestation du 31 octobre à Montpellier : 8 000 personnes dans la rue, black blocs, jets de lacrymo, canon à eau…",
-   "summary": "Après les manifestations de 17 octobre et du 24 octobre, la mobilisation contre la vie chère et en soutien à la jeunesse a vécu son Acte III ce samedi 31 octobre.",
-   "link": "https://www.midilibre.fr/2026/10/31/en-direct-manifestation-du-31-octobre-a-montpellier-manifestation-interdite-attente-de-la-decision-du-tribunal-depart-a-14-h-suivez-la-situation-13629316.php",
-   "published": "2026-10-31T21:07",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
    "id": "17a1cd296ffc57f2",
    "zone": "fr_national",
    "affects": [],
@@ -15188,42 +15278,6 @@
    "soon": false,
    "first_seen": "2026-10-31T22:09",
    "last_seen": "2026-11-01T14:26"
-  },
-  {
-   "id": "8b49fc9653cb996d",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
-   "summary": "La mobilisation sociale contre la \"vie chère\" se poursuivait samedi avec une troisième journée de manifestations. Selon les autorités, 320.000 personnes ont défilé dans les rues. L'intersyndicale de la jeune revendique 500.000 personnes. Des tensions ont éclaté par endroits en fin de manifestation.",
-   "link": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-31T20:24",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "1384a045b5cc6ddb",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"On va continuer à être dans la rue\" : à Marseille, un cortège non déclaré rassemble environ 10 000 personnes lors de la mobilisation du 31 octobre",
-   "summary": "Ce cortège sans service d'ordre des syndicats s'est élancé samedi à Marseille, lors d'une troisième journée de mobilisation. Un défilé a réuni des jeunes, mais aussi des parents et des grands-parents, avec différentes revendications.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-on-va-continuer-a-etre-dans-la-rue-a-marseille-un-cortege-non-declare-rassemble-environ-10-000-personnes-lors-de-la-mobilisation-du-31-octobre_8262104.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T20:05",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T22:09",
-   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6ddc011a0a306c5c",
@@ -15260,60 +15314,6 @@
    "soon": false,
    "first_seen": "2026-10-31T18:56",
    "last_seen": "2026-11-02T09:00"
-  },
-  {
-   "id": "17c790429b8f0104",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine",
-   "summary": "Cette opération a eu lieu dans le cadre d'une trêve qui débuté mardi matin et doit durer jusqu'à dimanche soir. Ni Moscou, ni Kiev n'ont précisé le nombre de personnes évacuées.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T18:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "f1831dbeb639522d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : l'intersyndicale recense près d'un demi-million de manifestants, le ministère de l'Intérieur 320 000, en baisse par rapport au 24…",
-   "summary": "Le 24 octobre, les autorités avaient décompté 410 000 manifestants en France dont 110 000 à Paris, tandis que les syndicats dénombraient 800 000 personnes mobilisées, comme le 17 octobre.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-31-octobre-l-intersyndicale-recense-pres-d-un-demi-million-de-manifestants-le-ministere-de-l-interieur-320-000-en-baisse-par-rapport-au-24-octobre_8262059.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T18:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "9316c622dde7eb86",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Proteste del 24 ottobre, denunciati i manifestanti che occuparono la tramvia",
-   "summary": "Firenze, 31 ottobre 2026 – Sono circa dieci le persone denunciate per interruzione di trasporto pubblico , a seguito dell’ occupazione dei binari della tramvia dopo la protesta del 24 ottobre . Quella sera, intorno alle ore 20, un gruppo di manifestanti si era recato davanti alla stazione di Santa…",
-   "link": "https://www.lanazione.it/firenze/cronaca/protesta-carovita-denuncia-ffy9og6z",
-   "published": "2026-10-31T16:52",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "12924def2a0cc966",
@@ -15460,24 +15460,6 @@
    "last_seen": "2026-11-03T08:35"
   },
   {
-   "id": "d711b2ea537f325a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thevenot",
-   "summary": "La députée Renaissance des Hauts-de-Seine, soutien de Gabriel Attal pour 2027, était l'invitée de franceinfo samedi. Elle répondait aux questions de Camille Girerd et Benjamin Fontaine.",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-31T11:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
    "id": "f1ebce50bb498b95",
    "zone": "it_national",
    "affects": [],
@@ -15494,42 +15476,6 @@
    "soon": false,
    "first_seen": "2026-10-30T19:56",
    "last_seen": "2026-11-03T01:42"
-  },
-  {
-   "id": "7a52c1cf5338da0e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : peut-on porter un masque d'Halloween en manifestation ?",
-   "summary": "Alors que les autorités craignent l’utilisation de masques d’Halloween par des manifestants violents lors de la mobilisation de ce samedi, quelles sont les règles en vigueur ? Si se déguiser reste autorisé pour faire la fête, la proximité d’une manifestation peut changer la donne.",
-   "link": "https://www.ici.fr/infos/societe/mobilisation-du-31-octobre-peut-on-porter-un-masque-d-halloween-en-manifestation-8360724?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-10-31T09:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T01:06"
-  },
-  {
-   "id": "d696ce140be3173c",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Alan e la mano di Orfeo, Friedman in Fraternita",
-   "summary": "Arezzo, 31 ottobre 2026 – Questo pomeriggio alle 17 presso la CaMu la Casa della Musica di Arezzo, nel Palazzo della Fraternita in piazza Grande , Alan Friedman , giornalista di fama internazionale, presenterà il suo primo romanzo, “La mano di Orfeo” (Baldini e Castoldi), un thriller tra storia, fi…",
-   "link": "https://www.lanazione.it/arezzo/cosa-fare/alan-e-la-mano-di-orfeo-friedman-in-fraternita-yg2gp0t1",
-   "published": "2026-10-31T08:57",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "125ca4fca8fd22fb",
@@ -15710,24 +15656,6 @@
    "soon": false,
    "first_seen": "2026-10-30T19:56",
    "last_seen": "2026-11-01T07:29"
-  },
-  {
-   "id": "fab6556739cbe2e0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "En Ukraine, les habitants de la ville sous occupation russe d'Olechky, en proie à une crise humanitaire, ont été évacués",
-   "summary": "Le cessez-le-feu humanitaire en vigueur dans cette ville du sud du pays doit prendre fin dimanche.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-les-habitants-de-la-ville-sous-occupation-russe-d-olechky-en-proie-a-une-crise-humanitaire-ont-ete-evacues_8260574.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-10-30T16:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-01T01:06"
   },
   {
    "id": "6055aa0f3534ac7a",
