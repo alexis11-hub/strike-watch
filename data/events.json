@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:31",
+ "updated": "2026-11-22T21:17",
  "events": [
   {
    "id": "64feeded28cca055",
@@ -35,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "ef0bb2f107a9b4d3",
@@ -53,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "5f33250dc91d2f2e",
@@ -110,24 +110,6 @@
    "last_seen": "2026-11-22T15:30"
   },
   {
-   "id": "5d88dd60acda7adf",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "strike",
-   "severity": "high",
-   "title": "La piazza della protesta. Maxi adesione al corteo: \"Più risorse per il sociale\"",
-   "summary": "La piazza del lavoro, ma anche dei diritti e della pace. Firenze si sveglia con il corteo della Cgil per lo sciopero generale: partenza da piazza Indipendenza, poco dopo le 9.30, e arrivo in piazza del Carmine. In strada lavoratori, pensionati, delegazioni da Prato e Pistoia, associazioni e comitat…",
-   "link": "https://www.lanazione.it/firenze/cronaca/la-piazza-della-protesta-maxi-74e127a6",
-   "published": "2026-11-21T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T15:30"
-  },
-  {
    "id": "783dd247fd0ed0a6",
    "zone": "rimini",
    "affects": [],
@@ -143,7 +125,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
+  },
+  {
+   "id": "5d88dd60acda7adf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "high",
+   "title": "La piazza della protesta. Maxi adesione al corteo: \"Più risorse per il sociale\"",
+   "summary": "La piazza del lavoro, ma anche dei diritti e della pace. Firenze si sveglia con il corteo della Cgil per lo sciopero generale: partenza da piazza Indipendenza, poco dopo le 9.30, e arrivo in piazza del Carmine. In strada lavoratori, pensionati, delegazioni da Prato e Pistoia, associazioni e comitat…",
+   "link": "https://www.lanazione.it/firenze/cronaca/la-piazza-della-protesta-maxi-74e127a6",
+   "published": "2026-11-21T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-21T13:56",
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "f494192246f28e2a",
@@ -179,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "1c78688900450153",
@@ -197,7 +197,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "fa78728ae649a907",
@@ -215,7 +215,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "9a83a5c3028eb497",
@@ -269,7 +269,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "ac025c4a2bbe8265",
@@ -341,7 +341,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "faded7b407bbb3fd",
@@ -431,7 +431,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "4bf4c4e8c44368a1",
@@ -449,7 +449,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "9c2c17277be299cc",
@@ -2528,24 +2528,6 @@
    "last_seen": "2026-11-02T01:59"
   },
   {
-   "id": "ee70cbf9db200da2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations en Allemagne : la gauche condamne les violences et appelle à ne pas occulter les revendications",
-   "summary": "Samedi, les manifestations organisées dans des dizaines de villes se sont dans l’ensemble déroulées dans le calme avant que des tensions éclatent en soirée. Le ministre de l’intérieur allemand, Alexander Dobrindt, a accusé « des groupes de gauche enclins à la violence et des fauteurs de troubles is…",
-   "link": "https://www.lemonde.fr/international/article/2026/11/01/manifestations-en-allemagne-la-gauche-condamne-les-violences-et-appelle-a-ne-pas-occulter-les-revendications_6804443_3210.html",
-   "published": "2026-11-01T15:39",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-01T19:02"
-  },
-  {
    "id": "f2981cee343728fa",
    "zone": "fr_national",
    "affects": [],
@@ -2818,6 +2800,60 @@
    "last_seen": "2026-11-02T09:00"
   },
   {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-22T21:16",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-22T21:16"
+  },
+  {
+   "id": "f137309ea6ed191c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
+   "summary": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de ses dirigeants arrêtés, et un administrateur nommé à sa tête par le gouvernement.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
+   "published": "2026-11-22T20:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-22T21:16",
+   "last_seen": "2026-11-22T21:16"
+  },
+  {
+   "id": "932cb845ea4fdfec",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation le samedi, crise du pouvoir d'achat : esprit de Noël, es-tu (déjà) là à Montpellier ?",
+   "summary": "À quasiment un mois de Noël, est-ce que vous êtes déjà dans l'ambiance ? Ou cette année est-elle un peu plus morose que les autres ? Reportage dans les rues de Montpellier, où de nombreux passants ont des envies de magie à l'approche du mois de décembre.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/manifestation-le-samedi-crise-du-pouvoir-d-achat-esprit-de-noel-es-tu-deja-la-a-montpellier-8926546?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-22T18:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-22T21:16",
+   "last_seen": "2026-11-22T21:16"
+  },
+  {
    "id": "a7cfbb909721c4d2",
    "zone": "fr_national",
    "affects": [],
@@ -2833,25 +2869,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T15:30"
-  },
-  {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-22T15:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "19f4725c36ea0110",
@@ -2905,7 +2923,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "a7204c8949c7aafb",
@@ -2923,7 +2941,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "f1ddc5c0aff3b932",
@@ -2959,7 +2977,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "dd8c45339fab7ca4",
@@ -2977,7 +2995,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "f36d92cf9fc891d5",
@@ -2995,7 +3013,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "4d19cca9488038d9",
@@ -3013,7 +3031,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "6483f9f6e7d6b1c1",
@@ -3031,7 +3049,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "5a6edfd9ec30f516",
@@ -3049,7 +3067,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "bbd6a1b715650a7d",
@@ -3067,7 +3085,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "93f747bcb320335a",
@@ -3085,7 +3103,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3175,7 +3193,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "71d4511c1a3c2e1d",
@@ -3193,7 +3211,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "8e209222f6e55e27",
@@ -3283,7 +3301,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "b9bf35d5501f38c1",
@@ -3301,7 +3319,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "428562bf30b68fcd",
@@ -3499,7 +3517,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "7fbb294a82227aea",
@@ -3535,7 +3553,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "85f87b7c425d4ad2",
@@ -3553,7 +3571,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "290e525cfcf9b85a",
@@ -3571,7 +3589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "62da54cc58a1fa83",
@@ -3589,7 +3607,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "0485dfea76e7ecd7",
@@ -3679,7 +3697,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "183fb52aef534c2c",
@@ -3733,7 +3751,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "75746cb81a76f8a4",
@@ -3805,7 +3823,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "56e4cdb8ccf9ce71",
@@ -3895,7 +3913,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "007a8a4554c638cb",
@@ -3913,7 +3931,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "5584870b4a01627e",
@@ -3949,7 +3967,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "67fdef3089ec4485",
@@ -3967,7 +3985,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "eb4dd1805b438ee8",
@@ -3985,7 +4003,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "5dad6fe11de92fca",
@@ -4003,7 +4021,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "0f8b3db55cdbfaf8",
@@ -4021,7 +4039,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "88e304562bbeb634",
@@ -4111,7 +4129,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "393431759116f55f",
@@ -4255,7 +4273,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "0b336561c1edd71d",
@@ -4291,7 +4309,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "8f12c43f8c690d28",
@@ -4363,7 +4381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T01:57",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "80231c395f8fb19a",
@@ -6041,7 +6059,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-22T15:30"
+   "last_seen": "2026-11-22T21:16"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -14720,42 +14738,6 @@
    "soon": false,
    "first_seen": "2026-11-01T19:02",
    "last_seen": "2026-11-02T09:00"
-  },
-  {
-   "id": "48e5dbf0c3dbad98",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation sociale : des avocats dénoncent des assignations à résidence pour empêcher des personnes de manifester",
-   "summary": "Des avocats dénoncent dimanche des assignations à résidence émises par les autorités pour empêcher certains militants de participer aux manifestations de samedi. Ces arrêtés sont justifiés par \"le but de prévenir la commission d'actes de terrorisme\", une assimilation que contestent les concernés.",
-   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-sociale-des-avocats-denoncent-des-assignations-a-residence-pour-empecher-des-personnes-de-manifester-5776998?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-01T19:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-01T19:02"
-  },
-  {
-   "id": "6e3001ceeb7d5fab",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Giudice Alaska respinge causa di Trump sul blocco della certificazione dei voti",
-   "summary": "Lo Stato al centro di uno scandalo per un caso di omonimia",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/giudice-alaska-respinge-causa-di-trump-sul-blocco-della-certificazione-dei_bd95c173-4581-47fc-9d74-5b6e7913cd14.html",
-   "published": "2026-11-01T19:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-01T19:02"
   },
   {
    "id": "63f077ea5e80ab5d",
