@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:03",
+ "updated": "2026-11-23T22:02",
  "events": [
   {
    "id": "b418866c9790d6cc",
@@ -17,7 +17,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "e08b1d44d559aadb",
@@ -35,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T01:52",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "64feeded28cca055",
@@ -71,7 +71,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "ef0bb2f107a9b4d3",
@@ -89,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "5f33250dc91d2f2e",
@@ -161,7 +161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "5d88dd60acda7adf",
@@ -179,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "f494192246f28e2a",
@@ -215,7 +215,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "1c78688900450153",
@@ -2510,22 +2510,274 @@
    "last_seen": "2026-11-03T08:35"
   },
   {
-   "id": "a9d9fdee663f276a",
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-23T22:01",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "a52c1f4f8aec4cee",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "S'il est élu, Dominique de Villepin prévoit d'organiser \"un rassemblement\" et convoquera le Congrès au lendemain de l'élection présidentielle",
+   "summary": "Interrogé sur franceinfo et France 2 lundi, l'ancien Premier ministre a expliqué prévoir, s'il parvient à être élu, de réunir les parlementaires pour leur demander \"de s'entendre et d'être capable de déterminer la formation d'un gouvernement de mission\".",
+   "link": "https://www.franceinfo.fr/elections/video-s-il-est-elu-dominique-de-villepin-prevoit-d-organiser-un-rassemblement-et-convoquera-le-congres-au-lendemain-de-l-election-presidentielle_8296740.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-23T21:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "402b2578e7ee9adb",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manovra, falciato un emendamento su 4: saltano la “marcatura colorata” per i manifestanti e lo stop alle demolizioni abusive",
+   "summary": "Oltre 1700 emendamenti alla manovra sono stati dichiarati inammissibili . Il totale delle proposte di modifica al testo era di 6.559, quindi circa uno su quattro è stato messo da parte. In particolare 662 gli emendamenti dichiarati inammissibili per estraneità di materia, tra cui diversi identici,…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/23/manovra-emendamenti-inammissibili-marcatori-manifestanti-notizie/8581690/",
+   "published": "2026-11-23T21:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "a9a9a464e9d17dba",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "L'encaissement de plus d'un million de chèques bloqué à cause d'une grève d'agents des finances publiques à Rennes",
+   "summary": "Ces agents travaillent dans un centre des finances publiques qui gère l'encaissement des chèques pour le paiement des amendes ou encore des factures d'hôpitaux. La fermeture du site est prévue prochainement.",
+   "link": "https://www.franceinfo.fr/economie/greve/l-encaissement-de-plus-d-un-million-de-cheques-bloque-a-cause-d-une-greve-d-agents-des-finances-publiques-a-rennes_8296731.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-23T21:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "f942b33391aecc7e",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Studente di 58 anni muore in tenda alla Sapienza di Roma: era in sciopero della fame",
+   "summary": "Era iscritto al primo anno alla Facoltà di Fisica e, in segno di protesta, aveva iniziato uno sciopero della fame , dormendo nel piazzale dell’ Università Sapienza , accanto alla statua della Minerva. Nel tardo pomeriggio di lunedì 23 novembre, è stato trovato morto nella sua tenda . Si tratta di A…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/23/studente-morte-tenda-sapienza-notizie/8581640/",
+   "published": "2026-11-23T20:56",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "c96285a1acca87c7",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Fin du blocage sur le campus Paul-Valéry, des taux inquiétants de Pfas dans le sang à Salindres, la plus vieille image de la ville de Sète… l’essentiel de l’ac…",
+   "summary": "Chaque soir à 20 h 30, retrouvez les 5 informations régionales de la journée qu’il ne fallait pas rater.",
+   "link": "https://www.midilibre.fr/2026/11/23/fin-du-blocage-sur-le-campus-paul-valery-des-taux-inquietants-de-pfas-dans-le-sang-a-salindres-la-plus-vieille-image-de-la-ville-de-sete-lessentiel-de-13667606.php",
+   "published": "2026-11-23T20:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "ea4207d650b04081",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève du 26 novembre : une intersyndicale des étudiants et enseignants du supérieur appelle à une nouvelle journée de mobilisation ce jeudi",
+   "summary": "Une intersyndicale d’étudiants et d’enseignants du supérieur appelle à une nouvelle mobilisation le 26 novembre. Elle réclame 150 000 places supplémentaires, des recrutements et davantage de financements pour les...",
+   "link": "https://www.midilibre.fr/2026/11/23/greve-du-26-novembre-une-intersyndicale-des-etudiants-et-enseignants-du-superieur-appelle-a-une-nouvelle-journee-de-mobilisation-ce-jeudi-13667713.php",
+   "published": "2026-11-23T19:39",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "9f08227fa44d09bf",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "L'encaissement d'un million de chèques est à l'arrêt suite à une grève d'agents des finances publiques à Rennes",
+   "summary": "Plus d'un million de chèques sont bloqués au centre des finances publiques à Rennes (Ille-et-Vilaine). Devant le bâtiment, ce lundi 23 novembre, des agents des centres d'encaissement, en grève depuis plusieurs semaines, ont averti les habitants inquiets de la situation.",
+   "link": "https://www.ici.fr/bretagne/ille-et-vilaine-35/rennes/l-encaissement-d-un-million-de-cheques-est-a-l-arret-suite-a-une-greve-d-agents-de-la-finance-publique-a-rennes-4009312?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-23T19:05",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "ba52687499cc4357",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Nuova picconata della Lega al diritto a manifestare: “Eversione a chi organizza cortei con danni”. Le minoranze: “Prove tecniche di regime”",
+   "summary": "A destra si apre la corsa a picconare il diritto a manifestare a suon di paletti e nuovi reati. Dopo le proposte di Fratelli d’Italia sulle borse di studio da negare agli studenti indagati e alla possibile dotazione di vernice alla polizia per “marchiare” i violenti nelle piazze , la Lega rilancia…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/23/decreto-cortei-lega-squadrismo-eversivo-notizie/8581312/",
+   "published": "2026-11-23T15:31",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "87f9d963ebf42d8f",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "LGV Montpellier-Perpignan : une manifestation ce lundi pour protester contre les sondages près de la source d’eau d’Issanka, sur le bassin de Thau",
+   "summary": "Ce lundi matin, à Poussan, des opposants ont manifesté contre les sondages géotechniques prévus près de la source d’eau d’Issanka, dans le cadre du projet LGV Montpellier-Perpignan.",
+   "link": "https://www.midilibre.fr/2026/11/23/lgv-montpellier-perpignan-une-manifestation-ce-lundi-pour-protester-le-lancement-des-sondages-pres-de-la-source-deau-dissanka-sur-le-bassin-de-thau-13666943.php",
+   "published": "2026-11-23T14:57",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "a1ab5f767f80924c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Soupçons de fuites vers le RN : \"Je veux savoir qui veut ma tête\"… Le préfet Hugues Moutouh annonce porter plainte et dénonce un \"lynchage médiatique\"",
+   "summary": "Le préfet du Loiret, Hugues Moutouh, est accusé d’avoir transmis des informations confidentielles au Rassemblement National. Un mail compromettant a été découvert chez un proche de Marine Le Pen. Moutouh, qui dément...",
+   "link": "https://www.midilibre.fr/2026/11/23/soupcons-de-fuites-vers-le-rn-je-veux-savoir-qui-veut-ma-tete-le-prefet-hugues-moutouh-annonce-porter-plainte-et-denonce-un-lynchage-mediatique-13666632.php",
+   "published": "2026-11-23T13:40",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T10:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "b3e03debde1ea029",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Piantedosi a Firenze, protesta degli studenti",
+   "summary": "Alcune decine si sono radunati in piazza San Lorenzo, slogan e cori contro il ministro",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/piantedosi-a-firenze-protesta-degli-studenti_99541b5e-8fc2-4e5a-9073-e82f08232033.html",
+   "published": "2026-11-23T11:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "dcbf6d66f896bc12",
    "zone": "it_national",
    "affects": [],
    "source_id": "ansa_cron",
    "source": "ANSA 全国新闻",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale e cortei in tutta Italia, tensioni a Roma e Torino. La cronaca della giornata",
-   "summary": "Il punto dalle città",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-e-cortei-in-tutta-italia-tensioni-a-roma-e-torino.-la-cronaca-della_a6c5a68a-dc6a-450e-9dac-8c7c47dc898a.html",
-   "published": "2026-10-30T20:33",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tensioni ai cortei di Torino, identificati una trentina di antagonisti",
+   "summary": "La digos indaga sugli incidenti di venerdì e sabato",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/tensioni-ai-cortei-di-torino-identificati-una-trentina-di-antagonisti_dbd7f8af-2214-47c3-bc67-9ca6956fa2e6.html",
+   "published": "2026-11-23T11:45",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-02T19:26"
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "43f530ae0ef9aacf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il ministro Matteo Piantedosi a Firenze, studenti in piazza: fumogeni e tensione davanti alla prefettura",
+   "summary": "Firenze, 23 novembre 2026 – Fumogeni, slogan e cori contro il governo e il ministro dell'Interno Matteo Piantedosi . Alcune decine di studenti, anche giovanissimi, sono scesi stamani in piazza San Lorenzo per contestare la presenza del ministro a Firenze, dove è in programma in prefettura il Comita…",
+   "link": "https://www.lanazione.it/firenze/cronaca/il-ministro-matteo-piantedosi-a-firenze-studenti-in-piazza-fumogeni-e-tensione-davanti-alla-prefettura-mfla3mxc",
+   "published": "2026-11-23T11:27",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
+  },
+  {
+   "id": "c3569055c4ec46e2",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Scuole occupate, Tagliaferri avvia una ricognizione in Toscana: “Verificare le interruzioni delle lezioni e i danni”",
+   "summary": "Firenze, 23 novembre 2026 – “Ho avviato una ricognizione degli episodi di occupazione e delle altre iniziative di mobilitazione studentesca che, nelle ultime settimane, hanno inciso sullo svolgimento delle attività nelle scuole secondarie di secondo grado della Toscana”. È il direttore generale del…",
+   "link": "https://www.lanazione.it/firenze/cronaca/scuole-occupate-ricognizione-toscana-qefedca8",
+   "published": "2026-11-23T10:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "602e694f71494fed",
@@ -2546,22 +2798,22 @@
    "last_seen": "2026-11-23T10:01"
   },
   {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
+   "id": "d03d4852a38d0492",
+   "zone": "firenze",
    "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
    "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-23T10:01",
+   "title": "Gli Amici del Foulard ricordano gli Angeli del fango",
+   "summary": "Firenze, 23 novembre 2026 – Un omaggio alla memoria, alla solidarietà e a quella straordinaria mobilitazione che sessant'anni fa vide migliaia di giovani impegnati a salvare Firenze dalle conseguenze dell'alluvione del 1966. È questo lo spirito dell'iniziativa “Un angelo del fango 60 anni dopo” , o…",
+   "link": "https://www.lanazione.it/firenze/cronaca/gli-amici-del-foulard-ricordano-gli-angeli-del-fango-8d4aad7d",
+   "published": "2026-11-23T10:07",
    "dates": "",
-   "national": true,
+   "national": false,
    "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-23T10:01"
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "ed331e417f36650e",
@@ -2577,24 +2829,6 @@
    "published": "2026-11-23T09:49",
    "dates": "",
    "national": true,
-   "soon": false,
-   "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-23T10:01"
-  },
-  {
-   "id": "a1ab5f767f80924c",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Soupçons de fuites vers le RN : \"Je veux savoir qui veut ma tête\"… Le préfet Hugues Moutouh annonce porter plainte et dénonce un \"lynchage médiatique\"",
-   "summary": "Le préfet du Loiret, Hugues Moutouh, est accusé d’avoir transmis des informations confidentielles au Rassemblement National. Un mail compromettant a été découvert chez un proche de Marine Le Pen. Moutouh, qui dément...",
-   "link": "https://www.midilibre.fr/2026/11/23/soupcons-de-fuites-vers-le-rn-je-veux-savoir-qui-veut-ma-tete-le-prefet-hugues-moutouh-annonce-porter-plainte-et-denonce-un-lynchage-mediatique-13666632.php",
-   "published": "2026-11-23T09:24",
-   "dates": "",
-   "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
    "last_seen": "2026-11-23T10:01"
@@ -2651,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "c19c7369b37f9776",
@@ -2688,6 +2922,24 @@
    "soon": false,
    "first_seen": "2026-11-22T21:16",
    "last_seen": "2026-11-23T01:52"
+  },
+  {
+   "id": "c152daf3a5d4273a",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestations le samedi, crise du pouvoir d'achat : esprit de Noël, es-tu (déjà) là à Montpellier ?",
+   "summary": "À quasiment un mois de Noël, est-ce que vous êtes déjà dans l'ambiance ? Ou cette année est-elle un peu plus morose que les autres ? Reportage dans les rues de Montpellier, où de nombreux passants ont des envies de magie à l'approche du mois de décembre.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/manifestation-le-samedi-crise-du-pouvoir-d-achat-esprit-de-noel-es-tu-deja-la-a-montpellier-8926546?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-22T18:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "932cb845ea4fdfec",
@@ -2777,7 +3029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "a7204c8949c7aafb",
@@ -2831,7 +3083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "dd8c45339fab7ca4",
@@ -2849,7 +3101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "f36d92cf9fc891d5",
@@ -2867,7 +3119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "4d19cca9488038d9",
@@ -2885,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "6483f9f6e7d6b1c1",
@@ -2903,7 +3155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "5a6edfd9ec30f516",
@@ -2921,7 +3173,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "bbd6a1b715650a7d",
@@ -2939,7 +3191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "93f747bcb320335a",
@@ -2957,7 +3209,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3065,7 +3317,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "71d4511c1a3c2e1d",
@@ -3156,6 +3408,24 @@
    "soon": false,
    "first_seen": "2026-11-21T20:21",
    "last_seen": "2026-11-22T07:26"
+  },
+  {
+   "id": "4b87b26dab0a9686",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "In centinaia a Milano in corteo contro i data center",
+   "summary": "Obbediscono solo a legge del mercato e sono pericolo per ambiente e salute",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/in-centinaia-a-milano-in-corteo-contro-i-data-center_4f28fc6a-25bb-438b-a5be-f1c20d29d9ba.html",
+   "published": "2026-11-21T17:51",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T22:01",
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "5b9ea91563eb6b82",
@@ -3389,7 +3659,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "7fbb294a82227aea",
@@ -3425,7 +3695,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "85f87b7c425d4ad2",
@@ -3443,7 +3713,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "290e525cfcf9b85a",
@@ -3461,7 +3731,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "62da54cc58a1fa83",
@@ -3803,7 +4073,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "5584870b4a01627e",
@@ -3839,7 +4109,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "67fdef3089ec4485",
@@ -3857,7 +4127,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "eb4dd1805b438ee8",
@@ -5931,7 +6201,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-23T10:01"
+   "last_seen": "2026-11-23T22:01"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -13946,42 +14216,6 @@
    "last_seen": "2026-11-03T01:42"
   },
   {
-   "id": "2372871b41898b47",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mouvement lycéen et étudiant : la Préfecture de police de Paris interdit la manifestation prévue mardi par l’Interfac Ile-de-France au cœur de la capitale",
-   "summary": "L’Interfac, qui refuse le parcours alternatif proposé en périphérie, compte saisir le tribunal administratif.",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/02/mouvement-lyceen-et-etudiant-la-prefecture-de-police-de-paris-interdit-la-manifestation-prevue-mardi-par-l-interfac-ile-de-france-au-c-ur-de-la-capitale_6805292_823448.html",
-   "published": "2026-11-02T17:53",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
-  },
-  {
-   "id": "41040fe8690396bd",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
-   "summary": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_bf0c0690-72bf-42ba-b709-8874d4e725b9.html",
-   "published": "2026-11-02T17:51",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
-  },
-  {
    "id": "f5a5b039a15e8de1",
    "zone": "montpellier",
    "affects": [],
@@ -14090,24 +14324,6 @@
    "last_seen": "2026-11-03T01:42"
   },
   {
-   "id": "6f5be0c8cb8abdae",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : \"plus de 150\" établissements perturbés ce lundi selon l'Union syndicale lycéenne",
-   "summary": "Cette rentrée est marquée par des appels à poursuivre le mouvement des lycéens et des étudiants, malgré les annonces du gouvernement. L'Union syndicale lycéenne a décompté 150 lycées mobilisés ce lundi matin, tandis que le gouvernement a évoqué des blocus \"résiduels\".",
-   "link": "https://www.ici.fr/infos/education/mobilisation-des-lyceens-quelques-lycees-perturbes-ce-lundi-matin-assez-residuel-selon-le-ministre-de-l-education-6868420?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-02T15:10",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
-  },
-  {
    "id": "05a90f0efdc6580b",
    "zone": "montpellier",
    "affects": [],
@@ -14124,24 +14340,6 @@
    "soon": false,
    "first_seen": "2026-11-02T19:26",
    "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "4cf28c2f08871374",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Inscriptions racistes sur la mosquée de Lodève, la mairie dépose plainte et organise un nouveau rassemblement de soutien",
-   "summary": "La mairie de Lodève dépose plainte et organise un nouveau rassemblement ce mercredi pour soutenir la communauté musulmane après les inscriptions racistes découvertes sur la mosquée le 28 octobre.",
-   "link": "https://www.ici.fr/occitanie/herault-34/lodeve/inscriptions-racistes-sur-la-mosquee-de-lodeve-la-mairie-depose-plainte-et-organise-un-nouveau-rassemblement-de-soutien-1804866?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-02T15:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "0e046246a1e76852",
@@ -14178,24 +14376,6 @@
    "soon": false,
    "first_seen": "2026-11-02T19:26",
    "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "cc1731d6bd12b6da",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Les évacués ukrainiens d'Olechky racontent la famine dans la ville sous occupation russe",
-   "summary": "La trêve exceptionnelle de six jours en vigueur à Olechky a pris fin dimanche soir. Instaurée en raison de la situation humanitaire catastrophique dans cette ville sous occupation russe, elle a permis l'évacuation d'habitants et l'acheminement d'aide.",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-02T13:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "c565851720a8c9bf",
@@ -14286,24 +14466,6 @@
    "soon": false,
    "first_seen": "2026-11-02T09:00",
    "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "397aa2ef4b6eb319",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestation du 31 octobre : \"on attend fermement ceux qui veulent en découdre\"… Des tensions après les cortèges dans le calme",
-   "summary": "Des éléments radicaux, issus de l’ultragauche, ont provoqué, dans plusieurs villes, en fin de manifestations, les forces de l’ordre, entraînant la riposte de ces derniers.",
-   "link": "https://www.midilibre.fr/2026/10/31/des-tensions-apres-les-manifestations-dans-le-calme-13630127.php",
-   "published": "2026-11-01T21:17",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-01T22:46",
-   "last_seen": "2026-11-02T19:26"
   },
   {
    "id": "a9b0984294a1333b",
