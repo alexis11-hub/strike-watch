@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T21:17",
+ "updated": "2026-11-23T01:54",
  "events": [
+  {
+   "id": "e08b1d44d559aadb",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Paura in centro storico: prima la rissa in piazza Malatesta, poi la spaccata contro il Nuovo Caffè Turismo",
+   "summary": "Rimini, 23 novembre 2026 – La spaccata nel cuore della notte , in piazza Tre Martiri. E, alcune ore prima, una rissa tra ragazzi in piazza Malatesta. Sabato pomeriggio i l centro storico di Rimini si è acceso con lo spettacolo delle luminarie, preceduto dalla camminata contro la violenza sulle donn…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/rissa-e-spaccata-in-centro-storico-s9vcmlkr",
+   "published": "2026-11-23T01:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-23T01:52",
+   "last_seen": "2026-11-23T01:52"
+  },
   {
    "id": "64feeded28cca055",
    "zone": "it_national",
@@ -35,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "ef0bb2f107a9b4d3",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "5f33250dc91d2f2e",
@@ -110,24 +128,6 @@
    "last_seen": "2026-11-22T15:30"
   },
   {
-   "id": "783dd247fd0ed0a6",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "strike",
-   "severity": "high",
-   "title": "La Cgil riempie il centro. Seimila sfilano nelle piazze contro le scelte del governo",
-   "summary": "In migliaia a sfilare per le sarde del centro storico di Rimini. Seimila per la Cgil che aveva indetto lo sciopero generale e organizzato la manifestazione. Con la complicità del sole e delle temperature primaverili sono scesi in strada studenti e pensionati, lavoratori che urlavano slogan e cantav…",
-   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/la-cgil-riempie-il-centro-19291978",
-   "published": "2026-11-21T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T21:16"
-  },
-  {
    "id": "5d88dd60acda7adf",
    "zone": "firenze",
    "affects": [],
@@ -143,7 +143,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T13:56",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
+  },
+  {
+   "id": "783dd247fd0ed0a6",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "strike",
+   "severity": "high",
+   "title": "La Cgil riempie il centro. Seimila sfilano nelle piazze contro le scelte del governo",
+   "summary": "In migliaia a sfilare per le sarde del centro storico di Rimini. Seimila per la Cgil che aveva indetto lo sciopero generale e organizzato la manifestazione. Con la complicità del sole e delle temperature primaverili sono scesi in strada studenti e pensionati, lavoratori che urlavano slogan e cantav…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/la-cgil-riempie-il-centro-19291978",
+   "published": "2026-11-21T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-21T13:56",
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "f494192246f28e2a",
@@ -179,7 +197,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "1c78688900450153",
@@ -197,7 +215,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "fa78728ae649a907",
@@ -215,7 +233,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "9a83a5c3028eb497",
@@ -269,7 +287,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "ac025c4a2bbe8265",
@@ -341,7 +359,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "faded7b407bbb3fd",
@@ -431,7 +449,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "4bf4c4e8c44368a1",
@@ -449,7 +467,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "9c2c17277be299cc",
@@ -2810,12 +2828,30 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre , et le Smic en premier lieu. Grâce à la grève, d es négociations sur les salaires ont été ouvertes da…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-22T21:16",
+   "published": "2026-11-23T01:52",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
+  },
+  {
+   "id": "c19c7369b37f9776",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs »",
+   "summary": "L’agression de trois étudiants, le 2 octobre sur la terrasse d’un bar à Angers, a mobilisé, dimanche, 200 activistes de l’ultradroite identitaire.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html",
+   "published": "2026-11-22T23:42",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-23T01:52",
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "f137309ea6ed191c",
@@ -2833,7 +2869,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T21:16",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "932cb845ea4fdfec",
@@ -2851,7 +2887,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T21:16",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "a7cfbb909721c4d2",
@@ -2869,7 +2905,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "19f4725c36ea0110",
@@ -2923,7 +2959,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "a7204c8949c7aafb",
@@ -2941,7 +2977,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "f1ddc5c0aff3b932",
@@ -2977,7 +3013,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "dd8c45339fab7ca4",
@@ -2995,7 +3031,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "f36d92cf9fc891d5",
@@ -3013,7 +3049,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "4d19cca9488038d9",
@@ -3031,7 +3067,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "6483f9f6e7d6b1c1",
@@ -3049,7 +3085,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "5a6edfd9ec30f516",
@@ -3067,7 +3103,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "bbd6a1b715650a7d",
@@ -3085,7 +3121,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "93f747bcb320335a",
@@ -3103,7 +3139,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3211,7 +3247,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "8e209222f6e55e27",
@@ -3301,7 +3337,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "b9bf35d5501f38c1",
@@ -3319,7 +3355,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T20:21",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "428562bf30b68fcd",
@@ -3517,7 +3553,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "7fbb294a82227aea",
@@ -3553,7 +3589,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "85f87b7c425d4ad2",
@@ -3571,7 +3607,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "290e525cfcf9b85a",
@@ -3589,7 +3625,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "62da54cc58a1fa83",
@@ -3607,7 +3643,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-21T05:47",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "0485dfea76e7ecd7",
@@ -3697,7 +3733,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "183fb52aef534c2c",
@@ -3751,7 +3787,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T23:58",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "75746cb81a76f8a4",
@@ -3823,7 +3859,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "56e4cdb8ccf9ce71",
@@ -3913,7 +3949,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "007a8a4554c638cb",
@@ -3931,7 +3967,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "5584870b4a01627e",
@@ -3967,7 +4003,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "67fdef3089ec4485",
@@ -3985,7 +4021,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "eb4dd1805b438ee8",
@@ -4003,7 +4039,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "5dad6fe11de92fca",
@@ -4021,7 +4057,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "0f8b3db55cdbfaf8",
@@ -4039,7 +4075,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "88e304562bbeb634",
@@ -4129,7 +4165,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "393431759116f55f",
@@ -4273,7 +4309,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "0b336561c1edd71d",
@@ -4309,7 +4345,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-20T09:42",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "8f12c43f8c690d28",
@@ -6059,7 +6095,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-22T21:16"
+   "last_seen": "2026-11-23T01:52"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -14774,42 +14810,6 @@
    "soon": false,
    "first_seen": "2026-11-01T19:02",
    "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "8acc983f51fa4303",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
-   "summary": "De New York à Hongkong, les traditionnels cortèges d’Halloween ont défilé dans les villes du monde entier pour la terrifiante soirée du 31 octobre.",
-   "link": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
-   "published": "2026-11-01T18:10",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-01T22:46"
-  },
-  {
-   "id": "9ecdaa6cf4f00776",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations du 31 octobre : enquête ouverte pour tentative d’homicide à la suite du jet d’un cocktail Molotov sur des gendarmes à Paris",
-   "summary": "Des photos et des vidéos ont montré une bombe artisanale exploser aux pieds d’un membre des forces de sécurité porte de Charenton, dans le 12ᵉ arrondissement, le blessant légèrement.",
-   "link": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html",
-   "published": "2026-11-01T15:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-01T22:46"
   },
   {
    "id": "2274ebbdef222857",
