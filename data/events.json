@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-24T05:59",
+ "updated": "2026-11-24T17:04",
  "events": [
+  {
+   "id": "76c9c0ae2670ee2a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Scuola devastata dai vandali, torna la dad: istituto inagibile, via alle lezioni a distanza",
+   "summary": "Firenze, 24 novembre 2026 – Il ritorno alla didattica a distanza, l'incubo dei mesi del Covid, questa volta non è legato a un'emergenza sanitaria ma…. ad una scuola devastata. Ebbene sì: i vandali che nottetempo hanno sfregiato l’Iis Galilei anche con scritte razziste e omofobe hanno costretto l’is…",
+   "link": "https://www.lanazione.it/firenze/cronaca/scuola-devastata-dai-vandali-torna-la-dad-istituto-inagibile-via-alle-lezioni-a-distanza-eg7v3zix",
+   "published": "2026-11-24T12:42",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "5fbb629af771ef56",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violenza sessuale in Riviera, la vittima 15enne: “Si è avvicinato a me, non riuscivo a scappare”",
+   "summary": "Rimini, 24 novembre 2026 – Una violenza sessuale consumata durante la notte Rosa sulla spiaggia di Bellaria , in provincia di Rimini . A raccontare l’episodio la vittima. Una minore di 15 anni di Torino , che a luglio dello scorso anno si trovava in vacanza nella riviera romagnola. La 15enne era in…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/violenza-sessuale-riviera-notte-rosa-np0oatkf",
+   "published": "2026-11-24T11:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "b0f2f89dc615b0b8",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Il preside finito nel mirino: \"Quelle scritte fanno orrore. Chiarire subito la matrice\"",
+   "summary": "\"Le scritte fanno orrore. Ma non colpiscono me personalmente: colpiscono un’intera comunità scolastica e il suo territorio\". Alessandro Giorni, dirigente dell’Iis Galilei, commenta così quanto accaduto nella sua scuola di via di Scandicci, devastata da un’incursione notturna durante la quale sono c…",
+   "link": "https://www.lanazione.it/firenze/cronaca/il-preside-finito-nel-mirino-9c99d925",
+   "published": "2026-11-24T06:05",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
   {
    "id": "40d6a0eb8bed6163",
    "zone": "firenze",
@@ -17,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "b418866c9790d6cc",
@@ -53,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T01:52",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "64feeded28cca055",
@@ -89,7 +143,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "ef0bb2f107a9b4d3",
@@ -107,7 +161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "5f33250dc91d2f2e",
@@ -2348,60 +2402,6 @@
    "last_seen": "2026-11-04T01:59"
   },
   {
-   "id": "87be65a0ce16d4d6",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Une enquête pour violences confiée à l'IGPN après qu'un homme a été blessé au visage à Marseille en marge des manifestations du 31 octobre",
-   "summary": "La victime, un homme de 39 ans, a déposé une plainte pour \"violences volontaires avec armes en réunion entraînant une ITT de plus de huit jours par personne dépositaire de l'autorité publique\".",
-   "link": "https://www.franceinfo.fr/societe/manifestations/a-marseille-une-enquete-pour-violences-confiee-a-l-igpn-apres-qu-un-homme-a-ete-blesse-au-visage-en-marge-des-manifestations-du-31-octobre_8265575.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T11:37",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "de9a300bb4c53557",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Tende, cariche della polizia, multe ai clacson e sentenze: la protesta per la casa in Portogallo mette il governo sotto pressione",
-   "summary": "Poco prima della mezzanotte di domenica 1° novembre, la polizia ha iniziato a multare le auto che suonavano i clacson nel centro di Lisbona , come gesto di solidarietà nei confronti dei manifestanti che, dal 10 ottobre , stanno protestando in Portogallo per la crisi sociale e politica che da queste…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/03/protesta-casa-portogallo-cariche-polizia-governo-pressione-notizie/8558268/",
-   "published": "2026-11-03T07:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "ec934d292d7697eb",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Criminalità giovanile: giro di vite. Stupefacenti, armi, violenze. Arresti e denunce in Umbria",
-   "summary": "Droga, armi. Due arresti per tentato omicidio e lesioni gravi. Anche in Umbria come nel resto d’Italia gli ultimi quindici giorni sono stati particolarmente intensi sul fronte del contrasto della criminalità giovanile. Un “approfondimento“ a tutto tondo che ha interessato tanto le criticità emerse…",
-   "link": "https://www.lanazione.it/umbria/cronaca/criminalita-giovanile-giro-di-vite-bd64649f",
-   "published": "2026-11-03T06:11",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
    "id": "a50df796d255fec9",
    "zone": "fr_national",
    "affects": [],
@@ -2418,24 +2418,6 @@
    "soon": false,
    "first_seen": "2026-11-03T01:42",
    "last_seen": "2026-11-04T01:59"
-  },
-  {
-   "id": "06a513bb5422b7ea",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Prévention des incendies : \"nos territoires ruraux méritent mieux que des caricatures\"… Le coup de gueule de la députée lozérienne Sophie Pantel",
-   "summary": "Sophie Pantel dénonce \"la recherche du buzz\" et la méconnaissance \"des préoccupations de nos territoires ruraux et de montagne\".",
-   "link": "https://www.midilibre.fr/2026/11/02/prevention-des-incendies-nos-territoires-ruraux-meritent-mieux-que-des-caricatures-le-coup-de-gueule-de-la-deputee-lozerienne-sophie-pantel-13611444.php",
-   "published": "2026-11-02T10:41",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "8757092177283402",
@@ -2456,22 +2438,238 @@
    "last_seen": "2026-11-04T01:59"
   },
   {
-   "id": "365b3d7de71d5930",
+   "id": "4ec29ff9b648c4e2",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Montpellier : l'université Paul-Valéry à nouveau fermée après des blocages",
+   "summary": "La présidente de l'université Paul-Valéry annonce mardi 24 novembre une nouvelle fermeture administrative de ses sites jusqu'au lundi 7 décembre. Rouverts ce lundi 23 novembre après une première fermeture administrative, \"des actions violentes ont mis les personnels et étudiants\" en danger.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/montpellier-l-universite-paul-valery-a-nouveau-fermee-apres-des-blocages-8519175?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T17:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "8773110e2b739cea",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Des salariés du fabricant de pneus Goodyear à Mireval en grève pour peser sur leurs négociations salariales",
+   "summary": "En cette période de colère sociale et de crise du pouvoir d'achat, plus de la moitié des salariés du site de Goodyear à Mireval (Hérault) a cessé le travail lundi et mardi pour peser sur la négociation annuelle dans l'entreprise. Après un accord, l'activité va reprendre normalement ce mercredi.",
+   "link": "https://www.ici.fr/occitanie/herault-34/mireval/des-salaries-du-fabricant-de-pneus-goodyear-a-mireval-ont-fait-greve-pour-peser-sur-leurs-negociations-salariales-2557677?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T17:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "76a43c344f8c3638",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "TÉMOIGNAGES - \"On ne met pas de chauffage dans les écoles ?\" : ces maires redoutent les économies du prochain budget",
+   "summary": "Réunis au 108e Congrès des maires de France depuis ce mardi, des élus de tout le pays vont exprimer leur colère face aux économies demandées aux collectivités par le gouvernement dans le prochain budget. Ces restrictions budgétaires vont ralentir ou stopper plusieurs projets locaux, dénoncent-ils.",
+   "link": "https://www.ici.fr/infos/economie-social/temoignages-on-ne-met-pas-de-chauffage-dans-les-ecoles-ces-maires-redoutent-les-economies-du-prochain-budget-6754974?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T17:22",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "11098c149bf027cb",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On sacrifie la santé pour les profits\" : à Strasbourg, les manifestants dénoncent l'Ominibus X, le projet de simplification européen sur les pesticides",
+   "summary": "À l'appel de plus de 300 organisations, des manifestants se sont rassemblés mardi devant le Parlement européen, à Strasbourg, pour dénoncer le projet de simplification de la réglementation sur les pesticides. ONG et familles de malades redoutent les conséquences de ce texte sur la santé et l'enviro…",
+   "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/on-sacrifie-la-sante-pour-les-profits-a-strasbourg-les-manifestants-denoncent-l-ominibus-x-le-projet-de-simplification-europeen-sur-les-pesticides_8297778.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-24T17:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-24T17:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "b68a12d424fcc401",
    "zone": "it_national",
    "affects": [],
    "source_id": "ansa_cron",
    "source": "ANSA 全国新闻",
    "kind": "protest",
-   "severity": "high",
-   "title": "Cortei: 60 perquisizioni in 23 città",
-   "summary": "'Nei confronti di chi sui social ha incitato a violenze di piazza'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta_9ec22222-9581-4dff-aae2-658def0c28a7.html",
-   "published": "2026-10-31T16:33",
+   "severity": "medium",
+   "title": "Studente morto alla Sapienza, protesta e danni in sede Lazio Disco",
+   "summary": "Digos indaga sull'irruzione degli studenti. Rocca, 'denunceremo i violenti'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/studente-morto-alla-sapienza-protesta-e-danni-in-sede-lazio-disco_4b3de532-e577-4578-ae2d-ede8a4d4933e.html",
+   "published": "2026-11-24T16:18",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-03T08:35"
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "61343d490cb7f10b",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Valditara a Firenze: \"Lo striscione a testa in giù è un messaggio violento\". E Funaro condanna",
+   "summary": "Firenze, 25 novembre 2026 – \"Non è una goliardata, ricorda Piazzale Loreto. È un messaggio subliminale per dire: vi appenderemo a testa in giù perché voi siete dei fascisti. Sono messaggi violenti, incompatibili con la democrazia\". Giuseppe Valditara , ministro dell'Istruzione e del Merito, arriva…",
+   "link": "https://www.lanazione.it/firenze/cronaca/valditara-firenze-striscione-lz2ag7wd",
+   "published": "2026-11-24T16:00",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "d7b5487e3e819f95",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "I sindacati dell’industria in protesta davanti al Parlamento Ue: “Fermare la desertificazione”",
+   "summary": "Invertire la rotta, tutti insieme, perché altrimenti l’ Unione europea rischia la desertificazione industriale. E l’ Industrial accelerator act è l’ultima spiaggia, o giù di lì, per rilanciare la manifattura continentale alle prese con la tempesta perfetta tra il surplus cinese, i dazi degli Usa e…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/24/desertificazione-industriale-sindacati-parlamento-ue-notizie/8582250/",
+   "published": "2026-11-24T15:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "4d775d13c7df461e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On va nettoyer les rues\", \"deux claques et au lit\" : quand Hugues Moutouh, \"le préfet bulldozer\" de l’Hérault, alignait formules-choc et décisions contestées",
+   "summary": "Hugues Moutouh est accusé d’avoir transmis des informations confidentielles au Rassemblement National et dénonce un \"lynchage médiatique\". Quand il était préfet de l’Hérault, il s’était distingué par des déclarations...",
+   "link": "https://www.midilibre.fr/2026/11/24/on-va-nettoyer-les-rues-deux-claques-et-au-lit-quand-hugues-moutouh-le-prefet-bulldozer-de-lherault-alignait-formules-choc-et-decisions-contestees-13667307.php",
+   "published": "2026-11-24T12:36",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "5c89a52933510cac",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilitazione contro una preside in Friuli, ci sarà reggenza temporanea",
+   "summary": "Sindacati e famiglie a S. Daniele, 'primo passo ma servono garanzie definitive'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/mobilitazione-contro-una-preside-in-friuli-ci-sara-reggenza-temporanea_e8626635-95f6-4aa1-8af3-3e2e53a8a39c.html",
+   "published": "2026-11-24T12:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "72dac21585e7d88f",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Aule vuote in tribunale a Torino per sciopero avvocati",
+   "summary": "Fra le poche cause discusse una richiesta di estradizione dal Brasile",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/aule-vuote-in-tribunale-a-torino-per-sciopero-avvocati_590f4dae-d3f9-4e6b-bd6b-0b7aef2c73b8.html",
+   "published": "2026-11-24T12:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "bc0a47ecc2beb0c8",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "VIDÉO - La vie de Killian a basculé le 17 octobre après un tir de mortier à Montpellier",
+   "summary": "Le bras de Killian a été mutilé par un tir de mortier le 17 octobre dernier en marge d'un cortège à Montpellier. Hospitalisé à Lamalou-les-Bains depuis, a vie de ce jeune gardois a basculé ce jour-là.",
+   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/video-la-vie-de-killian-a-bascule-le-17-octobre-apres-un-tir-de-mortier-a-montpellier-3447120?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T07:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
+  },
+  {
+   "id": "e74bf05ec83ba436",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il precedente di sei anni fa. Blitz, tensioni e spinte ai prof",
+   "summary": "Un precedente che torna inevitabilmente alla memoria. È il blitz del 3 ottobre 2020 , quando almeno dodici militanti appartenenti al Blocco Studentesco, organizzazione giovanile legata a CasaPound, fecero irruzione nell’istituto di via di Scandicci, interrompendo le lezioni e provocando momenti di…",
+   "link": "https://www.lanazione.it/firenze/cronaca/il-precedente-di-sei-anni-a9fa99c2",
+   "published": "2026-11-24T06:11",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "40dc21d0f55de762",
@@ -2492,24 +2690,6 @@
    "last_seen": "2026-11-24T05:58"
   },
   {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-24T05:58",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-24T05:58"
-  },
-  {
    "id": "046d1f13f6f6e3f1",
    "zone": "firenze",
    "affects": [],
@@ -2525,7 +2705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "e740b7915142c7b9",
@@ -2543,7 +2723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "23386f5fb6994f5b",
@@ -2561,7 +2741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "1d1d9afd1bbffaa9",
@@ -2579,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "89ce3dfd7120af4d",
@@ -2597,7 +2777,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "880ba1587625b006",
@@ -2705,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "ea4207d650b04081",
@@ -2723,7 +2903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "9f08227fa44d09bf",
@@ -2813,7 +2993,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "dcbf6d66f896bc12",
@@ -2831,7 +3011,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "43f530ae0ef9aacf",
@@ -2849,7 +3029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "c3569055c4ec46e2",
@@ -2867,7 +3047,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "602e694f71494fed",
@@ -2903,7 +3083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "ed331e417f36650e",
@@ -2975,7 +3155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "c19c7369b37f9776",
@@ -3029,7 +3209,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "932cb845ea4fdfec",
@@ -3119,7 +3299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "a7204c8949c7aafb",
@@ -3173,7 +3353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "dd8c45339fab7ca4",
@@ -3191,7 +3371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "f36d92cf9fc891d5",
@@ -3209,7 +3389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "4d19cca9488038d9",
@@ -3281,7 +3461,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "93f747bcb320335a",
@@ -3299,7 +3479,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3407,7 +3587,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "71d4511c1a3c2e1d",
@@ -6291,7 +6471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-24T05:58"
+   "last_seen": "2026-11-24T17:03"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -13748,60 +13928,6 @@
    "last_seen": "2026-11-05T02:27"
   },
   {
-   "id": "254bd7560413c9f0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations du 17 octobre : le ministre Laurent Nuñez confesse son \"manque d'anticipation\" face à des phénomènes simultanés, \"de manière à faire éclater le…",
-   "summary": "Il a également évoqué un \"échec\", tout en précisant que \"l'échec constaté ne présum[ait] pas en soi une faute des services de l'Etat\", dans le cadre de la commission d'enquête de l'Assemblée nationale consacrée à sa gestion du maintien de l'ordre le 17 octobre.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T17:13",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "4aac152c4770aad2",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : la SNCF prévoit un trafic \"perturbé\" sur plusieurs lignes, \"légèrement perturbé\" pour les TGV",
-   "summary": "Le trafic ferroviaire s'annonce \"légèrement perturbé\" pour les TGV et \"perturbé\" sur la plupart des lignes le jeudi 5 novembre en marge de la mobilisation interprofessionnelle nationale, indique ce mardi SNCF Voyageurs.",
-   "link": "https://www.ici.fr/infos/transports/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-sur-plusieurs-lignes-legerement-perturbe-pour-les-tgv-1839432?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-03T16:54",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "d631c108e60d81ac",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : la SNCF prévoit un trafic TGV \"légèrement perturbé\", et \"perturbé\" sur la plupart des autres lignes",
-   "summary": "Les syndicats ont appelé les salariés à un mouvement national, jeudi, afin de défendre le pouvoir d'achat.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T16:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
    "id": "9d0f041331fa4e64",
    "zone": "montpellier",
    "affects": [],
@@ -13818,42 +13944,6 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "aa000ab34db0e4d0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisations sociales : près de 5.000 gardes à vue et 329 personnes incarcérées depuis le 17 octobre",
-   "summary": "Le ministre de la Justice, Gérald Darmanin, a indiqué ce mardi qu'\"il y a eu 4.914 gardes à vue\" et 329 personnes incarcérées depuis le 17 octobre, premier \"acte\" des manifestations contre \"la vie chère\".",
-   "link": "https://www.ici.fr/infos/faits-divers-justice/mobilisations-sociales-pres-de-5-000-gardes-a-vue-et-329-personnes-incarcerees-depuis-le-17-octobre-6054731?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-03T15:29",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "1df12e84c38ba97e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
-   "summary": "En écho aux mouvements de contestation français et européens, des manifestations ont dégénéré ce week-end à Zurich et à Bâle. Les observateurs sont toutefois divisés sur la composante sociale des événements survenus en Suisse, et sur les parallèles pouvant être dressés avec les pays voisins, comme…",
-   "link": "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T15:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "e541dca7bfd76c62",
@@ -13892,24 +13982,6 @@
    "last_seen": "2026-11-04T16:41"
   },
   {
-   "id": "6454182492e566c3",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne et étudiante : plus de 50 campus \"bloqués\" ce mardi, des rassemblements dans plusieurs villes",
-   "summary": "Des blocages ont lieu depuis ce mardi matin devant des lycées et universités de plusieurs régions, alors que les syndicats ont appelé à une \"journée noire\". Des manifestations se tiennent également à Paris et Marseille notamment.",
-   "link": "https://www.ici.fr/infos/societe/mobilisation-lyceenne-et-etudiante-des-blocages-d-etablissements-dans-plusieurs-regions-ce-mardi-avant-les-corteges-9216435?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-03T14:42",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
    "id": "e61af4e092b61b70",
    "zone": "firenze",
    "affects": [],
@@ -13944,24 +14016,6 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-04T16:41"
-  },
-  {
-   "id": "1d2b5db1d30cabdb",
-   "zone": "sanmarino",
-   "affects": [],
-   "source_id": "smrtv",
-   "source": "San Marino RTV",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Manovra di bilancio, inizia l'esame alla Camera, ma c'è già aria di sciopero",
-   "summary": "Sindacati contro i tagli alla scuola, proclamata astensione il 20 novembre",
-   "link": "https://www.sanmarinortv.sm/news/italia-c7/manovra-di-bilancio-inizia-l-esame-alla-camera-ma-c-e-gia-aria-di-sciopero-a298031",
-   "published": "2026-11-03T11:51",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
   },
   {
    "id": "4faa36c11706d9ad",
@@ -14036,24 +14090,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "98471c5996e13b36",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne et étudiante : les organisations appellent à une nouvelle journée de blocages massifs des facs et des lycées, avant la grève de jeudi",
-   "summary": "\"On recommence frontalement dans la mobilisation\", a revendiqué Manon Moret, secrétaire générale de l'Unef.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T07:37",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
    "id": "e15dc78da92c3e4a",
    "zone": "firenze",
    "affects": [],
@@ -14088,78 +14124,6 @@
    "soon": false,
    "first_seen": "2026-11-03T08:35",
    "last_seen": "2026-11-03T21:59"
-  },
-  {
-   "id": "6a9be9e6829574a9",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "India, migliaia in piazza contro la revisione delle liste elettorali: “130 milioni di nomi cancellati. Penalizzati musulmani e minoranze”",
-   "summary": "Decine di migliaia di persone, provenienti da tutta l’ India , hanno preso parte a una grande manifestazione di protesta a Nuova Delhi contro la revisione del registro degli elettori voluta dal premier Narendra Modi . Lo scopo di questa procedura, sostiene il governo, dovrebbe essere quello di canc…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/03/india-migliaia-in-piazza-contro-la-revisione-delle-liste-elettorali-130-milioni-di-nomi-cancellati-penalizzati-musulmani-e-minoranze/8558368/",
-   "published": "2026-11-03T07:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "e46d53535b7e41bc",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Proposer quelque chose d'alternatif\" : à Paris, des étudiants remplacent les blocages par une \"université populaire\"",
-   "summary": "L'Institut de psychologie de l'université Paris Cité expérimente une autre forme de rassemblement. La direction et les étudiants ont mis en place une \"université populaire\" pour permettre les échanges sans reprendre les cours habituels.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-proposer-chose-d-alternatif-a-paris-des-etudiants-remplacent-les-blocages-par-une-universite-populaire_8264780.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T06:33",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "5454357f54e9b889",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Braccia incrociate alla Dpc Hydraulics",
-   "summary": "Sciopero spontaneo e braccia incrociate alla Dpc Hydraulics di Reggio, stabilimento di via Moscova appartenente al Gruppo Dana. Al termine dell’assemblea sindacale promossa dalla Fiom Cgil, le tute blu hanno deciso di fermare la produzione per protestare contro la Legge di Bilancio del Governo Melo…",
-   "link": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/braccia-incrociate-alla-dpc-3bbe44d3",
-   "published": "2026-11-03T06:10",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "1d6ca46bd515517f",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Impianto Belcari sotto accusa. Caldaia, reti e terreno di gioco: \"Servono interventi e tempi certi\"",
-   "summary": "Un campo sportivo che cade a pezzi, interventi che non risolvono i problemi e società costrette a cercare ospitalità altrove. La situazione del campo comunale “Belcari di Pietraia finisce al centro della protesta del Club Vecchia Quercia e del Circolino Casciana Terme . Le due società, che coinvolg…",
-   "link": "https://www.lanazione.it/pontedera/cronaca/impianto-belcari-sotto-accusa-caldaia-b1f6514f",
-   "published": "2026-11-03T05:51",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "e3daa7416abce3c4",
@@ -14216,24 +14180,6 @@
    "last_seen": "2026-11-04T01:59"
   },
   {
-   "id": "49dadd521fc9689f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Il ne faut pas arrêter, c'est maintenant que ça se joue\" : à Aubervilliers, des lycéens déterminés à poursuivre les blocages \"pour se faire entendre\"",
-   "summary": "Les mesures proposées par l'exécutif n'ont pas convaincu les jeunes présents lundi devant l'établissement. \"On arrêtera de se mobiliser quand le gouvernement arrêtera juste d'essayer de nous faire plaisir avec des mesures bidon\", a martelé l'un des organisateurs du blocus.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-ne-faut-pas-arreter-c-est-maintenant-que-ca-se-joue-a-aubervilliers-des-lyceens-determines-a-poursuivre-les-blocages-pour-se-faire-entendre_8263874.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-02T16:57",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
    "id": "05a90f0efdc6580b",
    "zone": "montpellier",
    "affects": [],
@@ -14270,60 +14216,6 @@
    "last_seen": "2026-11-03T21:59"
   },
   {
-   "id": "47ea00573aca96d0",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Anthony Jelonch forfait pour le XV de France après une commotion, Charles Kanté Samba appelé pour affronter les Fidji samedi",
-   "summary": "Anthony Jelonch, troisième ligne du Stade toulousain, a déclaré forfait, lundi 2 novembre, pour le rassemblement du XV de France après une commotion cérébrale subie dimanche contre Pau. Il est remplacé par Charles...",
-   "link": "https://www.midilibre.fr/2026/11/02/anthony-jelonch-forfait-pour-le-xv-de-france-apres-une-commotion-charles-kante-samba-appele-pour-affronter-les-fidji-samedi-13632251.php",
-   "published": "2026-11-02T13:49",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "c565851720a8c9bf",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : seulement 1 % des établissements encore bloqués ce lundi… Le mouvement de colère est-il en train de s’essouffler ?",
-   "summary": "Lundi 2 novembre, seuls 41 lycées sur 3 700 étaient bloqués en France, selon le ministère de l’Éducation, malgré l’appel des organisations lycéennes et étudiantes à poursuivre la mobilisation contre la politique...",
-   "link": "https://www.midilibre.fr/2026/11/02/mobilisation-des-lyceens-seuls-1-des-etablissements-encore-bloques-ce-lundi-le-mouvement-de-colere-est-il-en-train-de-sessouffler-13631979.php",
-   "published": "2026-11-02T11:58",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
-   "id": "5a425c34048fb08c",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Blocages des lycées et des universités, grève du 5 novembre, manifestations de gilets jaunes… Quelles sont les mobilisations prévues cette semaine ?",
-   "summary": "La semaine doit être marquée par la grande journée de grève et de manifestations prévue jeudi à l'appel des syndicats, et un nouveau samedi de mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocages-des-lycees-et-des-universites-greve-du-5-novembre-manifestations-de-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine_8263529.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-02T11:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-03T16:31"
-  },
-  {
    "id": "2f8320a79d08166f",
    "zone": "montpellier",
    "affects": [],
@@ -14340,42 +14232,6 @@
    "soon": false,
    "first_seen": "2026-11-02T19:26",
    "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "bad78ede4ba60b99",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"On ne s’en sort plus, ce n’est plus tenable\" : à Béziers, la Coordination rurale 34 annonce une opération escargot ce mardi",
-   "summary": "Après les mobilisations lycéennes, étudiantes et syndicales, les agriculteurs s’apprêtent, à leur tour, à manifester à Béziers. Ce mardi 3 novembre, la Coordination rurale de l’Hérault appelle à une opération escargot...",
-   "link": "https://www.midilibre.fr/2026/11/02/on-ne-sen-sort-plus-ce-nest-plus-tenable-a-beziers-la-coordination-rurale-34-annonce-une-operation-escargot-ce-mardi-13628051.php",
-   "published": "2026-11-02T06:15",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "a9b0984294a1333b",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Considérés comme \"terroristes\" pour avoir manifesté, ils sont assignés à résidence : des avocats dénoncent un détournement de la loi",
-   "summary": "Des assignations à résidence ont été imposées par le ministère de l’Intérieur à des militants présumés pour empêcher leur participation à des manifestations. Ces mesures, justifiées par la prévention du terrorisme,...",
-   "link": "https://www.midilibre.fr/2026/11/01/consideres-comme-terroristes-pour-avoir-manifeste-ils-sont-assignes-a-residence-des-avocats-denoncent-un-detournement-de-la-loi-13631070.php",
-   "published": "2026-11-01T18:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-01T19:02",
-   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "88f1b3888b96ffe8",
@@ -14396,24 +14252,6 @@
    "last_seen": "2026-11-11T21:24"
   },
   {
-   "id": "12924def2a0cc966",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei, a Roma sette denunciati e 369 identificati",
-   "summary": "Contestato anche il blocco stradale. Si valuta foglio di via per i non residenti",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-a-roma-sette-denunciati-e-369-identificati_31d5f1be-206e-48ab-8efc-fd2ac813c33c.html",
-   "published": "2026-10-31T16:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T18:56",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
    "id": "e621c2bf480f88ba",
    "zone": "montpellier",
    "affects": [],
@@ -14430,42 +14268,6 @@
    "soon": false,
    "first_seen": "2026-10-30T19:56",
    "last_seen": "2026-11-04T01:59"
-  },
-  {
-   "id": "1974c61ef61686d2",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Dodici denunciati e 256 identificati a Torino nei cortei per lo sciopero",
-   "summary": "Il bilancio della questura del capoluogo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/dodici-denunciati-e-256-identificati-a-torino-nei-cortei-per-lo-sciopero_0c76c2a9-b56c-4061-a4d5-26b5a15af11d.html",
-   "published": "2026-10-31T12:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-03T08:35"
-  },
-  {
-   "id": "781572e9cca0577f",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Cortei, 3 perquisiti dalla Digos a Firenze e nella provincia",
-   "summary": "Altri 10 denunciati per interruzione dei binari del tram il 24 ottobre",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-3-perquisiti-dalla-digos-a-firenze-e-nella-provincia_5b673d21-2403-45bf-814f-82311d4ade60.html",
-   "published": "2026-10-31T11:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-31T14:55",
-   "last_seen": "2026-11-03T08:35"
   },
   {
    "id": "416e9a8bd7a25df9",
