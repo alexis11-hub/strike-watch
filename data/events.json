@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-24T17:04",
+ "updated": "2026-11-25T01:26",
  "events": [
+  {
+   "id": "f86a7a4c4ee05182",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violences faites aux femmes : le 25 novembre, une journée pour sensibiliser et informer sur les dispositifs d'aide",
+   "summary": "Chaque 25 novembre, la Journée internationale pour l'élimination des violences faites à l'égard des femmes rappelle la nécessité de lutter contre toutes ces formes. En 2026, cette mobilisation met l'accent sur la protection des victimes, l'accès à la justice et les dispositifs d'accompagnement.",
+   "link": "https://www.ici.fr/infos/societe/violences-faites-aux-femmes-le-25-novembre-une-journee-pour-sensibiliser-et-informer-sur-les-dispositifs-d-aide-1381713?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T21:37",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
   {
    "id": "76c9c0ae2670ee2a",
    "zone": "firenze",
@@ -17,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "5fbb629af771ef56",
@@ -35,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "40d6a0eb8bed6163",
@@ -71,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "b418866c9790d6cc",
@@ -107,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T01:52",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "64feeded28cca055",
@@ -143,7 +161,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "ef0bb2f107a9b4d3",
@@ -161,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "5f33250dc91d2f2e",
@@ -2366,24 +2384,6 @@
    "last_seen": "2026-11-04T22:12"
   },
   {
-   "id": "964b27ef817b7b9c",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
-   "summary": "La commission sur les violences des 17 et 18 octobre doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances et que le…",
-   "link": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
-   "published": "2026-11-03T20:34",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-03T21:59"
-  },
-  {
    "id": "70416dab41b2d569",
    "zone": "fr_national",
    "affects": [],
@@ -2438,6 +2438,132 @@
    "last_seen": "2026-11-04T01:59"
   },
   {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-25T01:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "27bfbe94f7f8ee7e",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Une enquête ouverte pour tentative de meurtre sur un adolescent à Paris lors de la manifestation du 17 octobre",
+   "summary": "Le projectile reçu par cet adolescent a \"atteint le poumon\", selon le parquet. \"Les investigations - nombreuses - sont en cours afin d'identifier l'auteur du tir\", précise-t-il.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-lors-de-la-manifestation-du-17-octobre_8298381.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-24T21:24",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "8bc02f9d0d80f1f8",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L’Assemblée nationale adopte le projet de loi sur le logement, avec les voix du Rassemblement national",
+   "summary": "Le ministre du logement, Vincent Jeanbrun, mise sur la suppression, lors de la commission mixte paritaire de décembre, de l’amendement du RN qui met fin à l’interdiction de louer les passoires thermiques.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/24/l-assemblee-nationale-adopte-le-projet-de-loi-sur-le-logement-avec-les-voix-du-rassemblement-national_6814849_3224.html",
+   "published": "2026-11-24T21:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "b8f848ed3802dc16",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Omnibus X : une nouvelle manifestation à Strasbourg contre l'assouplissement de la régulation des pesticides en Europe",
+   "summary": "Quelques centaines de personnes se sont réunies, mardi 24 novembre, devant le Parlement européen. Environ 400 manifestants opposés au projet de paquet législatif Omnibus X qui propose d'assouplir la réglementation sur les pesticides.",
+   "link": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/omnibus-x-une-nouvelle-manifestation-a-strasbourg-contre-l-assouplissement-de-la-regulation-des-pesticides-en-europe-1018854?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-24T20:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "4d775d13c7df461e",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"On va nettoyer les rues\", \"deux claques et au lit\" : quand Hugues Moutouh, \"le préfet bulldozer\" de l’Hérault, alignait formules-choc et décisions contestées",
+   "summary": "Hugues Moutouh est accusé d’avoir transmis des informations confidentielles au Rassemblement National et dénonce un \"lynchage médiatique\". Quand il était préfet de l’Hérault, il s’était distingué par des déclarations...",
+   "link": "https://www.midilibre.fr/2026/11/24/on-va-nettoyer-les-rues-deux-claques-et-au-lit-quand-hugues-moutouh-le-prefet-bulldozer-de-lherault-alignait-formules-choc-et-decisions-contestees-13667307.php",
+   "published": "2026-11-24T18:47",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-24T17:03",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "c5b0996a583a27e0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Enseignement supérieur : des étudiants et des enseignants appellent à la mobilisation ce jeudi",
+   "summary": "Une intersyndicale des étudiants et des enseignants de l'enseignement supérieur et de la recherche appelle à une journée de mobilisation ce jeudi 26 novembre, estimant que \"les réponses du gouvernement restent insuffisantes\" après deux mois de contestation.",
+   "link": "https://www.ici.fr/infos/economie-social/enseignement-superieur-des-etudiants-et-des-enseignants-appellent-a-la-mobilisation-ce-jeudi-6996705?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-24T18:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
+   "id": "2b1867338eb82500",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "L'université Paul-Valéry de Montpellier de nouveau fermée après des blocages",
+   "summary": "La présidente de l'université Paul-Valéry annonce mardi 24 novembre une nouvelle fermeture administrative de ses sites jusqu'au lundi 7 décembre. Rouverts ce lundi après une première fermeture administrative, \"des actions violentes ont mis les personnels et étudiants\" en danger.",
+   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/montpellier-l-universite-paul-valery-a-nouveau-fermee-apres-des-blocages-8519175?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-24T17:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T01:24"
+  },
+  {
    "id": "4ec29ff9b648c4e2",
    "zone": "montpellier",
    "affects": [],
@@ -2471,7 +2597,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "76a43c344f8c3638",
@@ -2510,24 +2636,6 @@
    "last_seen": "2026-11-24T17:03"
   },
   {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-24T17:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-24T17:03"
-  },
-  {
    "id": "b68a12d424fcc401",
    "zone": "it_national",
    "affects": [],
@@ -2543,7 +2651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "61343d490cb7f10b",
@@ -2561,7 +2669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "d7b5487e3e819f95",
@@ -2582,24 +2690,6 @@
    "last_seen": "2026-11-24T17:03"
   },
   {
-   "id": "4d775d13c7df461e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"On va nettoyer les rues\", \"deux claques et au lit\" : quand Hugues Moutouh, \"le préfet bulldozer\" de l’Hérault, alignait formules-choc et décisions contestées",
-   "summary": "Hugues Moutouh est accusé d’avoir transmis des informations confidentielles au Rassemblement National et dénonce un \"lynchage médiatique\". Quand il était préfet de l’Hérault, il s’était distingué par des déclarations...",
-   "link": "https://www.midilibre.fr/2026/11/24/on-va-nettoyer-les-rues-deux-claques-et-au-lit-quand-hugues-moutouh-le-prefet-bulldozer-de-lherault-alignait-formules-choc-et-decisions-contestees-13667307.php",
-   "published": "2026-11-24T12:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
-  },
-  {
    "id": "5c89a52933510cac",
    "zone": "it_national",
    "affects": [],
@@ -2615,7 +2705,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "72dac21585e7d88f",
@@ -2633,7 +2723,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -2651,7 +2741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "e74bf05ec83ba436",
@@ -2669,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "40dc21d0f55de762",
@@ -2705,7 +2795,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "e740b7915142c7b9",
@@ -2723,7 +2813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "23386f5fb6994f5b",
@@ -2741,7 +2831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "1d1d9afd1bbffaa9",
@@ -2759,7 +2849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "89ce3dfd7120af4d",
@@ -2777,7 +2867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "880ba1587625b006",
@@ -2885,7 +2975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "ea4207d650b04081",
@@ -2903,7 +2993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "9f08227fa44d09bf",
@@ -2993,7 +3083,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "dcbf6d66f896bc12",
@@ -3011,7 +3101,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "43f530ae0ef9aacf",
@@ -3029,7 +3119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "c3569055c4ec46e2",
@@ -3047,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "602e694f71494fed",
@@ -3083,7 +3173,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "ed331e417f36650e",
@@ -3155,7 +3245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "c19c7369b37f9776",
@@ -3209,7 +3299,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "932cb845ea4fdfec",
@@ -3299,7 +3389,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T15:30",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "a7204c8949c7aafb",
@@ -3353,7 +3443,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "dd8c45339fab7ca4",
@@ -3371,7 +3461,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "f36d92cf9fc891d5",
@@ -3461,7 +3551,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "93f747bcb320335a",
@@ -3479,7 +3569,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-22T07:26",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "f87e0f2e78502274",
@@ -3587,7 +3677,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T10:01",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "71d4511c1a3c2e1d",
@@ -6471,7 +6561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-24T17:03"
+   "last_seen": "2026-11-25T01:24"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -13820,24 +13910,6 @@
    "last_seen": "2026-11-04T08:49"
   },
   {
-   "id": "1923e7f68bfbccbb",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne : 37 agents de l'Education nationale ont été blessés depuis lundi, annonce Edouard Geffray",
-   "summary": "Le proviseur d'un lycée à Lormont, près de Bordeaux, a notamment déposé plainte après avoir été poussé à terre par un élève lors d'une tentative de blocage de l'établissement.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T21:02",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-03T21:59"
-  },
-  {
    "id": "02fbf1983dbd740a",
    "zone": "fr_national",
    "affects": [],
@@ -14090,42 +14162,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "e15dc78da92c3e4a",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "L'occupazione al Russell Newton di Scandicci",
-   "summary": "L'occupazione al Russell Newton di Scandicci",
-   "link": "https://www.lanazione.it/video/loccupazione-al-russell-newton-di-scandicci-ibwamike",
-   "published": "2026-11-03T07:08",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T21:59"
-  },
-  {
-   "id": "54945a216fcdd5dd",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Due occupazioni nella notte. Al tecnico agrario entrano sette studenti incappucciati. Al Russell Newton di Scandicci la mobilitazione continua",
-   "summary": "Firenze, 3 novembre 2026 – Non si fermano le occupazioni a Firenze . E in questo autunno caldo la scia si fa lunga. Durante la notte, infatti, sono due le scuole occupate a Firenze e provincia: si tratta dell’ istituto tecnico agrario di Firenze e del Russell Newton di Scandicci . Ma se nel primo c…",
-   "link": "https://www.lanazione.it/firenze/cronaca/due-occupazioni-nella-notte-al-tecnico-agrario-entrano-sette-studenti-incappucciati-al-russell-newton-di-scandicci-la-mobilitazione-continua-xxr3yysf",
-   "published": "2026-11-03T07:06",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-03T21:59"
-  },
-  {
    "id": "e3daa7416abce3c4",
    "zone": "montpellier",
    "affects": [],
@@ -14196,24 +14232,6 @@
    "soon": false,
    "first_seen": "2026-11-02T19:26",
    "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "0e046246a1e76852",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Blocus des lycées : une infirmière scolaire plaquée au sol puis interpellée devant un établissement de Montpellier",
-   "summary": "La rentrée scolaire au lycée Jean-Monnet de Montpellier a été marquée par une intervention policière ce lundi 2 novembre au matin, pour empêcher le blocage de l’établissement. La vidéo de l’interpellation musclée de...",
-   "link": "https://www.midilibre.fr/2026/11/02/blocus-des-lycees-une-infirmiere-scolaire-plaquee-au-sol-puis-interpellee-devant-un-etablissement-de-montpellier-13632192.php",
-   "published": "2026-11-02T14:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-03T21:59"
   },
   {
    "id": "2f8320a79d08166f",
