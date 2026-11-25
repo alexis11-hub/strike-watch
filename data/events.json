@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-25T01:26",
+ "updated": "2026-11-25T10:03",
  "events": [
+  {
+   "id": "8e1e5e964e6d2e01",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Centro antiviolenza. Aumentano gli accessi",
+   "summary": "Sono 145 le donne che, dal 1° gennaio 2026 a oggi, si sono rivolte al Centro antiviolenza Chiama ChiAma (distretto di Riccione) che ha sede a Cattolica, in piazza della Repubblica. Un dato che evidenzia un aumento degli accessi rispetto al 2025, quando le donne prese in carico erano state 133. Nume…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/centro-antiviolenza-aumentano-gli-accessi-a8cc9f2c",
+   "published": "2026-11-25T05:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
   {
    "id": "f86a7a4c4ee05182",
    "zone": "montpellier",
@@ -35,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "5fbb629af771ef56",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -71,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "40d6a0eb8bed6163",
@@ -89,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "b418866c9790d6cc",
@@ -125,7 +143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T01:52",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "64feeded28cca055",
@@ -2384,58 +2402,58 @@
    "last_seen": "2026-11-04T22:12"
   },
   {
-   "id": "70416dab41b2d569",
+   "id": "1697ff1eb012bd40",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "SONDAGE Présidentielle 2027 : ces deux candidats sont préférés à Marine Le Pen en cas de duel au second tour, d’après cette étude",
+   "summary": "Alors que Marine Le Pen domine les intentions de vote pour l’élection présidentielle de 2027, l’institut de sondage Odoxa montre que la candidate du Rassemblement nationale est préférée par les candidats Philippe et...",
+   "link": "https://www.midilibre.fr/2026/11/25/sondage-presidentielle-2027-ces-deux-candidats-sont-preferes-a-marine-le-pen-en-cas-de-duel-au-second-tour-dapres-cette-etude-13670245.php",
+   "published": "2026-11-25T10:59",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "7b1a642182a00bdb",
    "zone": "fr_national",
    "affects": [],
    "source_id": "ici_nat",
    "source": "ICI 全国",
    "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation des lycéens en Gironde : le proviseur du lycée des Iris à Lormont agressé par un élève",
-   "summary": "Le proviseur du lycée les Iris de Lormont, près de Bordeaux, a déposé plainte ce mardi après-midi après avoir été agressé dans la matinée, pendant une tentative de blocage de cet établissement déjà saccagé le mois dernier.",
-   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/lormont/mobilisation-des-lyceens-en-gironde-le-proviseur-du-lycee-des-iris-a-lormont-agresse-par-un-eleve-5842106?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-03T18:10",
+   "severity": "medium",
+   "title": "Blocage de plateformes, actions en magasin : des agriculteurs dénoncent les prix imposés par la grande distribution",
+   "summary": "Alors que les négociations commerciales vont débuter, plusieurs syndicats agricoles organisent des actions ce mercredi dans plusieurs régions, contre les \"prix bas\" imposés par la grande distribution. La Coordination rurale bloque depuis mardi des plateformes E.Leclerc dans l'Aude et dans l'Allier.",
+   "link": "https://www.ici.fr/infos/agriculture-peche/blocage-de-plateformes-actions-en-magasin-des-agriculteurs-denoncent-les-prix-imposes-par-la-grande-distribution-9668762?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-25T10:52",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T01:59"
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
   },
   {
-   "id": "a50df796d255fec9",
+   "id": "4c3347356cf345fd",
    "zone": "fr_national",
    "affects": [],
    "source_id": "franceinfo",
    "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Le ministre de l'Intérieur \"ne renoncera à aucun moyen intermédiaire\" comme les grenades et gaz lacrymogènes lors des manifestations",
-   "summary": "\"La répression, elle n'existe pas\", a répondu Laurent Nuñez à des députés qui ont demandé de renoncer à l'emploi des grenades par les forces de l'ordre, après les graves blessures de lycéens lors du mouvement de mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-lors-des-manifestations_8264732.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-02T20:48",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une \"grève imprévue\"",
+   "summary": "La société ferroviaire \"présente ses excuses aux clients pour les désagréments occasionnés\".",
+   "link": "https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-25T10:48",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-04T01:59"
-  },
-  {
-   "id": "8757092177283402",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 31 octobre : 8.000 manifestants à Montpellier malgré l'interdiction, des affrontements en fin de journée",
-   "summary": "La mobilisation contre la vie chère s'est poursuivie ce samedi 31 octobre, avec l'acte III. Un cortège de 8.000 personnes a atteint la place de la Comédie à Montpellier, malgré l'interdiction de la préfecture. La tension est montée en soirée, avec des affrontements à signaler.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/direct-mobilisation-du-31-octobre-interdiction-de-manifester-confirmee-a-montpellier-400-a-500-personnes-a-beziers-1645259?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-01T05:51",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T09:00",
-   "last_seen": "2026-11-04T01:59"
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "c35f8ce7e2457277",
@@ -2448,12 +2466,174 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-25T01:24",
+   "published": "2026-11-25T10:01",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "84b6321a1cc639dc",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Miss Univers : la Française Garance Authié a défilé malgré une blessure, pas de couronne mais une très belle place au classement",
+   "summary": "Le titre de Miss Univers a été remporté à domicile par Miss Porto Rico Jennifer Barreto, mardi 25 novembre. La France Garance Authié, élue Miss Univers France le 18 octobre dernier, s’est classée dans le top 12. Pas...",
+   "link": "https://www.midilibre.fr/2026/11/25/miss-univers-la-francaise-garance-authie-a-defile-malgre-une-blessure-pas-de-couronne-mais-une-tres-belle-place-au-classement-13670191.php",
+   "published": "2026-11-25T07:27",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "00e5746565d0c667",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Novembre 1986 : les étudiants montpelliérains dans la rue contre la réforme universitaire",
+   "summary": "En novembre et décembre 1986, Montpellier connaît une mobilisation étudiante d'une ampleur exceptionnelle. Comme partout en France, les jeunes s'opposent au projet de réforme de l'université porté par le ministre Alain Devaquet",
+   "link": "https://www.ici.fr/emissions/les-petites-histoires-de-l-herault/novembre-1986-les-etudiants-montpellierains-dans-la-rue-contre-la-reforme-universitaire-6393760?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-25T06:40",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "cbb02841a13afff6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Firenze Marathon, ci siamo. Si alza il sipario sulla corsa. Un’altra edizione da record",
+   "summary": "di FIRENZE È diventata un ‘cult’ nel vasto universo delle maratone. Domenica prossima alle 8.30 con partenza (e arrivo) in piazza del Duomo prende il via la Estra Firenze Marathon , una delle più suggestive che si disputano sulla lunga distanza, giunta quest’anno alla 42a edizione. Nacque nel 1984…",
+   "link": "https://www.lanazione.it/firenze/cronaca/firenze-marathon-ci-siamo-si-9cda43ac",
+   "published": "2026-11-25T06:12",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "4aef47171574e273",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la…",
+   "summary": "Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôle des élèves, des parents et du personnel, ainsi que sur les attentes de provise…",
+   "link": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
+   "published": "2026-11-25T05:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "3898ffd4b0852fcf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Apprezzabile la presa di distanza degli studenti\"",
+   "summary": "FIRENZE In merito a quanto accaduto ieri l’altro al \"Galilei\" di Firenze, relativi alla devastazione della scuola e alle scritte omofobe, vale la pena di precisare alcuni particolari. È senz’altro apprezzabile la presa di distanza degli studenti, che però tendono ad attribuire i comportamenti vanda…",
+   "link": "https://www.lanazione.it/firenze/cronaca/apprezzabile-la-presa-6505d146",
+   "published": "2026-11-25T05:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "07771cf7e1ae9c63",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Galilei inagibile dopo il raid. Per gli studenti torna la Dad: \"Speriamo di riaprire lunedì\"",
+   "summary": "di FIRENZE Si collegheranno dal proprio pc, da casa, come nei mesi più bui del Covid. Torna la Dad , la famigerata didattica a distanza, ma stavolta non certo per un’emergenza sanitaria, ma per le ferite inflitte da una furia vandalica. Dopo due giorni di stop alla didattica (ieri e ieri l’altro) c…",
+   "link": "https://www.lanazione.it/firenze/cronaca/galilei-inagibile-dopo-il-raid-74097f22",
+   "published": "2026-11-25T05:37",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "97e4b3881dfe8112",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Tra bancarelle, luci, elfi e sapori toscani a Scandicci si accende lo spirito del Natale",
+   "summary": "Arancio Natale. Arancio come le divise dei volontari dell’Humanitas. L’atmosfera delle feste sta per invadere Scandicci con due imperdibili appuntamenti dedicati all’artigianato, alla tradizione e al divertimento per tutta la famiglia. Si parte domenica dalle 9 alle 19, in piazza Vittorio Veneto a…",
+   "link": "https://www.lanazione.it/firenze/cronaca/tra-bancarelle-luci-elfi-e-962ae4b5",
+   "published": "2026-11-25T05:17",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "c5b0996a583a27e0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Enseignement supérieur : des étudiants et des enseignants appellent à la mobilisation ce jeudi",
+   "summary": "Une intersyndicale des étudiants et des enseignants de l'enseignement supérieur et de la recherche appelle à une journée de mobilisation ce jeudi 26 novembre, estimant que \"les réponses du gouvernement restent insuffisantes\" après deux mois de contestation.",
+   "link": "https://www.ici.fr/infos/economie-social/enseignement-superieur-des-etudiants-et-des-enseignants-appellent-a-la-mobilisation-ce-jeudi-6996705?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-25T05:00",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-25T10:01"
+  },
+  {
+   "id": "8841fa0b54b48386",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Brucianesi più sicura. Nuovi semafori in arrivo per ridurre la velocità",
+   "summary": "LASTRA A SIGNA Via libera ai nuovi semafori a Brucianesi, dove i residenti protestano da sempre per l’eccessiva velocità e la pericolosità della strada. È stato infatti approvato dalla giunta comunale il documento di indirizzo alla progettazione per la realizzazione di nuovi impianti semaforici del…",
+   "link": "https://www.lanazione.it/firenze/cronaca/brucianesi-piu-sicura-nuovi-semafori-e2d74c23",
+   "published": "2026-11-25T04:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "27bfbe94f7f8ee7e",
@@ -2525,25 +2705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
-  },
-  {
-   "id": "c5b0996a583a27e0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Enseignement supérieur : des étudiants et des enseignants appellent à la mobilisation ce jeudi",
-   "summary": "Une intersyndicale des étudiants et des enseignants de l'enseignement supérieur et de la recherche appelle à une journée de mobilisation ce jeudi 26 novembre, estimant que \"les réponses du gouvernement restent insuffisantes\" après deux mois de contestation.",
-   "link": "https://www.ici.fr/infos/economie-social/enseignement-superieur-des-etudiants-et-des-enseignants-appellent-a-la-mobilisation-ce-jeudi-6996705?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-24T18:39",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "2b1867338eb82500",
@@ -2561,7 +2723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "4ec29ff9b648c4e2",
@@ -2597,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "76a43c344f8c3638",
@@ -2651,7 +2813,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "61343d490cb7f10b",
@@ -2669,7 +2831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "d7b5487e3e819f95",
@@ -2705,7 +2867,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "72dac21585e7d88f",
@@ -2723,7 +2885,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -2741,7 +2903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "e74bf05ec83ba436",
@@ -2759,7 +2921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "40dc21d0f55de762",
@@ -2795,7 +2957,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "e740b7915142c7b9",
@@ -2813,7 +2975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "23386f5fb6994f5b",
@@ -2831,7 +2993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "1d1d9afd1bbffaa9",
@@ -2849,7 +3011,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "89ce3dfd7120af4d",
@@ -2867,7 +3029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "880ba1587625b006",
@@ -2975,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "ea4207d650b04081",
@@ -3012,6 +3174,24 @@
    "soon": false,
    "first_seen": "2026-11-23T22:01",
    "last_seen": "2026-11-24T05:58"
+  },
+  {
+   "id": "70a3cb025f805a55",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Gardois blessé par un tir de mortier à Montpellier : une personne de 53 ans arrêtée et mise en examen",
+   "summary": "Une personne de 53 ans a été arrêtée et placée en détention provisoire un mois après la grave blessure d'un jeune Gardois à Montpellier le 17 octobre dernier. Le bras de Killian, 21 ans, a été mutilé par un tir de mortier en marge d'un cortège.",
+   "link": "https://www.ici.fr/occitanie/gard-30/vergeze/gardois-blesse-par-un-tir-de-mortier-a-montpellier-une-personne-de-53-ans-arretee-et-mise-en-examen-7378056?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-23T18:31",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "ba52687499cc4357",
@@ -3083,7 +3263,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "dcbf6d66f896bc12",
@@ -3101,7 +3281,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "43f530ae0ef9aacf",
@@ -6561,7 +6741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-16T16:43",
-   "last_seen": "2026-11-25T01:24"
+   "last_seen": "2026-11-25T10:01"
   },
   {
    "id": "a587dbd34d4e643a",
@@ -13766,168 +13946,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "4c81878c6455f94d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "La CGT appelle à généraliser la grève le 5 novembre",
-   "summary": "Travailleuses et travailleurs, lycéens et étudiants, retraité·es, privé·es d'emploi en ont assez Le pays traverse une crise profonde qui plonge ses racines dans la situation sociale dégradée de la majorité de la population : vie chère, salaires en berne, précarité, services publics mis à la diète,…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation/la-cgt-appelle-generaliser-la-greve-le-5-novembre",
-   "published": "2026-11-04T08:49",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-10-22T13:27",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "005768edec307d19",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Écoles, transports, pharmacies : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
-   "summary": "Les syndicats appellent à une grande journée de mobilisation jeudi 5 novembre. Plus de 240 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-04T08:43",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "39cfb06b5b191afd",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Écoles, transports, pharmacies : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
-   "summary": "Les syndicats appellent à une grande journée de mobilisation jeudi 5 novembre. Plus de 240 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T08:43",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "f5313de374b44181",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : les absences des élèves peuvent-elles pénaliser leur dossier Parcoursup ?",
-   "summary": "Toutes les absences depuis le début des blocages et des manifestations sont recensées et figureront sur le bulletin scolaire. Ce qui inquiète les élèves et leurs familles, alors qu'un syndicat d'enseignants dénonce \"une pression aux absences\".",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-absences-des-eleves-peuvent-elles-penaliser-leur-dossier-parcoursup_8266520.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T08:32",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "7fa32556750e7f6e",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Debito, carovita e proteste: così Marco D’Eramo spiega il dominio degli oligarchi",
-   "summary": "La trappola del debito, il carovita e il risveglio delle piazze in tutta Europa sono un segnale. Ho sfilato con tantissimi giovani della mia città, con cori contro il governo e cartelli variegati e creativi, un inno alla vita e alla ribellione che solo i ragazzi possono costruire. Una piazza autono…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/04/carovita-proteste-disuguaglianze-deramo-notizie/8558790/",
-   "published": "2026-11-04T06:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "147fcf5644b3e57f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Sur Twitch, \"La Convergence des Streams\" récolte de l'argent au profit de la LDH afin de \"soutenir le mouvement social en cours\"",
-   "summary": "Du 1er au 8 novembre, des dizaines de streameurs et de streameuses participent à cet événement caritatif dont les dons sont intégralement reversés à la Ligue des droits de l'Homme/droits humains.",
-   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/sur-twitch-la-convergence-des-streams-recolte-de-l-argent-au-profit-de-la-ldh-afin-de-soutenir-le-mouvement-social-en-cours_8265941.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T06:17",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "851799f1bb5c67ed",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Il lavoro che soffre: \"Nei primi tre trimestri cassa integrazione aumentata del 192%\"",
-   "summary": "Con Daniele Lanni, segretario provinciale della Cgil, analizziamo la crisi del lavoro nel Piceno, anche in vista sciopero indetto il 20 novembre. \"La situazione è molto grave. Ad oggi meno di una persona su due nella provincia di Ascoli ha un’occupazione a tempo indeterminato. Più di una persona su…",
-   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/il-lavoro-che-soffre-nei-37c98a43",
-   "published": "2026-11-04T06:10",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "86abc9c20bf16601",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Omaggio al cuore della città: Mattarella incontra gli Angeli del fango nell’anniversario dell’Alluvione",
-   "summary": "Firenze, 4 novembre 2026 – “Non so se mi sentite... Non so se riesco a parlare. Comunque, sentite questo”. Alle sette del mattino del 4 novembre 1966 Marcello Giannini , storico cronista della sede Rai, all’epoca in piazza Santa Maria Maggiore , fece udire quello che le parole non sarebbero mai riu…",
-   "link": "https://www.lanazione.it/firenze/cronaca/mattarella-firenze-oggi-ac6jjyk9",
-   "published": "2026-11-04T01:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T01:59",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "02fbf1983dbd740a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "L'intersyndicale saisit la justice sur le parcours de la manifestation du 5 novembre à Paris",
-   "summary": "Les différents syndicats souhaitent que la préfecture de police publie, avant mercredi à 14 heures, les potentiels arrêtés d'interdiction qu'elle pourrait prendre sur le tracé prévu jeudi entre Bastille et Concorde.",
-   "link": "https://www.franceinfo.fr/economie/greve/l-intersyndicale-saisit-la-justice-sur-le-parcours-parisien-de-la-manifestation-du-5-novembre_8266493.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T20:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T01:59"
-  },
-  {
    "id": "8b3babd8e5202c3c",
    "zone": "montpellier",
    "affects": [],
@@ -13944,42 +13962,6 @@
    "soon": false,
    "first_seen": "2026-11-03T21:59",
    "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "245bda140c11392a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mouvement lycéen : entre reprise des cours et maintien des blocages, la mobilisation à un moment charnière après les vacances",
-   "summary": "La bataille des chiffres fait rage entre gouvernement et organisations syndicales sur le niveau des perturbations dans les lycées. Parmi les élèves présents au sein des blocages d’Ile-de-France, la détermination le dispute à l’inquiétude pour la suite de leur scolarité après des semaines sans cours.",
-   "link": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
-   "published": "2026-11-03T19:56",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T01:59"
-  },
-  {
-   "id": "a7b7c881a14abd32",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne : des chefs d'établissement visés par des tirs de mortiers dans deux lycées de l'Essonne",
-   "summary": "Des chefs d'établissement ont été visés par des tirs de mortiers d'artifice, mardi, dans deux lycées de l'Essonne, en marge de la mobilisation lycéenne. Au lycée de Quincy-sous-Sénart, des tirs ont également eu lieu à l'intérieur de l'établissement, entraînant le déclenchement d'un plan de mise en…",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-des-chefs-d-etablissement-vises-par-des-tirs-de-mortiers-dans-deux-lycees-de-l-essonne_8266232.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-03T17:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T01:59"
   },
   {
    "id": "da0d70185d55910a",
@@ -14018,24 +14000,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "e541dca7bfd76c62",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Scuole occupate, 88 prof del Virgilio stanno con gli studenti: \"La protesta non è solo ordine pubblico\"",
-   "summary": "Firenze, 3 novembre 2026 – \"Ci riconosciamo nelle ragioni degli studenti\". Da Empoli arriva una presa di posizione, forte e chiara, a sostegno della mobilitazione. Sono 88 i docenti del liceo Virgilio che hanno firmato una nota dopo l'occupazione dell'istituto iniziata ieri . Una presa di posizione…",
-   "link": "https://www.lanazione.it/empoli/cronaca/scuole-occupate-professori-virgilio-kadghsq5",
-   "published": "2026-11-03T15:04",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
    "id": "6458b143f1359d90",
    "zone": "montpellier",
    "affects": [],
@@ -14052,24 +14016,6 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-04T16:41"
-  },
-  {
-   "id": "e61af4e092b61b70",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Aerei a bassa quota su Firenze, ecco perché: la grande cerimonia con Mattarella al Piazzale",
-   "summary": "Firenze, 3 novembre 2026 – Il 4 novembre sarà una giornata speciale per Firenze. Oltre alla ricorrenza dei sessant’anni dell’alluvione che, nel 1966, mise in ginocchio la città, si terranno le celebrazioni in occasione della “ Giornata dell’Unità Nazionale e delle Forze Armate ”. Alle iniziative sa…",
-   "link": "https://www.lanazione.it/firenze/cronaca/mattarella-firenze-4-novembre-ucn70mc4",
-   "published": "2026-11-03T13:59",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T08:49"
   },
   {
    "id": "e163b05dea6b0133",
@@ -14090,60 +14036,6 @@
    "last_seen": "2026-11-04T16:41"
   },
   {
-   "id": "4faa36c11706d9ad",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Scuole colabrodo, entrare di notte è troppo facile: \"Allarmi e cancelli non bastano\"",
-   "summary": "Firenze, 3 novembre 2026 – Cancellate, catene, allarmi, telecamere. Eppure entrare di notte nelle scuole sembra fin troppo facile. Basta trovare un accesso laterale, scardinare una porta, rompere un vetro o approfittare di una finestra appositamente lasciata socchiusa. In alcuni casi, raccontano i…",
-   "link": "https://www.lanazione.it/firenze/cronaca/scuole-colabrodo-entrare-di-notte-e-troppo-facile-allarmi-e-cancelli-non-bastano-gn6pg53h",
-   "published": "2026-11-03T10:09",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "89599a239a9438cc",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Firenze, torna la fiera delle Arti tessili in piazza Santa Croce",
-   "summary": "Firenze, 3 novembre – Dalla produzione di lana alla lavorazione della fibra di alpaca , fino al cashmere italiano: sono queste le tematiche al centro della nuova edizione della Fiera delle Arti Tessili , che si terrà sabato 7 e domenica 8 novembre in Piazza Santa Croce a Firenze (dalle ore 9 alle 1…",
-   "link": "https://www.lanazione.it/firenze/cosa-fare/firenze-torna-la-fiera-delle-arti-tessili-in-piazza-santa-croce-0e708201",
-   "published": "2026-11-03T09:37",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "d788dba93b33f133",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Sindacati, stato di agitazione alla Valdisieve Hospital di Pelago",
-   "summary": "Firenze, 3 novembre 2026 - Stato di agitazione delle lavoratrici e dei lavoratori della Valdisieve Hospital di Pelago (Firenze), dopo la decisione aziendale di chiudere il laboratorio analisi e licenziare le tre lavoratrici che vi operano. Lo hanno proclamato la Fp Cgil Firenze e la Cisl FP Fi-Po .…",
-   "link": "https://www.lanazione.it/firenze/cronaca/sindacati-stato-di-agitazione-alla-valdisieve-hospital-di-pelago-dba0124f",
-   "published": "2026-11-03T09:35",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
    "id": "12cee234095d8afc",
    "zone": "montpellier",
    "affects": [],
@@ -14160,60 +14052,6 @@
    "soon": false,
    "first_seen": "2026-11-03T08:35",
    "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "e3daa7416abce3c4",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Blocus des lycéens : accalmie pour la rentrée scolaire avant une journée de mardi décisive pour la suite du mouvement",
-   "summary": "La mobilisation était globalement en baisse ce lundi, sauf à Montpellier, où certains blocages ont occasionné une intervention musclée des forces de l’ordre. Lycéens et étudiants promettent une relance du mouvement ce...",
-   "link": "https://www.midilibre.fr/2026/11/02/blocus-des-lyceens-accalmie-pour-la-rentree-scolaire-avant-une-journee-de-mardi-decisive-pour-la-suite-du-mouvement-13632571.php",
-   "published": "2026-11-02T20:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T01:42",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "f5a5b039a15e8de1",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Prix des carburants : jusqu’à 18 centimes en moins à la pompe, pourquoi certaines stations n’appliquent toujours pas la baisse ?",
-   "summary": "Depuis samedi 31 octobre, les prix des carburants baissent en France grâce au déblocage de stocks stratégiques par le gouvernement. Serge Papin, ministre du Commerce, annonce une réduction de 12 à 18 centimes par...",
-   "link": "https://www.midilibre.fr/2026/11/02/prix-des-carburants-jusqua-18-centimes-en-moins-a-la-pompe-pourquoi-certaines-stations-nappliquent-toujours-pas-la-baisse-13632557.php",
-   "published": "2026-11-02T17:38",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-04T08:49"
-  },
-  {
-   "id": "bda660a935330db0",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 5 novembre : parcours, convergence des luttes, sécurisation de la manifestation… les annonces de l’intersyndicale gardoise",
-   "summary": "Après la mobilisation pacifique du 31 octobre ayant réuni 3 000 personnes, les syndicats appellent une nouvelle fois à descendre dans la rue. Un appel qui s’annonce très suivi, pour l’heure.",
-   "link": "https://www.midilibre.fr/2026/11/02/mobilisation-du-5-novembre-parcours-convergence-des-luttes-securisation-de-la-manifestation-les-annonces-de-lintersyndicale-gardoise-13632234.php",
-   "published": "2026-11-02T17:26",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-04T01:59"
   },
   {
    "id": "05a90f0efdc6580b",
@@ -14268,24 +14106,6 @@
    "soon": false,
    "first_seen": "2026-11-01T19:02",
    "last_seen": "2026-11-11T21:24"
-  },
-  {
-   "id": "e621c2bf480f88ba",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 31 octobre : manifestation interdite à Montpellier, à quoi faut-il s'attendre dans l'Hérault ?",
-   "summary": "Comme pour le 24 octobre, la préfète de l'Hérault décide finalement d'interdire la manifestation déclarée pour le 31 octobre à Montpellier. Et elle élargit le périmètre dans le centre ville où il est interdit de se rassembler.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/mobilisation-du-31-octobre-a-quoi-faut-il-s-attendre-dans-l-herault-1100378?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-10-31T13:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-10-30T19:56",
-   "last_seen": "2026-11-04T01:59"
   },
   {
    "id": "416e9a8bd7a25df9",
