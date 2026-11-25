@@ -5,70 +5,7 @@
   "ok": true,
   "items": 20,
   "kept": 0,
-  "ms": 519,
-  "error": ""
- },
- {
-  "id": "ici_herault",
-  "name": "ICI / France Bleu 埃罗省",
-  "ok": true,
-  "items": 40,
-  "kept": 5,
-  "ms": 247,
-  "error": ""
- },
- {
-  "id": "ansa_lom",
-  "name": "ANSA 伦巴第",
-  "ok": true,
-  "items": 49,
-  "kept": 0,
-  "ms": 917,
-  "error": ""
- },
- {
-  "id": "ansa_er",
-  "name": "ANSA 艾米利亚-罗马涅",
-  "ok": true,
-  "items": 24,
-  "kept": 0,
-  "ms": 919,
-  "error": ""
- },
- {
-  "id": "ansa_tos",
-  "name": "ANSA 托斯卡纳",
-  "ok": true,
-  "items": 19,
-  "kept": 1,
-  "ms": 938,
-  "error": ""
- },
- {
-  "id": "lemonde",
-  "name": "Le Monde",
-  "ok": true,
-  "items": 16,
-  "kept": 1,
-  "ms": 45,
-  "error": ""
- },
- {
-  "id": "ici_nat",
-  "name": "ICI 全国",
-  "ok": true,
-  "items": 43,
-  "kept": 2,
-  "ms": 42,
-  "error": ""
- },
- {
-  "id": "franceinfo",
-  "name": "franceinfo",
-  "ok": true,
-  "items": 28,
-  "kept": 1,
-  "ms": 120,
+  "ms": 455,
   "error": ""
  },
  {
@@ -77,16 +14,7 @@
   "ok": true,
   "items": 75,
   "kept": 4,
-  "ms": 1101,
-  "error": ""
- },
- {
-  "id": "libertas",
-  "name": "Libertas.sm",
-  "ok": true,
-  "items": 100,
-  "kept": 1,
-  "ms": 1207,
+  "ms": 732,
   "error": ""
  },
  {
@@ -95,7 +23,79 @@
   "ok": true,
   "items": 100,
   "kept": 14,
-  "ms": 1330,
+  "ms": 810,
+  "error": ""
+ },
+ {
+  "id": "ici_herault",
+  "name": "ICI / France Bleu 埃罗省",
+  "ok": true,
+  "items": 40,
+  "kept": 5,
+  "ms": 359,
+  "error": ""
+ },
+ {
+  "id": "ansa_tos",
+  "name": "ANSA 托斯卡纳",
+  "ok": true,
+  "items": 31,
+  "kept": 1,
+  "ms": 844,
+  "error": ""
+ },
+ {
+  "id": "ansa_er",
+  "name": "ANSA 艾米利亚-罗马涅",
+  "ok": true,
+  "items": 34,
+  "kept": 0,
+  "ms": 849,
+  "error": ""
+ },
+ {
+  "id": "ansa_lom",
+  "name": "ANSA 伦巴第",
+  "ok": true,
+  "items": 66,
+  "kept": 0,
+  "ms": 859,
+  "error": ""
+ },
+ {
+  "id": "libertas",
+  "name": "Libertas.sm",
+  "ok": true,
+  "items": 100,
+  "kept": 0,
+  "ms": 956,
+  "error": ""
+ },
+ {
+  "id": "ici_nat",
+  "name": "ICI 全国",
+  "ok": true,
+  "items": 44,
+  "kept": 2,
+  "ms": 124,
+  "error": ""
+ },
+ {
+  "id": "lemonde",
+  "name": "Le Monde",
+  "ok": true,
+  "items": 16,
+  "kept": 1,
+  "ms": 132,
+  "error": ""
+ },
+ {
+  "id": "franceinfo",
+  "name": "franceinfo",
+  "ok": true,
+  "items": 28,
+  "kept": 3,
+  "ms": 329,
   "error": ""
  },
  {
@@ -104,16 +104,7 @@
   "ok": true,
   "items": 25,
   "kept": 0,
-  "ms": 245,
-  "error": ""
- },
- {
-  "id": "midilibre",
-  "name": "Midi Libre",
-  "ok": true,
-  "items": 100,
-  "kept": 4,
-  "ms": 672,
+  "ms": 234,
   "error": ""
  },
  {
@@ -122,7 +113,25 @@
   "ok": true,
   "items": 10,
   "kept": 0,
-  "ms": 500,
+  "ms": 654,
+  "error": ""
+ },
+ {
+  "id": "ansa_cron",
+  "name": "ANSA 全国新闻",
+  "ok": true,
+  "items": 123,
+  "kept": 6,
+  "ms": 577,
+  "error": ""
+ },
+ {
+  "id": "midilibre",
+  "name": "Midi Libre",
+  "ok": true,
+  "items": 100,
+  "kept": 5,
+  "ms": 839,
   "error": ""
  },
  {
@@ -131,16 +140,7 @@
   "ok": true,
   "items": 10,
   "kept": 1,
-  "ms": 1392,
-  "error": ""
- },
- {
-  "id": "ansa_cron",
-  "name": "ANSA 全国新闻",
-  "ok": true,
-  "items": 113,
-  "kept": 5,
-  "ms": 1588,
+  "ms": 1278,
   "error": ""
  },
  {
@@ -149,7 +149,7 @@
   "ok": false,
   "items": 0,
   "kept": 0,
-  "ms": 82497,
+  "ms": 82700,
   "error": "URLError: <urlopen error timed out>"
  }
 ]

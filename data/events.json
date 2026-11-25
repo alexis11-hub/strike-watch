@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-25T10:03",
+ "updated": "2026-11-25T19:55",
  "events": [
+  {
+   "id": "e1cdbd9ff25bd478",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_tos",
+   "source": "ANSA 托斯卡纳",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violenza sulle donne, installazione in piazza Duomo a Firenze",
+   "summary": "Scultura di Anna Izzo resterà fino al 30 novembre",
+   "link": "https://www.ansa.it/toscana/notizie/2026/11/25/violenza-sulle-donne-installazione-in-piazza-duomo-a-firenze_a9089ded-e942-4030-ac97-8f3f586f25d2.html",
+   "published": "2026-11-25T19:55",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "fcc3e57aa698be93",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
+   "summary": "Plus de 400 élèves ont été exclus définitivement après des violences lors de la mobilisation lycéenne, a indiqué ce mercredi 25 novembre Edouard Geffray. Le ministre de l’Éducation nationale fait état de 3 000...",
+   "link": "https://www.midilibre.fr/2026/11/25/blocus-des-lycees-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement-13671427.php",
+   "published": "2026-11-25T19:08",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "b9653b62a6827313",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Très peu d'enseignants accusés de complicité dans des violences en marge des mobilisations lycéennes, révèle un document interne du gouvernement",
+   "summary": "Ce document, consulté par franceinfo, liste une dizaine de cas de personnels accusés de complicité, mais seulement quelques-uns aboutissent à des poursuites judiciaires.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tres-peu-d-enseignants-accuses-de-complicite-dans-des-violences-en-marge-des-mobilisations-lyceennes-revele-un-document-interne-du-gouvernement_8299731.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-25T14:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
   {
    "id": "8e1e5e964e6d2e01",
    "zone": "rimini",
@@ -17,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -53,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "5fbb629af771ef56",
@@ -71,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -89,7 +143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "40d6a0eb8bed6163",
@@ -107,7 +161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "b418866c9790d6cc",
@@ -143,7 +197,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-23T01:52",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "64feeded28cca055",
@@ -2402,6 +2456,150 @@
    "last_seen": "2026-11-04T22:12"
   },
   {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-25T19:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "4d0d345cb156ccba",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Après l’installation de 400 caravanes, le maire de cette ville rachète deux terrains pour stopper l’occupation illégale",
+   "summary": "Lundi 23 novembre dernier, le conseil municipal de Berck (Pas-de-Calais) a acté l’achat de deux parcelles de terrain face au cimetière de la ville. Une acquisition qui a pour but de régler les problèmes...",
+   "link": "https://www.midilibre.fr/2026/11/25/apres-linstallation-de-400-caravanes-le-maire-de-cette-ville-rachete-deux-terrains-pour-stopper-loccupation-illegale-13671473.php",
+   "published": "2026-11-25T19:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "bdcedbd9ceaecb05",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "La moitié des chèques au Trésor public bloquée depuis quarante jours en raison de la grève de quatre agents",
+   "summary": "Le dernier centre d’encaissement des chèques au Trésor public, à Rennes, doit fermer en 2027. Le personnel demande une prime. Le conflit empêche l’encaissement de près de 150 millions d’euros, selon les syndicats.",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/25/la-moitie-des-cheques-au-tresor-public-bloquee-depuis-quarante-jours-en-raison-de-la-greve-de-quatre-agents_6815142_823448.html",
+   "published": "2026-11-25T17:34",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "a82f17c1881ddb2c",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ?",
+   "summary": "Seules les organisations étudiantes et de l'enseignement supérieur ont appelé à la grève et aux manifestations jeudi. Les fonctionnaires se mobiliseront quant à eux le 1er décembre.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/etudiants-enseignants-du-superieur-policiers-a-quoi-faut-il-s-attendre-pour-la-mobilisation-de-jeudi_8299044.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-25T16:47",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "532983cb163d75a9",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Allier : les agriculteurs de la Coordination rurale lèvent le blocage à Avermes, une réunion prévue en décembre à Paris",
+   "summary": "Le blocage de la plateforme logistique d'approvisionnement des magasins Leclerc, située à Avermes à côté de Moulins, est levé ce mercredi après-midi par les agriculteurs de la Coordination rurale. Ils ont pu obtenir une réunion avec la direction de Leclerc prochainement à Paris.",
+   "link": "https://www.ici.fr/emissions/l-info-d-ici-ici-pays-d-auvergne/allier-les-agriculteurs-de-la-coordination-rurale-levent-le-blocage-a-avermes-une-reunion-prevue-en-decembre-a-paris-7117751?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-25T15:43",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "3e1e13a41d2516b4",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Grève surprise à Eurostar, \"d'importantes perturbations\" ce mercredi entre Londres et Paris selon la compagnie",
+   "summary": "Eurostar prévient qu'à cause d'une \"grève imprévue\", la circulation de ses trains subit \"d'importantes perturbations\" ce mercredi 25 novembre entre Londres et Paris. Elle propose aux voyageurs concernés d'échanger gratuitement leur billet.",
+   "link": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/greve-surprise-a-eurostar-d-importantes-perturbations-ce-mercredi-entre-londres-et-paris-selon-la-compagnie-3078735?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-25T15:23",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "13d00576d962c69d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"C'est le fruit de la mobilisation d'une France de terrain\" : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de F…",
+   "summary": "Le candidat du parti libéral Nouvelle Energie, qui a récolté 72% des voix, est élu pour un troisième mandat.",
+   "link": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-25T14:39",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "8cde0f4f1f3bb85c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"J’ai repris, mais pas plus de cinq cigarettes par soir\" : l’arrêt du tabac, un combat jamais totalement gagné pour les fumeurs",
+   "summary": "À l’occasion de la 11e édition du Mois sans tabac, en novembre, l’arrêt de la cigarette est au cœur des préoccupations de nombreux fumeurs. Mais après plusieurs années d’abstinence, certains finissent par reprendre,...",
+   "link": "https://www.midilibre.fr/2026/11/25/jai-repris-mais-pas-plus-de-cinq-cigarettes-par-soir-larret-du-tabac-un-combat-jamais-totalement-gagne-pour-les-fumeurs-13667454.php",
+   "published": "2026-11-25T14:36",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T19:54",
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
    "id": "1697ff1eb012bd40",
    "zone": "montpellier",
    "affects": [],
@@ -2412,12 +2610,30 @@
    "title": "SONDAGE Présidentielle 2027 : ces deux candidats sont préférés à Marine Le Pen en cas de duel au second tour, d’après cette étude",
    "summary": "Alors que Marine Le Pen domine les intentions de vote pour l’élection présidentielle de 2027, l’institut de sondage Odoxa montre que la candidate du Rassemblement nationale est préférée par les candidats Philippe et...",
    "link": "https://www.midilibre.fr/2026/11/25/sondage-presidentielle-2027-ces-deux-candidats-sont-preferes-a-marine-le-pen-en-cas-de-duel-au-second-tour-dapres-cette-etude-13670245.php",
-   "published": "2026-11-25T10:59",
+   "published": "2026-11-25T12:06",
    "dates": "",
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
+  },
+  {
+   "id": "84b6321a1cc639dc",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Miss Univers : la Française Garance Authié a défilé malgré une blessure, pas de couronne mais une très belle place au classement",
+   "summary": "Le titre de Miss Univers a été remporté à domicile par Miss Porto Rico Jennifer Barreto, mardi 24 novembre. La France Garance Authié, élue Miss Univers France le 18 octobre dernier, s’est classée dans le top 12. Pas...",
+   "link": "https://www.midilibre.fr/2026/11/25/miss-univers-la-francaise-garance-authie-a-defile-malgre-une-blessure-pas-de-couronne-mais-une-tres-belle-place-au-classement-13670191.php",
+   "published": "2026-11-25T11:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-25T10:01",
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "7b1a642182a00bdb",
@@ -2456,42 +2672,6 @@
    "last_seen": "2026-11-25T10:01"
   },
   {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-25T10:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-25T10:01"
-  },
-  {
-   "id": "84b6321a1cc639dc",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Miss Univers : la Française Garance Authié a défilé malgré une blessure, pas de couronne mais une très belle place au classement",
-   "summary": "Le titre de Miss Univers a été remporté à domicile par Miss Porto Rico Jennifer Barreto, mardi 25 novembre. La France Garance Authié, élue Miss Univers France le 18 octobre dernier, s’est classée dans le top 12. Pas...",
-   "link": "https://www.midilibre.fr/2026/11/25/miss-univers-la-francaise-garance-authie-a-defile-malgre-une-blessure-pas-de-couronne-mais-une-tres-belle-place-au-classement-13670191.php",
-   "published": "2026-11-25T07:27",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
-  },
-  {
    "id": "00e5746565d0c667",
    "zone": "montpellier",
    "affects": [],
@@ -2507,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "cbb02841a13afff6",
@@ -2525,7 +2705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "4aef47171574e273",
@@ -2561,7 +2741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "07771cf7e1ae9c63",
@@ -2579,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "97e4b3881dfe8112",
@@ -2597,7 +2777,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "c5b0996a583a27e0",
@@ -2633,7 +2813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "27bfbe94f7f8ee7e",
@@ -2723,7 +2903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "4ec29ff9b648c4e2",
@@ -2759,7 +2939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "76a43c344f8c3638",
@@ -2813,7 +2993,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "61343d490cb7f10b",
@@ -2831,7 +3011,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "d7b5487e3e819f95",
@@ -2867,7 +3047,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "72dac21585e7d88f",
@@ -2885,7 +3065,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -2903,7 +3083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "e74bf05ec83ba436",
@@ -2921,7 +3101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "40dc21d0f55de762",
@@ -2957,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "e740b7915142c7b9",
@@ -2975,7 +3155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "23386f5fb6994f5b",
@@ -2993,7 +3173,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "1d1d9afd1bbffaa9",
@@ -3011,7 +3191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "89ce3dfd7120af4d",
@@ -3029,7 +3209,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "880ba1587625b006",
@@ -3191,7 +3371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "ba52687499cc4357",
@@ -3263,7 +3443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "dcbf6d66f896bc12",
@@ -3281,7 +3461,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-25T19:54"
   },
   {
    "id": "43f530ae0ef9aacf",
@@ -13766,24 +13946,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "9bcff55d49f51733",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 5 novembre : à Paris, le parcours souhaité par l'intersyndicale interdit par la préfecture de police, un tracé alternatif autorisé entre Républ…",
-   "summary": "Les syndicats appellent à une journée de mobilisation interprofessionnelle. Les cortèges devraient être renforcés par des lycées et étudiants insatisfaits des premières réponses du gouvernement à leurs revendications.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T17:11",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T16:41"
-  },
-  {
    "id": "c51275e20fa0a1ce",
    "zone": "fr_national",
    "affects": [],
@@ -13820,24 +13982,6 @@
    "last_seen": "2026-11-05T02:27"
   },
   {
-   "id": "806fd76da053236e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : la SNCF prévoit un trafic \"perturbé\" sur plusieurs lignes, \"légèrement perturbé\" pour les TGV",
-   "summary": "Le trafic ferroviaire s'annonce \"légèrement perturbé\" pour les TGV et \"perturbé\" sur la plupart des lignes ce jeudi 5 novembre, en marge de la mobilisation interprofessionnelle nationale, a indiqué mardi SNCF Voyageurs.",
-   "link": "https://www.ici.fr/infos/transports/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-sur-plusieurs-lignes-legerement-perturbe-pour-les-tgv-1839432?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T15:54",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-04T16:41"
-  },
-  {
    "id": "2e16c8dc3cafdaa2",
    "zone": "fr_national",
    "affects": [],
@@ -13872,42 +14016,6 @@
    "soon": false,
    "first_seen": "2026-11-04T16:41",
    "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "ef17e49d127686be",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation lycéenne en Gironde : un élève de 17 ans en garde à vue après l'agression du proviseur du lycée des Iris",
-   "summary": "Un élève de terminale de 17 ans du lycée des Iris de Lormont, en Gironde, est en garde à vue après l'agression du proviseur de l'établissement ce mardi. Par la voix de son père, le lycéen explique n'avoir eu \"aucune intention d'agresser\" son proviseur et parle d'une chute dans un mouvement de foule.",
-   "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/bordeaux/mobilisation-lyceenne-en-gironde-un-eleve-de-17-ans-en-garde-a-vue-apres-l-agression-du-proviseur-du-lycee-des-iris-6264128?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T13:20",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T16:41"
-  },
-  {
-   "id": "00ba205300fbe52f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Le 13h de nos régions : J-1 avant la grande mobilisation du 5 novembre",
-   "summary": "A la veille d'une journée de mobilisation intersyndicale et intergénérationnelle, le 13h de nos régions revient sur les revendications des secteurs privés et publics. L' Education nationale, mais aussi les transports, les banques, la santé... le mouvement s'annonce très suivi.",
-   "link": "https://www.ici.fr/emissions/le-13h-de-nos-regions/le-13h-de-nos-regions-6942413?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T13:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T16:41"
   },
   {
    "id": "4495097fec7e9009",
@@ -13998,42 +14106,6 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "6458b143f1359d90",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation des lycéens : seuls 48 établissements bloqués à travers la France, le mouvement étudiant s’échauffe avant la journée noire de jeudi",
-   "summary": "Ce mardi 3 novembre, 51 établissements d’enseignement supérieur sur 184 sont perturbés en France, selon le ministère de l’Enseignement supérieur, à l’appel des syndicats étudiants. À Montpellier, plusieurs campus sont...",
-   "link": "https://www.midilibre.fr/2026/11/03/mobilisation-des-lyceens-seuls-48-etablissements-bloques-a-travers-la-france-le-mouvement-etudiant-sechauffe-avant-la-journee-noire-de-jeudi-13633931.php",
-   "published": "2026-11-03T14:46",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T16:41"
-  },
-  {
-   "id": "e163b05dea6b0133",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Elle ne voulait plus payer son loyer tant que son propriétaire ne rénovait pas l’appartement : à 81 ans, Marguerite est expulsée avant la trêve hivernale",
-   "summary": "Une femme de 81 ans a été expulsée de son appartement à Mulhouse (Haut-Rhin), le 27 octobre, cinq jours avant la trêve hivernale. La retraitée avait cessé de payer son loyer pendant onze mois pour protester contre...",
-   "link": "https://www.midilibre.fr/2026/11/03/elle-ne-voulait-plus-payer-son-loyer-tant-que-son-proprietaire-ne-renovait-pas-lappartement-a-81-ans-marguerite-est-expulsee-avant-la-treve-hivernale-13633371.php",
-   "published": "2026-11-03T12:16",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-04T16:41"
   },
   {
    "id": "12cee234095d8afc",
