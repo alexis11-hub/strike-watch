@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:35",
+ "updated": "2026-11-26T11:30",
  "events": [
   {
    "id": "5928bcae486fd303",
@@ -35,7 +35,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "e1cdbd9ff25bd478",
@@ -71,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "b9653b62a6827313",
@@ -107,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -161,7 +161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -2348,24 +2348,6 @@
    "last_seen": "2026-11-05T17:40"
   },
   {
-   "id": "7793013e0159a0e5",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Manifestations du 5 novembre : plus de 250 actions annoncées dans toute la France, selon une carte de la GGT",
-   "summary": "Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T09:52",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
    "id": "bdfa73e78d70c6ca",
    "zone": "montpellier",
    "affects": [],
@@ -2382,24 +2364,6 @@
    "soon": false,
    "first_seen": "2026-11-05T09:44",
    "last_seen": "2026-11-06T10:32"
-  },
-  {
-   "id": "1b46c3341c43d5be",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Grève du 5 novembre : entre lycéens, étudiants, syndicats de salariés et « gilets jaunes », le pari d’une convergence des mobilisations",
-   "summary": "Alors que les mouvements de jeunes ont demandé un relais du monde du travail, les organisations syndicales ont appelé à défiler et à cesser le travail, jeudi, dans toute la France. Parmi les revendications : la revalorisation des salaires, la sauvegarde des services publics et la défense du droit d…",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
-   "published": "2026-11-05T05:28",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "309d83f6c8107897",
@@ -2420,6 +2384,42 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
+   "id": "373ce5dd0acdb066",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Affaire Jordan Bardella : le président du RN dénonce \"une chasse à l’homme\" après la publication de nouveaux écrits antisémites qui lui sont attribués",
+   "summary": "Le président du Rassemblement national conteste fermement les accusations d’antisémitisme portées contre lui après la publication par Mediapart et Le Monde de messages datant de 2013. Dans un communiqué publié ce...",
+   "link": "https://www.midilibre.fr/2026/11/26/affaire-jordan-bardella-le-president-du-rn-denonce-une-chasse-a-lhomme-apres-la-publication-de-nouveaux-ecrits-antisemites-qui-lui-sont-attribues-13672292.php",
+   "published": "2026-11-26T11:58",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "eefd7b00066e51c3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassembleme…",
+   "summary": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T11:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
    "id": "c35f8ce7e2457277",
    "zone": "fr_national",
    "affects": [],
@@ -2430,12 +2430,210 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-26T02:33",
+   "published": "2026-11-26T11:28",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "a8e049f4ad0330d8",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages, une manifestation prévue dans l'après-midi",
+   "summary": "Une intersyndicale d'étudiants et de membres du personnel dénonce des réponses gouvernementales \"insuffisantes\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T10:58",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "5041f3ccaa92b3b7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Tous les partis font ça\" : qui est Christian de Rocquigny, le procureur qui se trouvait au siège du Rassemblement national lors d'une perquisition ?",
+   "summary": "La présence du procureur adjoint de Paris au siège du RN, le 9 novembre, suscite des questions sur ses liens avec le parti de Marine Le Pen et a déclenché l'ouverture d'une enquête administrative.",
+   "link": "https://www.franceinfo.fr/politique/front-national/tous-les-partis-font-ca-qui-est-christian-de-rocquigny-le-procureur-qui-se-trouvait-au-siege-du-rassemblement-national-lors-d-une-perquisition_8299719.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T10:54",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "58cfa8ca0879d057",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "« A l’hôpital, ils ne savaient pas si je passerais la nuit » : les grenades assourdissantes blessent toujours plus gravement les manifestants",
+   "summary": "Stéphanie et Jonathan ne se connaissent pas mais, depuis le 24 octobre, ils ont un point commun : tous deux ont vu leur corps perforé par un éclat de grenade assourdissante. Des blessures qui continuent de les hanter.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/26/a-l-hopital-ils-ne-savaient-pas-si-je-passerais-la-nuit-les-grenades-assourdissantes-blessent-toujours-plus-gravement-les-manifestants_6815510_3224.html",
+   "published": "2026-11-26T10:44",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "35448c20c612ff25",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le Smic augmente au 1er décembre : c’est officiel, voici le nouveau montant que vous toucherez chaque mois",
+   "summary": "Le décret augmentant le Smic de 0,6 % à partir du 1er décembre 2026, en réponse aux manifestations contre \"la vie chère\", a été publié au Journal officiel. Cette revalorisation, la première depuis 2012, reste...",
+   "link": "https://www.midilibre.fr/2026/11/26/le-smic-augmente-au-1er-decembre-cest-officiel-voici-le-nouveau-montant-que-vous-toucherez-chaque-mois-13672244.php",
+   "published": "2026-11-26T10:18",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "1a05c813feea8b4c",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Affaire Jordan Bardella : de nouveaux messages Facebook relancent l’affaire malgré les dénégations du président du RN",
+   "summary": "Jordan Bardella, président du Rassemblement national, est de nouveau accusé d’antisémitisme après la publication, jeudi 26 novembre 2026, de nouveaux écrits de jeunesse par Mediapart et Le Monde. Ces messages, datant...",
+   "link": "https://www.midilibre.fr/2026/11/26/affaire-jordan-bardella-de-nouveaux-messages-facebook-relancent-laffaire-malgre-les-denegations-du-president-du-rn-13672117.php",
+   "published": "2026-11-26T08:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "c5b0996a583a27e0",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Enseignement supérieur : des étudiants et des enseignants appellent à la mobilisation ce jeudi",
+   "summary": "Une intersyndicale des étudiants et des enseignants de l'enseignement supérieur et de la recherche appelle à une journée de mobilisation ce jeudi 26 novembre, estimant que \"les réponses du gouvernement restent insuffisantes\" après deux mois de contestation.",
+   "link": "https://www.ici.fr/infos/economie-social/enseignement-superieur-des-etudiants-et-des-enseignants-appellent-a-la-mobilisation-ce-jeudi-6996705?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-26T07:59",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-25T01:24",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "88acb45372ee66bf",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Le zone rosse si allargano. Il Prefetto ha firmato: altre 13 strade nella lista",
+   "summary": "Adesso c’è anche il nero su bianco. Le zone a vigilanza rafforzata si allargano a Firenze e il provvedimento della Prefettura mette in fila le strade interessate, ampliando quanto già emerso nei rumors del Comitato provinciale per l’ordine e la sicurezza pubblica di lunedì, al quale aveva partecipa…",
+   "link": "https://www.lanazione.it/firenze/cronaca/le-zone-rosse-si-allargano-b3121fc2",
+   "published": "2026-11-26T05:41",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "0af35072fc113297",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Negozi a rischio. Un piano nazionale per salvare le attività",
+   "summary": "Ogni negozio che abbassa definitivamente la saracinesca lascia un vuoto che non è soltanto economico, ma anche sociale. Lo sa bene Confesercenti, che ieri ha illustrato alla Camera la proposta di legge di iniziativa popolare per la rigenerazione urbana del commercio e dei servizi di prossimità , so…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/negozi-a-rischio-un-piano-5b94a721",
+   "published": "2026-11-26T05:34",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "0f1b4e184a0cd541",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Sesto accende il suo Natale. La pista sul ghiaccio è regina, mercatini in piazza IV Novembre",
+   "summary": "sesto fiorentino La pista del ghiaccio in piazza Vittorio Veneto come attrazione principale, in particolare per bambini e ragazzi, affiancata però da tante iniziative e anche da alcune novità. Un calendario ampio quello organizzato, nel periodo natalizio, dal Comune di Sesto in collaborazione con i…",
+   "link": "https://www.lanazione.it/firenze/cronaca/sesto-accende-il-suo-89ebc985",
+   "published": "2026-11-26T05:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "ac25d9f5ca646ba5",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Variante di Grassina: \"Ci avvicina a Firenze e cambia gli equilibri\"",
+   "summary": "La nuova iniezione di liquidità per la Variante di Grassina riaccende il dibattito politico sugli assetti istituzionali del territorio. Con lo stanziamento di ulteriori 3,5 milioni di euro deliberato dalla Regione per fronteggiare il caro prezzi e garantire la prosecuzione del secondo lotto tra Cap…",
+   "link": "https://www.lanazione.it/firenze/cronaca/variante-di-grassina-ci-avvicina-fa01984a",
+   "published": "2026-11-26T04:46",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
+  },
+  {
+   "id": "a86678d2d6ab967a",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Il paese rivede la luce: \"Nuovi negozi, locali e b&b . La crisi è alle spalle, merito anche del turismo\"",
+   "summary": "La crisi dei negozi non risparmia la Valmarecchia. Ma da Sant’Agata Feltria arrivano segnali incoraggiante. Sono diverse le nuove attività che hanno aperto in paese negli ultimi mesi, tra commercio, ristorazione e ospitalità. L’ultima arrivata è Rocca tech : il negozio di elettrodomestici, servizi…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/il-paese-rivede-la-luce-a227e381",
+   "published": "2026-11-26T04:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "9192fa72bf7f5a98",
@@ -2453,7 +2651,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -2471,7 +2669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "bdcedbd9ceaecb05",
@@ -2507,7 +2705,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "532983cb163d75a9",
@@ -2579,7 +2777,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "1697ff1eb012bd40",
@@ -2597,7 +2795,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "84b6321a1cc639dc",
@@ -2615,7 +2813,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "7b1a642182a00bdb",
@@ -2669,7 +2867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "cbb02841a13afff6",
@@ -2687,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "4aef47171574e273",
@@ -2723,7 +2921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "07771cf7e1ae9c63",
@@ -2741,7 +2939,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "97e4b3881dfe8112",
@@ -2759,25 +2957,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
-  },
-  {
-   "id": "c5b0996a583a27e0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Enseignement supérieur : des étudiants et des enseignants appellent à la mobilisation ce jeudi",
-   "summary": "Une intersyndicale des étudiants et des enseignants de l'enseignement supérieur et de la recherche appelle à une journée de mobilisation ce jeudi 26 novembre, estimant que \"les réponses du gouvernement restent insuffisantes\" après deux mois de contestation.",
-   "link": "https://www.ici.fr/infos/economie-social/enseignement-superieur-des-etudiants-et-des-enseignants-appellent-a-la-mobilisation-ce-jeudi-6996705?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-25T05:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-25T10:01"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "8841fa0b54b48386",
@@ -2795,7 +2975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "27bfbe94f7f8ee7e",
@@ -2885,7 +3065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "4ec29ff9b648c4e2",
@@ -2921,7 +3101,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "76a43c344f8c3638",
@@ -2975,7 +3155,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "61343d490cb7f10b",
@@ -3029,7 +3209,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "72dac21585e7d88f",
@@ -3047,7 +3227,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -3065,7 +3245,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T02:33"
+   "last_seen": "2026-11-26T11:28"
   },
   {
    "id": "e74bf05ec83ba436",
@@ -13242,24 +13422,6 @@
    "last_seen": "2026-11-06T10:32"
   },
   {
-   "id": "633e112ec12a8280",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT Manifestations du 5 novembre : des blocages à Alès et Montpellier, les forces de l’ordre mobilisées à Paris pour lever un blocus à Paris",
-   "summary": "La mobilisation de ce jeudi 5 novembre en France s’annonce massive. À l’appel de l’intersyndicale de nombreux salariés du privé et du public, des enseignants, gilets jaunes, retraités, jeunes et cheminots sera dans la...",
-   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-les-corteges-selancent-des-10-h-30-a-sete-beziers-et-carcassonne-70-000-policiers-deployes-les-dernieres-infos-13636490.php",
-   "published": "2026-11-05T10:39",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
    "id": "98d2a45db35f2eb8",
    "zone": "rimini",
    "affects": [],
@@ -13276,42 +13438,6 @@
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "8607c3af8c45d41e",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "DIRECT - Grève du 5 novembre : les salariés, retraités et jeunes dans la rue ce jeudi contre la vie chère",
-   "summary": "Plus de 250 rassemblements sont prévus partout en France ce jeudi à l'appel des syndicats pour réclamer une hausse des salaires. Les autorités attendent près de 800.000 personnes. Quelque 70.000 policiers et gendarmes sont déployés. Suivez la journée de mobilisation en direct sur ICI.",
-   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-05T10:28",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "b72867861aa3e69e",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "DIRECT - Grève du 5 novembre : les salariés, retraités et jeunes dans la rue ce jeudi contre la vie chère",
-   "summary": "Plus de 250 rassemblements sont prévus partout en France ce jeudi à l'appel des syndicats pour réclamer une hausse des salaires. Les autorités attendent près de 800.000 personnes. Quelque 70.000 policiers et gendarmes sont déployés. Suivez la journée de mobilisation en direct sur ICI.",
-   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-05T10:28",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "c3281b1371b0e91e",
@@ -13348,42 +13474,6 @@
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-08T08:37"
-  },
-  {
-   "id": "eb0c02daffbcef8c",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Sindacati della scuola lanciano la mobilitazione, sit in l'11 novembre",
-   "summary": "Cisl, Uil, Snals e Anief contro i tagli. Sciopero Cgil già fissato per il 20",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/sindacati-della-scuola-lanciano-la-mobilitazione-sit-in-l11-novembre_ce814bf9-2c88-4eb7-b4a4-834a3e37c512.html",
-   "published": "2026-11-05T09:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "0339b5865055811d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Face aux attaques \"du grand patronat et du gouvernement, notre seul moyen de défense, c'est la mobilisation et la grève\", affirme Nathalie Arthaud",
-   "summary": "La porte-parole de Lutte ouvrière participe jeudi à la journée de mobilisation intersyndicale. Candidate à l'élection présidentielle, elle défend notamment un smic à 2 200 euros.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/face-aux-attaques-du-grand-patronat-et-du-gouvernement-notre-seul-moyen-de-defense-c-est-la-mobilisation-et-la-greve-affirme-nathalie-arthaud_8268950.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T09:17",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "b32536494f628823",
@@ -13530,96 +13620,6 @@
    "last_seen": "2026-11-05T17:40"
   },
   {
-   "id": "478dbf961515c380",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Dall’incontro Maga al Nucleo anti maranza: \"In piazza per dire no\"",
-   "summary": "Mentre i sostenitori di Donald Trump si radunano in Fiera per il primo evento Maga in Italia, gli oppositori del presidente Usa sfilano in corteo per le vie della città. L’evento è promosso da Rete Pace Ferrara , ma ad aderire saranno anche altri gruppi e pure i partiti, come Alleanza Verdi Sinistr…",
-   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/dallincontro-maga-al-nucleo-anti-7a309049",
-   "published": "2026-11-05T05:41",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "bd5c6d0bdef18d6c",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Pietralunga, zero disoccupati. L’orgoglio del sindaco Rizzuti: \"Qui tutti lavorano col tartufo\"",
-   "summary": "Nascosto tra i rilievi boscosi dell’Alta Valle del Tevere, esiste un borgo medievale che sembra sfidare apertamente qualsiasi congiuntura economica. A Pietralunga , piccolo comune arroccato nel cuore verde dell’Umbria, le dinamiche del mercato del lavoro raccontano una vicenda controcorrente: mentr…",
-   "link": "https://www.lanazione.it/umbria/cronaca/pietralunga-zero-disoccupati-lorgoglio-del-5765d425",
-   "published": "2026-11-05T05:41",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "0262d3196defe2c3",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "I custodi delle Porte Sante. Rinnovo ai benedettini",
-   "summary": "FIRENZE Il cimitero monumentale delle Porte Sante avrà una sorveglianza più stabile e continuativa. Il Comune di Firenze ha deciso di prolungare da uno a due anni la convenzione con la Congregazione Benedettina Olivetana dell’Abbazia di San Miniato al Monte, che continuerà a occuparsi del presidio,…",
-   "link": "https://www.lanazione.it/firenze/cronaca/i-custodi-delle-porte-6b303fa7",
-   "published": "2026-11-05T05:30",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "208d162852411eae",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Sanzioni e limitazioni . L’indotto di Sanlorenzo si ferma per protesta",
-   "summary": "Per far sentire la loro voce hanno deciso di non entrare in cantiere. E alla fine, grazie alla mediazione dei sindacati, le loro richieste saranno oggetto di un tavolo che il colosso della nautica e le parti sociali terranno in Confindustria nelle prossime settimane. Protagonisti della protesta, an…",
-   "link": "https://www.lanazione.it/la-spezia/cronaca/sanzioni-e-limitazioni-lindotto-9fca8670",
-   "published": "2026-11-05T05:21",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "576cc7d72bc24085",
-   "zone": "milano",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Treni, che passione: \"Frecciarossa, da dicembre prenotazioni bloccate\"",
-   "summary": "Prenotazioni per il Frecciarossa bloccate. E proteste che spuntano in un batter d’occhio. Oltre alla preoccupazione per un possibile stop. L’ennesio. La segnalazione arriva dal consigliere di maggioranza, Lorenzo Mazzani (gruppo Pensa Perugia), secondo il quale \"da diverse segnalazioni ricevute eme…",
-   "link": "https://www.lanazione.it/umbria/cronaca/treni-che-passione-frecciarossa-da-2d0e07a0",
-   "published": "2026-11-05T05:21",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
    "id": "e8eaa718e897694b",
    "zone": "sanmarino",
    "affects": [],
@@ -13654,24 +13654,6 @@
    "soon": false,
    "first_seen": "2026-11-05T02:27",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "55e9914ee46335e3",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestation du 5 novembre : le recours des syndicats pour le parcours Bastille-Concorde rejeté par la justice",
-   "summary": "Le tribunal administratif a rejeté le recours des organisations syndicales pour que le cortège de la manifestation du 5 novembre circule entre la place de la Bastille et celle de la Concorde, a appris France Inter mercredi soir. La manifestation se tiendra entre République et Nation.",
-   "link": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-5-novembre-le-recours-des-syndicats-pour-le-parcours-bastille-concorde-rejete-par-la-justice-2185012?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T22:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "61b7ea90b0a163dd",
@@ -13766,24 +13748,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "2e16c8dc3cafdaa2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Revalorisation des salaires, services publics, \"justice fiscale\"... Quelles sont les revendications des syndicats pour la grève du 5 novembre ?",
-   "summary": "Une nouvelle journée de mobilisation a lieu jeudi, les appels à manifester s'accompagnant d'appels à la grève dans le public comme le privé, pour dénoncer le coût de la vie et les mesures d'économies prévues dans le projet de budget 2027.",
-   "link": "https://www.franceinfo.fr/economie/greve/revalorisation-des-salaires-services-publics-justice-fiscale-quelles-sont-les-revendications-des-syndicats-pour-la-greve-du-5-novembre_8263733.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T15:15",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
    "id": "4495097fec7e9009",
    "zone": "montpellier",
    "affects": [],
@@ -13802,24 +13766,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "bf175e0e4ef90c8a",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "SNCF : pourquoi les cheminots vont-ils toucher une prime non prévue de 400 euros ?",
-   "summary": "À deux jours d’une grève nationale, la SNCF a annoncé le 3 novembre des mesures pour soutenir le pouvoir d’achat de ses salariés face à l’inflation. Une prime de 400 euros sera versée à 140 000 employés, tandis que...",
-   "link": "https://www.midilibre.fr/2026/11/04/sncf-pourquoi-les-cheminots-vont-ils-toucher-une-prime-non-prevue-de-400-euros-13635393.php",
-   "published": "2026-11-04T11:21",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T09:44"
-  },
-  {
    "id": "9d0f041331fa4e64",
    "zone": "montpellier",
    "affects": [],
@@ -13836,24 +13782,6 @@
    "soon": false,
    "first_seen": "2026-11-03T16:31",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "12cee234095d8afc",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Avec l'arrestation de l'infirmière on n'a pas envoyé le bon message\", Marie Nikichine Présidente de la FCPE 34",
-   "summary": "Quelle suite pour la mobilisation des lycéens ? Le nombre de blocus était en très nette baisse ce lundi jour de rentrée mais il devrait y en avoir plus ce mardi. L'infirmière arrêtée devant le lycée Jean Monnet à Montpellier a été libérée sans charges retenues contre elle.",
-   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/marie-nikichine-la-presidente-de-la-fcpe-34-1426770?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-03T07:45",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T08:35",
-   "last_seen": "2026-11-05T09:44"
   },
   {
    "id": "88f1b3888b96ffe8",
