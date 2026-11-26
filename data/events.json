@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T19:55",
+ "updated": "2026-11-26T02:35",
  "events": [
+  {
+   "id": "5928bcae486fd303",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ansa_top",
+   "source": "ANSA 头条",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Decine di migliaia di persone in piazza in Spagna contro la violenza di genere",
+   "summary": "Manifestazioni da Madrid a Barcellona, a Valencia e Siviglia. A Murcia un'altra vittima",
+   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/decine-di-migliaia-di-persone-in-piazza-in-spagna-contro-la-violenza-di-genere_705ac19d-b234-414d-89e7-5c17017a1c47.html",
+   "published": "2026-11-25T21:45",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T02:33",
+   "last_seen": "2026-11-26T02:33"
+  },
+  {
+   "id": "aa72cfe56a8b734b",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Violenza sulle donne, installazione in piazza Duomo a Firenze",
+   "summary": "Scultura di Anna Izzo resterà fino al 30 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/violenza-sulle-donne-installazione-in-piazza-duomo-a-firenze_17a1f6ca-7d95-4fc2-a5b9-d438208ca00d.html",
+   "published": "2026-11-25T19:55",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T02:33",
+   "last_seen": "2026-11-26T02:33"
+  },
   {
    "id": "e1cdbd9ff25bd478",
    "zone": "firenze",
@@ -35,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "b9653b62a6827313",
@@ -53,7 +89,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "8e1e5e964e6d2e01",
@@ -71,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -107,7 +143,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "5fbb629af771ef56",
@@ -125,7 +161,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -143,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "40d6a0eb8bed6163",
@@ -161,7 +197,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "b418866c9790d6cc",
@@ -2366,42 +2402,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "7c777938c55b442f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "La journée de mobilisation du 5 novembre \"classée à risque\" par le renseignement territorial, 70 000 policiers et gendarmes mobilisés",
-   "summary": "Le renseignement s'attend à voir entre 500 000 et 700 000 personnes dans les cortèges jeudi, sans compter Paris, avec la crainte de \"nombreuses violences\" et de \"dégradations de bâtiments publics\", selon une note consultée par franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-5-novembre-une-journee-classee-a-risque-par-le-renseignement-territorial_8267621.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T20:07",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "f1eea9c313f219e2",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 17 octobre : devant la commission d’enquête parlementaire, les commerçants disent avoir été « totalement abandonnés et sacrifiés »",
-   "summary": "Entendus à l’Assemblée nationale, mercredi 4 novembre, plusieurs représentants d’associations de commerçants à Paris, Lyon ou Marseille, ont dénoncé la défaillance des pouvoirs publics face aux pillages lors de cette journée de mobilisation.",
-   "link": "https://www.lemonde.fr/societe/article/2026/11/04/manifestations-du-17-octobre-devant-la-commission-d-enquete-parlementaire-les-commercants-disent-avoir-ete-totalement-abandonnes-et-sacrifies_6806418_3224.html",
-   "published": "2026-11-04T19:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
    "id": "309d83f6c8107897",
    "zone": "montpellier",
    "affects": [],
@@ -2420,42 +2420,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "b0b05a9b3d1aaf85",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 24 octobre : \"Il n'y a pas de milice d'extrême droite à Lorient\", estime le maire Fabrice Loher",
-   "summary": "Après l'intervention samedi 24 octobre à Lorient d'un groupe anti-casseur en marge des manifestations, le maire de la ville se défend de toute connivence. Fabrice Loher estime même qu'\"il n'y a pas de milice d'extrême droite à Lorient\".",
-   "link": "https://www.ici.fr/bretagne/morbihan-56/lorient/manifestations-du-24-octobre-il-n-y-a-pas-de-milice-d-extreme-droite-a-lorient-estime-le-maire-fabrice-loher-4112244?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T16:14",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "0798b5a7fba1c259",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "high",
-   "title": "\"Crisi della Beko e non solo. Il 20 novembre in piazza\"",
-   "summary": "Il 20 novembre la Cgil manifesterà in tutta Italia. Ad Ascoli l’iniziativa sarà territoriale, con il corteo che da Piazza Matteotti muoverà verso Piazza Simonetti. \"Vogliamo denunciare la situazione territoriale – spiega Daniele Lanni, segretario provinciale - soprattutto perché da parte delle isti…",
-   "link": "https://www.ilrestodelcarlino.it/ascoli/cronaca/crisi-della-beko-e-non-8acf44e0",
-   "published": "2026-11-04T06:11",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T08:49",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
    "id": "c35f8ce7e2457277",
    "zone": "fr_national",
    "affects": [],
@@ -2466,12 +2430,30 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-25T19:54",
+   "published": "2026-11-26T02:33",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
+  },
+  {
+   "id": "9192fa72bf7f5a98",
+   "zone": "milano",
+   "affects": [],
+   "source_id": "ansa_cron",
+   "source": "ANSA 全国新闻",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Migliaia in piazza Duomo a Milano per Non una di meno",
+   "summary": "In corteo anche la consigliera regionale del Pd 'zittita' da collega di FdI",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/migliaia-in-piazza-duomo-a-milano-per-non-una-di-meno_734dfc18-e922-45aa-9da4-559c2bc662b7.html",
+   "published": "2026-11-25T21:49",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T02:33",
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -2489,7 +2471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "bdcedbd9ceaecb05",
@@ -2507,7 +2489,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "a82f17c1881ddb2c",
@@ -2525,7 +2507,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "532983cb163d75a9",
@@ -2543,7 +2525,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "3e1e13a41d2516b4",
@@ -2579,7 +2561,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "8cde0f4f1f3bb85c",
@@ -2597,7 +2579,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "1697ff1eb012bd40",
@@ -2615,7 +2597,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "84b6321a1cc639dc",
@@ -2633,7 +2615,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "7b1a642182a00bdb",
@@ -2687,7 +2669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "cbb02841a13afff6",
@@ -2705,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "4aef47171574e273",
@@ -2741,7 +2723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "07771cf7e1ae9c63",
@@ -2759,7 +2741,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "97e4b3881dfe8112",
@@ -2777,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "c5b0996a583a27e0",
@@ -2813,7 +2795,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "27bfbe94f7f8ee7e",
@@ -2903,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "4ec29ff9b648c4e2",
@@ -2939,7 +2921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "76a43c344f8c3638",
@@ -2993,7 +2975,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "61343d490cb7f10b",
@@ -3011,7 +2993,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "d7b5487e3e819f95",
@@ -3047,7 +3029,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "72dac21585e7d88f",
@@ -3065,7 +3047,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -3083,7 +3065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "e74bf05ec83ba436",
@@ -3101,7 +3083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "40dc21d0f55de762",
@@ -3137,7 +3119,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "e740b7915142c7b9",
@@ -3209,7 +3191,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T05:58",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "880ba1587625b006",
@@ -3371,7 +3353,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "ba52687499cc4357",
@@ -3443,7 +3425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "dcbf6d66f896bc12",
@@ -3461,7 +3443,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-23T22:01",
-   "last_seen": "2026-11-25T19:54"
+   "last_seen": "2026-11-26T02:33"
   },
   {
    "id": "43f530ae0ef9aacf",
@@ -13674,24 +13656,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "12a23e73c6761802",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde, la CGT accepte le parcours République-…",
-   "summary": "La préfecture de police de Paris appelle les manifestants à emprunter le parcours alternatif autorisé entre la place de la République et la place de la Nation.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T23:46",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T02:27",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
    "id": "55e9914ee46335e3",
    "zone": "fr_national",
    "affects": [],
@@ -13710,96 +13674,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "6454773cbfaa5889",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Écoles, transports, manifestations : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
-   "summary": "Les syndicats appellent à une grande journée de mobilisation ce jeudi 5 novembre. Plus de 240 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-04T22:04",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "86408eabcf59016f",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Écoles, transports, manifestations : à quoi s'attendre lors de la journée de grève du 5 novembre ?",
-   "summary": "Les syndicats appellent à une grande journée de mobilisation ce jeudi 5 novembre. Plus de 240 rassemblements sont prévus selon la CGT, pour réclamer des hausses de salaires et une révision du budget du gouvernement, après des semaines de mobilisation de la jeunesse. À quoi faut-il s'attendre ?",
-   "link": "https://www.ici.fr/infos/economie-social/ecoles-transports-pharmacies-a-quoi-s-attendre-lors-de-la-journee-de-greve-du-5-novembre-5709844?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T22:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "a3accb172bf3bed9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde",
-   "summary": "La préfecture de police de Paris appelle les manifestants à emprunter le parcours alternatif autorisé entre la place de la République et la place de la Nation.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T22:04",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
-   "id": "bea3a4a1fbd87f93",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Tours : enquête ouverte après la blessure à l’œil d’un tiktokeur lors d’une manifestation",
-   "summary": "Enzo Gimgembre, 22 ans, s’était rendu samedi à la manifestation « pour filmer ». Jusqu’à ce qu’un « petit groupe de CRS » se détache et qu’une « grenade de désencerclement » soit lancée dans sa direction, explique-t-il.",
-   "link": "https://www.lemonde.fr/societe/article/2026/11/04/tours-enquete-ouverte-apres-la-blessure-a-l-il-d-un-tiktokeur-lors-d-une-manifestation_6806430_3224.html",
-   "published": "2026-11-04T22:01",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T02:27",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "f7e5c7689d316c95",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "TGV, TER, RER... La SNCF dévoile son plan de circulation à la veille de la mobilisation du 5 novembre",
-   "summary": "Au moins neuf TGV sur 10 circuleront lors de cette journée, mais certaines lignes régionales seront plus perturbées.",
-   "link": "https://www.franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T20:51",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
    "id": "61b7ea90b0a163dd",
    "zone": "firenze",
    "affects": [],
@@ -13816,24 +13690,6 @@
    "soon": false,
    "first_seen": "2026-11-04T16:41",
    "last_seen": "2026-11-06T10:32"
-  },
-  {
-   "id": "ba15b0ef1d685fb9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne",
-   "summary": "Lycéens et enseignants seront réunis autour des ministres concernés, afin de présenter de « premières recommandations courant novembre », a déclaré le premier ministre.",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/04/parcoursup-sebastien-lecornu-annonce-une-premiere-reunion-lundi-pour-reformer-la-plateforme-d-orientation-sur-fond-de-mobilisation-lyceenne_6806420_823448.html",
-   "published": "2026-11-04T19:17",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-04T22:12"
   },
   {
    "id": "b59ea568a3cadd50",
@@ -13870,42 +13726,6 @@
    "soon": false,
    "first_seen": "2026-11-04T22:12",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "192000ff2fdafd8d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestation du 5 novembre : Laurent Nuñez annonce 70 000 policiers et gendarmes déployés et prévient qu’aucun « débordement ne sera toléré »",
-   "summary": "Les autorités prévoient « un peu plus de 220 actions de voie publique », dont la plupart ont été déclarées par l’intersyndicale, selon le ministre de l’intérieur.",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/04/manifestation-du-5-novembre-laurent-nunez-annonce-70-000-policiers-et-gendarmes-deployes-et-previent-qu-aucun-debordement-ne-sera-tolere_6806412_823448.html",
-   "published": "2026-11-04T18:58",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "29eaf40a71d7ad2d",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : la SNCF prévoit un trafic \"perturbé\" en régions et en Ile-de-France, 1 TGV sur 10 supprimé",
-   "summary": "Le trafic ferroviaire sera \"perturbé\" à \"fortement perturbé\" sur les lignes régionales, ainsi que sur certaines lignes de RER et trains en Île-de-France jeudi en raison de l'appel national à la grève, indique mercredi la SNCF. Un TGV sur dix est supprimé.",
-   "link": "https://www.ici.fr/infos/transports/greve-du-5-novembre-la-sncf-prevoit-un-trafic-perturbe-sur-plusieurs-lignes-legerement-perturbe-pour-les-tgv-1839432?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-04T18:53",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T22:12",
-   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "6aa1a57d4e3a29fa",
@@ -13946,42 +13766,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "c51275e20fa0a1ce",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Dans le cadre du mouvement lycéen et des blocages, 37 agents de l'Education nationale ont été blessés en 48 heures",
-   "summary": "\"Nous avons déposé depuis ce mouvement [lycéen] pas moins de 1 000 plaintes\", a déclaré le ministre Edouard Geffray devant les sénateurs.",
-   "link": "https://www.franceinfo.fr/societe/mouvement-lyceen-37-personnels-de-l-education-nationale-ont-ete-blesses-en-48-heures-dans-le-cadre-des-blocages_8267924.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-04T16:58",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-04T22:12"
-  },
-  {
-   "id": "0b266055dd735923",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Pasolini e le proteste dei giovani nelle piazze di oggi: “Tra questi ragazzi c’è molto più del vuoto di cui parlava 50 anni fa”",
-   "summary": "Sono passati più di cinquant’anni dalla morte di Pier Paolo Pasolini , ma il tempo non ha cancellato né la sua eredità né i dubbi sul suo omicidio a Ostia Lido . Mentre la Procura di Roma ha riaperto le indagini , tra Casarsa della Delizia (Pordenone) e Udine due convegni (da oggi fino a sabato) sa…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/04/pasolini-disagio-giovanile-circeo-proteste-notizie/8555959/",
-   "published": "2026-11-04T16:12",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
    "id": "2e16c8dc3cafdaa2",
    "zone": "fr_national",
    "affects": [],
@@ -13998,24 +13782,6 @@
    "soon": false,
    "first_seen": "2026-11-04T08:49",
    "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "17375ba477b67957",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Alluvione, il flash mob della Croce Rossa in Santa Croce",
-   "summary": "Firenze, 4 novembre 2026 – A Firenze sono in corso gli eventi per ricordare il 60/o anniversario dell'alluvione della città. Una giornata piena di significato e alla presenza del presidente della Repubblica Sergio Mattarella . Tutti gli eventi però sono stati stati preceduti da un flash mob organiz…",
-   "link": "https://www.lanazione.it/firenze/cronaca/alluvione-flash-mob-croce-rossa-santa-croce-bd03476d",
-   "published": "2026-11-04T13:36",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-04T16:41",
-   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "4495097fec7e9009",
@@ -14054,42 +13820,6 @@
    "last_seen": "2026-11-05T09:44"
   },
   {
-   "id": "8b3babd8e5202c3c",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "À deux jours de la manifestation du 5 novembre, les cheminots obtiennent de la SNCF le versement d’une prime de 400 euros",
-   "summary": "Ce mardi 3 novembre, les représentants syndicaux des cheminots se sont entretenus avec la direction de la SNCF pour faire suite à la grève du 10 juin dernier. Les syndicats n’ont pas eu la hausse de salaires qu’ils...",
-   "link": "https://www.midilibre.fr/2026/11/03/a-deux-jours-de-la-manifestation-du-5-novembre-les-cheminots-obtiennent-de-la-sncf-le-versement-dune-prime-de-400-euros-13634471.php",
-   "published": "2026-11-03T20:06",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T21:59",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "da0d70185d55910a",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestation du 5 novembre : trains perturbés, syndicats, lycéens et salariés dans la rue… à quoi s’attendre jeudi ?",
-   "summary": "Ce jeudi 5 novembre, une mobilisation massive est attendue en France à l’appel de l’intersyndicale. Après des semaines de mobilisation de la jeunesse, syndicats et gilets jaunes s’unissent pour réclamer une hausse des...",
-   "link": "https://www.midilibre.fr/2026/11/03/manifestation-du-5-novembre-trains-perturbes-syndicats-lyceens-et-salaries-dans-la-rue-a-quoi-sattendre-jeudi-13634216.php",
-   "published": "2026-11-03T17:23",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-03T16:31",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
    "id": "9d0f041331fa4e64",
    "zone": "montpellier",
    "affects": [],
@@ -14124,42 +13854,6 @@
    "soon": false,
    "first_seen": "2026-11-03T08:35",
    "last_seen": "2026-11-05T09:44"
-  },
-  {
-   "id": "05a90f0efdc6580b",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Inscriptions racistes sur la mosquée de Lodève, la mairie dépose plainte et organise un nouveau rassemblement de soutien",
-   "summary": "La mairie de Lodève dépose plainte et organise un nouveau rassemblement ce mercredi pour soutenir la communauté musulmane après les inscriptions racistes découvertes sur la mosquée le 28 octobre.",
-   "link": "https://www.ici.fr/occitanie/herault-34/lodeve/inscriptions-racistes-sur-la-mosquee-de-lodeve-la-mairie-depose-plainte-et-organise-un-nouveau-rassemblement-de-soutien-1804866?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-02T15:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-05T02:27"
-  },
-  {
-   "id": "2f8320a79d08166f",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "\"Ce mouvement de colère en France est parti pour durer\", explique le sociologue montpelliérain Michel Crespy",
-   "summary": "Retour sur le mouvement social et la situation politique actuelle avec le sociologue Michel Crespy, invité d'ICI Hérault ce lundi 2 novembre.",
-   "link": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-herault/le-sociologue-montpellierain-michel-crespy-5457810?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-02T07:45",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-02T19:26",
-   "last_seen": "2026-11-05T02:27"
   },
   {
    "id": "88f1b3888b96ffe8",
