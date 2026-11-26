@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T11:30",
+ "updated": "2026-11-26T20:27",
  "events": [
+  {
+   "id": "303c1d53327765d6",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi",
+   "summary": "Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T17:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
   {
    "id": "5928bcae486fd303",
    "zone": "it_national",
@@ -35,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "e1cdbd9ff25bd478",
@@ -71,7 +89,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "b9653b62a6827313",
@@ -107,7 +125,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -161,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "b0f2f89dc615b0b8",
@@ -2276,78 +2294,6 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
-   "id": "a9989008274cd449",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Mobilisation du 5 novembre : Sébastien Lecornu annonce la réunion lundi à Matignon d'une \"conférence sociale\" avec les syndicats et le patronat",
-   "summary": "Le chef du gouvernement annonce la tenue de cette rencontre alors que la journée de mobilisation sociale du 5 novembre a été très suivie dans toute la France.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T17:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "1f1c63a887dd34fb",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale Francia, sbarrato l’ingresso della Tour Eiffel. Chiuse anche alcune sale del Louvre",
-   "summary": "Anche l’ingresso della Tour Eiffel è sbarrato ai visitatori oggi per via dello sciopero generale dichiarato in Francia dai sindacati dei lavoratori , che si sono uniti alla mobilitazione di studenti universitari e delle scuole superiori. Ad annunciare la chiusura del celebre monumento è la stessa s…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/05/sciopero-generale-francia-tour-eiffel-notizie/8562017/",
-   "published": "2026-11-05T16:31",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "0a0933c5cf965354",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Sciopero generale in Francia, liceo in fiamme vicino a Tolosa: “Hanno sparato fuochi d’artificio all’interno” | il video",
-   "summary": "Il liceo Françoise di Tournefeuille, vicino a Tolosa, nel sudovest della Francia, ha preso fuoco durante le manifestazioni proclamate in occasione dello sciopero generale. Secondo le prime ricostruzioni, un gruppo di ragazzi è entrato nell’istituto e ha lanciato dei fuochi d’artificio, servendosi d…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/05/sciopero-generale-francia-liceo-fiamme-tolosa-notizie/8561897/",
-   "published": "2026-11-05T14:53",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "2725931d87d45cb1",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "high",
-   "title": "Le 13h de nos régions : Au cœur des manifestations du 5 novembre partout en France",
-   "summary": "Édition spéciale consacrée à la journée de mobilisation nationale et grève générale ce jeudi 5 novembre pour le pouvoir d'achat, avec des rassemblements dans toute la France. De Bordeaux à Marseille en passant par Rouen, Toulouse en passant, avec nos reporters au cœur des cortèges.",
-   "link": "https://www.ici.fr/emissions/le-13h-de-nos-regions/le-13h-de-nos-regions-au-coeur-des-manifestations-du-5-novembre-partout-en-france-8892713?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-05T13:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "bdfa73e78d70c6ca",
    "zone": "montpellier",
    "affects": [],
@@ -2384,6 +2330,186 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-26T20:25",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "687d71a171337bcd",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Ils ont enlevé ma vie\" : Tedy, grièvement blessé lors d'une manifestation à Toulouse, prend la parole",
+   "summary": "Lors de la manifestation du 24 octobre 2026 à Toulouse, Tedy a reçu une grenade au niveau de sa main droite. Il a perdu son pouce, son index et une partie de son majeur. Le jeune homme de 20 ans, toujours en rééducation, parle d'un \"traumatisme\" et espère que justice sera faite.",
+   "link": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/ils-ont-enleve-ma-vie-tedy-grievement-blesse-lors-d-une-manifestation-a-toulouse-prend-la-parole-7205871?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-26T20:16",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "570665df84867fb3",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Un cœur géant, un sapin et un appel à consommer local : Montpellier lance Noël après des semaines difficiles dans le centre-ville",
+   "summary": "Après des semaines de manifestations et de dégradations, la ville a renoué avec la magie de Noël, le jour de son anniversaire, c’était le 26 novembre 985. Entre appel à soutenir les commerçants et tradition…",
+   "link": "https://www.midilibre.fr/2026/11/26/un-coeur-geant-un-sapin-et-un-appel-a-consommer-local-montpellier-lance-noel-apres-des-semaines-difficiles-dans-le-centre-ville-13673231.php",
+   "published": "2026-11-26T19:57",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "8d938c435d8b644a",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »",
+   "summary": "Plusieurs rassemblements de fonctionnaires de police ont eu lieu, jeudi, pour réclamer, notamment, une hausse de la prime de risque. Cette démonstration de force, soutenue par les trois principaux syndicats, intervient à la veille des élections professionnelles dans la fonction publique.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html",
+   "published": "2026-11-26T19:06",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "869dbb352f581d3d",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Les opposants au banquet du Canon français vont organiser trois rassemblements à Biarritz pour bloquer l'événement",
+   "summary": "Plusieurs collectifs prévoient des rassemblements devant le lieu où doit se tenir l'événement, mais aussi des opérations escargots et une manifestation samedi 28 novembre au matin.",
+   "link": "https://www.franceinfo.fr/societe/racisme/les-opposants-au-banquet-du-canon-francais-vont-organiser-trois-rassemblements-a-biarritz-pour-bloquer-l-evenement_8301837.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T18:50",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "eefd7b00066e51c3",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassembleme…",
+   "summary": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-26T18:18",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T11:28",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "bd5dcb41afa28500",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Caccia, presidio contro la legge “sparatutto”. M5s, Avs e Pd in piazza: “La aboliremo una volta al governo. FI? Per ora solo parole”",
+   "summary": "Piazza Santi Apostoli a Roma si è riempita di cittadini, associazioni e rappresentanti politici scesi in piazza per chiedere il ritiro del ddl caccia , la legge ribattezzata “sparatutto” che arriverà domani in Aula per la discussione generale. Al presidio nazionale, promosso da 76 associazioni ambi…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/26/legge-caccia-presidio-opposizioni-notizie/8584831/",
+   "published": "2026-11-26T16:22",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "cfaa14967a16fc58",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "La maison d’arrêt de Saint-Brieuc atteint un taux d’occupation critique de 250%",
+   "summary": "Avec 211 détenus pour seulement 84 places, l’unique établissement pénitentiaire des Côtes-d’Armor atteint un taux d’occupation critique de 250% en ce mois de novembre. Une surpopulation chronique qui pèse lourdement sur les conditions de travail des agents et le quotidien des familles.",
+   "link": "https://www.ici.fr/bretagne/cotes-d-armor-22/saint-brieuc/la-maison-d-arret-de-saint-brieuc-atteint-un-taux-d-occupation-critique-de-250-2670361?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-26T16:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "ed3e24d353e68709",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Colère étudiante : le ministre de l'Enseignement supérieur appelle à cesser \"immédiatement\" les blocages d'universités",
+   "summary": "Interrogé ce jeudi alors que les étudiants sont appelés à manifester dans la journée, Philippe Baptiste appelle à cesser les blocages d'universités \"immédiatement\". Le ministre de l'Enseignement supérieur réaffirme par ailleurs sa fermeté sur la tenue des examens.",
+   "link": "https://www.ici.fr/infos/education/colere-sociale-le-ministre-de-l-enseignement-superieur-appelle-a-cesser-immediatement-les-blocages-d-universites-9966800?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-26T16:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
+   "id": "625daa1066011579",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dalla Coppa Italia allo Scudetto, la Fiorentina di Baglini raccontata in un video",
+   "summary": "Firenze, 26 novembre 2026 - Continua, in questo 2026 segnato dal centenario della Fiorentina , la serie di documentari realizzati da Massimo Cervelli e Marco Vichi sulla storia viola. Appuntamento sabato 28 novembre, ore 10.30, a Villa Arrivabene (sede del Quartiere 2, in piazza Alberti) per un vid…",
+   "link": "https://www.lanazione.it/firenze/sport/fiorentina/dallo-scudetto-alle-coppe-italia-la-fiorentina-di-baglini-raccontata-in-un-video-daf1ac47",
+   "published": "2026-11-26T15:02",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-26T20:25",
+   "last_seen": "2026-11-26T20:25"
+  },
+  {
    "id": "373ce5dd0acdb066",
    "zone": "montpellier",
    "affects": [],
@@ -2399,43 +2525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
-  },
-  {
-   "id": "eefd7b00066e51c3",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassembleme…",
-   "summary": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-26T11:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
-  },
-  {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-26T11:28",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "a8e049f4ad0330d8",
@@ -2507,7 +2597,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "1a05c813feea8b4c",
@@ -2525,7 +2615,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "c5b0996a583a27e0",
@@ -2561,7 +2651,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "0af35072fc113297",
@@ -2579,7 +2669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "0f1b4e184a0cd541",
@@ -2597,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "ac25d9f5ca646ba5",
@@ -2615,7 +2705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "a86678d2d6ab967a",
@@ -2633,7 +2723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "9192fa72bf7f5a98",
@@ -2651,7 +2741,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -2669,7 +2759,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T19:54",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "bdcedbd9ceaecb05",
@@ -2867,7 +2957,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "cbb02841a13afff6",
@@ -2885,7 +2975,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "4aef47171574e273",
@@ -2921,7 +3011,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "07771cf7e1ae9c63",
@@ -2939,7 +3029,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "97e4b3881dfe8112",
@@ -2957,7 +3047,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "8841fa0b54b48386",
@@ -2975,7 +3065,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "27bfbe94f7f8ee7e",
@@ -3065,7 +3155,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T01:24",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "4ec29ff9b648c4e2",
@@ -3155,7 +3245,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "61343d490cb7f10b",
@@ -3209,7 +3299,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "72dac21585e7d88f",
@@ -3227,7 +3317,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-26T11:28"
+   "last_seen": "2026-11-26T20:25"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -13116,60 +13206,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "72a02eb20e5086b4",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "EN DIRECT Manifestations du 5 novembre : 1,6 million de manifestants selon la CGT, 600 000 avance l’Intérieur… Les dernières infos",
-   "summary": "La mobilisation de ce jeudi 5 novembre en France s’annonce massive. À l’appel de l’intersyndicale de nombreux salariés du privé et du public, des enseignants, gilets jaunes, retraités, jeunes et cheminots sera dans la...",
-   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-les-corteges-selancent-des-10-h-30-a-sete-beziers-et-carcassonne-70-000-policiers-deployes-les-dernieres-infos-13636490.php",
-   "published": "2026-11-05T18:31",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "5703d263f26210a8",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "DIRECT - Grève du 5 novembre : \"près de 1,6 million\" de manifestants selon la CGT, 600.000 à 17h selon le ministère",
-   "summary": "La CGT a comptabilisé \"près de 1,6 million de manifestants\" partout en France ce jeudi, à l'appel des syndicats pour réclamer une hausse des salaires. À 17h, le ministère de l'Intérieur a comptabilisé près de 600.000 participants. Suivez la journée de mobilisation en direct sur ICI.",
-   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-05T18:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "072fefca0d13ab75",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "DIRECT - Grève du 5 novembre : \"près de 1,6 million\" de manifestants selon la CGT, 600.000 à 17h selon le ministère",
-   "summary": "La CGT a comptabilisé \"près de 1,6 million de manifestants\" partout en France ce jeudi, à l'appel des syndicats pour réclamer une hausse des salaires. À 17h, le ministère de l'Intérieur a comptabilisé près de 600.000 participants. Suivez la journée de mobilisation en direct sur ICI.",
-   "link": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-05T18:00",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "f4985d1b8b7827d0",
    "zone": "montpellier",
    "affects": [],
@@ -13224,24 +13260,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "35d3e2822ee7aff9",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "EN DIRECT, grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » entre syndicats et patronat prévue à…",
-   "summary": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. Peu avant 17 heures, Beauvau a fait savoir que près de 600 000 personnes ont participé à la mobilisation, ajoutant qu’il s’agissait d’une estimation non définitive.",
-   "link": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
-   "published": "2026-11-05T17:19",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "2d8e5fe6d8c114c8",
    "zone": "milano",
    "affects": [],
@@ -13278,24 +13296,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "0d500f7fa2f28196",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "ici_herault",
-   "source": "ICI / France Bleu 埃罗省",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Grève du 5 novembre : manifestation à Montpellier ce jeudi contre la vie chère, malgré la pluie",
-   "summary": "Des milliers de personnes ont manifesté ce jeudi dans les rues de Montpellier, 3.200 selon la préfecture, plus de 15.000 pour la CGT. À l'appel de tous les syndicats, salariés du privé, du public et retraités, mais aussi lycéens et étudiants, se sont retrouvés, malgré la pluie.",
-   "link": "https://www.ici.fr/occitanie/herault-34/montpellier/greve-du-5-novembre-manifestation-a-montpellier-ce-jeudi-contre-la-vie-chere-malgre-la-pluie-9853404?at_medium=lien_RSS&at_locale=28",
-   "published": "2026-11-05T16:37",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "353fcf1ea6fb40fa",
    "zone": "fr_national",
    "affects": [],
@@ -13314,42 +13314,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "3172cd7722bb1c08",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Ultras ungheresi in piazza Duomo con t-shirt di Mussolini e striscioni",
-   "summary": "Anche uno striscione con disegno sacerdote con dito medio a incappucciati",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/ultras-ungheresi-in-piazza-duomo-con-t-shirt-di-mussolini-e-striscioni_51ff3c60-1b60-4657-ac8f-39adaca8f159.html",
-   "published": "2026-11-05T16:02",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
-   "id": "d8d8585badad7ac0",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Un adolescent de 16 ans blessé par arme blanche par un autre élève majeur, en marge d'un blocage devant un lycée de La Courneuve",
-   "summary": "Le mis en cause a été interpellé et placé en garde à vue, selon le parquet de Bobigny. Cette agression fait suite à un différend sur des feux de poubelles.",
-   "link": "https://www.franceinfo.fr/faits-divers/un-adolescent-de-16-ans-blesse-par-arme-blanche-par-un-autre-eleve-majeur-en-marge-d-un-blocage-devant-un-lycee-de-la-courneuve_8269352.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T14:45",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "e388163dcafa2768",
    "zone": "firenze",
    "affects": [],
@@ -13366,24 +13330,6 @@
    "soon": false,
    "first_seen": "2026-11-05T17:40",
    "last_seen": "2026-11-06T02:59"
-  },
-  {
-   "id": "282f17c9866d98fa",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "VIDÉO - Grève du 5 novembre : des personnes mettent le feu dans un lycée près de Toulouse, des dégâts considérables",
-   "summary": "Ce jeudi matin, jour de mobilisation générale contre la vie chère à l'appel des syndicats, un feu a été allumé à l'intérieur du lycée polyvalent Marie-Louise Dissard-Françoise de Tournefeuille (Haute-Garonne). La vie scolaire est détruite.",
-   "link": "https://www.ici.fr/occitanie/haute-garonne-31/tournefeuille/mobilisation-lyceenne-un-feu-allume-a-l-interieur-d-un-lycee-de-tournefeuille-pres-de-toulouse-6898936?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-05T14:11",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-05T17:40"
   },
   {
    "id": "3df458d7c5184aec",
@@ -13566,24 +13512,6 @@
    "last_seen": "2026-11-06T02:59"
   },
   {
-   "id": "87b6ae1fd13b5e90",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"On ne pourra pas tout rattraper\" : les blocages des lycées menacent-ils l'année scolaire et la préparation du bac ?",
-   "summary": "Malgré les annonces du gouvernement pendant les vacances de la Toussaint, des blocages se sont poursuivis lundi matin, jour de la rentrée. Alors que le ministre de l'Education, Edouard Geffray, juge l'année scolaire en danger pour plusieurs centaines de milliers d'élèves, enseignants et proviseurs…",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T06:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
-  },
-  {
    "id": "48a75b68f919a7ca",
    "zone": "rimini",
    "affects": [],
@@ -13600,24 +13528,6 @@
    "soon": false,
    "first_seen": "2026-11-05T09:44",
    "last_seen": "2026-11-05T22:51"
-  },
-  {
-   "id": "31700b6cefc0d2ea",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Assegnate 5 nuove onorificenze per il contributo dato alla società",
-   "summary": "Ci sono riconoscimenti che vanno oltre una medaglia appuntata sul petto. Raccontano una vita, un percorso professionale, un impegno portato avanti negli anni, spesso lontano dai riflettori. È stato questo il significato del momento dedicato alla consegna delle onorificenze dell’Ordine al Merito del…",
-   "link": "https://www.lanazione.it/massa-carrara/cronaca/assegnate-5-nuove-onorificenze-3513cba9",
-   "published": "2026-11-05T05:42",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T09:44",
-   "last_seen": "2026-11-05T17:40"
   },
   {
    "id": "e8eaa718e897694b",
