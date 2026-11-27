@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-27T11:57",
+ "updated": "2026-11-27T20:34",
  "events": [
+  {
+   "id": "8950fd13deaf802a",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "La préfecture interdit tous les rassemblements : le centre-ville de Montpellier sous haute surveillance ce samedi de Black Friday",
+   "summary": "Après plusieurs manifestations marquées par des violences et des dégradations, la préfecture renforce le dispositif de sécurité à Montpellier ce samedi 28 novembre. Rassemblements interdits dans le centre-ville,...",
+   "link": "https://www.midilibre.fr/2026/11/27/la-prefecture-interdit-tous-les-rassemblements-le-centre-ville-de-montpellier-sous-haute-surveillance-ce-samedi-de-black-friday-13674952.php",
+   "published": "2026-11-27T19:44",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "02782fe91d7ab323",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestation du 28 novembre à Lille : un accord trouvé entre \"Nous Toutes\" et la préfecture sur le parcours",
+   "summary": "La manifestation contre les violences sexistes et sexuelles dans le centre de Lille aura bien lieu ce samedi. Le collectif \"Nous Toutes\" a trouvé un accord sur le parcours avec la préfecture qui avait refusé un premier tracé.",
+   "link": "https://www.ici.fr/hauts-de-france/nord-59/manifestation-du-28-novembre-a-lille-un-accord-trouve-entre-nous-toutes-et-la-prefecture-sur-le-parcours-5675293?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-27T17:53",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
   {
    "id": "f5f360ddc2dc29ac",
    "zone": "montpellier",
@@ -17,7 +53,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "303c1d53327765d6",
@@ -71,7 +107,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "e1cdbd9ff25bd478",
@@ -143,7 +179,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -2150,24 +2186,6 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
-   "id": "038044197841c943",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 7 novembre : le dispositif de sécurité est « reconduit » avec 70 000 policiers et gendarmes mobilisés, annonce Laurent Nuñez",
-   "summary": "Quelque 70 000 policiers et gendarmes seront mobilisés samedi face aux risques de violences, de pillages et de rassemblements spontanés. Le ministre de l’intérieur a annoncé le maintien d’un dispositif renforcé de contrôles et la protection systématique des centres-villes.",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
-   "published": "2026-11-06T18:05",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
    "id": "7abaf4d9a771867f",
    "zone": "fr_national",
    "affects": [],
@@ -2184,24 +2202,6 @@
    "soon": false,
    "first_seen": "2026-11-06T17:40",
    "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "c166a88839061e9b",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestation du 5 novembre : règles hémorragiques, douleurs intenses… Les gaz lacrymogènes peuvent-ils perturber le cycle menstruel ?",
-   "summary": "Alors que lycéens, étudiants et syndicats manifestent partout en France ce jeudi 5 novembre 2026, plus de 10 000 témoignages recueillis par le collectif Lacrymos de sang font état de troubles menstruels après une...",
-   "link": "https://www.midilibre.fr/2026/11/05/manifestation-du-5-novembre-regles-hemorragiques-douleurs-intenses-les-gaz-lacrymogenes-peuvent-ils-perturber-le-cycle-menstruel-13635517.php",
-   "published": "2026-11-05T19:06",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "0e1724a5baf175bc",
@@ -2222,6 +2222,132 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
+   "id": "c35f8ce7e2457277",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "cgt",
+   "source": "CGT 全国工会",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
+   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
+   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
+   "published": "2026-11-27T20:32",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-20T18:01",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "c9d976bb4438ab9f",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
+   "summary": "Plus de 200 communes du département ont été touchées par la montée des eaux de la rivière Canche. Alors que la décrue s’amorce, les habitants cherchent des responsables et redoutent la suite de l’hiver.",
+   "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
+   "published": "2026-11-27T20:15",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "54481db5a96cc302",
+   "zone": "it_national",
+   "affects": [],
+   "source_id": "ilfatto",
+   "source": "Il Fatto Quotidiano",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Legge elettorale, La Russa: “Se la Consulta dice no all’indicazione del premier è un indebito aiuto alla sinistra”. Le proteste: “È una minaccia”",
+   "summary": "Se la Corte costituzionale intervenisse sulla legge elettorale per stabilire che l’indicazione del premier non si può fare, sarebbe un “ indebito aiuto alla sinistra , una violazione della costituzione”. È polemica per le parole pronunciate dal presidente del Senato Ignazio La Russa , durante un in…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/27/legge-elettorale-la-russa-consulta-polemiche-notizie/8586156/",
+   "published": "2026-11-27T20:08",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "64390e671ac7f710",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Canon français à Biarritz : les opposants veulent bloquer les accès, une mobilisation annoncée et des tensions redoutées",
+   "summary": "À l’occasion du banquet du Canon français, organisé ce samedi 28 novembre à la halle d’Iraty de Biarritz, plusieurs collectifs appellent à une mobilisation massive. Entre blocages des accès, rassemblements festifs et dispositif de sécurité, les organisateurs se préparent à une journée sous tension.",
+   "link": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/bayonne/canon-francais-a-biarritz-trois-points-de-blocage-une-mobilisation-annoncee-et-des-tensions-redoutees-9869326?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-27T18:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "b80438f91c2c774d",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Une pluie de peluches sur le terrain et des places offertes : la belle mobilisation du MHSC VB en faveur des enfants hospitalisés",
+   "summary": "Le MHSC VB organise deux lancers de peluches solidaires à domicile en faveur des Blouses Roses, dès ce dimanche 29 novembre à 15 h à Mauguio pour l’équipe féminine face à Bordeaux JSA. Les spectateurs apportant un don...",
+   "link": "https://www.midilibre.fr/2026/11/27/une-pluie-de-peluches-sur-le-terrain-et-des-places-offertes-la-belle-mobilisation-du-mhsc-vb-en-faveur-des-enfants-hospitalises-13674769.php",
+   "published": "2026-11-27T18:07",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "b9a54953284eae27",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Manifestation du 28 novembre : à quoi faut-il s'attendre dans l'Hérault ?",
+   "summary": "Une nouvelle journée de mobilisation est annoncée samedi 28 novembre à Montpellier avec trois départs de cortège. La préfecture de l'Hérault a, comme les semaines précédentes, interdit les rassemblements dans le centre-ville.",
+   "link": "https://www.ici.fr/occitanie/herault-34/manifestation-du-28-novembre-a-quoi-faut-il-s-attendre-dans-l-herault-1310652?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-27T17:15",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
+   "id": "1640bf8b4157d3c7",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "ici_nat",
+   "source": "ICI 全国",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Mobilisation du 28 novembre : les marchés de Noël \"constituent une vulnérabilité supplémentaire\", selon Laurent Nuñez",
+   "summary": "Les préfets vont devoir être particulièrement attentifs à la sécurisation des marchés de Noël qui \"constituent une vulnérabilité supplémentaire\", en marge des nouvelles manifestations prévues ce samedi 28 novembre, indique le ministre de l'Intérieur dans un télégramme consulté vendredi par l'AFP.",
+   "link": "https://www.ici.fr/infos/economie-social/mobilisation-du-28-novembre-les-marches-de-noel-constituent-une-vulnerabilite-supplementaire-selon-laurent-nunez-7510034?at_medium=lien_RSS&at_locale=56",
+   "published": "2026-11-27T14:46",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-27T20:32",
+   "last_seen": "2026-11-27T20:32"
+  },
+  {
    "id": "20ffdddd67694986",
    "zone": "fr_national",
    "affects": [],
@@ -2240,24 +2366,6 @@
    "last_seen": "2026-11-27T11:55"
   },
   {
-   "id": "c35f8ce7e2457277",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "cgt",
-   "source": "CGT 全国工会",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
-   "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
-   "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-27T11:55",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-27T11:55"
-  },
-  {
    "id": "4deca3fe379aeaec",
    "zone": "firenze",
    "affects": [],
@@ -2273,7 +2381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "d08ca5c9e4b87584",
@@ -2309,7 +2417,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "16b0c3ebbfb0fe3f",
@@ -2327,7 +2435,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "01109e165d178554",
@@ -2345,7 +2453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "1b53e303013c6546",
@@ -2363,7 +2471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "bcb3cb49ed81fc48",
@@ -2381,7 +2489,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "eafbadd951fba9ee",
@@ -2417,7 +2525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T03:00",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "687d71a171337bcd",
@@ -2453,7 +2561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T20:25",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "8d938c435d8b644a",
@@ -2579,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T20:25",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "373ce5dd0acdb066",
@@ -2723,7 +2831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "0af35072fc113297",
@@ -2741,7 +2849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "0f1b4e184a0cd541",
@@ -2759,7 +2867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "ac25d9f5ca646ba5",
@@ -2777,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "a86678d2d6ab967a",
@@ -2795,7 +2903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "9192fa72bf7f5a98",
@@ -2813,7 +2921,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -3029,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "cbb02841a13afff6",
@@ -3317,7 +3425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "61343d490cb7f10b",
@@ -3371,7 +3479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "72dac21585e7d88f",
@@ -3389,7 +3497,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T11:55"
+   "last_seen": "2026-11-27T20:32"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -12630,24 +12738,6 @@
    "last_seen": "2026-11-08T01:57"
   },
   {
-   "id": "9b001d1489f20387",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 7 novembre : le dispositif de 70 000 policiers et gendarmes \"reconduit\" samedi, annonce Laurent Nuñez",
-   "summary": "La CGT Ile-de-France a confirmé à l'AFP l'autorisation du parcours déposé par une intersyndicale des unions régionales (CGT, FO, FSU, Solidaires, CFDT) avec l'intersyndicale jeunesse (Union étudiante, Fage, Unef et USL), à l'instar des précédents samedis.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T18:09",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
    "id": "bc22b8121997f98e",
    "zone": "firenze",
    "affects": [],
@@ -12700,42 +12790,6 @@
    "soon": false,
    "first_seen": "2026-11-06T17:40",
    "last_seen": "2026-11-07T02:06"
-  },
-  {
-   "id": "fa6be06f1bef08b4",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "ansa_cron",
-   "source": "ANSA 全国新闻",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Protesta studenti a Firenze: 'I carabinieri ci hanno puntato pistole in faccia'",
-   "summary": "Il presidio in un istituto agrario. I carabinieri erano intervenuti di notte per allarme antifurto",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/protesta-studenti-a-firenze-i-carabinieri-ci-hanno-puntato-pistole-in-faccia_be13fa73-98c0-4a90-8496-8435e32fad83.html",
-   "published": "2026-11-06T16:27",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
-  },
-  {
-   "id": "5c9f243ef927addf",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur, Laurent Nuñez, après les blessures infligées à des manifes…",
-   "summary": "Ils lui reprochent le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T14:58",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "36bd817d4c56d964",
@@ -12862,24 +12916,6 @@
    "soon": false,
    "first_seen": "2026-11-06T10:32",
    "last_seen": "2026-11-06T22:23"
-  },
-  {
-   "id": "a609a01f7ea6a6bf",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Tagli in legge di bilancio. Quattrocento posti a rischio negli istituti marchigiani\"",
-   "summary": "La Uil Scuola lancia l’allarme: \"Nelle Marche sono circa 400 i posti di lavoro a rischio nel sistema scolastico per i tagli agli organici previsti dalla legge di bilancio 2027. Tagli che si aggiungono a quelli programmati negli anni precedenti con possibili pesanti conseguenze sull’offerta formativ…",
-   "link": "https://www.ilrestodelcarlino.it/macerata/cronaca/tagli-in-legge-di-bilancio-4f9a1aaf",
-   "published": "2026-11-06T06:10",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T17:40"
   },
   {
    "id": "96d7f266f3b36a5c",
