@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T02:58",
+ "updated": "2026-11-28T11:20",
  "events": [
+  {
+   "id": "7cd4217f943993ce",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes",
+   "summary": "Prévues dans plus d'une trentaine de villes, dont Paris, Lille, Lyon et Marseille, ces manifestations sont organisées dans le sillage de la journée internationale de lutte contre les violences faites aux femmes.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-nouvelle-journee-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes_8304345.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-28T12:03",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
   {
    "id": "2563a468eb365ada",
    "zone": "montpellier",
@@ -17,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-28T02:56",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "8950fd13deaf802a",
@@ -35,7 +53,25 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "e65280cef0c63b02",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "lemonde",
+   "source": "Le Monde",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
+   "summary": "Alors que les collectifs et organisations féministes affichaient jusqu’ici un front uni lors de cette manifestation organisée chaque année, ils n’ont pu, cette fois, passer outre les divisions, notamment concernant la proposition de loi intégrale.",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
+   "published": "2026-11-27T18:21",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "02782fe91d7ab323",
@@ -71,7 +107,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "303c1d53327765d6",
@@ -125,7 +161,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "e1cdbd9ff25bd478",
@@ -2168,24 +2204,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "0c8497f67e100649",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "lemonde",
-   "source": "Le Monde",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés",
-   "summary": "Quelque 70 000 policiers et gendarmes seront mobilisés samedi face aux risques de violences, de pillages et de rassemblements spontanés. Le ministre de l’intérieur a annoncé le maintien d’un dispositif renforcé de contrôles et la protection systématique des centres-villes.",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
-   "published": "2026-11-06T18:05",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "7abaf4d9a771867f",
    "zone": "fr_national",
    "affects": [],
@@ -2204,22 +2222,40 @@
    "last_seen": "2026-11-07T19:24"
   },
   {
-   "id": "0e1724a5baf175bc",
+   "id": "c280ea871a7b06cf",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Des centaines de personnes se mobilisent pour tenter de déplacer des monuments : l’étrange tendance qui secoue les réseaux",
+   "summary": "Depuis le 8 novembre, des rassemblements insolites se multiplient aux États-Unis, où des centaines de personnes tentent de déplacer des monuments emblématiques comme le Cloud Gate à Chicago ou le Gateway Arch au...",
+   "link": "https://www.midilibre.fr/2026/11/28/des-centaines-de-personnes-se-mobilisent-pour-tenter-de-deplacer-des-monuments-letrange-tendance-qui-secoue-les-reseaux-13675808.php",
+   "published": "2026-11-28T11:50",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "1c780176b12069b9",
    "zone": "fr_national",
    "affects": [],
    "source_id": "franceinfo",
    "source": "franceinfo",
-   "kind": "protest",
-   "severity": "high",
-   "title": "TikTok n'a eu qu'un rôle \"très limité\" dans les violences en marge des manifestations et des blocus lycéens, selon une étude",
-   "summary": "Des chercheurs du Centre pour la recherche économique et ses applications ont analysé près d'un million de vidéos publiques. Leurs résultats tendent à contredire certaines déclarations du gouvernement.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/tiktok-n-a-eu-qu-un-role-tres-limite-dans-les-violences-en-marge-des-manifestations-et-des-blocus-lyceens-selon-une-etude_8269067.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-05T18:18",
+   "kind": "strike",
+   "severity": "medium",
+   "title": "Deux syndicats d'Aéroports de Paris appellent à la grève le premier week-end des vacances de Noël",
+   "summary": "La CGT et FO réclament notamment une revalorisation de 20% de l'indemnité de déplacement et de transport, l'octroi d'une prime carburant de 1 000 euros. Ils demandent également que les postes vacants soient pourvus.",
+   "link": "https://www.franceinfo.fr/economie/greve/deux-syndicats-d-aeroports-de-paris-appellent-a-la-greve-le-premier-week-end-des-vacances-de-noel_8304435.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-28T11:48",
    "dates": "",
    "national": true,
    "soon": false,
-   "first_seen": "2026-11-05T17:40",
-   "last_seen": "2026-11-07T08:43"
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "c35f8ce7e2457277",
@@ -2232,12 +2268,210 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-28T02:56",
+   "published": "2026-11-28T11:19",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "fe85a3e479c37867",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Inauguré par de Gaulle il y a 60 ans, le barrage de la Rance reste une exception dans le paysage énergétique français",
+   "summary": "Inauguré par le général de Gaulle en novembre 1966, le barrage de la Rance, près de Saint-Malo (Ille-et-Vilaine), produit de l'électricité grâce aux marées. Pourtant, cette énergie renouvelable reste très peu développée en France.",
+   "link": "https://www.franceinfo.fr/environnement/energie/reportage-inaugure-par-de-gaulle-il-y-a-60-ans-le-barrage-de-la-rance-reste-une-exception-dans-le-paysage-energetique-francais_8303355.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-28T11:14",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "5e9fea9f5f1fb652",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Più di mezz’ora per fare un chilometro. Il cantiere-imbuto manda in tilt il viale",
+   "summary": "Firenze, 28 novembre 2026 – Traffico in tilt su viale Gramsci, sabato mattina da incubo: il tratto piazzale Donatello-piazza Beccaria, appena un misero chilometro, richiedeva fra i 30 e i 40 minuti per essere percorso. Il problema La causa? Ovviamente i cantieri della tramvia , ma in particolare un…",
+   "link": "https://www.lanazione.it/firenze/cronaca/traffico-viali-cantieri-tramvia-nm34h8om",
+   "published": "2026-11-28T10:53",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "e71013a22fd37526",
+   "zone": "fr_national",
+   "affects": [],
+   "source_id": "franceinfo",
+   "source": "franceinfo",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Ma première préoccupation, c'est que Sánchez s'en aille\" : en Espagne, le rejet du gouvernement profite au parti d'extrême droite Vox",
+   "summary": "À Madrid, les électeurs de Vox dénoncent l’immigration et le manque de réponses à leurs difficultés quotidiennes. Un discours nationaliste que le parti de Santiago Abascal nourrit aussi de chiffres trompeurs.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ma-premiere-preoccupation-c-est-que-sanchez-s-en-aille-en-espagne-le-rejet-du-gouvernement-profite-au-parti-d-extreme-droite-vox_8281901.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-28T10:19",
+   "dates": "",
+   "national": true,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "34e9e914cb1ed02a",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Branco di cinghiali tra le case in viale Pieraccini, paura tra i residenti",
+   "summary": "Firenze, 28 novembre 2026 – Cinghiali a pochi passi dalle abitazioni, nel buio della sera. Succede in viale Pieraccini , proprio nei pressi dell'ospedale, dove la presenza degli ungulati sta destando crescente preoccupazione tra i residenti. Il video, girato alcuni giorni fa da un abitante della zo…",
+   "link": "https://www.lanazione.it/firenze/branco-di-cinghiali-tra-le-case-in-viale-pieraccini-paura-tra-i-residenti-a3f85eaf",
+   "published": "2026-11-28T09:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "26177c366adebecd",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "ici_herault",
+   "source": "ICI / France Bleu 埃罗省",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Soupçons de fuites vers le RN : bureau et domicile du coordinateur du programme présidentiel du parti perquisitionnés",
+   "summary": "Dans le cadre de l'enquête sur des soupçons de fuites d'informations confidentielles au profit du Rassemblement national, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés le 9 novembre dernier, a appris franceinfo ce samedi.",
+   "link": "https://www.ici.fr/infos/faits-divers-justice/soupcons-de-fuites-vers-le-rn-bureau-et-domicile-du-coordinateur-du-programme-presidentiel-du-parti-perquisitionnes-4230002?at_medium=lien_RSS&at_locale=28",
+   "published": "2026-11-28T08:45",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "4af4a893b0a9dfb6",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Verrazzano verso lo sblocco. A gennaio il primo cantiere. Poi il progetto esecutivo",
+   "summary": "Ponte da Verrazzano , si parte dai sottoservizi. I lavori della tramvia verso Bagno a Ripoli entreranno nel vivo tra fine dicembre e inizio gennaio, quando scatterà il primo intervento propedeutico al cantiere di messa in sicurezza e adeguamento del ponte. È questo il risultato del confronto che, n…",
+   "link": "https://www.lanazione.it/firenze/cronaca/verrazzano-verso-lo-sblocco-a-422eb5cd",
+   "published": "2026-11-28T06:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "a1ee86429b5f9c69",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Via Mariti, sale la protesta. La ‘barriera’ fa infuriare residenti e commercianti: \"A rischio la sicurezza\"",
+   "summary": "FIRENZE Hanno un diavolo per capello, residenti e commercianti del tratto di via Mariti tra il Manzoni e il sottopasso ferroviario per il nuovo new jersey e il cordolo alberato che separano la corsia centrale delle ambulanze. Innanzitutto, sono costretti a un giro anche di mezz’ora per accedere ai…",
+   "link": "https://www.lanazione.it/firenze/cronaca/via-mariti-sale-la-protesta-6c56ca03",
+   "published": "2026-11-28T06:03",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "37c02320062e4269",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "\"Il nostro mercato del pesce vale il 40% di tutta la regione\"",
+   "summary": "Il Mercato ittico rappresenta \"un’infrastruttura fondamentale per la marineria riminese e tutta la filiera della pesca\". A ribadirlo ieri al teatro Galli, che ha ospitato gli Stati generali della pesca in Emilia-Romagna, ci ha pensato l’assessora alla blue economy Anna Montini. E il Comune andrà av…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/il-nostro-mercato-del-pesce-3578b3f5",
+   "published": "2026-11-28T05:24",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "4fcf463e9e522c1d",
+   "zone": "rimini",
+   "affects": [],
+   "source_id": "carlino_rimini",
+   "source": "Il Resto del Carlino · 里米尼",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Si accende la magia del Natale a Riccione: luminarie, pista di pattinaggio e la ruota panoramica",
+   "summary": "Alla vigilia dell’Avvento, sulle note di una marching band, Riccione dà il via al villaggio natalizio che accompagnerà turisti e residenti per tutte le festività. In programma oggi l’apertura ufficiale della pista di pattinaggio su ghiaccio , che anche con il nuovo impianto esteso su 1.650 metri qu…",
+   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/si-accende-la-magia-del-c6238263",
+   "published": "2026-11-28T05:14",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "5004a460dd31471b",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Altre spaccate alle auto in sosta in San Jacopino",
+   "summary": "Non si arresta la raffica di finestrini spaccati e auto saccheggiate nella zona di San Jacopino. Anche ieri mattina sono state ritrovate altre due vetture danneggiate dai ladri, una in via Ponte alle Mosse e una in via delle Carra. Nel pomeriggio di giovedì altri due episodi in via di San Jacopino.…",
+   "link": "https://www.lanazione.it/firenze/cronaca/altre-spaccate-alle-auto-in-4ff3b29d",
+   "published": "2026-11-28T05:13",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
+  },
+  {
+   "id": "0d1a0e1d075115c9",
+   "zone": "firenze",
+   "affects": [],
+   "source_id": "nazione_fi",
+   "source": "La Nazione · 佛罗伦萨",
+   "kind": "protest",
+   "severity": "medium",
+   "title": "Aspettando il Natale. Un mese di eventi per tutti. Piste sul ghiaccio e luminarie",
+   "summary": "FIGLINE E INCISA Ci sarà anche una pista di pattinaggio sul ghiaccio a celebrare il Natale nel territorio comunale: aperta dal 5 dicembre fino al 10 gennaio, avrà una superficie di 200 metri quadrati e sarà allestita in piazza Marsilio Ficino, proprio nel cuore di Figline. Per i bambini, poco dista…",
+   "link": "https://www.lanazione.it/firenze/cronaca/aspettando-il-natale-un-mese-4b13a247",
+   "published": "2026-11-28T04:40",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T11:19",
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "c9d976bb4438ab9f",
@@ -2309,7 +2543,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "b9a54953284eae27",
@@ -2327,7 +2561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "1640bf8b4157d3c7",
@@ -2381,7 +2615,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "d08ca5c9e4b87584",
@@ -2417,7 +2651,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "16b0c3ebbfb0fe3f",
@@ -2435,7 +2669,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "01109e165d178554",
@@ -2453,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "1b53e303013c6546",
@@ -2471,7 +2705,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "bcb3cb49ed81fc48",
@@ -2489,7 +2723,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "eafbadd951fba9ee",
@@ -2687,7 +2921,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T20:25",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "373ce5dd0acdb066",
@@ -2849,7 +3083,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "0f1b4e184a0cd541",
@@ -2903,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "9192fa72bf7f5a98",
@@ -2921,7 +3155,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -3137,7 +3371,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-28T02:56"
+   "last_seen": "2026-11-28T11:19"
   },
   {
    "id": "cbb02841a13afff6",
@@ -12324,42 +12558,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "4f501b95330bb4fa",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "ici_nat",
-   "source": "ICI 全国",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "DIRECT - Mobilisation du 7 novembre : suivez l'acte IV des manifestations contre la vie chère",
-   "summary": "La coordination des gilets jaunes et les organisations de jeunesse appellent à de nouvelles actions ce samedi, pour \"l'acte IV\" de leur mouvement lancé le 17 novembre. Quelque 70.000 policiers et gendarmes sont à nouveau mobilisés. Suivez la journée de mobilisation avec ICI.",
-   "link": "https://www.ici.fr/infos/societe/direct-mobilisation-du-7-novembre-suivez-l-acte-iv-des-manifestations-contre-la-vie-chere-1202790?at_medium=lien_RSS&at_locale=56",
-   "published": "2026-11-07T08:30",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
-   "id": "d790e4d02f7595b1",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Mobilisation du 7 novembre : suivez avec nous cette nouvelle journée de manifestations",
-   "summary": "De nouvelles manifestations sont prévues samedi sous haute sécurité, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats.",
-   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-07T07:53",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "f759896d4e53056f",
    "zone": "fr_national",
    "affects": [],
@@ -12376,42 +12574,6 @@
    "soon": false,
    "first_seen": "2026-11-07T08:43",
    "last_seen": "2026-11-07T19:24"
-  },
-  {
-   "id": "11cdd97a8397bc4a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"On répond au gouvernement, qui veut limiter notre droit de manifester\" : pourquoi des cortèges \"sauvages\" se forment en marge des rassemblements déclarés",
-   "summary": "Tenues au maximum secrètes, ces déambulations se forment en marge des manifestations officielles. Les participants, que franceinfo a interrogés, décrivent des initiatives \"autonomes\" et \"spontanées\".",
-   "link": "https://www.franceinfo.fr/societe/manifestations/on-repond-au-gouvernement-qui-veut-limiter-notre-droit-de-manifester-pourquoi-des-corteges-sauvages-se-forment-en-marge-des-rassemblements-declares_8265929.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-07T07:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
-   "id": "dd4a3f1fc9973efa",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre",
-   "summary": "Le premier grand rassemblement s'est déroulé le 29 septembre. Sept autres journées de mobilisation ont ensuite marqué le pays, sans que le mouvement faiblisse.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/un-tournant-le-17-octobre-un-pic-le-5-novembre-visualisez-comment-la-mobilisation-dans-les-manifestations-en-france-a-evolue-depuis-septembre_8270384.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-07T07:03",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "7b4363576de9a00d",
@@ -12468,24 +12630,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "5bd0409ba36e0561",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Commercianti verso l’apertura: \"Chiediamo di essere tutelati. Speriamo che tutto fili liscio\"",
-   "summary": "di Un sabato di pace: una speranza, per il momento. I commercianti sono rimasti alla finestra per giorni, e per tutta la giornata di ieri, in attesa di notizie sull’eventuale corteo in centro. Troppo fresche, ancora, le ferite del 17 e 24 ottobre, per tanti esercenti del centro: irruzioni nei negoz…",
-   "link": "https://www.ilrestodelcarlino.it/bologna/cronaca/commercianti-verso-lapertura-chiediamo-di-ebe236db",
-   "published": "2026-11-07T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "781ee064f13656cf",
    "zone": "firenze",
    "affects": [],
@@ -12502,60 +12646,6 @@
    "soon": false,
    "first_seen": "2026-11-07T08:43",
    "last_seen": "2026-11-07T15:10"
-  },
-  {
-   "id": "8317119661c3e228",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Parte la petizione in centro: \"Più controlli e telecamere, qui la sera abbiamo paura\"",
-   "summary": "Una firma per la sicurezza. Questo il senso dell’iniziativa in programma oggi dalle 10 alle 13 al Bar Ferrari, in piazza Ferrari. I cittadini potranno firmare una petizione promossa da alcuni cittadini - capitanati dall’avvocato Alessandro Pierotti -, per chiedere interventi nel quadrilatero tra vi…",
-   "link": "https://www.ilrestodelcarlino.it/rimini/cronaca/parte-la-petizione-in-centro-c58fe2e2",
-   "published": "2026-11-07T06:04",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
-   "id": "6464bac7eb7f8136",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "La versione del preside: \"Avvisato dall’allarme. Sì a un confronto aperto\"",
-   "summary": "FIRENZE Una tentata occupazione dell’Istituto agrario alle Cascine, nella notte tra lunedì e martedì, si è conclusa con l’intervento delle forze dell’ordine e sette studenti accompagnati in caserma. I collettivi denunciano abusi nelle modalità dello sgombero, contro le quali ieri mattina hanno tenu…",
-   "link": "https://www.lanazione.it/firenze/cronaca/la-versione-del-preside-avvisato-ea9e97c5",
-   "published": "2026-11-07T05:56",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
-   "id": "8d32c58be4318673",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Paraguay, nuove proteste e incidenti di fronte alla casa dell'ex presidente",
-   "summary": "I manifestanti chiedono il carcere e non gli arresti domiciliari per Santiago Peña",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-nuove-proteste-e-incidenti-di-fronte-alla-casa-dellex-presidente_146d34ea-9db7-441f-b600-90efdf133935.html",
-   "published": "2026-11-07T03:58",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "f9781d76df3675ec",
@@ -12612,24 +12702,6 @@
    "last_seen": "2026-11-08T08:37"
   },
   {
-   "id": "875bc9908ea15b6b",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
-   "summary": "Ils reprochent au ministre de l'Intérieur le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre. Dans la soirée, Laurent Nuñez s'est dit \"très serein\" et \"prêt\" à répondre à toute plainte.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T21:06",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "18ca17f71b76b558",
    "zone": "montpellier",
    "affects": [],
@@ -12666,24 +12738,6 @@
    "last_seen": "2026-11-09T10:41"
   },
   {
-   "id": "ff872a884adee157",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Manifestations du 7 novembre : le dispositif de sécurité \"reconduit\" avec 70 000 policiers et gendarmes mobilisés",
-   "summary": "\"Le risque est exactement le même que pour les samedis précédents\", a estimé, vendredi, le ministre de l'Intérieur, Laurent Nuñez.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T20:18",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T22:23",
-   "last_seen": "2026-11-07T08:43"
-  },
-  {
    "id": "711831d093938304",
    "zone": "montpellier",
    "affects": [],
@@ -12718,24 +12772,6 @@
    "soon": false,
    "first_seen": "2026-11-06T22:23",
    "last_seen": "2026-11-08T01:57"
-  },
-  {
-   "id": "1ff3d8e68924306a",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
-   "summary": "Plusieurs membres de l'AFP ont reçu des coups de matraque ou de LBD, tandis qu'une reporter de l'hebdomadaire \"Politis\" a reçu plusieurs coups \"à la tête et aux jambes\".",
-   "link": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T16:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-07T08:43",
-   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "ad7350d1fb57d60a",
@@ -12790,24 +12826,6 @@
    "soon": false,
    "first_seen": "2026-11-06T10:32",
    "last_seen": "2026-11-11T14:12"
-  },
-  {
-   "id": "96d7f266f3b36a5c",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "strike",
-   "severity": "medium",
-   "title": "Des journalistes de BFMTV en grève ce 5 novembre : que se passe-t-il à la rédaction de la chaîne d’information ?",
-   "summary": "Environ 120 journalistes et techniciens de BFMTV, sur 1 200 salariés, ont suivi un débrayage jeudi pendant la journée de mobilisation contre la vie chère. Ce mouvement social inédit vise à dénoncer des dérives...",
-   "link": "https://www.midilibre.fr/2026/11/05/des-journalistes-de-bfmtv-en-greve-ce-5-novembre-que-se-passe-t-il-a-la-redaction-de-la-chaine-dinformation-13638526.php",
-   "published": "2026-11-05T21:17",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-05T22:51",
-   "last_seen": "2026-11-07T08:43"
   },
   {
    "id": "4460c6ddc70e150c",
