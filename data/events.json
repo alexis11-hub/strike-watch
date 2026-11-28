@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T20:34",
+ "updated": "2026-11-28T02:58",
  "events": [
+  {
+   "id": "2563a468eb365ada",
+   "zone": "montpellier",
+   "affects": [],
+   "source_id": "midilibre",
+   "source": "Midi Libre",
+   "kind": "protest",
+   "severity": "high",
+   "title": "Manifestation du 27 novembre : une nouvelle journée de mobilisation \"contre la vie chère\" et les violences sexistes ce samedi",
+   "summary": "Une nouvelle journée de mobilisation s’annonce demain, samedi 28 septembre partout en France. En plus des étudiants, gilets jaunes et simple marcheurs réunis pour manifester contre la vie chère, les associations...",
+   "link": "https://www.midilibre.fr/2026/11/27/manifestation-du-27-novembre-une-nouvelle-journee-de-mobilisation-contre-la-vie-chere-et-les-violences-sexistes-ce-samedi-13675013.php",
+   "published": "2026-11-27T21:54",
+   "dates": "",
+   "national": false,
+   "soon": false,
+   "first_seen": "2026-11-28T02:56",
+   "last_seen": "2026-11-28T02:56"
+  },
   {
    "id": "8950fd13deaf802a",
    "zone": "montpellier",
@@ -17,7 +35,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "02782fe91d7ab323",
@@ -35,7 +53,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "f5f360ddc2dc29ac",
@@ -53,7 +71,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "303c1d53327765d6",
@@ -107,7 +125,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "e1cdbd9ff25bd478",
@@ -179,7 +197,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "f86a7a4c4ee05182",
@@ -2150,24 +2168,6 @@
    "last_seen": "2026-11-07T15:10"
   },
   {
-   "id": "6963f26ef27d06cc",
-   "zone": "it_national",
-   "affects": [],
-   "source_id": "ansa_top",
-   "source": "ANSA 头条",
-   "kind": "protest",
-   "severity": "high",
-   "title": "Domani la Francia di nuovo in piazza, polizia schierata al massimo con 70.000 agenti",
-   "summary": "Ministro dell'Interno: 'Appelli sui social alla violenza, ai blocchi e all'insurrezione'",
-   "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_54f29a27-d4a4-4ccb-9ec3-df97a2ff6747.html",
-   "published": "2026-11-06T18:29",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-06T22:23"
-  },
-  {
    "id": "0c8497f67e100649",
    "zone": "fr_national",
    "affects": [],
@@ -2232,12 +2232,12 @@
    "title": "1er décembre : nos salaires n'augmenteront qu'avec la grève et la mobilisation",
    "summary": "1er décembre : la mobilisation impose de parler des salaires et fait bouger les lignes ! Grâce à la mobilisation, plus personne ne remet en cause que nos salaires ne sont pas suffisants pour vivre, et le Smic en premier lieu. Grâce à la mobilisation, avec, en cumul, plus de 5 millions de manifestan…",
    "link": "https://www.cgt.fr/actualites/france/mobilisation-salaires/1er-decembre-nos-salaires-naugmenteront-quavec-la-greve-et-la-mobilisation",
-   "published": "2026-11-27T20:32",
+   "published": "2026-11-28T02:56",
    "dates": "",
    "national": true,
    "soon": false,
    "first_seen": "2026-11-20T18:01",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "c9d976bb4438ab9f",
@@ -2255,7 +2255,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "54481db5a96cc302",
@@ -2273,7 +2273,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "64390e671ac7f710",
@@ -2291,7 +2291,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "b80438f91c2c774d",
@@ -2309,7 +2309,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "b9a54953284eae27",
@@ -2327,7 +2327,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "1640bf8b4157d3c7",
@@ -2345,7 +2345,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-27T20:32",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "20ffdddd67694986",
@@ -2381,7 +2381,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "d08ca5c9e4b87584",
@@ -2417,7 +2417,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "16b0c3ebbfb0fe3f",
@@ -2435,7 +2435,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "01109e165d178554",
@@ -2453,7 +2453,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "1b53e303013c6546",
@@ -2471,7 +2471,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "bcb3cb49ed81fc48",
@@ -2489,7 +2489,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T11:55",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "eafbadd951fba9ee",
@@ -2525,7 +2525,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-27T03:00",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "687d71a171337bcd",
@@ -2561,7 +2561,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T20:25",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "8d938c435d8b644a",
@@ -2687,7 +2687,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T20:25",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "373ce5dd0acdb066",
@@ -2831,7 +2831,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "0af35072fc113297",
@@ -2849,7 +2849,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "0f1b4e184a0cd541",
@@ -2867,7 +2867,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "ac25d9f5ca646ba5",
@@ -2885,7 +2885,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "a86678d2d6ab967a",
@@ -2903,7 +2903,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-26T11:28",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "9192fa72bf7f5a98",
@@ -2921,7 +2921,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-26T02:33",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "4d0d345cb156ccba",
@@ -3137,7 +3137,7 @@
    "national": false,
    "soon": false,
    "first_seen": "2026-11-25T10:01",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "cbb02841a13afff6",
@@ -3425,7 +3425,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "61343d490cb7f10b",
@@ -3479,7 +3479,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "72dac21585e7d88f",
@@ -3497,7 +3497,7 @@
    "national": true,
    "soon": false,
    "first_seen": "2026-11-24T17:03",
-   "last_seen": "2026-11-27T20:32"
+   "last_seen": "2026-11-28T02:56"
   },
   {
    "id": "bc0a47ecc2beb0c8",
@@ -12558,24 +12558,6 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
-   "id": "a42f3ec4feba03f8",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Incappucciati di notte a scuola irrompono all’Agrario, poi l’accusa: “Pistole puntate in faccia dai carabinieri”",
-   "summary": "Firenze, 7 novembre 2026 – Sulla tentata occupazione all’istituto Agrario di Firenze nella notte tra il 2 ed il 3 novembre – interrotta da un pronto intervento delle forze dell’ordine perché era scattato l’allarme antifurto – si è accesa la polemica. Gli studenti del Collettivo affermano in un comu…",
-   "link": "https://www.lanazione.it/firenze/cronaca/occupazione-scuola-accusa-carabinieri-w74azjdw",
-   "published": "2026-11-07T01:00",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-07T02:06",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
    "id": "f9781d76df3675ec",
    "zone": "fr_national",
    "affects": [],
@@ -12738,24 +12720,6 @@
    "last_seen": "2026-11-08T01:57"
   },
   {
-   "id": "bc22b8121997f98e",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "ilfatto",
-   "source": "Il Fatto Quotidiano",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "“I carabinieri ci hanno puntato le pistole in faccia durante l’occupazione”: la denuncia degli studenti dell’Agrario di Firenze. Avs: “Piantedosi risponda”",
-   "summary": "“Contro la vostra repressione “, recita lo striscione. Nonostante la pioggia erano circa un centinaio, venerdì mattina, gli studenti riuniti in un presidio di protesta davanti all’ Istituto Agrario di Firenze , nel Parco delle Cascine. Con loro, presenti al picchetto, esponenti di Usb e del Collett…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/06/occupazione-pistole-minori-agrario-firenze-proteste-studenti-sicurezza-carabinieri-sgombero-piantedosi-notizie/8563206/",
-   "published": "2026-11-06T16:59",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
    "id": "1ff3d8e68924306a",
    "zone": "fr_national",
    "affects": [],
@@ -12774,60 +12738,6 @@
    "last_seen": "2026-11-07T08:43"
   },
   {
-   "id": "fe7a657d7f471f95",
-   "zone": "fr_national",
-   "affects": [],
-   "source_id": "franceinfo",
-   "source": "franceinfo",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "\"Politis\" accuse la police d'avoir \"roué de coups\" une de ses journalistes lors de la manifestation parisienne du 5 novembre",
-   "summary": "La journaliste, qui portait un brassard presse, \"a été frappée à plusieurs reprises à coups de matraque, à la tête et aux jambes\" selon le communiqué de l'hebdomadaire qui annonce porter plainte.",
-   "link": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html#xtor=RSS-3-[lestitres]",
-   "published": "2026-11-06T16:50",
-   "dates": "",
-   "national": true,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
-   "id": "36bd817d4c56d964",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "San Jacopino in subbuglio per auto spaccate, bivacchi e risse: \"I residenti stanno vendendo casa\"",
-   "summary": "Firenze, 6 novembre 2026 – Vetri in frantumi, abitacoli rovistati, oggetti portati via. Ancora un risveglio amarissimo per i residenti di San Jacopino , dove almeno quattro automobili stamani sono state trovate danneggiate, dopo una serie di spaccate. Il quartiere continua purtroppo a fare i conti…",
-   "link": "https://www.lanazione.it/firenze/cronaca/san-jacopino-spaccate-bivacchi-risse-vendita-case-vfq3gyin",
-   "published": "2026-11-06T14:42",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
-   "id": "c96e1b5ec7e75b62",
-   "zone": "firenze",
-   "affects": [],
-   "source_id": "nazione_fi",
-   "source": "La Nazione · 佛罗伦萨",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Protesta all'Istituto Agrario dopo il tentativo di occupazione",
-   "summary": "Firenze, 6 novembre 2026 – Quasi cento studenti in protesta davanti all'Istituto Agrario di Firenze , nel Parco delle Cascine, per contestare le modalità dell'intervento dei carabinieri che, nella notte tra lunedì e martedì, hanno interrotto un tentativo di occupazione della scuola. Questa mattina…",
-   "link": "https://www.lanazione.it/firenze/protesta-allistituto-agrario-dopo-il-tentativo-di-occupazione-6d50f6e6",
-   "published": "2026-11-06T12:30",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T17:40",
-   "last_seen": "2026-11-07T02:06"
-  },
-  {
    "id": "ad7350d1fb57d60a",
    "zone": "it_national",
    "affects": [],
@@ -12844,24 +12754,6 @@
    "soon": false,
    "first_seen": "2026-11-06T10:32",
    "last_seen": "2026-11-09T02:51"
-  },
-  {
-   "id": "5dc96304e6f72f0f",
-   "zone": "montpellier",
-   "affects": [],
-   "source_id": "midilibre",
-   "source": "Midi Libre",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "REPLAY Manifestation du 5 novembre à Montpellier : environ 4 000 personnes trempées ont bravé la pluie… la situation en temps réel",
-   "summary": "La mobilisation contre la vie chère et en soutien à la jeunesse continue. Et ce jeudi 5 novembre, l’intersyndicale s’attendait à une participation massive, mais la pluie est venue mettre son grain de sel. Environ 4...",
-   "link": "https://www.midilibre.fr/2026/11/05/en-direct-manifestation-du-5-novembre-a-montpellier-lycees-et-facs-bloques-depart-de-la-manifestation-a-14-h-parcours-la-situation-en-temps-reel-13637093.php",
-   "published": "2026-11-06T09:28",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "4b24e1cc64c6ac18",
@@ -12898,24 +12790,6 @@
    "soon": false,
    "first_seen": "2026-11-06T10:32",
    "last_seen": "2026-11-11T14:12"
-  },
-  {
-   "id": "fbdf0a87cc5922e0",
-   "zone": "rimini",
-   "affects": [],
-   "source_id": "carlino_rimini",
-   "source": "Il Resto del Carlino · 里米尼",
-   "kind": "protest",
-   "severity": "medium",
-   "title": "Rabbia davanti alla Cattedrale. Il contro-corteo dei 200: \"Non siamo la città dei Maga\"",
-   "summary": "FERRARA \"Ferrara non merita di finire sulle cronache nazionali per un Nucleo Anti Maranza, il raduno dei Maga, per il sospetto d’infiltrazioni mafiose nella pubblica amministrazione. Ferrara è una città civile e deve restare tale\". Si tratta di uno dei passaggi centrali dell’iniziativa pubblica che…",
-   "link": "https://www.ilrestodelcarlino.it/ferrara/cronaca/rabbia-davanti-alla-cattedrale-il-47d73b80",
-   "published": "2026-11-06T06:12",
-   "dates": "",
-   "national": false,
-   "soon": false,
-   "first_seen": "2026-11-06T10:32",
-   "last_seen": "2026-11-06T22:23"
   },
   {
    "id": "96d7f266f3b36a5c",
